@@ -1,0 +1,12 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+website_scrapers/__pycache__
+pipeline_scrapers/__pycache__
+social_scrapers/__pycache__
+GN_scraper/__pycache__
