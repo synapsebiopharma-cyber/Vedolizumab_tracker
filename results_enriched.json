@@ -1,46 +1,54 @@
 {
-  "last_updated": "2025-09-16 14:06:47 IST",
+  "last_updated": "2025-09-19 15:44:02 IST",
   "companies": [
     {
       "company": "Polpharma",
       "website": [
         {
-          "date": "12 June 2025",
-          "title": "Markus Sieger takes the helm as President ad interim at Medicines for Europe",
-          "link": "https://polpharma.pl/en/markus-sieger-takes-the-helm-as-president-ad-interim-at-medicines-for-europe/",
-          "tag": "Other",
-          "detail": "Markus Sieger from Polpharma assumes the role of President ad interim at Medicines for Europe, an industry association."
-        },
-        {
-          "date": "04 June 2025",
-          "title": "Polpharma Group Supports Urgent EU Action to Safeguard Access to Medicines and Strengthen European Pharmaceutical Sovereignty",
-          "link": "https://polpharma.pl/en/polpharma-group-supports-urgent-eu-action-to-safeguard-access-to-medicines-and-strengthen-european-pharmaceutical-sovereignty/",
-          "tag": "Other",
-          "detail": "Polpharma Group advocates for urgent EU action to ensure access to medicines and enhance European pharmaceutical independence."
-        },
-        {
-          "date": "13 May 2025",
-          "title": "Polpharma Group Joins the Call to Action to Finalize Pharmaceutical Reform and Secure Early and Sustainable Healthcare for European Patients",
-          "link": "https://polpharma.pl/en/polpharma-group-joins-the-call-to-action-to-finalize-pharmaceutical-reform-and-secure-early-and-sustainable-healthcare-for-european-patients/",
-          "tag": "Other",
-          "detail": "Polpharma Group joins an industry initiative urging the finalization of pharmaceutical reform to ensure early and sustainable healthcare for European patients."
-        },
-        {
-          "date": "09 April 2025",
-          "title": "Polpharma turns 90 years old!",
-          "link": "https://polpharma.pl/en/polpharma-turns-90-years-old/",
-          "tag": "Other",
-          "detail": "Polpharma celebrates its 90th anniversary as a pharmaceutical company."
-        },
-        {
           "date": "12 February 2025",
           "title": "Polpharma Receives Grants for Research Projects",
           "link": "https://polpharma.pl/en/polpharma-receives-grants-for-research-projects/",
-          "tag": "Other",
-          "detail": "Polpharma secured grants to fund its ongoing research projects."
+          "tag": "Pipeline"
         }
       ],
-      "google_news": [],
+      "google_news": [
+        {
+          "date": "2 weeks ago",
+          "title": "Polpharma Biologics and MS Pharma Sign Licensing Agreements for Proposed Vedolizumab (PB016), Ocrelizumab (PB018) and Guselkumab (PB019) Biosimilars",
+          "source": "Business Wire",
+          "link": "https://www.businesswire.com/news/home/20250902492755/en/Polpharma-Biologics-and-MS-Pharma-Sign-Licensing-Agreements-for-Proposed-Vedolizumab-PB016-Ocrelizumab-PB018-and-Guselkumab-PB019-Biosimilars",
+          "tag": "Collaboration"
+        },
+        {
+          "date": "1 month ago",
+          "title": "Fresenius Kabi signs global licensing deal with Polpharma",
+          "source": "Pharmaceutical Technology",
+          "link": "https://www.pharmaceutical-technology.com/news/fresenius-licensing-deal-polpharmas-vedolizumab-biosimilar/",
+          "new": true,
+          "tag": "Collaboration"
+        },
+        {
+          "date": "16 Apr 2025",
+          "title": "Chime Biologics Partners Polpharma Biologics to Advance Global Biosimilar Development",
+          "source": "PR Newswire",
+          "link": "https://www.prnewswire.com/news-releases/chime-biologics-partners-polpharma-biologics-to-advance-global-biosimilar-development-302430020.html",
+          "tag": "Collaboration"
+        },
+        {
+          "date": "7 May 2025",
+          "title": "ProBioGen to Provide Cell Line Development Services for Polpharma",
+          "source": "Contract Pharma",
+          "link": "https://www.contractpharma.com/breaking-news/probiogen-to-provide-cell-line-development-services-for-polpharma/",
+          "tag": "Collaboration"
+        },
+        {
+          "date": "4 Apr 2025",
+          "title": "Polpharma Group to Boost Pharmaceutical Production and Exports in Kazakhstan",
+          "source": "The Times Of Central Asia",
+          "link": "https://timesca.com/polpharma-group-to-boost-pharmaceutical-production-and-exports-in-kazakhstan/",
+          "tag": "Other"
+        }
+      ],
       "pipeline": [
         {
           "name": "Ranibizumab",
@@ -81,8 +89,7 @@
             "phase": "",
             "link": null
           },
-          "status_note": "approved in all major markets",
-          "new": true
+          "status_note": "approved in all major markets"
         },
         {
           "name": "Natalizumab",
@@ -123,8 +130,7 @@
             "phase": "",
             "link": null
           },
-          "status_note": "approved in all major markets",
-          "new": true
+          "status_note": "approved in all major markets"
         },
         {
           "name": "Vedolizumab",
@@ -165,8 +171,7 @@
             "phase": "Submission preparation",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Ocrelizumab",
@@ -207,8 +212,7 @@
             "phase": "Clinical development",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Guselkumab",
@@ -249,8 +253,7 @@
             "phase": "Process & formulation development",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Undisclosed PB020",
@@ -291,8 +294,7 @@
             "phase": "Cell line development",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Undisclosed PB021",
@@ -333,8 +335,7 @@
             "phase": "Cell line development",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Undisclosed PB022",
@@ -375,8 +376,7 @@
             "phase": "Cell line development",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "",
@@ -417,8 +417,7 @@
             "phase": "",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "",
@@ -459,8 +458,7 @@
             "phase": "",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "",
@@ -501,8 +499,7 @@
             "phase": "",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "",
@@ -543,8 +540,7 @@
             "phase": "",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "",
@@ -585,8 +581,7 @@
             "phase": "",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "",
@@ -627,8 +622,7 @@
             "phase": "",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "",
@@ -669,8 +663,7 @@
             "phase": "",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "",
@@ -711,8 +704,7 @@
             "phase": "",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         }
       ]
     },
@@ -720,42 +712,48 @@
       "company": "Alvotech",
       "website": [
         {
-          "date": "04 Sep '25",
-          "title": "Alvotech Meets Investors and Participates in a Fireside Chat at the Morgan Stanley 23rd Annual Global Healthcare Conference in New York",
-          "link": "https://investors.alvotech.com/news-releases/news-release-details/alvotech-meets-investors-and-participates-fireside-chat-morgan",
-          "tag": "Financial",
-          "detail": "Alvotech engaged with investors and participated in a fireside chat at the Morgan Stanley Global Healthcare Conference in New York."
-        },
-        {
           "date": "21 Aug '25",
           "title": "Advanz Pharma and Alvotech receive European approval for Mynzepli®, Biosimilar to Eylea®",
           "link": "https://investors.alvotech.com/news-releases/news-release-details/advanz-pharma-and-alvotech-receive-european-approval-mynzeplir",
-          "tag": "FDA Approval",
-          "detail": "Advanz Pharma and Alvotech received European approval for Mynzepli®, a biosimilar to Eylea® (aflibercept)."
-        },
-        {
-          "date": "20 Aug '25",
-          "title": "Alvotech appoints Patrik Ling as VP of Investor Relations Scandinavia",
-          "link": "https://investors.alvotech.com/news-releases/news-release-details/alvotech-appoints-patrik-ling-vp-investor-relations-scandinavia",
-          "tag": "Other",
-          "detail": "Alvotech appointed Patrik Ling as the Vice President of Investor Relations for the Scandinavia region."
+          "tag": "FDA Approval"
         },
         {
           "date": "13 Aug '25",
           "title": "Alvotech Reports Results for the First Six Months of 2025 and Provides a Business Update",
           "link": "https://investors.alvotech.com/news-releases/news-release-details/alvotech-reports-results-first-six-months-2025-and-provides",
-          "tag": "Financial",
-          "detail": "Alvotech reported its financial results for the first six months of 2025 and provided an update on its business operations."
-        },
-        {
-          "date": "06 Aug '25",
-          "title": "Alvotech Announces Webcast to Report Financial Results for the First Half of 2025 on August 14, 2025, at 8:00 am EDT",
-          "link": "https://investors.alvotech.com/news-releases/news-release-details/alvotech-announces-webcast-report-financial-results-first-half",
-          "tag": "Financial",
-          "detail": "Alvotech announced a webcast to report its financial results for the first half of 2025 on August 14, 2025."
+          "tag": "Financial"
         }
       ],
-      "google_news": [],
+      "google_news": [
+        {
+          "date": "3 May 2025",
+          "title": "Alvotech acquires Xbrane",
+          "source": "Generics and Biosimilars Initiative (GaBI)",
+          "link": "https://www.gabionline.net/pharma-news/alvotech-acquires-xbrane",
+          "tag": "Acquisition"
+        },
+        {
+          "date": "5 Jun 2025",
+          "title": "Dr. Reddy’s, Alvotech to co-develop, market biosimilar of Merck’s cancer drug Keytruda",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/business/dr-reddys-alvotech-to-co-develop-market-biosimilar-of-mercks-cancer-drug-keytruda/article69660158.ece",
+          "tag": "Collaboration"
+        },
+        {
+          "date": "9 Jul 2025",
+          "title": "Alvotech Acquires Ivers-Lee Group",
+          "source": "Contract Pharma",
+          "link": "https://www.contractpharma.com/breaking-news/alvotech-acquires-ivers-lee-group/",
+          "tag": "Acquisition"
+        },
+        {
+          "date": "23 Jun 2025",
+          "title": "Bayer’s Eylea market grip set to slip as Alvotech biosimilar closes in",
+          "source": "Pharmaceutical Technology",
+          "link": "https://www.pharmaceutical-technology.com/news/bayers-eylea-market-grip-set-to-slip-as-alvotech-biosimilar-closes-in/",
+          "tag": "Pipeline"
+        }
+      ],
       "pipeline": [
         {
           "name": "AVT02",
@@ -808,8 +806,7 @@
             "Morocco",
             "Peru",
             "Bolivia"
-          ],
-          "new": true
+          ]
         },
         {
           "name": "AVT04",
@@ -855,8 +852,7 @@
             "Japan",
             "Canada",
             "EU/EEA"
-          ],
-          "new": true
+          ]
         },
         {
           "name": "AVT23*",
@@ -897,8 +893,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": [],
-          "new": true
+          "status_note": []
         },
         {
           "name": "AVT03",
@@ -939,8 +934,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": [],
-          "new": true
+          "status_note": []
         },
         {
           "name": "AVT05",
@@ -981,8 +975,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": [],
-          "new": true
+          "status_note": []
         },
         {
           "name": "AVT06",
@@ -1023,8 +1016,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": [],
-          "new": true
+          "status_note": []
         },
         {
           "name": "AVT16",
@@ -1065,8 +1057,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": [],
-          "new": true
+          "status_note": []
         },
         {
           "name": "AVT33",
@@ -1107,8 +1098,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": [],
-          "new": true
+          "status_note": []
         },
         {
           "name": "AVT19",
@@ -1149,8 +1139,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": [],
-          "new": true
+          "status_note": []
         },
         {
           "name": "AVT28",
@@ -1191,8 +1180,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": [],
-          "new": true
+          "status_note": []
         },
         {
           "name": "AVT41",
@@ -1233,8 +1221,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": [],
-          "new": true
+          "status_note": []
         }
       ]
     },
@@ -1247,8 +1234,7 @@
           "title": "JUMPstart Clinical Nutrition Award winner announced at ESPEN congress",
           "link": "https://www.fresenius-kabi.com/news/jumpstart-clinical-nutrition-winner-announced-at-espen",
           "description": "Dr. Hannah Wozniak receives €250,000 JUMPstart Clinical Nutrition research award for a personalized nutrition and early mobilization trial in ventilated patients.",
-          "tag": "Clinical Trial",
-          "detail": "Dr. Hannah Wozniak received the €250,000 JUMPstart Clinical Nutrition research award for a personalized nutrition and early mobilization trial in ventilated patients, supported by Fresenius Kabi."
+          "tag": "Other"
         },
         {
           "date": "September 1, 2025",
@@ -1256,8 +1242,7 @@
           "title": "Fresenius continues streamlining its operations with the divestment of the Calea homecare business in Canada",
           "link": "https://www.fresenius-kabi.com/news/fresenius-streamlining-with-divestment-calea-homecare-canada",
           "description": "Fresenius continues to reduce complexity and increase efficiency in its global network. In line with #FutureFresenius, the company announces the divestment of Fresenius Kabi’s Calea homecare business in Canada.",
-          "tag": "Financial",
-          "detail": "Fresenius divested its Calea homecare business in Canada as part of its ongoing efforts to streamline operations and increase efficiency."
+          "tag": "Financial"
         },
         {
           "date": "August 26, 2025",
@@ -1265,8 +1250,7 @@
           "title": "Fresenius Leads New EASYGEN Consortium Aimed at Decentralizing CAR-T Cell Therapy and Improving Hospital Workflows",
           "link": "https://www.fresenius-kabi.com/news/fresenius-leads-new-easygen-consortium",
           "description": "Fresenius is collaborating with other companies and academic institutions with the goals of accelerating the manufacturing of CAR-T cell therapy, making it more cost-effective, and improving patient access across Europe.",
-          "tag": "Collaboration",
-          "detail": "Fresenius is leading the new EASYGEN Consortium, collaborating with partners to decentralize CAR-T cell therapy and improve hospital workflows, aiming for faster, more cost-effective manufacturing and better patient access."
+          "tag": "Collaboration"
         },
         {
           "date": "August 6, 2025",
@@ -1274,8 +1258,7 @@
           "title": "Fresenius Q2/25: Guidance raised - Resilient business continues to deliver consistent performance",
           "link": "https://www.fresenius-kabi.com/news/fresenius-q2-25-guidance-raised",
           "description": "Q2/2025: Ongoing strong revenue and EPS growth, guidance for organic revenue growth raised",
-          "tag": "Financial",
-          "detail": "Fresenius reported strong Q2 2025 results, showing ongoing revenue and EPS growth, leading to a raised guidance for organic revenue growth."
+          "tag": "Financial"
         },
         {
           "date": "August 5, 2025",
@@ -1283,60 +1266,66 @@
           "title": "Fresenius Announces Licensing Agreement with Polpharma Biologics to Commercialize a Proposed Vedolizumab Biosimilar",
           "link": "https://www.fresenius-kabi.com/news/licensing-agreement-vedolizumab-biosimilar",
           "description": "Fresenius Kabi will exclusively commercialize Polpharma Biologics’ vedolizumab biosimilar candidate PB016 globally (except in the Middle East and North Africa).",
-          "tag": "Collaboration",
-          "detail": "Fresenius announced an exclusive global licensing agreement (excluding MENA) with Polpharma Biologics to commercialize their vedolizumab biosimilar candidate PB016."
+          "tag": "Collaboration"
         }
       ],
-      "google_news": [],
+      "google_news": [
+        {
+          "date": "17 Jun 2025",
+          "title": "Blood Products Administration Set Recall from Fresenius Kabi",
+          "source": "U.S. Food and Drug Administration (.gov)",
+          "link": "https://www.fda.gov/medical-devices/medical-device-recalls/blood-products-administration-set-recall-fresenius-kabi-removes-large-volume-pump-blood-products",
+          "tag": "Inspection"
+        }
+      ],
       "pipeline": []
     },
     {
       "company": "Dr Reddy",
       "website": [
         {
-          "date": "September 11, 2025",
+          "date": "September 16, 2025",
+          "title": "Dr. Reddy's launches novel molecule ‘Tegoprazan’ in India.",
+          "link": "https://www.drreddys.com/cms/sites/default/files/2025-09/DRL%20release-%20Tegoprazan-%20final%20version-%2016th%20Sept%202025.pdf",
+          "new": true,
+          "tag": "FDA Approval"
+        },
+        {
+          "date": "September 10, 2025",
           "title": "Dr. Reddy’s strengthens its CNS Portfolio by foraying into anti-vertigo segment with acquisition of STUGERON®",
           "link": "https://www.drreddys.com/cms/sites/default/files/2025-09/Final%20press%20releaseDRLJNJ.pdf",
-          "tag": "Acquisition",
-          "detail": "Dr. Reddy's strengthened its CNS portfolio by acquiring STUGERON® to enter the anti-vertigo segment."
+          "new": true,
+          "tag": "Acquisition"
         },
         {
           "date": "August 26, 2025",
           "title": "Dr. Reddy's launches Linaclotide (Colozo®) a novel drug for Chronic Constipation management in adults, in India.",
           "link": "https://www.drreddys.com/cms/sites/default/files/2025-08/Colozo.pdf",
-          "tag": "Pipeline",
-          "detail": "Dr. Reddy's launched Linaclotide (Colozo®) in India, a novel drug for the management of chronic constipation in adults."
+          "new": true,
+          "tag": "FDA Approval"
         },
         {
-          "date": "July 27, 2025",
+          "date": "July 23, 2025",
           "title": "Dr. Reddy’s Q1FY26 Financial Results",
           "link": "https://www.drreddys.com/cms/sites/default/files/2025-07/Final-%20press%20release-%20Q1-%20FY26%202307.pdf",
-          "tag": "Financial",
-          "detail": "Dr. Reddy's announced its financial results for the first quarter of fiscal year 2026."
+          "new": true,
+          "tag": "Financial"
         },
         {
-          "date": "July 25, 2025",
+          "date": "June 5, 2025",
           "title": "Alvotech and Dr. Reddy’s Enter into Collaboration to Co-Develop Biosimilar Candidate to Keytruda® (pembrolizumab)",
           "link": "https://www.drreddys.com/cms/sites/default/files/2025-07/Press%20release-%20Dr.Reddy%27s%20and%20Alvotech-%20Pembrolizumab%20announcement-%2005.06.2025.pdf",
-          "tag": "Collaboration",
-          "detail": "Alvotech and Dr. Reddy's entered into a collaboration agreement to co-develop a biosimilar candidate to Keytruda® (pembrolizumab)."
-        },
-        {
-          "date": "May 9, 2025",
-          "title": "Dr. Reddy’s Q4 & full year FY25 Financial Results",
-          "link": "https://www.drreddys.com/cms/sites/default/files/2025-05/Earnings%20Release_Q4FY25_090525_Final1.pdf",
-          "tag": "Financial",
-          "detail": "Dr. Reddy's released its financial results for the fourth quarter and full fiscal year 2025."
+          "new": true,
+          "tag": "Collaboration"
         }
       ],
       "google_news": [
         {
-          "date": "18 hours ago",
-          "title": "Dr. Reddy’s Laboratories Receives USFDA Observations Post-Inspection",
-          "link": "https://www.tipranks.com/news/company-announcements/dr-reddys-laboratories-receives-usfda-observations-post-inspection-2?mod=mw_quote_news",
-          "new": true,
-          "tag": "Inspection",
-          "detail": "Dr. Reddy’s Laboratories received observations from the USFDA following a recent inspection."
+          "date": "2 days ago",
+          "title": "Dr. Reddy's India biologics plant issued FDA Form 483",
+          "source": "Fierce Pharma",
+          "link": "https://www.fiercepharma.com/manufacturing/dr-reddys-india-biologics-plant-issued-fda-form-483",
+          "tag": "Inspection"
         }
       ],
       "pipeline": [
@@ -1381,8 +1370,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "Abatacept",
@@ -1425,8 +1413,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "Daratumumab*",
@@ -1469,8 +1456,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "Pembrolizumab**",
@@ -1513,8 +1499,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "DRL-BIO-011",
@@ -1557,8 +1542,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "DRL-BIO-012",
@@ -1601,8 +1585,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "DRL-BIO-013",
@@ -1645,8 +1628,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "DRL-BIO-014",
@@ -1689,8 +1671,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "DRL-BIO-015",
@@ -1733,8 +1714,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "DRL-BIO-016",
@@ -1777,8 +1757,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "DRL-BIO-017",
@@ -1821,8 +1800,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "DRL-BIO-018",
@@ -1865,8 +1843,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "DRL-BIO-019",
@@ -1909,8 +1886,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "Coya 302**",
@@ -1953,8 +1929,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         }
       ]
     },
@@ -1962,70 +1937,84 @@
       "company": "Celltrion",
       "website": [
         {
+          "date": "2025.09.19",
+          "title": "Celltrion Announces Commercial Availability of Omlyclo™ Across Europe at EADV 2025",
+          "link": "https://www.celltrion.com/en-us/company/media-center/press-release/4157",
+          "tag": "Other"
+        },
+        {
           "date": "2025.08.07",
           "title": "FDA approves expanded indication for AVTOZMA® (tocilizumab-anoh) intravenous (IV) formulation in cytokine release syndrome (CRS)",
           "link": "https://www.celltrion.com/en-us/company/media-center/press-release/4098",
-          "tag": "FDA Approval",
-          "detail": "The FDA approved an expanded indication for Celltrion's AVTOZMA® (tocilizumab-anoh) intravenous formulation for cytokine release syndrome (CRS)."
+          "tag": "FDA Approval"
         },
         {
           "date": "2025.07.08",
           "title": "Celltrion USA announces U.S. launch of denosumab biosimilars, STOBOCLO® and OSENVELT® (denosumab-bmwo)",
           "link": "https://www.celltrion.com/en-us/company/media-center/press-release/4058",
-          "tag": "Pipeline",
-          "detail": "Celltrion USA announced the U.S. launch of its denosumab biosimilars, STOBOCLO® and OSENVELT® (denosumab-bmwo)."
+          "tag": "Other"
         },
         {
           "date": "2025.06.16",
           "title": "Celltrion announces U.S. FDA approval of additional presentation of STEQEYMA® (ustekinumab-stba), expanding dosing options for pediatric patients",
           "link": "https://www.celltrion.com/en-us/company/media-center/press-release/4023",
-          "tag": "FDA Approval",
-          "detail": "Celltrion announced U.S. FDA approval for an additional presentation of STEQEYMA® (ustekinumab-stba), expanding dosing options for pediatric patients."
+          "tag": "FDA Approval"
         },
         {
           "date": "2025.05.23",
           "title": "Celltrion's YUFLYMA® (adalimumab-aaty) receives FDA interchangeability designation for all its approved dosage forms and strengths",
           "link": "https://www.celltrion.com/en-us/company/media-center/press-release/3981",
-          "tag": "FDA Approval",
-          "detail": "Celltrion's YUFLYMA® (adalimumab-aaty) received FDA interchangeability designation for all its approved dosage forms and strengths."
+          "tag": "FDA Approval"
         },
         {
           "date": "2025.04.29",
           "title": "Celltrion to present six abstracts in inflammatory bowel disease (IBD) at 2025 Digestive Disease Week® (DDW)",
           "link": "https://www.celltrion.com/en-us/company/media-center/press-release/3910",
-          "tag": "Clinical Trial",
-          "detail": "Celltrion is slated to present six abstracts related to inflammatory bowel disease (IBD) at the 2025 Digestive Disease Week® (DDW)."
-        },
-        {
-          "date": "2025.03.27",
-          "title": "Celltrion's STEQEYMA® (ustekinumab-stba), now added to the Costco Member Prescription Program",
-          "link": "https://www.celltrion.com/en-us/company/media-center/press-release/3830",
-          "tag": "Other",
-          "detail": "Celltrion's STEQEYMA® (ustekinumab-stba) has been added to the Costco Member Prescription Program, enhancing patient access."
+          "tag": "Clinical Trial"
         },
         {
           "date": "2025.03.13",
           "title": "STEQEYMA® (ustekinumab-stba), a biosimilar to STELARA® (ustekinumab), now available in the United States",
           "link": "https://www.celltrion.com/en-us/company/media-center/press-release/3811",
-          "tag": "Pipeline",
-          "detail": "STEQEYMA® (ustekinumab-stba), Celltrion's biosimilar referencing STELARA®, is now available in the United States."
+          "tag": "Other"
         },
         {
           "date": "2025.03.10",
           "title": "U.S. FDA approves Celltrion's OMLYCLO® (omalizumab-igec) as the first and only biosimilar with interchangeability designation referencing XOLAIR®",
           "link": "https://www.celltrion.com/en-us/company/media-center/press-release/3778",
-          "tag": "FDA Approval",
-          "detail": "The U.S. FDA approved Celltrion's OMLYCLO® (omalizumab-igec) as the first and only biosimilar with interchangeability designation referencing XOLAIR®."
-        },
-        {
-          "date": "2025.03.04",
-          "title": "Celltrion receives U.S. FDA approval for STOBOCLO® (denosumab-bmwo) and OSENVELT® (denosumab-bmwo) biosimilars referencing PROLIA® and XGEVA®",
-          "link": "https://www.celltrion.com/en-us/company/media-center/press-release/3768",
-          "tag": "FDA Approval",
-          "detail": "Celltrion received U.S. FDA approval for its denosumab biosimilars, STOBOCLO® and OSENVELT®, referencing PROLIA® and XGEVA®."
+          "tag": "FDA Approval"
         }
       ],
-      "google_news": [],
+      "google_news": [
+        {
+          "date": "4 hours ago",
+          "title": "Health Canada approves Celltrion’s Stoboclo® and Osenvelt®(CT-P41), denosumab biosimilars for the tr",
+          "source": "PharmiWeb.com",
+          "link": "https://www.pharmiweb.com/press-release/2025-09-19/health-canada-approves-celltrion-s-stoboclo-and-osenvelt-ct-p41-denosumab-biosimilars-for-the-tr",
+          "tag": "FDA Approval"
+        },
+        {
+          "date": "1 day ago",
+          "title": "Seoul Bio Hub-Celltrion launches 'Global Open Innovation' for US startups",
+          "source": "BioSpectrum Asia",
+          "link": "https://www.biospectrumasia.com/news/51/26644/seoul-bio-hub-celltrion-launches-global-open-innovation-for-us-startups.html",
+          "tag": "Collaboration"
+        },
+        {
+          "date": "1 month ago",
+          "title": "Celltrion in talks to buy Eli Lilly plant in US for $504 million",
+          "source": "KED Global",
+          "link": "https://www.kedglobal.com/mergers-acquisitions/newsView/ked202508080003",
+          "tag": "Acquisition"
+        },
+        {
+          "date": "18 hours ago",
+          "title": "Celltrion targets 22 biosimilars in bone, eye, skin diseases",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/english/industry-en/2025/09/19/7DJZACQY5BHI7ESFFVHX75S2QQ/",
+          "tag": "Pipeline"
+        }
+      ],
       "pipeline": [
         {
           "name": "CT-P44",
@@ -2067,8 +2056,7 @@
             "phase": "Clinical Phase 3",
             "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241227800073"
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "CT-P51",
@@ -2110,8 +2098,7 @@
             "phase": "Phase 3",
             "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240617800002"
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "CT-P53",
@@ -2153,8 +2140,7 @@
             "phase": "Phase3",
             "link": "https://classic.clinicaltrials.gov/ct2/show/NCT05906992?term=CT-P53&draw=2&rank=1"
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "CT-P55",
@@ -2196,8 +2182,7 @@
             "phase": "Phase 3",
             "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240701800002"
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         }
       ]
     },
@@ -2209,89 +2194,65 @@
           "title": "Samsung Biologics reports second quarter 2025 financial results",
           "summary": "Incheon, S. Korea, July 23, 2025 – Samsung Biologics (KRX: 207940.KS), a leading contract development and manufacturing organization (CDMO), today announced its financial results for the second quarte",
           "link": "https://samsungbiologics.com/media/company-news/samsung-biologics-reports-second-quarter-2025-financial-results",
-          "tag": "Financial",
-          "detail": "Samsung Biologics announced its financial results for the second quarter of 2025."
+          "tag": "Financial"
         },
         {
           "date": "Jun 16, 2025",
           "title": "Samsung Biologics launches drug screening services, Samsung Organoids",
           "summary": "Samsung Biologics, a leading contract development and manufacturing organization (CDMO), today announced the launch of Samsung Organoids – advanced drug screening services to support clients in drug d",
-          "link": "https://samsungbiologics.com/media/company-news/samsung-biologics-lSamsung Organoids-services",
-          "tag": "Other",
-          "detail": "Samsung Biologics launched Samsung Organoids, a new advanced drug screening service for its clients."
+          "link": "https://samsungbiologics.com/media/company-news/samsung-biologics-launches-samsung-organoids-services",
+          "tag": "Pipeline"
         },
         {
           "date": "Apr 23, 2025",
           "title": "Samsung Biologics reports first quarter 2025 financial results",
           "summary": "Incheon, S. Korea, April 23, 2025 – Samsung Biologics (KRX: 207940.KS), a global contract development and manufacturing organization (CDMO), today announced financial results for the first quarter of",
           "link": "https://samsungbiologics.com/media/company-news/samsung-biologics-reports-first-quarter-2025-financial-results",
-          "tag": "Financial",
-          "detail": "Samsung Biologics announced its financial results for the first quarter of 2025."
-        },
-        {
-          "date": "Feb 12, 2025",
-          "title": "Samsung Biologics recognized for leadership in water security",
-          "summary": "Samsung Biologics, a global contract manufacturing and development organization (CDMO), today announced that it has received ‘Leadership’ status and an A- rating for water security from the Carbon Dis",
-          "link": "https://samsungbiologics.com/media/company-news/samsung-biologics-recognized-for-leadership-in-water-security",
-          "tag": "Other",
-          "detail": "Samsung Biologics received 'Leadership' status and an A- rating for water security from the Carbon Disclosure Project."
+          "tag": "Financial"
         },
         {
           "date": "Jan 21, 2025",
           "title": "Samsung Biologics reports fourth quarter and fiscal year 2024 financial results",
           "summary": "Incheon, S. Korea, Jan 22, 2025– Samsung Biologics, a global contract development and manufacturing organization (CDMO), today announced financial results for the fourth quarter and fiscal year 2024.",
           "link": "https://samsungbiologics.com/media/company-news/samsung-biologics-reports-fourth-quarter-and-fiscal-year-2024-financial-results",
-          "tag": "Financial",
-          "detail": "Samsung Biologics reported its financial results for the fourth quarter and full fiscal year 2024."
-        },
-        {
-          "date": "Jan 14, 2025",
-          "title": "Samsung Biologics presents business updates at 2025 J.P. Morgan Healthcare Conference",
-          "summary": "Samsung Biologics, a global contract development and manufacturing organization (CDMO), today announced its latest business achievements and 2025 outlook at the 43rd J.P. Morgan Healthcare Conference",
-          "link": "https://samsungbiologics.com/media/company-news/samsung-biologics-2025-jp-morgan-healthcare-conference",
-          "tag": "Financial",
-          "detail": "Samsung Biologics presented its latest business updates and 2025 outlook at the J.P. Morgan Healthcare Conference."
+          "tag": "Financial"
         },
         {
           "date": "Jan 8, 2025",
           "title": "Samsung Biologics extends collaboration with LigaChem Biosciences for ADC development",
           "summary": "Incheon, S. Korea, January 9, 2025 – Samsung Biologics (KRX: 207940.KS), a global contract development and manufacturing organization (CDMO), today announced to extend collaboration with LigaChem Bios",
           "link": "https://samsungbiologics.com/media/company-news/samsung-biologics-extends-collaboration-with-ligachem-biosciences-for-adc-development",
-          "tag": "Collaboration",
-          "detail": "Samsung Biologics extended its collaboration with LigaChem Biosciences for antibody-drug conjugate (ADC) development."
-        },
-        {
-          "date": "Dec 16, 2024",
-          "title": "Samsung Biologics listed among top most sustainable companies in Dow Jones Sustainability World Index",
-          "summary": "Incheon, S. Korea, December 17, 2024 – Samsung Biologics (KRX: 207940.KS), a global contract development and manufacturing organization (CDMO), today announced its continued recognition by the Dow Jon",
-          "link": "https://samsungbiologics.com/media/company-news/samsung-biologics-listed-among-top-most-sustainable-companies-in-dow-jones-sustainability-world-inde",
-          "tag": "Other",
-          "detail": "Samsung Biologics was recognized among the top most sustainable companies in the Dow Jones Sustainability World Index."
-        },
-        {
-          "date": "Dec 3, 2024",
-          "title": "Samsung Biologics hosts ESG event with suppliers to strengthen decarbonization efforts",
-          "summary": "Incheon, Korea, December 3, 2024 – Samsung Biologics (KRX: 207940.KS), a global contract development and manufacturing organization (CDMO), today hosted its second Supplier ESG Day to share insights o",
-          "link": "https://samsungbiologics.com/media/company-news/samsung-biologics-hosts-esg-event-with-suppliers-to-strengthen-decarbonization-efforts",
-          "tag": "Other",
-          "detail": "Samsung Biologics hosted its second Supplier ESG Day to strengthen decarbonization efforts with its suppliers."
+          "tag": "Collaboration"
         },
         {
           "date": "Nov 20, 2024",
           "title": "Samsung Biologics signs manufacturing deal with European pharmaceutical company",
           "summary": "Incheon, S. Korea, November 20, 2024 – Samsung Biologics (KRX: 207940.KS), a global contract development and manufacturing organization (CDMO), today announced a series of manufacturing deals with a E",
           "link": "https://samsungbiologics.com/media/company-news/samsung-biologics-signs-manufacturing-deal-with-european-pharmaceutical-company",
-          "tag": "Collaboration",
-          "detail": "Samsung Biologics signed a series of manufacturing deals with a European pharmaceutical company."
+          "tag": "Collaboration"
         }
       ],
       "google_news": [
         {
-          "date": "16 hours ago",
+          "date": "3 days ago",
           "title": "Samsung Biologics, Amgen and Biocon invest in US pharma sites",
+          "source": "Manufacturing Dive",
           "link": "https://www.manufacturingdive.com/news/samsung-biologics-us-pharma-amgen-biocon-investment/760104/",
-          "tag": "Other",
-          "detail": "Samsung Biologics, alongside Amgen and Biocon, is investing in US pharmaceutical manufacturing sites."
+          "tag": "Other"
+        },
+        {
+          "date": "1 week ago",
+          "title": "Samsung Biologics wins $1.3 bn US order, its second-largest ever",
+          "source": "KED Global",
+          "link": "https://www.kedglobal.com/bio-pharma/newsView/ked202509090004",
+          "tag": "Collaboration"
+        },
+        {
+          "date": "10 Jun 2025",
+          "title": "Samsung Biologics to spin-off Samsung Bioepis",
+          "source": "Generics and Biosimilars Initiative (GaBI)",
+          "link": "https://www.gabionline.net/pharma-news/samsung-biologics-to-spin-off-samsung-bioepis",
+          "tag": "Financial"
         }
       ],
       "pipeline": [
@@ -2340,8 +2301,7 @@
               "text": "Learn more about the clinical\n\t\t\t\t\t\t\ttrial",
               "url": "https://clinicaltrials.gov/ct2/show/NCT04664959?cond=sb16&draw=2&rank=1"
             }
-          ],
-          "new": true
+          ]
         },
         {
           "name": "SB27",
@@ -2392,8 +2352,7 @@
               "text": "Learn more about the clinical trial (phase III)",
               "url": "https://clinicaltrials.gov/study/NCT06348199"
             }
-          ],
-          "new": true
+          ]
         }
       ]
     },
@@ -2404,74 +2363,81 @@
           "date": "09/09/2025",
           "title": "Sandoz reaches agreement with Regeneron, resolving all patent litigation related to its US aflibercept biosimilar",
           "link": "https://www.sandoz.com/sandoz-reaches-agreement-with-regeneron-resolving-all-patent-litigation-related-to-its-us-aflibercept-biosimilar",
-          "tag": "Pipeline",
-          "detail": "Sandoz reached an agreement with Regeneron, resolving all patent litigation concerning its US aflibercept biosimilar."
+          "tag": "Collaboration"
         },
         {
           "date": "28/08/2025",
           "title": "Sandoz launches rivaroxaban in Germany, expanding access to high-quality antithrombotic treatment options",
           "link": "https://www.sandoz.com/sandoz-launches-rivaroxaban-in-germany-expanding-access-to-high-quality-antithrombotic-treatment-options",
-          "tag": "Pipeline",
-          "detail": "Sandoz launched rivaroxaban in Germany, expanding access to high-quality antithrombotic treatment options."
-        },
-        {
-          "date": "12/08/2025",
-          "title": "Sandoz launches renewable energy partnership to cover nearly 90% of electricity demand for European operations",
-          "link": "https://www.sandoz.com/sandoz-launches-renewable-energy-partnership-cover-nearly-90-electricity-demand-european-operations",
-          "tag": "Other",
-          "detail": "Sandoz launched a renewable energy partnership aimed at covering nearly 90% of its European operations' electricity demand."
+          "tag": "Other"
         },
         {
           "date": "07/08/2025",
           "title": "Sandoz delivers strong H1 2025 results, with accelerated sales growth in the second quarter",
           "link": "https://www.sandoz.com/sandoz-delivers-strong-h1-2025-results-accelerated-sales-growth-second-quarter",
-          "tag": "Financial",
-          "detail": "Sandoz reported strong H1 2025 results, demonstrating accelerated sales growth in the second quarter."
+          "tag": "Financial"
         },
         {
           "date": "30/07/2025",
           "title": "Sandoz signs non-binding term sheet with Evotec SE to acquire its Just-Evotec Biologics in-house development and manufacturing capabilities in Toulouse, France",
           "link": "https://www.sandoz.com/sandoz-signs-non-binding-term-sheet-evotec-se-acquire-its-just-evotec-biologics-house-development",
-          "tag": "Acquisition",
-          "detail": "Sandoz signed a non-binding term sheet with Evotec SE to acquire its Just-Evotec Biologics in-house development and manufacturing capabilities in Toulouse, France."
+          "tag": "Acquisition"
         },
         {
           "date": "01/07/2025",
           "title": "Sandoz further asserts leadership in biosimilars, breaking ground on new Slovenia facility to expand European biosimilar hub and global market reach",
           "link": "https://www.sandoz.com/sandoz-further-asserts-leadership-biosimilars-breaking-ground-new-slovenia-facility-expand-european",
-          "tag": "Other",
-          "detail": "Sandoz broke ground on a new facility in Slovenia to expand its European biosimilar hub and global market reach, reinforcing its leadership in biosimilars."
+          "tag": "Other"
         },
         {
           "date": "02/06/2025",
           "title": "Sandoz launches first and only interchangeable denosumab biosimilars in US, providing new affordable treatment options for over 10 million patients[1]",
           "link": "https://www.sandoz.com/sandoz-launches-first-and-only-interchangeable-denosumab-biosimilars-us-providing-new-affordable",
-          "tag": "Pipeline",
-          "detail": "Sandoz launched the first and only interchangeable denosumab biosimilars in the US, offering new affordable treatment options for over 10 million patients."
+          "tag": "Other"
         },
         {
           "date": "21/05/2025",
           "title": "Sandoz launches Pyzchiva® autoinjector, first commercially available in Europe for ustekinumab biosimilars",
           "link": "https://www.sandoz.com/sandoz-launches-pyzchivar-autoinjector-first-commercially-available-europe-ustekinumab-biosimilars",
-          "tag": "Pipeline",
-          "detail": "Sandoz launched the Pyzchiva® autoinjector, which is the first commercially available in Europe for ustekinumab biosimilars."
+          "tag": "Other"
         },
         {
           "date": "30/04/2025",
           "title": "Sandoz reports Q1 2025 net sales in line with company expectations; full-year guidance confirmed",
           "link": "https://www.sandoz.com/sandoz-reports-q1-2025-net-sales-line-company-expectations-full-year-guidance-confirmed",
-          "tag": "Financial",
-          "detail": "Sandoz reported Q1 2025 net sales that met company expectations and confirmed its full-year guidance."
-        },
-        {
-          "date": "29/04/2025",
-          "title": "Sandoz enters global collaboration license agreement with Henlius to commercialize leading oncology therapy, ipilimumab, in multiple indications",
-          "link": "https://www.sandoz.com/sandoz-enters-global-collaboration-license-agreement-henlius-commercialize-leading-oncology-therapy",
-          "tag": "Collaboration",
-          "detail": "Sandoz entered a global collaboration and license agreement with Henlius to commercialize the oncology therapy ipilimumab in multiple indications."
+          "tag": "Financial"
         }
       ],
-      "google_news": [],
+      "google_news": [
+        {
+          "date": "1 week ago",
+          "title": "Sandoz challenges Bayer’s Xarelto strategy in damages claim",
+          "source": "JUVE Patent",
+          "link": "https://www.juve-patent.com/cases/sandoz-challenges-bayers-xarelto-strategy-in-damages-claim/",
+          "tag": "Other"
+        },
+        {
+          "date": "1 month ago",
+          "title": "Sandoz to market Lupin’s biosimilar ranibizumab in multiple markets globally",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/business/sandoz-to-market-lupins-biosimilar-ranibizumab-in-multiple-markets-globally/article69924376.ece",
+          "tag": "Collaboration"
+        },
+        {
+          "date": "1 month ago",
+          "title": "Sandoz targets 70% price cut for weight-loss drugs in Canada",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/e1da2702-e904-4c52-b7de-9525f0639f18",
+          "tag": "Financial"
+        },
+        {
+          "date": "11 May 2025",
+          "title": "Sandoz–Henlius partner to commercialize oncology biosimilar ipilimumab",
+          "source": "Generics and Biosimilars Initiative (GaBI)",
+          "link": "https://www.gabionline.net/pharma-news/sandoz-henlius-partner-to-commercialize-oncology-biosimilar-ipilimumab",
+          "tag": "Collaboration"
+        }
+      ],
       "pipeline": [
         {
           "name": "Omnitrope ® (somatropin)",
@@ -2512,8 +2478,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Binocrit ® (epoetin alfa)",
@@ -2554,8 +2519,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Zarzio ® / Zarxio ® (filgrastim)",
@@ -2596,8 +2560,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Rixathon ® (rituximab)",
@@ -2638,8 +2601,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Erelzi ® (etanercept)",
@@ -2680,8 +2642,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Zessly ® (infliximab)",
@@ -2722,8 +2683,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Hyrimoz ® (adalimumab)",
@@ -2764,8 +2724,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Ziextenzo ® (pegfilgrastim)",
@@ -2806,8 +2765,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Tyruko ® (natalizumab)",
@@ -2848,8 +2806,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Pyzchiva ® (ustekinumab)",
@@ -2890,8 +2847,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Wyost ® (denosumab) Jubbonti ® (denosumab)",
@@ -2932,8 +2888,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Herwenda ® (trastuzumab) Reference medicine Herceptin ®",
@@ -2974,8 +2929,7 @@
             "phase": "File accepted in US Approved in Europe",
             "link": null
           },
-          "status_note": "USD 2 bn",
-          "new": true
+          "status_note": "USD 2 bn"
         },
         {
           "name": "Avzivi ® (bevacizumab) Reference medicine Avastin ®",
@@ -3016,8 +2970,7 @@
             "phase": "Regulatory review - approved in the US and Europe",
             "link": null
           },
-          "status_note": "USD 2 bn",
-          "new": true
+          "status_note": "USD 2 bn"
         },
         {
           "name": "Reference medicine NovoLog ® (insulin aspart)",
@@ -3058,8 +3011,7 @@
             "phase": "Regulatory review - file accepted in the US and Europe",
             "link": null
           },
-          "status_note": "USD 4 bn",
-          "new": true
+          "status_note": "USD 4 bn"
         },
         {
           "name": "Reference medicine Lantus ® (insulin glargine)",
@@ -3100,8 +3052,7 @@
             "phase": "Regulatory review - file accepted in the US and Europe",
             "link": null
           },
-          "status_note": "USD 2 bn",
-          "new": true
+          "status_note": "USD 2 bn"
         },
         {
           "name": "Reference medicine Humalog ® (insulin lispro)",
@@ -3142,8 +3093,7 @@
             "phase": "Regulatory review - file accepted in the US and Europe",
             "link": null
           },
-          "status_note": "USD 2 bn",
-          "new": true
+          "status_note": "USD 2 bn"
         },
         {
           "name": "Enzeevu TM /Afqlir ® (aflibercept) Reference medicine Eylea ®",
@@ -3184,8 +3134,7 @@
             "phase": "Approved in the US and Europe, near-term launch",
             "link": null
           },
-          "status_note": "USD 9 bn",
-          "new": true
+          "status_note": "USD 9 bn"
         },
         {
           "name": "Reference medicine Opdivo ® (nivolumab) IV",
@@ -3226,8 +3175,7 @@
             "phase": "In clinical development",
             "link": null
           },
-          "status_note": "USD 10 bn",
-          "new": true
+          "status_note": "USD 10 bn"
         },
         {
           "name": "Reference medicine Keytruda ® (pembrolizumab) IV",
@@ -3268,8 +3216,7 @@
             "phase": "In clinical development",
             "link": null
           },
-          "status_note": "USD 31 bn",
-          "new": true
+          "status_note": "USD 31 bn"
         },
         {
           "name": "Reference medicine Ocrevus ® (ocrelizumab) IV",
@@ -3310,8 +3257,7 @@
             "phase": "In clinical development",
             "link": null
           },
-          "status_note": "USD 5 bn",
-          "new": true
+          "status_note": "USD 5 bn"
         },
         {
           "name": "Reference medicine Yervoy ® (ipilimumab)",
@@ -3352,8 +3298,7 @@
             "phase": "In clinical development",
             "link": null
           },
-          "status_note": "USD 3 bn",
-          "new": true
+          "status_note": "USD 3 bn"
         },
         {
           "name": "Reference medicine Darzalex ® (daratumumab) SC",
@@ -3394,8 +3339,7 @@
             "phase": "In technical development",
             "link": null
           },
-          "status_note": "USD 17 bn",
-          "new": true
+          "status_note": "USD 17 bn"
         },
         {
           "name": "Reference medicine Enhertu ® (trastuzumab deruxtecan)",
@@ -3436,8 +3380,7 @@
             "phase": "In technical development",
             "link": null
           },
-          "status_note": "USD 15 bn",
-          "new": true
+          "status_note": "USD 15 bn"
         },
         {
           "name": "Reference medicine Tecentriq ® (atezolizumab)",
@@ -3478,8 +3421,7 @@
             "phase": "In technical development",
             "link": null
           },
-          "status_note": "USD 4 bn",
-          "new": true
+          "status_note": "USD 4 bn"
         },
         {
           "name": "Reference medicine Skyrizi ® (risankizumab)",
@@ -3520,8 +3462,7 @@
             "phase": "In technical development",
             "link": null
           },
-          "status_note": "USD 25 bn",
-          "new": true
+          "status_note": "USD 25 bn"
         },
         {
           "name": "Reference medicine Tremfya ® (guselkumab)",
@@ -3562,8 +3503,7 @@
             "phase": "In technical development",
             "link": null
           },
-          "status_note": "USD 7 bn",
-          "new": true
+          "status_note": "USD 7 bn"
         },
         {
           "name": "Reference medicine Eylea HD ® (aflibercept) 8 mg",
@@ -3604,8 +3544,7 @@
             "phase": "In technical development",
             "link": null
           },
-          "status_note": "USD 4 bn",
-          "new": true
+          "status_note": "USD 4 bn"
         },
         {
           "name": "Reference medicine Ocrevus ® (ocrelizumab) SC",
@@ -3646,8 +3585,7 @@
             "phase": "In technical development",
             "link": null
           },
-          "status_note": "USD 4 bn",
-          "new": true
+          "status_note": "USD 4 bn"
         },
         {
           "name": "Reference medicine Dupixent ® (dupilumab)",
@@ -3688,8 +3626,7 @@
             "phase": "In technical development",
             "link": null
           },
-          "status_note": "USD 24 bn",
-          "new": true
+          "status_note": "USD 24 bn"
         }
       ]
     },
@@ -3697,90 +3634,62 @@
       "company": "Biocon",
       "website": [
         {
-          "date": "Sep 12, 2025",
-          "title": "Biocon Foundation Supports Government High School, Kicks off Construction of a New Building for 250 Students",
-          "link": "https://www.biocon.com/biocon-foundation-supports-government-high-school-kicks-off-construction-of-a-new-building-for-250-students/",
-          "tag": "Other",
-          "detail": "Biocon Foundation initiated the construction of a new building to support a government high school with 250 students."
+          "date": "Sep 17, 2025",
+          "title": "Biocon Biologics Receives U.S. Food and Drug Administration Approval for Bosaya™ and Aukelso™, Denosumab Biosimilars",
+          "link": "https://www.biocon.com/biocon-biologics-receives-u-s-food-and-drug-administration-approval-for-bosaya-and-aukelso-denosumab-biosimilars/",
+          "tag": "FDA Approval"
         },
         {
           "date": "Sep 11, 2025",
           "title": "Biocon Inaugurates First U.S. Manufacturing Facility in Cranbury, New Jersey",
           "link": "https://www.biocon.com/biocon-inaugurates-first-u-s-manufacturing-facility-in-cranbury-new-jersey/",
-          "tag": "Other",
-          "detail": "Biocon inaugurated its first U.S. manufacturing facility, located in Cranbury, New Jersey."
+          "tag": "Other"
         },
         {
           "date": "Aug 07, 2025",
           "title": "Biocon Q1FY26 Operating Revenue at Rs 3,942 Cr, Up 15%",
           "link": "https://www.biocon.com/biocon-q1fy26-revenue/",
-          "tag": "Financial",
-          "detail": "Biocon reported Q1 FY26 operating revenue of Rs 3,942 Cr, marking a 15% increase."
-        },
-        {
-          "date": "July 28, 2025",
-          "title": "Biocon Foundation and IISc Commemorate World Head & Neck Cancer Day",
-          "link": "https://www.biocon.com/biocon-foundation-and-iisc-commemorate-world-head-neck-cancer-day/",
-          "tag": "Other",
-          "detail": "Biocon Foundation collaborated with IISc to commemorate World Head & Neck Cancer Day."
-        },
-        {
-          "date": "July 23, 2025",
-          "title": "Deepali Naair Appointed as the Global Head – Brand & Corporate Communications at Biocon Biologics",
-          "link": "https://www.biocon.com/deepali-naair-appointed-as-the-global-head-brand-corporate-communications-at-biocon-biologics/",
-          "tag": "Other",
-          "detail": "Deepali Naair was appointed as the Global Head – Brand & Corporate Communications at Biocon Biologics."
+          "tag": "Financial"
         },
         {
           "date": "July 15, 2025",
           "title": "Biocon Biologics Expands Diabetes Portfolio with FDA Approval of Kirsty™, the First and Only Interchangeable Rapid-Acting Insulin Aspart in the United States",
           "link": "https://www.biocon.com/biocon-biologics-expands-diabetes-portfolio-with-fda-approval-of-kirsty-the-first-and-only-interchangeable-rapid-acting-insulin-aspart-in-the-united-states",
-          "tag": "FDA Approval",
-          "detail": "Biocon Biologics received FDA approval for Kirsty™, the first and only interchangeable rapid-acting insulin aspart in the United States, expanding its diabetes portfolio."
+          "tag": "FDA Approval"
         },
         {
           "date": "July 03, 2025",
           "title": "Advancing Bone Health: European Commission Approves Biocon Biologics’ Denosumab Biosimilars",
           "link": "https://www.biocon.com/advancing-bone-health-european-commission-approves-biocon-biologics-denosumab-biosimilars/",
-          "tag": "FDA Approval",
-          "detail": "The European Commission approved Biocon Biologics’ denosumab biosimilars, aiming to advance bone health treatment options."
+          "tag": "FDA Approval"
         },
         {
           "date": "Jun 30, 2025",
           "title": "Biocon Biologics Expands Insulin Access in Malaysia",
           "link": "https://www.biocon.com/biocon-biologics-expands-insulin-access-in-malaysia/",
-          "tag": "Other",
-          "detail": "Biocon Biologics expanded insulin access in Malaysia."
+          "tag": "Other"
         },
         {
           "date": "Jun 27, 2025",
           "title": "Biocon Biologics Receives Health Canada Approval for Yesafili™ (aflibercept); First Global Launch Scheduled for July 2025",
           "link": "https://www.biocon.com/biocon-biologics-receives-health-canada-approval-for-yesafili-aflibercept-first-global-launch-scheduled-for-july-2025/",
-          "tag": "FDA Approval",
-          "detail": "Biocon Biologics received Health Canada approval for Yesafili™ (aflibercept), with its first global launch scheduled for July 2025."
-        },
-        {
-          "date": "Jun 24, 2025",
-          "title": "Biocon Biologics Collaborates with National Cancer Society Malaysia",
-          "link": "https://www.biocon.com/biocon-biologics-collaborates-with-national-cancer-society-malaysia",
-          "tag": "Collaboration",
-          "detail": "Biocon Biologics collaborated with the National Cancer Society Malaysia."
+          "tag": "FDA Approval"
         }
       ],
       "google_news": [
         {
-          "date": "16 hours ago",
-          "title": "Samsung Biologics, Amgen and Biocon invest in US pharma sites",
-          "link": "https://www.manufacturingdive.com/news/samsung-biologics-us-pharma-amgen-biocon-investment/760104/",
-          "tag": "Other",
-          "detail": "Biocon, along with Samsung Biologics and Amgen, is investing in US pharmaceutical manufacturing sites."
+          "date": "4 hours ago",
+          "title": "Biocon Biologics eyes $7 billion global opportunity with new biosimilar approvals",
+          "source": "CNBC TV18",
+          "link": "https://www.cnbctv18.com/business/companies/biocon-biologics-eyes-7-billion-global-opportunity-with-new-biosimilar-approvals-19680235.htm",
+          "tag": "Other"
         },
         {
-          "date": "23 hours ago",
-          "title": "BioWISE 2025 – Call for Applications Open | Scholarship and Mentorship Programme for Women in STEM",
-          "link": "https://www.biotecnika.org/2025/09/biowise-2025-biocon-applications-eligibility-registrations-ncbs/",
-          "tag": "Other",
-          "detail": "The BioWISE 2025 scholarship and mentorship program for women in STEM, supported by Biocon, opened its call for applications."
+          "date": "21 hours ago",
+          "title": "Biocon arm gets Ontario listing for retinal drug; check details",
+          "source": "Upstox",
+          "link": "https://upstox.com/news/market-news/latest-updates/biocon-arm-gets-ontario-listing-for-retinal-drug-check-details/article-181552/",
+          "tag": "Other"
         }
       ],
       "pipeline": []

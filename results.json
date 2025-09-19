@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-16 14:06:47 IST",
+  "last_updated": "2025-09-19 15:44:02 IST",
   "companies": [
     {
       "company": "Polpharma",
@@ -30,7 +30,69 @@
           "link": "https://polpharma.pl/en/polpharma-receives-grants-for-research-projects/"
         }
       ],
-      "google_news": [],
+      "google_news": [
+        {
+          "date": "2 weeks ago",
+          "title": "Polpharma Biologics and MS Pharma sign licensing agreements",
+          "source": "European Pharmaceutical Manufacturer",
+          "link": "https://pharmaceuticalmanufacturer.media/pharma-manufacturing-news/latest-pharmaceutical-manufacturing-news/polpharma-biologics-and-ms-pharma-sign-licensing-agreements/"
+        },
+        {
+          "date": "2 weeks ago",
+          "title": "Polpharma Biologics secures distribution of upcoming biosimilars",
+          "source": "European Biotechnology Magazine",
+          "link": "https://european-biotechnology.com/latest-news/polpharma-biologics-secures-distribution-of-upcoming-biosimilars/"
+        },
+        {
+          "date": "2 weeks ago",
+          "title": "Polpharma Biologics signs biosimilars licensing deals with MS Pharma",
+          "source": "Pharmaceutical Business review -",
+          "link": "https://www.pharmaceutical-business-review.com/news/polpharma-biologics-biosimilars-ms-pharma/"
+        },
+        {
+          "date": "2 weeks ago",
+          "title": "Polpharma Biologics and MS Pharma Sign Licensing Agreements for Proposed Vedolizumab (PB016), Ocrelizumab (PB018) and Guselkumab (PB019) Biosimilars",
+          "source": "Business Wire",
+          "link": "https://www.businesswire.com/news/home/20250902492755/en/Polpharma-Biologics-and-MS-Pharma-Sign-Licensing-Agreements-for-Proposed-Vedolizumab-PB016-Ocrelizumab-PB018-and-Guselkumab-PB019-Biosimilars"
+        },
+        {
+          "date": "1 month ago",
+          "title": "Fresenius Kabi signs global licensing deal with Polpharma",
+          "source": "Pharmaceutical Technology",
+          "link": "https://www.pharmaceutical-technology.com/news/fresenius-licensing-deal-polpharmas-vedolizumab-biosimilar/",
+          "new": true
+        },
+        {
+          "date": "16 Apr 2025",
+          "title": "Chime Biologics Partners Polpharma Biologics to Advance Global Biosimilar Development",
+          "source": "PR Newswire",
+          "link": "https://www.prnewswire.com/news-releases/chime-biologics-partners-polpharma-biologics-to-advance-global-biosimilar-development-302430020.html"
+        },
+        {
+          "date": "7 May 2025",
+          "title": "ProBioGen to Provide Cell Line Development Services for Polpharma",
+          "source": "Contract Pharma",
+          "link": "https://www.contractpharma.com/breaking-news/probiogen-to-provide-cell-line-development-services-for-polpharma/"
+        },
+        {
+          "date": "4 Apr 2025",
+          "title": "Polpharma Group to Boost Pharmaceutical Production and Exports in Kazakhstan",
+          "source": "The Times Of Central Asia",
+          "link": "https://timesca.com/polpharma-group-to-boost-pharmaceutical-production-and-exports-in-kazakhstan/"
+        },
+        {
+          "date": "1 month ago",
+          "title": "Polpharma Biologics, Fresenius Kabi Enter Licensing Agreement for Proposed Biosimilar to Takeda’s Entyvio",
+          "source": "BioPharm International",
+          "link": "https://www.biopharminternational.com/view/polpharma-biologics-fresenius-kabi-enter-licensing-agreement-for-proposed-biosimilar-to-takeda-s-entyvio"
+        },
+        {
+          "date": "2 weeks ago",
+          "title": "Polpharma Biologics Partners with MS Pharma to Distribute Vedolizumab, Ocrelizumab, and Guselkumab Biosimilars in MENA Region",
+          "source": "www.geneonline.com",
+          "link": "https://www.geneonline.com/polpharma-biologics-partners-with-ms-pharma-to-distribute-vedolizumab-ocrelizumab-and-guselkumab-biosimilars-in-mena-region/"
+        }
+      ],
       "pipeline": [
         {
           "name": "Ranibizumab",
@@ -71,8 +133,7 @@
             "phase": "",
             "link": null
           },
-          "status_note": "approved in all major markets",
-          "new": true
+          "status_note": "approved in all major markets"
         },
         {
           "name": "Natalizumab",
@@ -113,8 +174,7 @@
             "phase": "",
             "link": null
           },
-          "status_note": "approved in all major markets",
-          "new": true
+          "status_note": "approved in all major markets"
         },
         {
           "name": "Vedolizumab",
@@ -155,8 +215,7 @@
             "phase": "Submission preparation",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Ocrelizumab",
@@ -197,8 +256,7 @@
             "phase": "Clinical development",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Guselkumab",
@@ -239,8 +297,7 @@
             "phase": "Process & formulation development",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Undisclosed PB020",
@@ -281,8 +338,7 @@
             "phase": "Cell line development",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Undisclosed PB021",
@@ -323,8 +379,7 @@
             "phase": "Cell line development",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Undisclosed PB022",
@@ -365,8 +420,7 @@
             "phase": "Cell line development",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "",
@@ -407,8 +461,7 @@
             "phase": "",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "",
@@ -449,8 +502,7 @@
             "phase": "",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "",
@@ -491,8 +543,7 @@
             "phase": "",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "",
@@ -533,8 +584,7 @@
             "phase": "",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "",
@@ -575,8 +625,7 @@
             "phase": "",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "",
@@ -617,8 +666,7 @@
             "phase": "",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "",
@@ -659,8 +707,7 @@
             "phase": "",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "",
@@ -701,8 +748,7 @@
             "phase": "",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         }
       ]
     },
@@ -737,10 +783,65 @@
       ],
       "google_news": [
         {
-          "date": "22 hours ago",
-          "title": "Combining machine learning predictions for Alvotech - 2025 Biggest Moves & Precise Buy Zone Identification",
-          "link": "https://www.newser.com/story/summary/Combining-machine-learning-predictions-for-Alvotech",
+          "date": "1 day ago",
+          "title": "Biochemistry Job at Alvotech | Apply Now for Analytical Scientist Position",
+          "source": "BioTecNika",
+          "link": "https://www.biotecnika.org/2025/09/biochemistry-job-at-alvotech/"
+        },
+        {
+          "date": "21 hours ago",
+          "title": "Here's How ALVO's Commercial Partnerships Are Driving Top-line Growth",
+          "source": "TradingView",
+          "link": "https://www.tradingview.com/news/zacks:90e6a1fc5094b:0-here-s-how-alvo-s-commercial-partnerships-are-driving-top-line-growth/"
+        },
+        {
+          "date": "3 weeks ago",
+          "title": "Alvotech Reports Record-Breaking First Half of 2025 Amid Strong Biosimilar Sales",
+          "source": "Center for Biosimilars",
+          "link": "https://www.centerforbiosimilars.com/view/alvotech-reports-record-breaking-first-half-of-2025-amid-strong-biosimilar-sales"
+        },
+        {
+          "date": "3 May 2025",
+          "title": "Alvotech acquires Xbrane",
+          "source": "Generics and Biosimilars Initiative (GaBI)",
+          "link": "https://www.gabionline.net/pharma-news/alvotech-acquires-xbrane"
+        },
+        {
+          "date": "5 Jun 2025",
+          "title": "Dr. Reddy’s, Alvotech to co-develop, market biosimilar of Merck’s cancer drug Keytruda",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/business/dr-reddys-alvotech-to-co-develop-market-biosimilar-of-mercks-cancer-drug-keytruda/article69660158.ece"
+        },
+        {
+          "date": "5 hours ago",
+          "title": "Market Recap: Whats the outlook for Alvotech Equity Warrants sector - Market Volume Report & Free Weekly Watchlist of Top Performers",
+          "source": "خودرو بانک",
+          "link": "https://www.khodrobank.com/market-outlook/Whats-the-outlook-for-Alvotech-Equity-Warrants-sector",
           "new": true
+        },
+        {
+          "date": "9 Jul 2025",
+          "title": "Alvotech Acquires Ivers-Lee Group",
+          "source": "Contract Pharma",
+          "link": "https://www.contractpharma.com/breaking-news/alvotech-acquires-ivers-lee-group/"
+        },
+        {
+          "date": "1 month ago",
+          "title": "Alvotech Reports Results for the First Six Months of 2025 and Provides a Business Update",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/news/alvotech-reports-results-first-six-201500214.html"
+        },
+        {
+          "date": "5 Jun 2025",
+          "title": "Dr Reddy's, Alvotech to co-develop biosimilar of cancer drug Keytruda",
+          "source": "Business Standard",
+          "link": "https://www.business-standard.com/companies/news/dr-reddys-alvotech-partner-on-keytruda-biosimilar-development-125060501002_1.html"
+        },
+        {
+          "date": "23 Jun 2025",
+          "title": "Bayer’s Eylea market grip set to slip as Alvotech biosimilar closes in",
+          "source": "Pharmaceutical Technology",
+          "link": "https://www.pharmaceutical-technology.com/news/bayers-eylea-market-grip-set-to-slip-as-alvotech-biosimilar-closes-in/"
         }
       ],
       "pipeline": [
@@ -795,8 +896,7 @@
             "Morocco",
             "Peru",
             "Bolivia"
-          ],
-          "new": true
+          ]
         },
         {
           "name": "AVT04",
@@ -842,8 +942,7 @@
             "Japan",
             "Canada",
             "EU/EEA"
-          ],
-          "new": true
+          ]
         },
         {
           "name": "AVT23*",
@@ -884,8 +983,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": [],
-          "new": true
+          "status_note": []
         },
         {
           "name": "AVT03",
@@ -926,8 +1024,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": [],
-          "new": true
+          "status_note": []
         },
         {
           "name": "AVT05",
@@ -968,8 +1065,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": [],
-          "new": true
+          "status_note": []
         },
         {
           "name": "AVT06",
@@ -1010,8 +1106,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": [],
-          "new": true
+          "status_note": []
         },
         {
           "name": "AVT16",
@@ -1052,8 +1147,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": [],
-          "new": true
+          "status_note": []
         },
         {
           "name": "AVT33",
@@ -1094,8 +1188,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": [],
-          "new": true
+          "status_note": []
         },
         {
           "name": "AVT19",
@@ -1136,8 +1229,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": [],
-          "new": true
+          "status_note": []
         },
         {
           "name": "AVT28",
@@ -1178,8 +1270,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": [],
-          "new": true
+          "status_note": []
         },
         {
           "name": "AVT41",
@@ -1220,8 +1311,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": [],
-          "new": true
+          "status_note": []
         }
       ]
     },
@@ -1264,67 +1354,165 @@
           "description": "Fresenius Kabi will exclusively commercialize Polpharma Biologics’ vedolizumab biosimilar candidate PB016 globally (except in the Middle East and North Africa)."
         }
       ],
-      "google_news": [],
+      "google_news": [
+        {
+          "date": "15 hours ago",
+          "title": "Fresenius Medical Care advances its FME Reignite strategy by increasing ownership in its Value-Based Care asset and appointing a new leader for the operating segment",
+          "source": "PR Newswire",
+          "link": "https://www.prnewswire.com/news-releases/fresenius-medical-care-advances-its-fme-reignite-strategy-by-increasing-ownership-in-its-value-based-care-asset-and-appointing-a-new-leader-for-the-operating-segment-302560932.html"
+        },
+        {
+          "date": "20 Jan 2025",
+          "title": "Company profile",
+          "source": "Fresenius Medical Care",
+          "link": "https://freseniusmedicalcare.com/en/about-us/company-profile/"
+        },
+        {
+          "date": "17 Mar 2025",
+          "title": "Fresenius transforms user access to IT services and support",
+          "source": "Capgemini",
+          "link": "https://www.capgemini.com/news/client-stories/fresenius-transforms-user-access-to-it-services-and-support/"
+        },
+        {
+          "date": "15 hours ago",
+          "title": "Fresenius Medical Care Appoints Tommy P. O'connor as Chief Executive Officer of Interwell Health and Business Segment Leader of VBC, Effective October 1, 2025",
+          "source": "MarketScreener",
+          "link": "https://www.marketscreener.com/news/fresenius-medical-care-appoints-tommy-p-o-connor-as-chief-executive-officer-of-interwell-health-and-ce7d58d9d088ff2d"
+        },
+        {
+          "date": "1 hour ago",
+          "title": "Parenteral Nutrition Market Outlook (2025–2032): Growth Drivers, Innovation Trends & Emerging Opportunities | AbbVie Inc., Danone, Fresenius Kabi AG",
+          "source": "industrytoday.co.uk",
+          "link": "https://industrytoday.co.uk/health_and_safety/parenteral-nutrition-market-outlook-2025-2032-growth-drivers-innovation-trends-emerging-opportunities-abbvie-inc-danone-fresenius-kabi-ag"
+        },
+        {
+          "date": "15 hours ago",
+          "title": "€1.03B Revenue Giant: Fresenius Medical Care Expands Value-Based Care Empire with €312M Investment",
+          "source": "Stock Titan",
+          "link": "https://www.stocktitan.net/news/FMS/fresenius-medical-care-advances-its-fme-reignite-strategy-by-cxk5pbjl5fxu.html"
+        },
+        {
+          "date": "17 Jun 2025",
+          "title": "Blood Products Administration Set Recall from Fresenius Kabi",
+          "source": "U.S. Food and Drug Administration (.gov)",
+          "link": "https://www.fda.gov/medical-devices/medical-device-recalls/blood-products-administration-set-recall-fresenius-kabi-removes-large-volume-pump-blood-products"
+        },
+        {
+          "date": "15 Jul 2025",
+          "title": "Fresenius Medical Care Reduces Commercial Content Approval by 14 Days",
+          "source": "Veeva",
+          "link": "https://www.veeva.com/medtech/resources/fresenius-medical-care-reduces-commercial-content-approval-by-14-days/"
+        },
+        {
+          "date": "17 Jun 2025",
+          "title": "Fresenius Medical Care's 2030 targets underwhelm market",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/fresenius-medical-care-announces-1-bln-euros-share-buyback-programme-2025-06-17/"
+        },
+        {
+          "date": "4 days ago",
+          "title": "Fresenius Medical Care Celebrates Nephrology Nurses Week with The CARE Award",
+          "source": "Fresenius Medical Care",
+          "link": "https://freseniusmedicalcare.com/en-us/six-box/box-1/",
+          "new": true
+        }
+      ],
       "pipeline": []
     },
     {
       "company": "Dr Reddy",
       "website": [
         {
-          "date": "September 11, 2025",
+          "date": "September 16, 2025",
+          "title": "Dr. Reddy's launches novel molecule ‘Tegoprazan’ in India.",
+          "link": "https://www.drreddys.com/cms/sites/default/files/2025-09/DRL%20release-%20Tegoprazan-%20final%20version-%2016th%20Sept%202025.pdf",
+          "new": true
+        },
+        {
+          "date": "September 10, 2025",
           "title": "Dr. Reddy’s strengthens its CNS Portfolio by foraying into anti-vertigo segment with acquisition of STUGERON®",
-          "link": "https://www.drreddys.com/cms/sites/default/files/2025-09/Final%20press%20releaseDRLJNJ.pdf"
+          "link": "https://www.drreddys.com/cms/sites/default/files/2025-09/Final%20press%20releaseDRLJNJ.pdf",
+          "new": true
         },
         {
           "date": "August 26, 2025",
           "title": "Dr. Reddy's launches Linaclotide (Colozo®) a novel drug for Chronic Constipation management in adults, in India.",
-          "link": "https://www.drreddys.com/cms/sites/default/files/2025-08/Colozo.pdf"
+          "link": "https://www.drreddys.com/cms/sites/default/files/2025-08/Colozo.pdf",
+          "new": true
         },
         {
-          "date": "July 27, 2025",
+          "date": "July 23, 2025",
           "title": "Dr. Reddy’s Q1FY26 Financial Results",
-          "link": "https://www.drreddys.com/cms/sites/default/files/2025-07/Final-%20press%20release-%20Q1-%20FY26%202307.pdf"
+          "link": "https://www.drreddys.com/cms/sites/default/files/2025-07/Final-%20press%20release-%20Q1-%20FY26%202307.pdf",
+          "new": true
         },
         {
-          "date": "July 25, 2025",
+          "date": "June 5, 2025",
           "title": "Alvotech and Dr. Reddy’s Enter into Collaboration to Co-Develop Biosimilar Candidate to Keytruda® (pembrolizumab)",
-          "link": "https://www.drreddys.com/cms/sites/default/files/2025-07/Press%20release-%20Dr.Reddy%27s%20and%20Alvotech-%20Pembrolizumab%20announcement-%2005.06.2025.pdf"
-        },
-        {
-          "date": "May 9, 2025",
-          "title": "Dr. Reddy’s Q4 & full year FY25 Financial Results",
-          "link": "https://www.drreddys.com/cms/sites/default/files/2025-05/Earnings%20Release_Q4FY25_090525_Final1.pdf"
+          "link": "https://www.drreddys.com/cms/sites/default/files/2025-07/Press%20release-%20Dr.Reddy%27s%20and%20Alvotech-%20Pembrolizumab%20announcement-%2005.06.2025.pdf",
+          "new": true
         }
       ],
       "google_news": [
         {
-          "date": "5 hours ago",
-          "title": "Dr. Reddy's Laboratories Shows Mixed Technical Trends Amid Strong Long-Term Growth Potential",
-          "link": "https://www.marketsmojo.com/news/stock-recommendation/dr-reddys-laboratories-receives-buy-rating-upgrade-amid-positive-stock-performance-3517945",
-          "new": true
+          "date": "9 hours ago",
+          "title": "Stocks To Watch: Dr Reddys Labs, Mobikwik, Kfin Tech, PC Jeweller, Biocon",
+          "source": "NDTV Profit",
+          "link": "https://www.ndtvprofit.com/markets/stocks-to-watch-dr-reddys-labs-mobikwik-kfin-tech-pc-jeweller-biocon"
         },
         {
-          "date": "1 hour ago",
-          "title": "Acadian Asset Management LLC Has $19.40 Million Position in Dr. Reddy's Laboratories Ltd $RDY",
-          "link": "https://www.marketbeat.com/instant-alerts/filing-acadian-asset-management-llc-buys-23582-shares-of-dr-reddys-laboratories-ltd-rdy-2025-09-12/",
-          "new": true
+          "date": "2 days ago",
+          "title": "Dr Reddy’s debuts in-licensed acid blocker Tegoprazan in India",
+          "source": "ET Pharma",
+          "link": "https://pharma.economictimes.indiatimes.com/news/drug-approvals-and-launches/dr-reddys-launches-innovative-acid-blocker-tegoprazan-in-india/123932808"
         },
         {
-          "date": "12 hours ago",
-          "title": "Philanthropist Nalla Suresh Reddy Honors Kamala Harris's Mom Dr. Shyamala Gopalan With Kakatiya Temple...",
-          "link": "https://www.deccanchronicle.com/business/in-other-news/philanthropist-nalla-suresh-reddy-honors-kamala-harriss-mom-dr-shyamala-gopalan-with-kakatiya-temple-restoration-1903981"
+          "date": "2 days ago",
+          "title": "Dr. Reddy’s introduces Korean firm HK inno.N’s APD drug Tegoprazan in India",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/business/dr-reddys-introduces-korean-firm-hk-innons-apd-drug-tegoprazan-in-india/article70057268.ece"
         },
         {
-          "date": "18 hours ago",
-          "title": "Dr. Reddy’s Laboratories Receives USFDA Observations Post-Inspection",
-          "link": "https://www.tipranks.com/news/company-announcements/dr-reddys-laboratories-receives-usfda-observations-post-inspection-2?mod=mw_quote_news",
-          "new": true
+          "date": "2 days ago",
+          "title": "Dr Reddy’s launches novel acid blocker Tegoprazan in India to tap $1 billion market",
+          "source": "Moneycontrol",
+          "link": "https://www.moneycontrol.com/news/business/stocks/dr-reddy-s-launches-novel-acid-blocker-tegoprazan-in-india-to-tap-1-billion-market-13551538.html"
         },
         {
-          "date": "5 hours ago",
-          "title": "GIFT Nifty Signals Cautious Start; Fed Meet in Focus",
-          "link": "https://hdfcsky.com/news/gift-nifty-indicates-cautious-start-for-the-indian-stock-market",
-          "new": true
+          "date": "2 days ago",
+          "title": "Dr Reddy’s launches new acidity drug tegoprazan in India",
+          "source": "CNBC TV18",
+          "link": "https://www.cnbctv18.com/market/stocks/dr-reddys-share-price-launches-new-gastrointestinal-acidity-drug-in-india-19676548.htm"
+        },
+        {
+          "date": "1 day ago",
+          "title": "Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History",
+          "source": "The Economic Times",
+          "link": "https://m.economictimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-live-17-sep-2025/liveblog/123933627.cms"
+        },
+        {
+          "date": "2 days ago",
+          "title": "Dr. Reddy's India biologics plant issued FDA Form 483",
+          "source": "Fierce Pharma",
+          "link": "https://www.fiercepharma.com/manufacturing/dr-reddys-india-biologics-plant-issued-fda-form-483"
+        },
+        {
+          "date": "19 hours ago",
+          "title": "Market Trading Guide: Axis Bank, Ashok Leyland among 4 stocks to buy on Friday for up to 11% upside",
+          "source": "The Economic Times",
+          "link": "https://m.economictimes.com/markets/stocks/news/market-trading-guide-axis-bank-ashok-leyland-among-4-stocks-to-buy-on-friday-for-up-to-11-upside/buy-dr-reddys-laboratories-at-rs-1322-7-upside-6/slideshow/123979388.cms"
+        },
+        {
+          "date": "3 hours ago",
+          "title": "NMDC, JSW Steel, Dr Reddy’s, SBI – top picks from experts",
+          "source": "CNBC TV18",
+          "link": "https://www.cnbctv18.com/access/exclusive/nmdc-jsw-steel-dr-reddys-sbi-top-buy-sell-stock-calls-from-experts-19680516.htm"
+        },
+        {
+          "date": "2 days ago",
+          "title": "Stocks in news: Apollo Tyres, Akzo Nobel, Dr Reddy's, Mahindra Lifespace, Coal India",
+          "source": "The Economic Times",
+          "link": "https://m.economictimes.com/markets/stocks/news/stocks-in-news-apollo-tyres-akzo-nobel-dr-reddys-mahindra-lifespace-coal-india/articleshow/123933003.cms"
         }
       ],
       "pipeline": [
@@ -1369,8 +1557,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "Abatacept",
@@ -1413,8 +1600,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "Daratumumab*",
@@ -1457,8 +1643,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "Pembrolizumab**",
@@ -1501,8 +1686,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "DRL-BIO-011",
@@ -1545,8 +1729,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "DRL-BIO-012",
@@ -1589,8 +1772,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "DRL-BIO-013",
@@ -1633,8 +1815,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "DRL-BIO-014",
@@ -1677,8 +1858,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "DRL-BIO-015",
@@ -1721,8 +1901,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "DRL-BIO-016",
@@ -1765,8 +1944,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "DRL-BIO-017",
@@ -1809,8 +1987,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "DRL-BIO-018",
@@ -1853,8 +2030,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "DRL-BIO-019",
@@ -1897,8 +2073,7 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "Coya 302**",
@@ -1941,14 +2116,18 @@
             "phase": null,
             "link": null
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         }
       ]
     },
     {
       "company": "Celltrion",
       "website": [
+        {
+          "date": "2025.09.19",
+          "title": "Celltrion Announces Commercial Availability of Omlyclo™ Across Europe at EADV 2025",
+          "link": "https://www.celltrion.com/en-us/company/media-center/press-release/4157"
+        },
         {
           "date": "2025.08.07",
           "title": "FDA approves expanded indication for AVTOZMA® (tocilizumab-anoh) intravenous (IV) formulation in cytokine release syndrome (CRS)",
@@ -1993,18 +2172,68 @@
           "date": "2025.03.10",
           "title": "U.S. FDA approves Celltrion's OMLYCLO® (omalizumab-igec) as the first and only biosimilar with interchangeability designation referencing XOLAIR®",
           "link": "https://www.celltrion.com/en-us/company/media-center/press-release/3778"
-        },
-        {
-          "date": "2025.03.04",
-          "title": "Celltrion receives U.S. FDA approval for STOBOCLO® (denosumab-bmwo) and OSENVELT® (denosumab-bmwo) biosimilars referencing PROLIA® and XGEVA®",
-          "link": "https://www.celltrion.com/en-us/company/media-center/press-release/3768"
         }
       ],
       "google_news": [
         {
+          "date": "18 hours ago",
+          "title": "Celltrion Announces Commercial Availability of Omlyclo™ Across Europe at EADV 2025",
+          "source": "Business Wire",
+          "link": "https://www.businesswire.com/news/home/20250903480207/en/Celltrion-Announces-Commercial-Availability-of-Omlyclo-Across-Europe-at-EADV-2025"
+        },
+        {
+          "date": "4 hours ago",
+          "title": "Health Canada approves Celltrion’s Stoboclo® and Osenvelt®(CT-P41), denosumab biosimilars for the tr",
+          "source": "PharmiWeb.com",
+          "link": "https://www.pharmiweb.com/press-release/2025-09-19/health-canada-approves-celltrion-s-stoboclo-and-osenvelt-ct-p41-denosumab-biosimilars-for-the-tr"
+        },
+        {
           "date": "9 hours ago",
-          "title": "Daegu sets its sights on becoming Korea’s Boston",
-          "link": "https://www.koreatimes.co.kr/amp/business/tech-science/20250916/daegu-sets-its-sights-on-becoming-koreas-boston"
+          "title": "Celltrion starts Europe launch of Omlyclo, the 1st Xolair biosimilar",
+          "source": "KBR",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=29029"
+        },
+        {
+          "date": "1 day ago",
+          "title": "Seoul Bio Hub-Celltrion launches 'Global Open Innovation' for US startups",
+          "source": "BioSpectrum Asia",
+          "link": "https://www.biospectrumasia.com/news/51/26644/seoul-bio-hub-celltrion-launches-global-open-innovation-for-us-startups.html"
+        },
+        {
+          "date": "8 hours ago",
+          "title": "Celltrion launches new biosimilar Omlyclo in Norway, 1st in Europe",
+          "source": "Yonhap News Agency",
+          "link": "https://en.yna.co.kr/view/AEN20250919004500320"
+        },
+        {
+          "date": "7 hours ago",
+          "title": "Celltrion Launches Omliklo, Europe’s First Xolair Biosimilar",
+          "source": "Businesskorea",
+          "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=252456"
+        },
+        {
+          "date": "2 days ago",
+          "title": "Open Doors to the Asian Market: Seoul Bio Hub-Celltrion Launches 'Global Open Innovation' for U.S. Startups",
+          "source": "GlobeNewswire",
+          "link": "https://www.globenewswire.com/news-release/2025/09/17/3151442/0/en/Open-Doors-to-the-Asian-Market-Seoul-Bio-Hub-Celltrion-Launches-Global-Open-Innovation-for-U-S-Startups.html"
+        },
+        {
+          "date": "1 month ago",
+          "title": "Celltrion in talks to buy Eli Lilly plant in US for $504 million",
+          "source": "KED Global",
+          "link": "https://www.kedglobal.com/mergers-acquisitions/newsView/ked202508080003"
+        },
+        {
+          "date": "18 hours ago",
+          "title": "Celltrion targets 22 biosimilars in bone, eye, skin diseases",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/english/industry-en/2025/09/19/7DJZACQY5BHI7ESFFVHX75S2QQ/"
+        },
+        {
+          "date": "1 month ago",
+          "title": "Celltrion closes in on US plant purchase, dubbing drug substance facility 'fundamental' to tariff mitigation",
+          "source": "Fierce Pharma",
+          "link": "https://www.fiercepharma.com/manufacturing/celltrion-closes-us-plant-purchase-dubbing-local-drug-substance-facility-fundamental"
         }
       ],
       "pipeline": [
@@ -2048,8 +2277,7 @@
             "phase": "Clinical Phase 3",
             "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241227800073"
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "CT-P51",
@@ -2091,8 +2319,7 @@
             "phase": "Phase 3",
             "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240617800002"
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "CT-P53",
@@ -2134,8 +2361,7 @@
             "phase": "Phase3",
             "link": "https://classic.clinicaltrials.gov/ct2/show/NCT05906992?term=CT-P53&draw=2&rank=1"
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         },
         {
           "name": "CT-P55",
@@ -2177,8 +2403,7 @@
             "phase": "Phase 3",
             "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240701800002"
           },
-          "status_note": null,
-          "new": true
+          "status_note": null
         }
       ]
     },
@@ -2248,24 +2473,64 @@
       ],
       "google_news": [
         {
-          "date": "16 hours ago",
+          "date": "3 days ago",
           "title": "Samsung Biologics, Amgen and Biocon invest in US pharma sites",
+          "source": "Manufacturing Dive",
           "link": "https://www.manufacturingdive.com/news/samsung-biologics-us-pharma-amgen-biocon-investment/760104/"
         },
         {
-          "date": "18 hours ago",
-          "title": "The Global Capacity Squeeze in Biomanufacturing",
-          "link": "https://www.genengnews.com/topics/bioprocessing/the-global-capacity-squeeze-in-biomanufacturing/"
+          "date": "1 week ago",
+          "title": "Samsung Biologics wins $1.3 bn US order, its second-largest ever",
+          "source": "KED Global",
+          "link": "https://www.kedglobal.com/bio-pharma/newsView/ked202509090004"
         },
         {
-          "date": "14 hours ago",
+          "date": "1 week ago",
+          "title": "Amid tariff uncertainty, Korea's Samsung Biologics inks $1.3B contract manufacturing deal with US pharma",
+          "source": "Fierce Pharma",
+          "link": "https://www.fiercepharma.com/manufacturing/amid-tariff-uncertainty-koreas-samsung-biologics-inks-13b-contract-manufacturing-deal"
+        },
+        {
+          "date": "18 hours ago",
+          "title": "Samsung Biologics lands $1.29 billion deal, nears annual order total",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/english/industry-en/2025/09/19/IPHBTN35NBEGJDRVWH7MSDEPWI/"
+        },
+        {
+          "date": "1 week ago",
+          "title": "Samsung Biologics signs $1.29 billion deal with US pharma firm",
+          "source": "NewsGram",
+          "link": "https://www.newsgram.com/health/2025/09/09/samsung-signs-129-billion-deal-with-pharma-firm"
+        },
+        {
+          "date": "10 Jun 2025",
+          "title": "Samsung Biologics to spin-off Samsung Bioepis",
+          "source": "Generics and Biosimilars Initiative (GaBI)",
+          "link": "https://www.gabionline.net/pharma-news/samsung-biologics-to-spin-off-samsung-bioepis"
+        },
+        {
+          "date": "1 week ago",
+          "title": "Samsung Biologics scores $1.3B US contract amid Trump tariff jitters",
+          "source": "FirstWord Pharma",
+          "link": "https://firstwordpharma.com/story/6059430"
+        },
+        {
+          "date": "3 days ago",
           "title": "Top 10 Contract Development and Manufacturing Organizations 2025",
+          "source": "Genetic Engineering and Biotechnology News",
           "link": "https://www.genengnews.com/topics/bioprocessing/top-10-contract-development-and-manufacturing-organizations-2025/"
         },
         {
-          "date": "8 hours ago",
-          "title": "KOSPI Hits Record High for Fifth Straight Session... KOSDAQ Turns Weak",
-          "link": "https://cm.asiae.co.kr/en/article/2025091609385642208"
+          "date": "15 Jun 2025",
+          "title": "Samsung Biologics launches drug screening services, Samsung Organoids",
+          "source": "PR Newswire",
+          "link": "https://www.prnewswire.com/news-releases/samsung-biologics-launches-drug-screening-services-samsung-organoids-302481752.html"
+        },
+        {
+          "date": "1 week ago",
+          "title": "Samsung Biologics signs $1.29 billion CMO deal with US pharma company",
+          "source": "KBR",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=28896"
         }
       ],
       "pipeline": [
@@ -2314,8 +2579,7 @@
               "text": "Learn more about the clinical\n\t\t\t\t\t\t\ttrial",
               "url": "https://clinicaltrials.gov/ct2/show/NCT04664959?cond=sb16&draw=2&rank=1"
             }
-          ],
-          "new": true
+          ]
         },
         {
           "name": "SB27",
@@ -2366,14 +2630,18 @@
               "text": "Learn more about the clinical trial (phase III)",
               "url": "https://clinicaltrials.gov/study/NCT06348199"
             }
-          ],
-          "new": true
+          ]
         }
       ]
     },
     {
       "company": "Sandoz",
       "website": [
+        {
+          "date": "17/09/2025",
+          "title": "Strengthening Europe’s antibiotic independence: Sandoz adopts Alpbach Communiqué to safeguard EU-based antibiotic production",
+          "link": "https://www.sandoz.com/strengthening-europes-antibiotic-independence-sandoz-adopts-alpbach-communique-safeguard-eu-based"
+        },
         {
           "date": "09/09/2025",
           "title": "Sandoz reaches agreement with Regeneron, resolving all patent litigation related to its US aflibercept biosimilar",
@@ -2418,33 +2686,68 @@
           "date": "30/04/2025",
           "title": "Sandoz reports Q1 2025 net sales in line with company expectations; full-year guidance confirmed",
           "link": "https://www.sandoz.com/sandoz-reports-q1-2025-net-sales-line-company-expectations-full-year-guidance-confirmed"
-        },
-        {
-          "date": "29/04/2025",
-          "title": "Sandoz enters global collaboration license agreement with Henlius to commercialize leading oncology therapy, ipilimumab, in multiple indications",
-          "link": "https://www.sandoz.com/sandoz-enters-global-collaboration-license-agreement-henlius-commercialize-leading-oncology-therapy"
         }
       ],
       "google_news": [
         {
-          "date": "10 hours ago",
-          "title": "Grocery Outlet Customers Raise $6,412 for St. Vincent de Paul Food Pantry",
-          "link": "https://columbiacommunityconnection.com/the-dalles/grocery-outlet-customers-raise-6412-for-st-vincent-de-paul-food-pantry"
+          "date": "1 day ago",
+          "title": "Strengthening Europe’s antibiotic independence: Sandoz adopts Alpbach Communiqué to safeguard EU-based antibiotic production",
+          "source": "Sandoz",
+          "link": "https://www.sandoz.com/strengthening-europes-antibiotic-independence-sandoz-adopts-alpbach-communique-safeguard-eu-based/"
         },
         {
-          "date": "5 hours ago",
-          "title": "Photography exhibit chronicles early 1900s in western Nebraska",
-          "link": "https://rivercountry.newschannelnebraska.com/story/53085972/photography-exhibit-chronicles-early-1900s-in-western-nebraska"
+          "date": "1 week ago",
+          "title": "Sandoz challenges Bayer’s Xarelto strategy in damages claim",
+          "source": "JUVE Patent",
+          "link": "https://www.juve-patent.com/cases/sandoz-challenges-bayers-xarelto-strategy-in-damages-claim/"
         },
         {
-          "date": "17 hours ago",
-          "title": "The era of cheap, generic Ozempic is about to begin—and Canada’s the guinea pig",
-          "link": "https://thelogic.co/news/era-of-cheap-generic-ozempic-begins-and-canada-guinea-pig/"
+          "date": "1 week ago",
+          "title": "With settlement, Sandoz can launch its biosimilar to Regeneron's Eylea by end of 2026",
+          "source": "Fierce Pharma",
+          "link": "https://www.fiercepharma.com/pharma/settlement-sandoz-can-launch-its-biosimilar-regenerons-eylea-end-2026"
         },
         {
-          "date": "11 hours ago",
-          "title": "Mullen science teacher named Nebraska Teacher of the Year",
-          "link": "https://www.ksnblocal4.com/2025/09/15/mullen-science-teacher-named-nebraska-teacher-year/?outputType=amp"
+          "date": "1 week ago",
+          "title": "Sandoz and Regeneron reach agreement over biosimilar dispute",
+          "source": "Ophthalmology Times",
+          "link": "https://www.ophthalmologytimes.com/view/sandoz-and-regeneron-reach-agreement-over-biosimilar-dispute"
+        },
+        {
+          "date": "1 week ago",
+          "title": "Regeneron ends patent fight with Sandoz over Eylea biosimilar",
+          "source": "FirstWord Pharma",
+          "link": "https://firstwordpharma.com/story/6040917"
+        },
+        {
+          "date": "1 month ago",
+          "title": "Sandoz to market Lupin’s biosimilar ranibizumab in multiple markets globally",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/business/sandoz-to-market-lupins-biosimilar-ranibizumab-in-multiple-markets-globally/article69924376.ece"
+        },
+        {
+          "date": "1 month ago",
+          "title": "Sandoz targets 70% price cut for weight-loss drugs in Canada",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/e1da2702-e904-4c52-b7de-9525f0639f18"
+        },
+        {
+          "date": "1 month ago",
+          "title": "Lupin ties up with Sandoz to commercialise biosimilar product",
+          "source": "The Economic Times",
+          "link": "https://m.economictimes.com/industry/healthcare/biotech/pharmaceuticals/lupin-ties-up-with-sandoz-to-commercialise-biosimilar-product/articleshow/123253538.cms"
+        },
+        {
+          "date": "1 week ago",
+          "title": "Sandoz reaches agreement with Regeneron, resolving all patent litigation related to its US aflibercept biosimilar",
+          "source": "Sandoz",
+          "link": "https://www.sandoz.com/sandoz-reaches-agreement-with-regeneron-resolving-all-patent-litigation-related-to-its-us-aflibercept-biosimilar/"
+        },
+        {
+          "date": "11 May 2025",
+          "title": "Sandoz–Henlius partner to commercialize oncology biosimilar ipilimumab",
+          "source": "Generics and Biosimilars Initiative (GaBI)",
+          "link": "https://www.gabionline.net/pharma-news/sandoz-henlius-partner-to-commercialize-oncology-biosimilar-ipilimumab"
         }
       ],
       "pipeline": [
@@ -2487,8 +2790,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Binocrit ® (epoetin alfa)",
@@ -2529,8 +2831,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Zarzio ® / Zarxio ® (filgrastim)",
@@ -2571,8 +2872,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Rixathon ® (rituximab)",
@@ -2613,8 +2913,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Erelzi ® (etanercept)",
@@ -2655,8 +2954,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Zessly ® (infliximab)",
@@ -2697,8 +2995,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Hyrimoz ® (adalimumab)",
@@ -2739,8 +3036,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Ziextenzo ® (pegfilgrastim)",
@@ -2781,8 +3077,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Tyruko ® (natalizumab)",
@@ -2823,8 +3118,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Pyzchiva ® (ustekinumab)",
@@ -2865,8 +3159,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Wyost ® (denosumab) Jubbonti ® (denosumab)",
@@ -2907,8 +3200,7 @@
             "phase": "Marketed",
             "link": null
           },
-          "status_note": "",
-          "new": true
+          "status_note": ""
         },
         {
           "name": "Herwenda ® (trastuzumab) Reference medicine Herceptin ®",
@@ -2949,8 +3241,7 @@
             "phase": "File accepted in US Approved in Europe",
             "link": null
           },
-          "status_note": "USD 2 bn",
-          "new": true
+          "status_note": "USD 2 bn"
         },
         {
           "name": "Avzivi ® (bevacizumab) Reference medicine Avastin ®",
@@ -2991,8 +3282,7 @@
             "phase": "Regulatory review - approved in the US and Europe",
             "link": null
           },
-          "status_note": "USD 2 bn",
-          "new": true
+          "status_note": "USD 2 bn"
         },
         {
           "name": "Reference medicine NovoLog ® (insulin aspart)",
@@ -3033,8 +3323,7 @@
             "phase": "Regulatory review - file accepted in the US and Europe",
             "link": null
           },
-          "status_note": "USD 4 bn",
-          "new": true
+          "status_note": "USD 4 bn"
         },
         {
           "name": "Reference medicine Lantus ® (insulin glargine)",
@@ -3075,8 +3364,7 @@
             "phase": "Regulatory review - file accepted in the US and Europe",
             "link": null
           },
-          "status_note": "USD 2 bn",
-          "new": true
+          "status_note": "USD 2 bn"
         },
         {
           "name": "Reference medicine Humalog ® (insulin lispro)",
@@ -3117,8 +3405,7 @@
             "phase": "Regulatory review - file accepted in the US and Europe",
             "link": null
           },
-          "status_note": "USD 2 bn",
-          "new": true
+          "status_note": "USD 2 bn"
         },
         {
           "name": "Enzeevu TM /Afqlir ® (aflibercept) Reference medicine Eylea ®",
@@ -3159,8 +3446,7 @@
             "phase": "Approved in the US and Europe, near-term launch",
             "link": null
           },
-          "status_note": "USD 9 bn",
-          "new": true
+          "status_note": "USD 9 bn"
         },
         {
           "name": "Reference medicine Opdivo ® (nivolumab) IV",
@@ -3201,8 +3487,7 @@
             "phase": "In clinical development",
             "link": null
           },
-          "status_note": "USD 10 bn",
-          "new": true
+          "status_note": "USD 10 bn"
         },
         {
           "name": "Reference medicine Keytruda ® (pembrolizumab) IV",
@@ -3243,8 +3528,7 @@
             "phase": "In clinical development",
             "link": null
           },
-          "status_note": "USD 31 bn",
-          "new": true
+          "status_note": "USD 31 bn"
         },
         {
           "name": "Reference medicine Ocrevus ® (ocrelizumab) IV",
@@ -3285,8 +3569,7 @@
             "phase": "In clinical development",
             "link": null
           },
-          "status_note": "USD 5 bn",
-          "new": true
+          "status_note": "USD 5 bn"
         },
         {
           "name": "Reference medicine Yervoy ® (ipilimumab)",
@@ -3327,8 +3610,7 @@
             "phase": "In clinical development",
             "link": null
           },
-          "status_note": "USD 3 bn",
-          "new": true
+          "status_note": "USD 3 bn"
         },
         {
           "name": "Reference medicine Darzalex ® (daratumumab) SC",
@@ -3369,8 +3651,7 @@
             "phase": "In technical development",
             "link": null
           },
-          "status_note": "USD 17 bn",
-          "new": true
+          "status_note": "USD 17 bn"
         },
         {
           "name": "Reference medicine Enhertu ® (trastuzumab deruxtecan)",
@@ -3411,8 +3692,7 @@
             "phase": "In technical development",
             "link": null
           },
-          "status_note": "USD 15 bn",
-          "new": true
+          "status_note": "USD 15 bn"
         },
         {
           "name": "Reference medicine Tecentriq ® (atezolizumab)",
@@ -3453,8 +3733,7 @@
             "phase": "In technical development",
             "link": null
           },
-          "status_note": "USD 4 bn",
-          "new": true
+          "status_note": "USD 4 bn"
         },
         {
           "name": "Reference medicine Skyrizi ® (risankizumab)",
@@ -3495,8 +3774,7 @@
             "phase": "In technical development",
             "link": null
           },
-          "status_note": "USD 25 bn",
-          "new": true
+          "status_note": "USD 25 bn"
         },
         {
           "name": "Reference medicine Tremfya ® (guselkumab)",
@@ -3537,8 +3815,7 @@
             "phase": "In technical development",
             "link": null
           },
-          "status_note": "USD 7 bn",
-          "new": true
+          "status_note": "USD 7 bn"
         },
         {
           "name": "Reference medicine Eylea HD ® (aflibercept) 8 mg",
@@ -3579,8 +3856,7 @@
             "phase": "In technical development",
             "link": null
           },
-          "status_note": "USD 4 bn",
-          "new": true
+          "status_note": "USD 4 bn"
         },
         {
           "name": "Reference medicine Ocrevus ® (ocrelizumab) SC",
@@ -3621,8 +3897,7 @@
             "phase": "In technical development",
             "link": null
           },
-          "status_note": "USD 4 bn",
-          "new": true
+          "status_note": "USD 4 bn"
         },
         {
           "name": "Reference medicine Dupixent ® (dupilumab)",
@@ -3663,14 +3938,18 @@
             "phase": "In technical development",
             "link": null
           },
-          "status_note": "USD 24 bn",
-          "new": true
+          "status_note": "USD 24 bn"
         }
       ]
     },
     {
       "company": "Biocon",
       "website": [
+        {
+          "date": "Sep 17, 2025",
+          "title": "Biocon Biologics Receives U.S. Food and Drug Administration Approval for Bosaya™ and Aukelso™, Denosumab Biosimilars",
+          "link": "https://www.biocon.com/biocon-biologics-receives-u-s-food-and-drug-administration-approval-for-bosaya-and-aukelso-denosumab-biosimilars/"
+        },
         {
           "date": "Sep 12, 2025",
           "title": "Biocon Foundation Supports Government High School, Kicks off Construction of a New Building for 250 Students",
@@ -3715,62 +3994,68 @@
           "date": "Jun 27, 2025",
           "title": "Biocon Biologics Receives Health Canada Approval for Yesafili™ (aflibercept); First Global Launch Scheduled for July 2025",
           "link": "https://www.biocon.com/biocon-biologics-receives-health-canada-approval-for-yesafili-aflibercept-first-global-launch-scheduled-for-july-2025/"
-        },
-        {
-          "date": "Jun 24, 2025",
-          "title": "Biocon Biologics Collaborates with National Cancer Society Malaysia",
-          "link": "https://www.biocon.com/biocon-biologics-collaborates-with-national-cancer-society-malaysia"
         }
       ],
       "google_news": [
         {
-          "date": "16 hours ago",
-          "title": "Samsung Biologics, Amgen and Biocon invest in US pharma sites",
-          "link": "https://www.manufacturingdive.com/news/samsung-biologics-us-pharma-amgen-biocon-investment/760104/"
+          "date": "1 day ago",
+          "title": "Biocon shares rise 2% after USFDA approval for osteoporosis and bone loss drugs",
+          "source": "The Economic Times",
+          "link": "https://m.economictimes.com/markets/stocks/news/biocon-shares-rise-2-after-usfda-approval-for-osteoporosis-and-bone-loss-drugs/articleshow/123964428.cms"
         },
         {
-          "date": "23 hours ago",
-          "title": "Biocon Foundation Begins Construction of New School Building in Kodamballi to Support 250 Students",
-          "link": "https://thecsruniverse.com/articles/biocon-foundation-begins-construction-of-new-school-building-in-kodamballi-to-support-250-students"
+          "date": "4 hours ago",
+          "title": "Biocon Biologics eyes $7 billion global opportunity with new biosimilar approvals",
+          "source": "CNBC TV18",
+          "link": "https://www.cnbctv18.com/business/companies/biocon-biologics-eyes-7-billion-global-opportunity-with-new-biosimilar-approvals-19680235.htm"
         },
         {
-          "date": "23 hours ago",
-          "title": "BioWISE 2025 – Call for Applications Open | Scholarship and Mentorship Programme for Women in STEM",
-          "link": "https://www.biotecnika.org/2025/09/biowise-2025-biocon-applications-eligibility-registrations-ncbs/"
+          "date": "1 day ago",
+          "title": "Biocon gains after arm gets USFDA nod for two denosumab biosimilars",
+          "source": "Business Standard",
+          "link": "https://www.business-standard.com/markets/capital-market-news/biocon-gains-after-arm-gets-usfda-nod-for-two-denosumab-biosimilars-125091800346_1.html"
         },
         {
-          "date": "24 hours ago",
-          "title": "Biocon launches first US manufacturing facility in Cranbury, NJ",
-          "link": "https://www.investmentmonitor.ai/news/biocon-launches-first-us-manufacturing-facility-in-cranbury-nj/"
+          "date": "1 day ago",
+          "title": "Biocon Shares Gain 3% on Gaining Two USFDA Approvals",
+          "source": "Equitypandit",
+          "link": "https://www.equitypandit.com/biocon-shares-gain-3-on-gaining-two-usfda-approvals/"
         },
         {
-          "date": "24 hours ago",
-          "title": "Glenmark, J. K. Cement among top losers on Nifty Midcap 150",
-          "link": "https://www.tradingview.com/news/moneycontrol:b570d196e094b:0-glenmark-j-k-cement-among-top-losers-on-nifty-midcap-150/",
-          "new": true
+          "date": "1 day ago",
+          "title": "Biocon shares rise 1.65% amid high volume",
+          "source": "Moneycontrol",
+          "link": "https://www.moneycontrol.com/news/business/stocks/biocon-shares-rise-1-65-amid-high-volume-alpha-article-13556392.html"
         },
         {
-          "date": "24 hours ago",
-          "title": "Glenmark, J. K. Cement among top losers on Nifty Midcap 150",
-          "link": "https://www.moneycontrol.com/news/business/stocks/glenmark-j-k-cement-among-top-losers-on-nifty-midcap-150-13547288.html",
-          "new": true
+          "date": "1 day ago",
+          "title": "Biocon share price rises 3% as arm gets USFDA nod for two drugs; details",
+          "source": "Business Standard",
+          "link": "https://www.business-standard.com/markets/news/biocon-share-price-rises-3-as-arm-gets-usfda-nod-for-two-drugs-details-bse-nse-pharma-stock-nifty-sensex-today-125091800249_1.html"
         },
         {
-          "date": "1 hour ago",
-          "title": "Nagaland University research to boost quantum tech, devices & algorithms",
-          "link": "https://assamtribune.com/sci-and-tech/nagaland-university-research-to-boost-quantum-tech-devices-algorithms-1591506",
-          "new": true
+          "date": "9 hours ago",
+          "title": "Stocks To Watch: Dr Reddys Labs, Mobikwik, Kfin Tech, PC Jeweller, Biocon",
+          "source": "NDTV Profit",
+          "link": "https://www.ndtvprofit.com/markets/stocks-to-watch-dr-reddys-labs-mobikwik-kfin-tech-pc-jeweller-biocon"
         },
         {
-          "date": "24 hours ago",
-          "title": "Adani Cement marks Engineers’ Day with ‘FutureX’ initiative for innovators",
-          "link": "https://assamtribune.com/sci-and-tech/adani-cement-marks-engineers-day-with-futurex-initiative-for-innovators-1591404",
-          "new": true
+          "date": "21 hours ago",
+          "title": "Biocon arm gets Ontario listing for retinal drug; check details",
+          "source": "Upstox",
+          "link": "https://upstox.com/news/market-news/latest-updates/biocon-arm-gets-ontario-listing-for-retinal-drug-check-details/article-181552/"
         },
         {
-          "date": "22 hours ago",
-          "title": "JS-SEZ momentum powers Johor's booming industrial deals",
-          "link": "https://www.nst.com.my/property/2025/09/1275627/js-sez-momentum-powers-johors-booming-industrial-deals"
+          "date": "8 hours ago",
+          "title": "Biocon, ITC among 8 Stocks flashing bullish RSI signals",
+          "source": "The Economic Times",
+          "link": "https://m.economictimes.com/markets/stocks/news/biocon-itc-among-8-stocks-flashing-bullish-rsi-signals/strength-signal/slideshow/123988020.cms"
+        },
+        {
+          "date": "9 hours ago",
+          "title": "From Adani Group, Yes Bank, Biocon to Vedanta- Here are 8 stocks to watch",
+          "source": "financialexpress.com",
+          "link": "https://www.financialexpress.com/market/stocks-to-watch-adani-group-stocks-yes-bank-jk-tyre-oil-india-biocon-one-mobikwik-systems-vedanta-texmaco-rail-engineering-3982306/"
         }
       ],
       "pipeline": []
