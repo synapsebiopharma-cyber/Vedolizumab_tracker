@@ -267,3 +267,10 @@ else:
             if eligibility:
                 with st.expander("📋 Eligibility Criteria", expanded=False):
                     st.markdown(eligibility)
+
+
+#debug
+# for t in all_trials:
+#     if "ctri" in t.get("nct_id", "").lower():
+#         cs = t.get("change_status")
+#         st.write(repr(cs), "—", t.get("nct_id"))

@@ -1,0 +1,53 @@
+name: Daily Main Run
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 00:30 UTC = 06:00 AM IST
+    - cron: "30 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  run-main:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Set up Chrome
+        uses: browser-actions/setup-chrome@v1
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run main pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GOOGLE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_CREDENTIALS_JSON }}
+          NEWS_ENRICHMENT_MODE: ${{ secrets.NEWS_ENRICHMENT_MODE }}
+          KOREAN_NEWS_ENRICHMENT_MODE: ${{ secrets.KOREAN_NEWS_ENRICHMENT_MODE }}
+        run: python main.py
+
+      - name: Commit updated data files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add *.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update tracker data"
+            git push
+          fi
