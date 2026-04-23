@@ -1,3 +1,4 @@
+import json
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -17,7 +18,7 @@ def scrape_news_section():
     """
     url = "https://www.businesskorea.co.kr/news/articleList.html?sc_sub_section_code=S2N19&view_type=sm"
     options = webdriver.ChromeOptions()
-    options.add_argument("--headless")
+    # options.add_argument("--headless")
     options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                      "AppleWebKit/537.36 (KHTML, like Gecko) "
                      "Chrome/120.0.0.0 Safari/537.36")
@@ -64,3 +65,7 @@ def scrape_news_section():
     driver.quit()
     return news_data
 # print(scrape_news_section())
+
+if __name__ == "__main__":
+    data = scrape_news_section()
+    print(json.dumps(data, indent=4, ensure_ascii=False))

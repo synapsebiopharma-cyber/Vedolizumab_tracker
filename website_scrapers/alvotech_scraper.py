@@ -4,6 +4,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
+import json
 
 URL = "https://investors.alvotech.com/news-events/news-releases"  # <- update if actual URL differs
 
@@ -51,3 +52,7 @@ def fetch_alvotech_news(limit=5):
 
     finally:    
         driver.quit()
+
+if __name__ == "__main__":
+    data = fetch_alvotech_news(limit=5)
+    print(json.dumps(data, indent=4, ensure_ascii=False))

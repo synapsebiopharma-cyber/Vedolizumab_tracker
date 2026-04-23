@@ -3,6 +3,20 @@ import json
 import streamlit as st
 import pandas as pd
 
+# --- Cache JSON loading to prevent reloading on every rerun ---
+@st.cache_data
+def load_json_file(file_path):
+    """Load and cache JSON file"""
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except FileNotFoundError:
+        st.error(f"❌ File not found: {file_path}")
+        st.stop()
+    except json.JSONDecodeError as e:
+        st.error(f"❌ JSON parsing error in {file_path}: {e}")
+        st.stop()
+
 # --- CSS Styling ---
 custom_css = """
 <style>
@@ -59,26 +73,34 @@ use_ai_filter = st.sidebar.toggle("AI Filter", value=True)  # ✅ ON by default
 # --- Load JSON file depending on toggle ---
 if use_ai_filter:
     enriched_json_path = os.path.join(os.path.dirname(__file__), "..", "results_enriched.json")
-    with open(enriched_json_path, "r", encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_json_file(enriched_json_path)
     st.sidebar.success("✅ AI Filter: ON (showing enriched results)")
 else:
     raw_json_path = os.path.join(os.path.dirname(__file__), "..", "results.json")
-    with open(raw_json_path, "r", encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_json_file(raw_json_path)
     st.sidebar.warning("⚠️ AI Filter: OFF (showing raw results)")
 
 last_updated = data.get("last_updated", "Unknown")
-companies = [c["company"] for c in data.get("companies", data)]  # support both formats
+
+# --- Safely extract companies ---
+if "companies" not in data:
+    st.error("❌ No 'companies' key found in JSON data")
+    st.stop()
+
+companies = [c.get("company", "Unknown") for c in data.get("companies", [])]
+if not companies:
+    st.error("❌ No companies found in data")
+    st.stop()
 
 # --- Company Dashboard ---
 st.title("📊 Company Dashboard")
 company_name = st.sidebar.selectbox("Select a Company", companies)
 
-if "companies" in data:  # new format
-    company_data = next(c for c in data["companies"] if c["company"] == company_name)
-else:  # old format
-    company_data = next(c for c in data if c["company"] == company_name)
+company_data = next((c for c in data["companies"] if c["company"] == company_name), None)
+
+if not company_data:
+    st.error(f"❌ Company data not found for {company_name}")
+    st.stop()
 
 # Correct path resolution
 logo_path = os.path.join(os.path.dirname(__file__), "logos", f"{company_name}.png")

@@ -1,3 +1,5 @@
+import json
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
@@ -41,3 +43,7 @@ def fetch_celltrion_news(limit=10):
 
     finally:
         driver.quit()
+
+if __name__ == "__main__":
+    data = fetch_celltrion_news(limit=5)
+    print(json.dumps(data, indent=4, ensure_ascii=False))

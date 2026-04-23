@@ -6,7 +6,7 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
 
-URL = "https://polpharmabiologics.com/en/pipeline-portfolio/biosimilar-pipeline/"
+URL = "http://polpharmabiologics.com/pipeline-portfolio/biosimilar-pipeline/"
 
 
 def fetch_polpharma_pipeline(limit=None, save_to_file=True):

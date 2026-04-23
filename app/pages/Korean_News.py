@@ -5,6 +5,20 @@ import os
 
 st.title("📰 Korean Biopharma News")
 
+# --- Cache JSON loading to prevent reloading on every rerun ---
+@st.cache_data
+def load_korean_json(file_path):
+    """Load and cache Korean news JSON file"""
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except FileNotFoundError:
+        st.warning(f"Could not find {file_path}")
+        return {"sources": []}
+    except json.JSONDecodeError as e:
+        st.error(f"JSON parsing error in {file_path}: {e}")
+        return {"sources": []}
+
 # --- Sidebar toggle for AI Filter ---
 use_ai_filter = st.sidebar.toggle("AI Filter", value=True)  # ✅ ON by default
 
@@ -12,17 +26,12 @@ use_ai_filter = st.sidebar.toggle("AI Filter", value=True)  # ✅ ON by default
 root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 if use_ai_filter:
     json_path = os.path.join(root_dir, "korean_results_enriched.json")
+    korean_news = load_korean_json(json_path)
     st.sidebar.success("✅ AI Filter: ON (showing enriched results)")
 else:
     json_path = os.path.join(root_dir, "korean_results.json")
+    korean_news = load_korean_json(json_path)
     st.sidebar.warning("⚠️ AI Filter: OFF (showing raw results)")
-
-try:
-    with open(json_path, "r", encoding="utf-8") as f:
-        korean_news = json.load(f)
-except FileNotFoundError:
-    st.warning(f"Could not find {json_path}")
-    korean_news = {"sources": []}
 
 
 # --- Custom CSS to make content full width ---

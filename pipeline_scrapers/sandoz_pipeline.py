@@ -98,7 +98,7 @@ def fetch_sandoz_pipeline(save_to_file=True):
 
     return result
 
-# print(fetch_sandoz_pipeline())
-if __name__ == "__main__":
-    data = fetch_sandoz_pipeline()
-    print(json.dumps(data, indent=4, ensure_ascii=False))
+print(fetch_sandoz_pipeline())
+# if __name__ == "__main__":
+#     data = fetch_sandoz_pipeline()
+#     print(json.dumps(data, indent=4, ensure_ascii=False))

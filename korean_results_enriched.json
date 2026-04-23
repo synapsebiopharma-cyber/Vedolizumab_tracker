@@ -1,256 +1,44 @@
 {
-  "last_updated": "2025-09-19 15:46:01 IST",
+  "last_updated": "2026-04-23 15:49:31 IST",
   "sources": [
-    {
-      "source": "Business Korea",
-      "articles": [
-        {
-          "title": "South Korea’s Aribio Signs 27.3 Billion Won Contract for Fillers with Stern Medical",
-          "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=252498",
-          "summary": "Aribio announced on Sept. 19 that it has signed a 27.3 billion won export contract for hyaluronic acid fillers with Stern Medical, a global medical device distribution company.Stern Medical is a company with global sales networks and distribution expertise in the medical device and skin booster sect",
-          "category": "Healthcare & Bio",
-          "author": "Choi Mun-hee",
-          "date": "2025.09.19 15:22",
-          "image_url": "https://www.businesskorea.co.kr/news/thumbnail/202509/252498_257197_2143_v150.jpg",
-          "new": true,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Celltrion Launches Omliklo, Europe’s First Xolair Biosimilar",
-          "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=252456",
-          "summary": "Celltrion announced on Sept. 19 that it has launched Omliklo, a treatment for chronic spontaneous urticaria, in Europe. Omliklo is the first Xolair biosimilar to be launched in Europe. Xolair, the original drug developed by Novartis, recorded global sales of approximately 6.4992 trillion won last ye",
-          "category": "Healthcare & Bio",
-          "author": "Choi Mun-hee",
-          "date": "2025.09.19 11:53",
-          "image_url": "https://www.businesskorea.co.kr/news/thumbnail/202509/252456_257151_5123_v150.jpg",
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Yuhan Breaks Ground on Factory to Produce 700 Million Oral Solid Dosage Forms Annually",
-          "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=252453",
-          "summary": "Yuhan Corp. announced on Sept. 19 that it held a groundbreaking ceremony for its new factory at the Osong 2nd Life Science Complex in Cheongju City, North Chungcheong Province on Sept. 18.The new factory will be constructed with a total floor area of 16,593.51 square meters (5,019.5 pyeong), consist",
-          "category": "Healthcare & Bio",
-          "author": "Choi Mun-hee",
-          "date": "2025.09.19 11:48",
-          "image_url": "https://www.businesskorea.co.kr/news/thumbnail/202509/252453_257148_4339_v150.jpg",
-          "tag": "Other"
-        },
-        {
-          "title": "Chong Kun Dang to Build AI-based Autonomous Factory",
-          "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=252451",
-          "summary": "Chong Kun Dang announced on Sept. 19 that it held a ceremony on Sept. 17 to launch an autonomous factory construction project at its Cheonan factory in South Chungcheong Province, with the participation of the Ministry of SMEs and Startups and related officials. The factory is planned to be built as",
-          "category": "Healthcare & Bio",
-          "author": "Choi Mun-hee",
-          "date": "2025.09.19 11:39",
-          "image_url": "https://www.businesskorea.co.kr/news/thumbnail/202509/252451_257145_3630_v150.jpg",
-          "tag": "Other"
-        },
-        {
-          "title": "Chong Kun Dang, Novo Nordisk Partner on Obesity Drug",
-          "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=252380",
-          "summary": "Chong Kun Dang (CEO Kim Young-joo) announced on September 18, that it has signed a co-promotion agreement with Novo Nordisk Pharma Korea (CEO Casper Roseeuw Poulsen) for the obesity treatment Wegovy® (generic name: semaglutide) at its headquarters in Chungjeong-ro, Seoul.Through this agreement, both",
-          "category": "Healthcare & Bio",
-          "author": "Kim Eun-jin",
-          "date": "2025.09.18 15:42",
-          "image_url": "https://www.businesskorea.co.kr/news/thumbnail/202509/252380_257065_4234_v150.jpg",
-          "tag": "Collaboration"
-        },
-        {
-          "title": "GeneMatrix Secures U.S. Patent for Cancer Vaccine",
-          "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=252266",
-          "summary": "GeneMatrix Inc., a Korean company specializing in simultaneous multiplex genetic analysis technology, announced on Sept. 17 that its cervical cancer treatment vaccine candidate GMPV-12 has been registered as a U.S. patent. Following this news, the company’s stock price also hit the upper limit.Accor",
-          "category": "Healthcare & Bio",
-          "author": "Choi Mun-hee",
-          "date": "2025.09.17 17:43",
-          "image_url": "https://www.businesskorea.co.kr/news/thumbnail/202509/252266_256939_4239_v150.jpg",
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Alteogen Wins EU Approval for Eylea Biosimilar ‘Eyeruxbi’",
-          "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=252185",
-          "summary": "Alteogen announced on Sept. 17 that it has received marketing authorization from the European Commission (EC) for \"Eyeruxbi,\" a biosimilar product of Eylea.Eyeruxbi is the second biosimilar product approved by Alteogen, following its Herceptin biosimilar. The final marketing authorization was grante",
-          "category": "Healthcare & Bio",
-          "author": "Choi Mun-hee",
-          "date": "2025.09.17 11:20",
-          "image_url": "https://www.businesskorea.co.kr/news/thumbnail/202509/252185_256842_1737_v150.jpg",
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Aribio Demonstrates Cognitive Boost with Vibro-acoustic Stimulation",
-          "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=251823",
-          "summary": "Aribio Co., a Korean biotechnology company specializing in therapies for neurodegenerative diseases, announced on Sept. 12 that the clinical results of its research on transcranial vibro-acoustic stimulation for improving cognitive function and psychological state in the elderly have been published",
-          "category": "Healthcare & Bio",
-          "author": "Choi Mun-hee",
-          "date": "2025.09.12 14:19",
-          "image_url": "https://www.businesskorea.co.kr/news/thumbnail/202509/251823_256441_156_v150.jpg",
-          "tag": "Clinical Trial"
-        }
-      ]
-    },
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "'RSV antibody Beyfortus seen as key to stabilizing healthcare system'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=29042",
-          "summary": "The “I” in the National Immunization Program (NIP) stands for “Immunization.” The criteria for evaluating NIP inclusion are based on an immunological perspective. After reviewing the actual efficacy and intended use of Beyfortus (across various countries), it was concluded that it differs little fro",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "2025.09.19 16:25",
-          "image_url": "https://cdn.koreabiomed.com/news/thumbnail/202509/29042_30938_2146_v150.jpg",
-          "new": true,
-          "tag": "Other"
-        },
-        {
-          "title": "Medytox scores approval for world’s 1st cholic acid fat-dissolving injection Nuviju",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=29036",
-          "summary": "Medytox said Thursday it has received marketing approval from the Ministry of Food and Drug Safety (MFDS) for Nuviju, the world’s first cholic acid–based fat-dissolving injection.The product is indicated for the treatment of moderate to severe submental fat, commonly known as double chin.Nuviju mark",
-          "category": "Pharma",
+          "title": "Samsung Bioepis' operating profit up 13% in Q1 on solid global biosimilar sales",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31418",
+          "category": "Bio",
           "author": "Lee Han-soo",
-          "date": "2025.09.19 15:10",
-          "image_url": "https://cdn.koreabiomed.com/news/thumbnail/202509/29036_30931_5822_v150.jpg",
-          "new": true,
-          "tag": "FDA Approval"
+          "date": "04.23 17:22",
+          "new": false,
+          "tag": "Financial"
         },
         {
-          "title": "Latecomer Jemperli wins reimbursement race against Keytruda for endometrial cancer in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=29033",
-          "summary": "GSK's anti-PD-1 immunotherapy drug Jemperli (dostarlimab) has overtaken MSD's Keytruda (pembrolizumab) in the first-line treatment market for advanced endometrial cancer, securing reimbursement approval ahead of its rival in a dramatic reversal.While the Health Insurance Review and Assessment Servic",
-          "category": "Pharma",
-          "author": "Kim Yun-mi",
-          "date": "2025.09.19 13:21",
-          "image_url": "https://cdn.koreabiomed.com/news/thumbnail/202509/29033_30927_1949_v150.jpg",
+          "title": "Opposition lawmaker warns of essential drug shortages, blames low pricing",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31416",
+          "category": "Policy",
+          "author": "Kim Eun-young",
+          "date": "04.23 15:47",
+          "new": false,
           "tag": "Other"
         },
         {
-          "title": "ProGen releases PG-102 clinical trial results at European diabetes meeting",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=29031",
-          "summary": "ProGen presented preclinical and clinical data for its GLP-1/GLP-2 dual agonist, PG-102, through three oral presentations at the European Association for the Study of Diabetes (EASD 2025) held in Vienna, Austria, starting on Monday (local time)G-102 is a compound developed based on ProGen's NTIG fus",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "2025.09.19 11:46",
-          "image_url": "https://cdn.koreabiomed.com/news/thumbnail/202509/29031_30924_454_v150.jpg",
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "FluMist to become a turning point in pediatric influenza vaccination: expert",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=29016",
-          "summary": "FluMist, a nasal spray influenza vaccine, is drawing attention as a potential new turning point in pediatric influenza vaccination due to its ease of administration and excellent preventive efficacy.AstraZeneca Korea hosted a symposium at the 29th Education Lecture of the Korean Society for Pediatri",
-          "category": "Pharma",
-          "author": "You Ji-young",
-          "date": "2025.09.18 14:42",
-          "image_url": "https://cdn.koreabiomed.com/news/thumbnail/202509/29016_30909_4154_v150.jpg",
-          "tag": "Other"
-        },
-        {
-          "title": "BD Korea signs MOU with Celltrion Pharm for contract manufacturing of prefilled syringes",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=29014",
-          "summary": "Becton Dickinson Korea (BD Korea) said on Wednesday that it signed a tripartite strategic memorandum of understanding with BD Global and Celltrion Pharm on Tuesday at the latter’s research institute in Songdo, Incheon, for contract manufacturing organization (CMO) cooperation on prefilled syringes (",
-          "category": "Pharma",
-          "author": "Park Gi-taek",
-          "date": "2025.09.18 14:04",
-          "image_url": "https://cdn.koreabiomed.com/news/thumbnail/202509/29014_30907_3858_v150.jpg",
-          "tag": "Collaboration"
-        },
-        {
-          "title": "GC Biopharma opens Laredo Plasma Center in Texas",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=29009",
-          "summary": "GC Biopharma said Wednesday that its U.S. subsidiary ABO Plasma (formerly ABO Holdings) has opened the Laredo Plasma Center in Texas. The opening took place Tuesday, local time.ABO Plasma will begin recruiting plasma donors immediately. Stored plasma has a shelf life of 24 months, and sales will com",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "2025.09.17 16:33",
-          "image_url": "https://cdn.koreabiomed.com/news/thumbnail/202509/29009_30901_3223_v150.jpg",
-          "tag": "Other"
-        },
-        {
-          "title": "FutureChem’s prostate cancer drug FC705 shows phase 2 progress, eyes fast-track approval",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=29007",
-          "summary": "FutureChem has reported positive signals from the phase 2 clinical trial of its domestically developed radiopharmaceutical FC705 for prostate cancer, raising expectations for rapid domestic approval.The company said Tuesday that part of the phase 2 trial results for FC705, a treatment for metastatic",
-          "category": "Pharma",
-          "author": "Kim Kyoung-Won",
-          "date": "2025.09.17 15:08",
-          "image_url": "https://cdn.koreabiomed.com/news/thumbnail/202509/29007_30899_719_v150.jpg",
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "HK inno.N’s K-CAB debuts in India with Dr. Reddy’s",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=29005",
-          "summary": "Korean pharma HK inno.N has launched its gastroesophageal reflux disease (GERD) drug K-CAB (tegoprazan) in India, with Dr. Reddy’s Laboratories set to manage sales and marketing.The drug, branded locally as PCAB 50 mg, secured Indian approval in May for erosive and non-erosive GERD as well as gastri",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "2025.09.17 14:39",
-          "image_url": "https://cdn.koreabiomed.com/news/thumbnail/202509/29005_30896_3712_v150.jpg",
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Korea United Pharm secures EAEU GMP certification for Sejong Plant 1",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=28993",
-          "summary": "Korea United Pharm announced on Tuesday that its Sejong Plant 1 has obtained Good Manufacturing Practice (GMP) certification from the Eurasian Economic Union (EAEU). This certification signifies that its manufacturing and quality management systems meet standards equivalent to those of the European",
-          "category": "Pharma",
-          "author": "Park Gi-taek",
-          "date": "2025.09.16 16:42",
-          "image_url": "https://cdn.koreabiomed.com/news/thumbnail/202509/28993_30883_4117_v150.jpg",
-          "tag": "Inspection"
-        },
-        {
-          "title": "SK biopharm’s Xcopri clears phase 3 in generalized seizures, setting up FDA filing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=28988",
-          "summary": "SK biopharmaceuticals is looking to widen the reach of its epilepsy drug cenobamate after a late-stage study showed it could significantly cut generalized seizures in adolescents and adults.The Korean company reported Tuesday that cenobamate, sold as Xcopri in the U.S., met the primary endpoint in a",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "2025.09.16 14:21",
-          "image_url": "https://cdn.koreabiomed.com/news/thumbnail/202509/28988_30876_1613_v150.jpg",
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Sanofi Korea transfers MS drug Aubagio rights to Mitsubishi Tanabe",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=28978",
-          "summary": "Sanofi Korea has granted Mitsubishi Tanabe Pharma Korea exclusive rights to market its multiple sclerosis (MS) pill Aubagio in the country, according to a Monday announcement.The arrangement, effective Sept. 1, gives Mitsubishi Tanabe control of sales and marketing, while Sanofi retains responsibili",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "2025.09.15 17:55",
-          "image_url": "https://cdn.koreabiomed.com/news/thumbnail/202509/28978_30864_5228_v150.jpg",
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Hanmi Pharm signs deal with Silanes to supply diabetes combo drug to Mexico",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=28974",
-          "summary": "Hanmi Pharmaceutical said Monday it has signed a licensing and supply agreement with Mexican pharmaceutical company Laboratorios Silanes for its diabetes combination therapies.Under the agreement, Hanmi will supply the products based on its formulation technology and production capabilities, while S",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "2025.09.15 16:13",
-          "image_url": "https://cdn.koreabiomed.com/news/thumbnail/202509/28974_30862_1115_v150.jpg",
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Hanmi’s triple-combo Amoprel sets new standard in hypertension care",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=28942",
-          "summary": "Amoprel (amlodipine 1.67mg, losartan 16.7mg, and chlorthalidone 4.17mg), the world's first commercially available low-dose triple-combination hypertension medication, has taken center stage in shifting the paradigm of hypertension treatment both at home and abroad.Hanmi Pharmaceutical held a news co",
-          "category": "Pharma",
-          "author": "Park Gi-taek",
-          "date": "2025.09.11 16:03",
-          "image_url": "https://cdn.koreabiomed.com/news/thumbnail/202509/28942_30818_118_v150.jpg",
-          "tag": "Other"
-        },
-        {
-          "title": "Boryung expands Ansan campus to double penicillin production capacity",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=28941",
-          "summary": "Boryung said it will expand its Ansan campus in Gyeonggi Province to enlarge penicillin production facilities and introduce advanced automation systems, aiming to strengthen the supply stability of essential antibiotics.Oral penicillin antibiotics were designated by the Ministry of Food and Drug Saf",
-          "category": "Pharma",
+          "title": "Celltrion begins dosing for 3 ADC cancer candidates",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31411",
+          "category": "Bio",
           "author": "Lee Han-soo",
-          "date": "2025.09.11 15:41",
-          "image_url": "https://cdn.koreabiomed.com/news/thumbnail/202509/28941_30816_170_v150.jpg",
+          "date": "04.23 14:29",
+          "new": false,
           "tag": "Other"
         },
         {
-          "title": "K-CAB shows gastroprotective effect in myocardial infarction patients receiving DAPT",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=28936",
-          "summary": "HK inno.N announced on Wednesday the results of a comparative safety analysis between its new gastroesophageal reflux disease (GERD) drug K-CAB (tegoprazan) and proton pump inhibitors (PPIs) in treating cardiovascular patients.Led by a research team at Yongin Severance Hospital (Professor Kim Yong-c",
-          "category": "Pharma",
-          "author": "Park Gi-taek",
-          "date": "2025.09.11 11:22",
-          "image_url": "https://cdn.koreabiomed.com/news/thumbnail/202509/28936_30808_2047_v150.jpg",
-          "tag": "Clinical Trial"
+          "title": "[AACR 2026] Samsung Biologics uses organoids to narrow preclinical–clinical gap in oncology",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31409",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "04.23 13:50",
+          "new": false,
+          "tag": "Other"
         }
       ]
     }
