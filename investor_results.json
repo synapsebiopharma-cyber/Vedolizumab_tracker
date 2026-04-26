@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24 12:07:53 IST",
+  "last_updated": "2026-04-26 11:44:45 IST",
   "companies": [
     {
       "company": "Alvotech",
@@ -80,7 +80,10 @@
           "url": "https://investors.alvotech.com/events/event-details/q1-2026-earnings-call",
           "date": "May 7, 2026",
           "time": "at 8:00 AM EDT",
-          "webcast": null,
+          "webcast": {
+            "text": "Link to registration form for webcast (live or replay)",
+            "url": "https://edge.media-server.com/mmc/p/ppckxq33"
+          },
           "docs": [],
           "new": false
         },
@@ -964,7 +967,7 @@
           "youtube_video_id": "kkRHwTGIzzY",
           "youtube_url": "https://www.youtube.com/watch?v=kkRHwTGIzzY",
           "embed_url": "https://www.youtube.com/embed/kkRHwTGIzzY",
-          "new": true
+          "new": false
         },
         {
           "id": "q1-fy26-results|08-aug-2025",
@@ -974,7 +977,7 @@
           "youtube_video_id": "lc6bzthQ7lQ",
           "youtube_url": "https://www.youtube.com/watch?v=lc6bzthQ7lQ",
           "embed_url": "https://www.youtube.com/embed/lc6bzthQ7lQ",
-          "new": true
+          "new": false
         },
         {
           "id": "q4-fy25-results|09-may-2025",
@@ -984,7 +987,7 @@
           "youtube_video_id": "v8GW-6KzJn0",
           "youtube_url": "https://www.youtube.com/watch?v=v8GW-6KzJn0",
           "embed_url": "https://www.youtube.com/embed/v8GW-6KzJn0",
-          "new": true
+          "new": false
         },
         {
           "id": "q3-fy25-results|31-jan-2025",
@@ -994,7 +997,7 @@
           "youtube_video_id": "ZEt0siNGTww",
           "youtube_url": "https://www.youtube.com/watch?v=ZEt0siNGTww",
           "embed_url": "https://www.youtube.com/embed/ZEt0siNGTww",
-          "new": true
+          "new": false
         },
         {
           "id": "q2-fy25-results|30-oct-2024",
@@ -1004,7 +1007,7 @@
           "youtube_video_id": "R6CwJWp0pCg",
           "youtube_url": "https://www.youtube.com/watch?v=R6CwJWp0pCg",
           "embed_url": "https://www.youtube.com/embed/R6CwJWp0pCg",
-          "new": true
+          "new": false
         },
         {
           "id": "q1-fy25-results|09-aug-2024",
@@ -1014,7 +1017,7 @@
           "youtube_video_id": "HTUndWgMaZY",
           "youtube_url": "https://www.youtube.com/watch?v=HTUndWgMaZY",
           "embed_url": "https://www.youtube.com/embed/HTUndWgMaZY",
-          "new": true
+          "new": false
         },
         {
           "id": "q4-fy24-results|16-may-2024",
@@ -1024,7 +1027,7 @@
           "youtube_video_id": "e-UVKMv0P78",
           "youtube_url": "https://www.youtube.com/watch?v=e-UVKMv0P78",
           "embed_url": "https://www.youtube.com/embed/e-UVKMv0P78",
-          "new": true
+          "new": false
         },
         {
           "id": "q3-fy24-results|09-feb-2024",
@@ -1034,7 +1037,7 @@
           "youtube_video_id": "fEv1neTpeAQ",
           "youtube_url": "https://www.youtube.com/watch?v=fEv1neTpeAQ",
           "embed_url": "https://www.youtube.com/embed/fEv1neTpeAQ",
-          "new": true
+          "new": false
         },
         {
           "id": "q2-fy24-results|10-nov-2023",
@@ -1044,7 +1047,7 @@
           "youtube_video_id": "KqSvdfg4DQA",
           "youtube_url": "https://www.youtube.com/watch?v=KqSvdfg4DQA",
           "embed_url": "https://www.youtube.com/embed/KqSvdfg4DQA",
-          "new": true
+          "new": false
         },
         {
           "id": "q1-fy24-results|11-aug-2023",
@@ -1054,7 +1057,447 @@
           "youtube_video_id": "_xx0EexPd7E",
           "youtube_url": "https://www.youtube.com/watch?v=_xx0EexPd7E",
           "embed_url": "https://www.youtube.com/embed/_xx0EexPd7E",
-          "new": true
+          "new": false
+        },
+        {
+          "id": "q4-fy23-results|24-may-2023",
+          "fiscal_year": "FY 2023",
+          "title": "Q4 FY23 RESULTS",
+          "date": "24-May-2023",
+          "youtube_video_id": "Vgn6R_xmkVA",
+          "youtube_url": "https://www.youtube.com/watch?v=Vgn6R_xmkVA",
+          "embed_url": "https://www.youtube.com/embed/Vgn6R_xmkVA",
+          "new": false
+        },
+        {
+          "id": "q3-fy23-results|15-feb-2023",
+          "fiscal_year": "FY 2023",
+          "title": "Q3 FY23 RESULTS",
+          "date": "15-Feb-2023",
+          "youtube_video_id": "g_d83FgDi3M",
+          "youtube_url": "https://www.youtube.com/watch?v=g_d83FgDi3M",
+          "embed_url": "https://www.youtube.com/embed/g_d83FgDi3M",
+          "new": false
+        },
+        {
+          "id": "q2-fy23-results|15-nov-2022",
+          "fiscal_year": "FY 2023",
+          "title": "Q2 FY23 RESULTS",
+          "date": "15-Nov-2022",
+          "youtube_video_id": "SZ5QQmlep0k",
+          "youtube_url": "https://www.youtube.com/watch?v=SZ5QQmlep0k",
+          "embed_url": "https://www.youtube.com/embed/SZ5QQmlep0k",
+          "new": false
+        },
+        {
+          "id": "q1-fy23-results|28-july-2022",
+          "fiscal_year": "FY 2023",
+          "title": "Q1 FY23 RESULTS",
+          "date": "28-July-2022",
+          "youtube_video_id": "suyYnFywxHA",
+          "youtube_url": "https://www.youtube.com/watch?v=suyYnFywxHA",
+          "embed_url": "https://www.youtube.com/embed/suyYnFywxHA",
+          "new": false
+        },
+        {
+          "id": "q4-fy22-results|29-apr-2022",
+          "fiscal_year": "FY 2022",
+          "title": "Q4 FY22 RESULTS",
+          "date": "29-Apr-2022",
+          "youtube_video_id": "uzetDONdD2s",
+          "youtube_url": "https://www.youtube.com/watch?v=uzetDONdD2s",
+          "embed_url": "https://www.youtube.com/embed/uzetDONdD2s",
+          "new": false
+        },
+        {
+          "id": "q3-fy22-results|22-jan-2022",
+          "fiscal_year": "FY 2022",
+          "title": "Q3 FY22 RESULTS",
+          "date": "22-Jan-2022",
+          "youtube_video_id": "gk4TisFkA6Y",
+          "youtube_url": "https://www.youtube.com/watch?v=gk4TisFkA6Y",
+          "embed_url": "https://www.youtube.com/embed/gk4TisFkA6Y",
+          "new": false
+        },
+        {
+          "id": "q2-fy22-results|22-oct-2021",
+          "fiscal_year": "FY 2022",
+          "title": "Q2 FY22 RESULTS",
+          "date": "22-Oct-2021",
+          "youtube_video_id": "of9QUABbzN0",
+          "youtube_url": "https://www.youtube.com/watch?v=of9QUABbzN0",
+          "embed_url": "https://www.youtube.com/embed/of9QUABbzN0",
+          "new": false
+        },
+        {
+          "id": "q1-fy22-results|23-july-2021",
+          "fiscal_year": "FY 2022",
+          "title": "Q1 FY22 RESULTS",
+          "date": "23-July-2021",
+          "youtube_video_id": "BL3U_rpmKy8",
+          "youtube_url": "https://www.youtube.com/watch?v=BL3U_rpmKy8",
+          "embed_url": "https://www.youtube.com/embed/BL3U_rpmKy8",
+          "new": false
+        },
+        {
+          "id": "q4-fy21-results|29-apr-2020",
+          "fiscal_year": "FY 2021",
+          "title": "Q4 FY21 RESULTS",
+          "date": "29-Apr-2020",
+          "youtube_video_id": "dDSBYHmqG8w",
+          "youtube_url": "https://www.youtube.com/watch?v=dDSBYHmqG8w",
+          "embed_url": "https://www.youtube.com/embed/dDSBYHmqG8w",
+          "new": false
+        },
+        {
+          "id": "q3-fy21-results|22-jan-2020",
+          "fiscal_year": "FY 2021",
+          "title": "Q3 FY21 RESULTS",
+          "date": "22-Jan-2020",
+          "youtube_video_id": "qThG8_5u8UI",
+          "youtube_url": "https://www.youtube.com/watch?v=qThG8_5u8UI",
+          "embed_url": "https://www.youtube.com/embed/qThG8_5u8UI",
+          "new": false
+        },
+        {
+          "id": "q2-fy21-results|23-oct-2020",
+          "fiscal_year": "FY 2021",
+          "title": "Q2 FY21 RESULTS",
+          "date": "23-Oct-2020",
+          "youtube_video_id": "NgJxz88DzPY",
+          "youtube_url": "https://www.youtube.com/watch?v=NgJxz88DzPY",
+          "embed_url": "https://www.youtube.com/embed/NgJxz88DzPY",
+          "new": false
+        },
+        {
+          "id": "q1-fy21-results|23-jul-2019",
+          "fiscal_year": "FY 2021",
+          "title": "Q1 FY21 RESULTS",
+          "date": "23-Jul-2019",
+          "youtube_video_id": "YS4pVA-g5qg",
+          "youtube_url": "https://www.youtube.com/watch?v=YS4pVA-g5qg",
+          "embed_url": "https://www.youtube.com/embed/YS4pVA-g5qg",
+          "new": false
+        },
+        {
+          "id": "q1-fy20-results|26-jul-2019",
+          "fiscal_year": "FY 2020",
+          "title": "Q1 FY20 RESULTS",
+          "date": "26-Jul-2019",
+          "youtube_video_id": "g9PTOjszZaM",
+          "youtube_url": "https://www.youtube.com/watch?v=g9PTOjszZaM",
+          "embed_url": "https://www.youtube.com/embed/g9PTOjszZaM",
+          "new": false
+        },
+        {
+          "id": "q2-fy20-results|24-oct-2019",
+          "fiscal_year": "FY 2020",
+          "title": "Q2 FY20 RESULTS",
+          "date": "24-Oct-2019",
+          "youtube_video_id": "r4A0Rw84H-w",
+          "youtube_url": "https://www.youtube.com/watch?v=r4A0Rw84H-w",
+          "embed_url": "https://www.youtube.com/embed/r4A0Rw84H-w",
+          "new": false
+        },
+        {
+          "id": "q3-fy20-results|24-jan-2020",
+          "fiscal_year": "FY 2020",
+          "title": "Q3 FY20 RESULTS",
+          "date": "24-Jan-2020",
+          "youtube_video_id": "IxVL9gfes60",
+          "youtube_url": "https://www.youtube.com/watch?v=IxVL9gfes60",
+          "embed_url": "https://www.youtube.com/embed/IxVL9gfes60",
+          "new": false
+        },
+        {
+          "id": "q4-fy20-results|05-may-2020",
+          "fiscal_year": "FY 2020",
+          "title": "Q4 FY20 RESULTS",
+          "date": "05-May-2020",
+          "youtube_video_id": "HtXT5IaysJE",
+          "youtube_url": "https://www.youtube.com/watch?v=HtXT5IaysJE",
+          "embed_url": "https://www.youtube.com/embed/HtXT5IaysJE",
+          "new": false
+        },
+        {
+          "id": "q1-fy19-results|27-jul-2018",
+          "fiscal_year": "FY 2019",
+          "title": "Q1 FY19 RESULTS",
+          "date": "27-Jul-2018",
+          "youtube_video_id": "Gwhih8k7eAk",
+          "youtube_url": "https://www.youtube.com/watch?v=Gwhih8k7eAk",
+          "embed_url": "https://www.youtube.com/embed/Gwhih8k7eAk",
+          "new": false
+        },
+        {
+          "id": "q2-fy19-results|26-oct-2018",
+          "fiscal_year": "FY 2019",
+          "title": "Q2 FY19 RESULTS",
+          "date": "26-Oct-2018",
+          "youtube_video_id": "Aax6qvqcoUs",
+          "youtube_url": "https://www.youtube.com/watch?v=Aax6qvqcoUs",
+          "embed_url": "https://www.youtube.com/embed/Aax6qvqcoUs",
+          "new": false
+        },
+        {
+          "id": "q3-fy19-results|25-jan-2019",
+          "fiscal_year": "FY 2019",
+          "title": "Q3 FY19 RESULTS",
+          "date": "25-Jan-2019",
+          "youtube_video_id": "mno2zpo-Ew8",
+          "youtube_url": "https://www.youtube.com/watch?v=mno2zpo-Ew8",
+          "embed_url": "https://www.youtube.com/embed/mno2zpo-Ew8",
+          "new": false
+        },
+        {
+          "id": "q4-fy19-results|26-apr-2019",
+          "fiscal_year": "FY 2019",
+          "title": "Q4 FY19 RESULTS",
+          "date": "26-Apr-2019",
+          "youtube_video_id": "-DZfJk6IwUg",
+          "youtube_url": "https://www.youtube.com/watch?v=-DZfJk6IwUg",
+          "embed_url": "https://www.youtube.com/embed/-DZfJk6IwUg",
+          "new": false
+        },
+        {
+          "id": "q1-fy18-results|27-jul-2017",
+          "fiscal_year": "FY 2018",
+          "title": "Q1 FY18 RESULTS",
+          "date": "27-Jul-2017",
+          "youtube_video_id": "mQQerRhmVUI",
+          "youtube_url": "https://www.youtube.com/watch?v=mQQerRhmVUI",
+          "embed_url": "https://www.youtube.com/embed/mQQerRhmVUI",
+          "new": false
+        },
+        {
+          "id": "q2-fy18-results|27-oct-2017",
+          "fiscal_year": "FY 2018",
+          "title": "Q2 FY18 RESULTS",
+          "date": "27-Oct-2017",
+          "youtube_video_id": "A6TIYjARR9M",
+          "youtube_url": "https://www.youtube.com/watch?v=A6TIYjARR9M",
+          "embed_url": "https://www.youtube.com/embed/A6TIYjARR9M",
+          "new": false
+        },
+        {
+          "id": "q3-fy18-results|25-jan-2018",
+          "fiscal_year": "FY 2018",
+          "title": "Q3 FY18 RESULTS",
+          "date": "25-Jan-2018",
+          "youtube_video_id": "z7UUAKlael0",
+          "youtube_url": "https://www.youtube.com/watch?v=z7UUAKlael0",
+          "embed_url": "https://www.youtube.com/embed/z7UUAKlael0",
+          "new": false
+        },
+        {
+          "id": "q4-fy18-results|27-apr-2018",
+          "fiscal_year": "FY 2018",
+          "title": "Q4 FY18 RESULTS",
+          "date": "27-Apr-2018",
+          "youtube_video_id": "aPNzXXH3O-w",
+          "youtube_url": "https://www.youtube.com/watch?v=aPNzXXH3O-w",
+          "embed_url": "https://www.youtube.com/embed/aPNzXXH3O-w",
+          "new": false
+        },
+        {
+          "id": "q1-fy17-results|21-jul-2016",
+          "fiscal_year": "FY 2017",
+          "title": "Q1 FY17 RESULTS",
+          "date": "21-Jul-2016",
+          "youtube_video_id": "B_px14Tgw24",
+          "youtube_url": "https://www.youtube.com/watch?v=B_px14Tgw24",
+          "embed_url": "https://www.youtube.com/embed/B_px14Tgw24",
+          "new": false
+        },
+        {
+          "id": "q2-fy17-results|21-oct-2016",
+          "fiscal_year": "FY 2017",
+          "title": "Q2 FY17 RESULTS",
+          "date": "21-Oct-2016",
+          "youtube_video_id": "IBqwrnKy9iI",
+          "youtube_url": "https://www.youtube.com/watch?v=IBqwrnKy9iI",
+          "embed_url": "https://www.youtube.com/embed/IBqwrnKy9iI",
+          "new": false
+        },
+        {
+          "id": "q3-fy17-results|25-jan-2017",
+          "fiscal_year": "FY 2017",
+          "title": "Q3 FY17 RESULTS",
+          "date": "25-Jan-2017",
+          "youtube_video_id": "Kf6a0lRFN3A",
+          "youtube_url": "https://www.youtube.com/watch?v=Kf6a0lRFN3A",
+          "embed_url": "https://www.youtube.com/embed/Kf6a0lRFN3A",
+          "new": false
+        },
+        {
+          "id": "q4-fy17-results|28-apr-2017",
+          "fiscal_year": "FY 2017",
+          "title": "Q4 FY17 RESULTS",
+          "date": "28-Apr-2017",
+          "youtube_video_id": "9f4s8SqcHKw",
+          "youtube_url": "https://www.youtube.com/watch?v=9f4s8SqcHKw",
+          "embed_url": "https://www.youtube.com/embed/9f4s8SqcHKw",
+          "new": false
+        },
+        {
+          "id": "q1-fy16-results|23-jul-2015",
+          "fiscal_year": "FY 2016",
+          "title": "Q1 FY16 RESULTS",
+          "date": "23-Jul-2015",
+          "youtube_video_id": "l_PAfPj2Rq8",
+          "youtube_url": "https://www.youtube.com/watch?v=l_PAfPj2Rq8",
+          "embed_url": "https://www.youtube.com/embed/l_PAfPj2Rq8",
+          "new": false
+        },
+        {
+          "id": "q2-fy16-results|20-oct-2015",
+          "fiscal_year": "FY 2016",
+          "title": "Q2 FY16 RESULTS",
+          "date": "20-Oct-2015",
+          "youtube_video_id": "UC7khT3xiog",
+          "youtube_url": "https://www.youtube.com/watch?v=UC7khT3xiog",
+          "embed_url": "https://www.youtube.com/embed/UC7khT3xiog",
+          "new": false
+        },
+        {
+          "id": "q3-fy16-results|21-jan-2016",
+          "fiscal_year": "FY 2016",
+          "title": "Q3 FY16 RESULTS",
+          "date": "21-Jan-2016",
+          "youtube_video_id": "sQwIBoteYd0",
+          "youtube_url": "https://www.youtube.com/watch?v=sQwIBoteYd0",
+          "embed_url": "https://www.youtube.com/embed/sQwIBoteYd0",
+          "new": false
+        },
+        {
+          "id": "q4-fy16-results|26-apr-2016",
+          "fiscal_year": "FY 2016",
+          "title": "Q4 FY16 RESULTS",
+          "date": "26-Apr-2016",
+          "youtube_video_id": "cVG-Kx-qr3E",
+          "youtube_url": "https://www.youtube.com/watch?v=cVG-Kx-qr3E",
+          "embed_url": "https://www.youtube.com/embed/cVG-Kx-qr3E",
+          "new": false
+        },
+        {
+          "id": "q1-fy15-results|24-july-2014",
+          "fiscal_year": "FY 2015",
+          "title": "Q1 FY15 RESULTS",
+          "date": "24-July-2014",
+          "youtube_video_id": "20Nbsbd-Q48",
+          "youtube_url": "https://www.youtube.com/watch?v=20Nbsbd-Q48",
+          "embed_url": "https://www.youtube.com/embed/20Nbsbd-Q48",
+          "new": false
+        },
+        {
+          "id": "q2-fy15-results|21-oct-2014",
+          "fiscal_year": "FY 2015",
+          "title": "Q2 FY15 RESULTS",
+          "date": "21-Oct-2014",
+          "youtube_video_id": "s-mDRkyO7Yc",
+          "youtube_url": "https://www.youtube.com/watch?v=s-mDRkyO7Yc",
+          "embed_url": "https://www.youtube.com/embed/s-mDRkyO7Yc",
+          "new": false
+        },
+        {
+          "id": "q3-fy15-results|22-jan-2015",
+          "fiscal_year": "FY 2015",
+          "title": "Q3 FY15 RESULTS",
+          "date": "22-Jan-2015",
+          "youtube_video_id": "AoPRLFrp8-Y",
+          "youtube_url": "https://www.youtube.com/watch?v=AoPRLFrp8-Y",
+          "embed_url": "https://www.youtube.com/embed/AoPRLFrp8-Y",
+          "new": false
+        },
+        {
+          "id": "q4-fy15-results|29-apr-2015",
+          "fiscal_year": "FY 2015",
+          "title": "Q4 FY15 RESULTS",
+          "date": "29-Apr-2015",
+          "youtube_video_id": "eS2YCcDIsL4",
+          "youtube_url": "https://www.youtube.com/watch?v=eS2YCcDIsL4",
+          "embed_url": "https://www.youtube.com/embed/eS2YCcDIsL4",
+          "new": false
+        },
+        {
+          "id": "q1-fy14-results|26-july-2013",
+          "fiscal_year": "FY 2014",
+          "title": "Q1 FY14 RESULTS",
+          "date": "26-July-2013",
+          "youtube_video_id": "ea8kq5mvucc",
+          "youtube_url": "https://www.youtube.com/watch?v=ea8kq5mvucc",
+          "embed_url": "https://www.youtube.com/embed/ea8kq5mvucc",
+          "new": false
+        },
+        {
+          "id": "q2-fy14-results|25-oct-2013",
+          "fiscal_year": "FY 2014",
+          "title": "Q2 FY14 RESULTS",
+          "date": "25-Oct-2013",
+          "youtube_video_id": "ZO3sLTjBTFU",
+          "youtube_url": "https://www.youtube.com/watch?v=ZO3sLTjBTFU",
+          "embed_url": "https://www.youtube.com/embed/ZO3sLTjBTFU",
+          "new": false
+        },
+        {
+          "id": "q3-fy14-results|23-jan-2014",
+          "fiscal_year": "FY 2014",
+          "title": "Q3 FY14 RESULTS",
+          "date": "23-Jan-2014",
+          "youtube_video_id": "5Kl0ntnXMlY",
+          "youtube_url": "https://www.youtube.com/watch?v=5Kl0ntnXMlY",
+          "embed_url": "https://www.youtube.com/embed/5Kl0ntnXMlY",
+          "new": false
+        },
+        {
+          "id": "q4-fy14-results|25-apr-2014",
+          "fiscal_year": "FY 2014",
+          "title": "Q4 FY14 RESULTS",
+          "date": "25-Apr-2014",
+          "youtube_video_id": "XBj2F5YiB24",
+          "youtube_url": "https://www.youtube.com/watch?v=XBj2F5YiB24",
+          "embed_url": "https://www.youtube.com/embed/XBj2F5YiB24",
+          "new": false
+        },
+        {
+          "id": "q1-fy13-results|26-july-2012",
+          "fiscal_year": "FY 2013",
+          "title": "Q1 FY13 RESULTS",
+          "date": "26-July-2012",
+          "youtube_video_id": "eDCt3Us9Jeo",
+          "youtube_url": "https://www.youtube.com/watch?v=eDCt3Us9Jeo",
+          "embed_url": "https://www.youtube.com/embed/eDCt3Us9Jeo",
+          "new": false
+        },
+        {
+          "id": "q2-fy13-results|31-oct-2012",
+          "fiscal_year": "FY 2013",
+          "title": "Q2 FY13 RESULTS",
+          "date": "31-Oct-2012",
+          "youtube_video_id": "QRodJ10AYn0",
+          "youtube_url": "https://www.youtube.com/watch?v=QRodJ10AYn0",
+          "embed_url": "https://www.youtube.com/embed/QRodJ10AYn0",
+          "new": false
+        },
+        {
+          "id": "q3-fy13-results|25-jan-2013",
+          "fiscal_year": "FY 2013",
+          "title": "Q3 FY13 RESULTS",
+          "date": "25-Jan-2013",
+          "youtube_video_id": "Wz2Yl-8DN24",
+          "youtube_url": "https://www.youtube.com/watch?v=Wz2Yl-8DN24",
+          "embed_url": "https://www.youtube.com/embed/Wz2Yl-8DN24",
+          "new": false
+        },
+        {
+          "id": "q4-fy13-results|26-apr-2013",
+          "fiscal_year": "FY 2013",
+          "title": "Q4 FY13 RESULTS",
+          "date": "26-Apr-2013",
+          "youtube_video_id": "nR9OCTvmdCI",
+          "youtube_url": "https://www.youtube.com/watch?v=nR9OCTvmdCI",
+          "embed_url": "https://www.youtube.com/embed/nR9OCTvmdCI",
+          "new": false
         }
       ]
     },

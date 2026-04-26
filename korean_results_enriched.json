@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-04-24 12:01:01 IST",
+  "last_updated": "2026-04-26 11:43:29 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "[Column] Intravesical therapy: delivering anticancer drugs directly into the bladder",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31428",
-          "category": "Opinion",
-          "author": "Nam Wook",
-          "date": "04.24 15:02",
+          "title": "MSD, Sanofi boost dividends from Korea as pharma units keep cash flowing to headquarters",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31431",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "04.24 17:24",
           "new": true,
-          "tag": "Other"
+          "tag": "Financial"
         },
         {
           "title": "Korea OKs 1st advanced regenerative medicine treatment plan for rare lymphoma",
@@ -19,8 +19,35 @@
           "category": "Policy",
           "author": "Kwak Sung-sun",
           "date": "04.24 14:34",
-          "new": true,
-          "tag": "Other"
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "SNUH–Stanford team clears key hurdle in T-cell lymphoma CAR-T",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31423",
+          "category": "Life science",
+          "author": "Lee Han-soo",
+          "date": "04.24 13:20",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Dx&Vx affiliate Oxford Vacmedix reports phase 1 success for cancer vaccine OVM-200",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31419",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "04.24 11:32",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "GI Innovation advances GI-102 into 1st-line metastatic melanoma in Keytruda combo trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31420",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "04.24 11:26",
+          "new": false,
+          "tag": "Clinical Trial"
         },
         {
           "title": "Samsung Bioepis' operating profit up 13% in Q1 on solid global biosimilar sales",
@@ -32,31 +59,13 @@
           "tag": "Financial"
         },
         {
-          "title": "Opposition lawmaker warns of essential drug shortages, blames low pricing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31416",
-          "category": "Policy",
-          "author": "Kim Eun-young",
-          "date": "04.23 15:47",
-          "new": false,
-          "tag": "Other"
-        },
-        {
           "title": "Celltrion begins dosing for 3 ADC cancer candidates",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31411",
           "category": "Bio",
           "author": "Lee Han-soo",
           "date": "04.23 14:29",
           "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "[AACR 2026] Samsung Biologics uses organoids to narrow preclinical–clinical gap in oncology",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31409",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "04.23 13:50",
-          "new": false,
-          "tag": "Other"
+          "tag": "Clinical Trial"
         }
       ]
     }

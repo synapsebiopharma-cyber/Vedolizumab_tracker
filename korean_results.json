@@ -1,16 +1,48 @@
 {
-  "last_updated": "2026-04-24 12:01:01 IST",
+  "last_updated": "2026-04-26 11:43:29 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea tops 2 million foreign patients for 1st time as aesthetics drive surge",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31432",
+          "category": "K-Beauty",
+          "author": "Kim Ji-hye",
+          "date": "04.24 17:28",
+          "new": true
+        },
+        {
+          "title": "MSD, Sanofi boost dividends from Korea as pharma units keep cash flowing to headquarters",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31431",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "04.24 17:24",
+          "new": true
+        },
+        {
+          "title": "Severance hospital training program leads to 1st lung transplant in Vietnam",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31430",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "04.24 15:56",
+          "new": true
+        },
+        {
+          "title": "Epilepsy drugs delayed or absent in Korea as pricing system limits access",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31429",
+          "category": "Policy",
+          "author": "Kim Eun-young",
+          "date": "04.24 15:44",
+          "new": true
+        },
         {
           "title": "[Column] Intravesical therapy: delivering anticancer drugs directly into the bladder",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31428",
           "category": "Opinion",
           "author": "Nam Wook",
           "date": "04.24 15:02",
-          "new": true
+          "new": false
         },
         {
           "title": "Medytox pushes anatomy-led training to shape aesthetic practice in Asia",
@@ -18,7 +50,7 @@
           "category": "K-Beauty",
           "author": "Kim Ji-hye",
           "date": "04.24 14:57",
-          "new": true
+          "new": false
         },
         {
           "title": "Korea OKs 1st advanced regenerative medicine treatment plan for rare lymphoma",
@@ -26,7 +58,7 @@
           "category": "Policy",
           "author": "Kwak Sung-sun",
           "date": "04.24 14:34",
-          "new": true
+          "new": false
         },
         {
           "title": "Kenya looks to Korean smart hospital model in Myongji visit",
@@ -34,7 +66,7 @@
           "category": "Hospital",
           "author": "Lee Han-soo",
           "date": "04.24 14:30",
-          "new": true
+          "new": false
         },
         {
           "title": "GBCC 2026 highlights limits of Western guidelines in Asian breast cancer care",
@@ -42,7 +74,7 @@
           "category": "Hospital",
           "author": "Kim Yun-mi",
           "date": "04.24 14:13",
-          "new": true
+          "new": false
         },
         {
           "title": "SNUH–Stanford team clears key hurdle in T-cell lymphoma CAR-T",
@@ -50,7 +82,7 @@
           "category": "Life science",
           "author": "Lee Han-soo",
           "date": "04.24 13:20",
-          "new": true
+          "new": false
         },
         {
           "title": "Dx&Vx affiliate Oxford Vacmedix reports phase 1 success for cancer vaccine OVM-200",
@@ -58,7 +90,7 @@
           "category": "Device/ICT",
           "author": "Lee Han-soo",
           "date": "04.24 11:32",
-          "new": true
+          "new": false
         },
         {
           "title": "GI Innovation advances GI-102 into 1st-line metastatic melanoma in Keytruda combo trial",
@@ -66,7 +98,7 @@
           "category": "Bio",
           "author": "Lee Han-soo",
           "date": "04.24 11:26",
-          "new": true
+          "new": false
         },
         {
           "title": "Hugel trains overseas doctors in Korea to drive global standards in aesthetics",
@@ -74,7 +106,7 @@
           "category": "K-Beauty",
           "author": "Lee Han-soo",
           "date": "04.24 10:29",
-          "new": true
+          "new": false
         },
         {
           "title": "Samsung Bioepis' operating profit up 13% in Q1 on solid global biosimilar sales",
@@ -131,38 +163,6 @@
           "author": "Lee Han-soo",
           "date": "04.23 14:29",
           "new": false
-        },
-        {
-          "title": "[AACR 2026] Samsung Biologics uses organoids to narrow preclinical–clinical gap in oncology",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31409",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "04.23 13:50",
-          "new": false
-        },
-        {
-          "title": "[Column] Should ex-vice health minister Park hold a professorship after his policy record?",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31412",
-          "category": "Opinion",
-          "author": "Jeong In-seok",
-          "date": "04.23 13:39",
-          "new": false
-        },
-        {
-          "title": "Gwacheon signs deal for 4.28 trillion won Ajou medical cluster project",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31407",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "04.23 13:28",
-          "new": false
-        },
-        {
-          "title": "Olympus Korea launches modular laparoscopic tool HICURA, targeting precision and OR efficiency",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31406",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "04.23 11:09",
-          "new": true
         }
       ]
     }
