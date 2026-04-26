@@ -1,7 +1,7 @@
 {
   "source": "https://investors.alvotech.com/news-events/events",
-  "last_fetched": "2026-04-24T06:31:42Z",
-  "total_runs": 5,
+  "last_fetched": "2026-04-26T11:43:48Z",
+  "total_runs": 6,
   "new_on_last_run": 0,
   "events": [
     {
@@ -80,7 +80,10 @@
       "url": "https://investors.alvotech.com/events/event-details/q1-2026-earnings-call",
       "date": "May 7, 2026",
       "time": "at 8:00 AM EDT",
-      "webcast": null,
+      "webcast": {
+        "text": "Link to registration form for webcast (live or replay)",
+        "url": "https://edge.media-server.com/mmc/p/ppckxq33"
+      },
       "docs": [],
       "new": false
     },
