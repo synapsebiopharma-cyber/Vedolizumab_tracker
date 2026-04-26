@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-04-23 15:49:31 IST",
+  "last_updated": "2026-04-24 12:01:01 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[Column] Intravesical therapy: delivering anticancer drugs directly into the bladder",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31428",
+          "category": "Opinion",
+          "author": "Nam Wook",
+          "date": "04.24 15:02",
+          "new": true
+        },
+        {
+          "title": "Medytox pushes anatomy-led training to shape aesthetic practice in Asia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31427",
+          "category": "K-Beauty",
+          "author": "Kim Ji-hye",
+          "date": "04.24 14:57",
+          "new": true
+        },
+        {
+          "title": "Korea OKs 1st advanced regenerative medicine treatment plan for rare lymphoma",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31426",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "04.24 14:34",
+          "new": true
+        },
+        {
+          "title": "Kenya looks to Korean smart hospital model in Myongji visit",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31425",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "04.24 14:30",
+          "new": true
+        },
+        {
+          "title": "GBCC 2026 highlights limits of Western guidelines in Asian breast cancer care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31424",
+          "category": "Hospital",
+          "author": "Kim Yun-mi",
+          "date": "04.24 14:13",
+          "new": true
+        },
+        {
+          "title": "SNUH–Stanford team clears key hurdle in T-cell lymphoma CAR-T",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31423",
+          "category": "Life science",
+          "author": "Lee Han-soo",
+          "date": "04.24 13:20",
+          "new": true
+        },
+        {
+          "title": "Dx&Vx affiliate Oxford Vacmedix reports phase 1 success for cancer vaccine OVM-200",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31419",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "04.24 11:32",
+          "new": true
+        },
+        {
+          "title": "GI Innovation advances GI-102 into 1st-line metastatic melanoma in Keytruda combo trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31420",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "04.24 11:26",
+          "new": true
+        },
+        {
+          "title": "Hugel trains overseas doctors in Korea to drive global standards in aesthetics",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31421",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "04.24 10:29",
+          "new": true
+        },
         {
           "title": "Samsung Bioepis' operating profit up 13% in Q1 on solid global biosimilar sales",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31418",
@@ -83,6 +155,14 @@
           "author": "Kim Eun-young",
           "date": "04.23 13:28",
           "new": false
+        },
+        {
+          "title": "Olympus Korea launches modular laparoscopic tool HICURA, targeting precision and OR efficiency",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31406",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "04.23 11:09",
+          "new": true
         }
       ]
     }

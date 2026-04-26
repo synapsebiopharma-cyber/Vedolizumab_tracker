@@ -35,7 +35,6 @@ jobs:
       - name: Run main pipeline
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GOOGLE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_CREDENTIALS_JSON }}
           NEWS_ENRICHMENT_MODE: ${{ secrets.NEWS_ENRICHMENT_MODE }}
           KOREAN_NEWS_ENRICHMENT_MODE: ${{ secrets.KOREAN_NEWS_ENRICHMENT_MODE }}
         run: python main.py
@@ -44,7 +43,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add *.json
+          git add results.json results_enriched.json korean_results.json korean_results_enriched.json clinical_trials_hybrid_fixed.json ctri_trials.json clinical_trials_ctri.json clinical_trials_eu.json eu_ctis_trials.json investor_results.json alvotech_events.json biocon_earnings.json celltrion_earnings.json drreddys_quarterly_results.json fresenius_investor_news.json samsung_biologics_notices.json teva_pharma_events.json google_news_results.json jamp_news.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else

@@ -1,6 +1,7 @@
 import json
-from dotenv import load_dotenv
 from datetime import datetime
+
+from dotenv import load_dotenv
 
 # --- Website scrapers ---
 from website_scrapers.polpharma_scraper import fetch_polpharma_news
@@ -25,16 +26,16 @@ from pipeline_scrapers.polpharma_pipeline import fetch_polpharma_pipeline
 from pipeline_scrapers.samsung_pipeline import fetch_samsung_pipeline
 from pipeline_scrapers.sandoz_pipeline import fetch_sandoz_pipeline
 
-# --- Korea Scrapers ---
+# --- Korea scrapers ---
 from Korean.Business_korea import scrape_news_section
 from Korean.koreabiomed import scrape_news
 
-# --- Clinical Trials ---
-from Trials.CT import fetch_trial, NCT_IDS
+# --- Clinical trials ---
+from Trials.CT import NCT_IDS, fetch_trial
 from Trials.fetch_ctri import fetch_ctri_trials
 from Trials.fetch_eu_ctis import fetch_eu_ctis_trials
 
-# --- Investor Scrapers ---
+# --- Investor scrapers ---
 from Investor.Alvotech import fetch_alvotech_investor
 from Investor.Biocon import fetch_biocon_investor
 from Investor.Celltrion import fetch_celltrion_investor
@@ -47,13 +48,8 @@ from Investor.Teva import fetch_teva_investor
 from agents.agent import run_enrichment
 from agents.korean_agent import run_korean_enrichment
 
-# --- Cloud Backup ---
-from backup.backup import backup_to_firestore
-
-# Load env variables
 load_dotenv()
 
-# --- File locations ---
 RESULTS_FILE = "results.json"
 KOREAN_RESULTS_FILE = "korean_results.json"
 CLINICAL_TRIALS_FILE = "clinical_trials_hybrid_fixed.json"
@@ -61,7 +57,6 @@ CTRI_TRIALS_FILE = "ctri_trials.json"
 EU_CTIS_TRIALS_FILE = "eu_ctis_trials.json"
 INVESTOR_RESULTS_FILE = "investor_results.json"
 
-# --- Define scrapers by company ---
 SCRAPERS = {
     "Polpharma": {"website": fetch_polpharma_news, "pipeline": fetch_polpharma_pipeline},
     "Alvotech": {"website": fetch_alvotech_news, "pipeline": fetch_alvotech_pipeline},
@@ -74,10 +69,9 @@ SCRAPERS = {
     "Advanz": {"website": fetch_advanz_news},
     "Teva": {"website": fetch_teva_news},
     "MS Pharma": {"website": fetch_mspharma_news},
-    "Fuji Pharma": {"website": fetch_fuji_news}
+    "Fuji Pharma": {"website": fetch_fuji_news},
 }
 
-# --- Define investor scrapers by company ---
 INVESTOR_SCRAPERS = {
     "Alvotech": fetch_alvotech_investor,
     "Biocon": fetch_biocon_investor,
@@ -88,32 +82,36 @@ INVESTOR_SCRAPERS = {
     "Teva": fetch_teva_investor,
 }
 
-# --- Helper functions ---
+
 def load_results(file_path, key_name):
     try:
-        with open(file_path, "r", encoding="utf-8") as f:
-            data = json.load(f)
+        with open(file_path, "r", encoding="utf-8") as file:
+            data = json.load(file)
             if isinstance(data, dict) and key_name in data:
                 return data[key_name]
             return data
     except FileNotFoundError:
         return []
-    except json.JSONDecodeError as e:
-        print(f"⚠️ JSON parse error in {file_path}: {e}. Starting with empty list to avoid data loss — please inspect the file.")
+    except json.JSONDecodeError as exc:
+        print(
+            f"Warning: JSON parse error in {file_path}: {exc}. "
+            "Starting with an empty list to avoid data loss."
+        )
         return []
+
 
 def save_results(file_path, key_name, data):
     wrapper = {
         "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S IST"),
         key_name: data,
     }
-    with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(wrapper, f, indent=2, ensure_ascii=False)
+    with open(file_path, "w", encoding="utf-8") as file:
+        json.dump(wrapper, file, indent=2, ensure_ascii=False)
+
 
 def mark_new_items(old_list, new_list, unique_key="link"):
     """
-    Marks items in new_list as 'new: True' if they were not present in old_list,
-    and 'new: False' if they were. Recalculates 'new' tags fresh each time.
+    Mark items in new_list as new when their unique key was not present before.
     """
     old_keys = {item.get(unique_key) for item in old_list}
 
@@ -125,31 +123,18 @@ def mark_new_items(old_list, new_list, unique_key="link"):
 
     return updated_list
 
-def enforce_limit_and_backup(data_list, limit=10, company=None, section=None):
+
+def keep_all_items(data_list):
     """
-    Keeps only the latest `limit` items in data_list.
-    Moves the rest to Firestore (backup).
-    If backup fails, the original list is returned untrimmed to prevent data loss.
+    Keep the full item history in the repository JSON files.
+    The Streamlit app reads directly from these tracked files.
     """
-    if len(data_list) <= limit:
-        return data_list
+    return data_list
 
-    keep = data_list[:limit]
-    overflow = data_list[limit:]
-
-    try:
-        backup_to_firestore(company, section, overflow)
-    except Exception as e:
-        print(f"⚠️ Firestore backup failed for {company}/{section}: {e}. Skipping truncation to prevent data loss.")
-        return data_list
-
-    return keep
 
 def clear_pipeline_new_flags(pipeline_list):
     """
-    Clears 'new' flags on pipeline items that have been seen before.
-    Since pipeline entries are never backed up or truncated, flags must be
-    explicitly reset to prevent them from accumulating indefinitely.
+    Pipeline entries are not trimmed, so we reset prior new flags each run.
     """
     updated = []
     for item in pipeline_list:
@@ -158,13 +143,13 @@ def clear_pipeline_new_flags(pipeline_list):
         updated.append(item_copy)
     return updated
 
-# --- Company scraping function ---
+
 def run_all_scrapers():
     results = load_results(RESULTS_FILE, "companies")
     updated = False
 
     for company, sources in SCRAPERS.items():
-        company_entry = next((c for c in results if c["company"] == company), None)
+        company_entry = next((company_data for company_data in results if company_data["company"] == company), None)
         if not company_entry:
             company_entry = {
                 "company": company,
@@ -174,21 +159,15 @@ def run_all_scrapers():
             }
             results.append(company_entry)
 
-        # Website scraper
         if "website" in sources:
             try:
                 new_data = sources["website"]()
-                company_entry["website"] = mark_new_items(
-                    company_entry["website"], new_data
-                )
-                company_entry["website"] = enforce_limit_and_backup(
-                    company_entry["website"], limit=10, company=company, section="website"
-                )
+                company_entry["website"] = mark_new_items(company_entry["website"], new_data)
+                company_entry["website"] = keep_all_items(company_entry["website"])
                 updated = True
-            except Exception as e:
-                print(f"⚠️ Error scraping {company} (website): {e}")
+            except Exception as exc:
+                print(f"Warning: error scraping {company} (website): {exc}")
 
-        # Pipeline scraper (NO backup, unlimited storage)
         if "pipeline" in sources:
             try:
                 new_data_dict = sources["pipeline"]()
@@ -198,63 +177,54 @@ def run_all_scrapers():
                     company_entry["pipeline"], new_pipeline_list
                 )
                 updated = True
-            except Exception as e:
-                print(f"⚠️ Error scraping {company} (pipeline): {e}")
+            except Exception as exc:
+                print(f"Warning: error scraping {company} (pipeline): {exc}")
 
-        # Google News scraper
         try:
             new_data = fetch_google_news_rss(company)
-            company_entry["google_news"] = mark_new_items(
-                company_entry["google_news"], new_data
-            )
-            company_entry["google_news"] = enforce_limit_and_backup(
-                company_entry["google_news"], limit=10, company=company, section="google_news"
-            )
+            company_entry["google_news"] = mark_new_items(company_entry["google_news"], new_data)
+            company_entry["google_news"] = keep_all_items(company_entry["google_news"])
             updated = True
-        except Exception as e:
-            print(f"⚠️ Error scraping {company} (google_news): {e}")
+        except Exception as exc:
+            print(f"Warning: error scraping {company} (google_news): {exc}")
 
     if updated:
         save_results(RESULTS_FILE, "companies", results)
-        print("✅ Company results updated.")
+        print("Company results updated.")
     else:
-        print("ℹ️ No new company updates found.")
+        print("No new company updates found.")
 
-# --- Korean scraping function ---
+
 def run_korean_scrapers():
     results = load_results(KOREAN_RESULTS_FILE, "sources")
     updated = False
 
-    SOURCES = {
+    sources = {
         # "Business Korea": scrape_news_section,
         "Korea Biomedical Review": scrape_news,
     }
 
-    for source_name, scraper_func in SOURCES.items():
-        source_entry = next((s for s in results if s["source"] == source_name), None)
+    for source_name, scraper_func in sources.items():
+        source_entry = next((source for source in results if source["source"] == source_name), None)
         if not source_entry:
             source_entry = {"source": source_name, "articles": []}
             results.append(source_entry)
 
         try:
             new_data = scraper_func()
-            source_entry["articles"] = mark_new_items(
-                source_entry["articles"], new_data
-            )
-            source_entry["articles"] = enforce_limit_and_backup(
-                source_entry["articles"], limit=10, company=source_name, section="articles"
-            )
+            source_entry["articles"] = mark_new_items(source_entry["articles"], new_data)
+            source_entry["articles"] = keep_all_items(source_entry["articles"])
             updated = True
-        except Exception as e:
-            print(f"⚠️ Error scraping {source_name}: {e}")
+        except Exception as exc:
+            print(f"Warning: error scraping {source_name}: {exc}")
 
     if updated:
         save_results(KOREAN_RESULTS_FILE, "sources", results)
-        print("✅ Korean news results updated.")
+        print("Korean news results updated.")
     else:
-        print("ℹ️ No new Korean updates found.")
+        print("No new Korean updates found.")
 
-# --- Clinical Trials scraping function (ClinicalTrials.gov) ---
+
 def run_clinical_trials():
     trials = []
     updated = False
@@ -265,95 +235,89 @@ def run_clinical_trials():
             if trial:
                 trials.append(trial)
                 updated = True
-        except Exception as e:
-            print(f"⚠️ Error fetching trial {nct_id}: {e}")
+        except Exception as exc:
+            print(f"Warning: error fetching trial {nct_id}: {exc}")
 
     if updated:
-        with open(CLINICAL_TRIALS_FILE, "w", encoding="utf-8") as f:
-            json.dump(trials, f, ensure_ascii=False, indent=2)
-        print(f"✅ ClinicalTrials.gov results updated. ({len(trials)} trials saved)")
+        with open(CLINICAL_TRIALS_FILE, "w", encoding="utf-8") as file:
+            json.dump(trials, file, ensure_ascii=False, indent=2)
+        print(f"ClinicalTrials.gov results updated. ({len(trials)} trials saved)")
     else:
-        print("ℹ️ No new ClinicalTrials.gov updates found.")
+        print("No new ClinicalTrials.gov updates found.")
 
-# --- CTRI scraping function ---
+
 def run_ctri_trials():
     try:
         trials = fetch_ctri_trials()
         if trials:
-            with open(CTRI_TRIALS_FILE, "w", encoding="utf-8") as f:
-                json.dump(trials, f, ensure_ascii=False, indent=2)
-            print(f"✅ CTRI results updated. ({len(trials)} trials saved)")
+            with open(CTRI_TRIALS_FILE, "w", encoding="utf-8") as file:
+                json.dump(trials, file, ensure_ascii=False, indent=2)
+            print(f"CTRI results updated. ({len(trials)} trials saved)")
         else:
-            print("ℹ️ No new CTRI updates found.")
-    except Exception as e:
-        print(f"⚠️ Error fetching CTRI trials: {e}")
+            print("No new CTRI updates found.")
+    except Exception as exc:
+        print(f"Warning: error fetching CTRI trials: {exc}")
 
-# --- EU CTIS scraping function ---
+
 def run_eu_ctis_trials():
     try:
         trials = fetch_eu_ctis_trials()
         if trials:
-            with open(EU_CTIS_TRIALS_FILE, "w", encoding="utf-8") as f:
-                json.dump(trials, f, ensure_ascii=False, indent=2)
-            print(f"✅ EU CTIS results updated. ({len(trials)} trials saved)")
+            with open(EU_CTIS_TRIALS_FILE, "w", encoding="utf-8") as file:
+                json.dump(trials, file, ensure_ascii=False, indent=2)
+            print(f"EU CTIS results updated. ({len(trials)} trials saved)")
         else:
-            print("ℹ️ No new EU CTIS updates found.")
-    except Exception as e:
-        print(f"⚠️ Error fetching EU CTIS trials: {e}")
+            print("No new EU CTIS updates found.")
+    except Exception as exc:
+        print(f"Warning: error fetching EU CTIS trials: {exc}")
 
-# --- Investor scraping function ---
+
 def run_investor_scrapers():
     results = load_results(INVESTOR_RESULTS_FILE, "companies")
     updated = False
 
     for company, scraper_func in INVESTOR_SCRAPERS.items():
-        company_entry = next((c for c in results if c["company"] == company), None)
+        company_entry = next((company_data for company_data in results if company_data["company"] == company), None)
         if not company_entry:
             company_entry = {"company": company, "investor_news": []}
             results.append(company_entry)
 
         try:
             new_data = scraper_func()
-            company_entry["investor_news"] = mark_new_items(
-                company_entry["investor_news"], new_data
-            )
-            company_entry["investor_news"] = enforce_limit_and_backup(
-                company_entry["investor_news"], limit=10, company=company, section="investor_news"
-            )
+            company_entry["investor_news"] = mark_new_items(company_entry["investor_news"], new_data)
+            company_entry["investor_news"] = keep_all_items(company_entry["investor_news"])
             updated = True
-        except Exception as e:
-            print(f"⚠️ Error scraping {company} (investor): {e}")
+        except Exception as exc:
+            print(f"Warning: error scraping {company} (investor): {exc}")
 
     if updated:
         save_results(INVESTOR_RESULTS_FILE, "companies", results)
-        print("✅ Investor results updated.")
+        print("Investor results updated.")
     else:
-        print("ℹ️ No new investor updates found.")
+        print("No new investor updates found.")
 
-# --- Main runner ---
+
 if __name__ == "__main__":
-    print("🚀 Running company scrapers...")
+    print("Running company scrapers...")
     run_all_scrapers()
 
-    # --- Run AI enrichment for company news ---
-    print("\n🤖 Running AI enrichment for company news...")
-    run_enrichment()  # saves results_enriched.json automatically
+    print("\nRunning AI enrichment for company news...")
+    run_enrichment()
 
-    print("\n🌏 Running Korean scrapers...")
+    print("\nRunning Korean scrapers...")
     run_korean_scrapers()
 
-    # --- Run AI enrichment for Korean news ---
-    print("\n🤖 Running AI enrichment for Korean news...")
-    run_korean_enrichment()  # saves korean_results_enriched.json automatically
+    print("\nRunning AI enrichment for Korean news...")
+    run_korean_enrichment()
 
-    print("\n🔬 Running ClinicalTrials.gov scraper...")
-    run_clinical_trials()  # saves clinical_trials_hybrid_fixed.json
+    print("\nRunning ClinicalTrials.gov scraper...")
+    run_clinical_trials()
 
-    print("\n🔬 Running CTRI scraper...")
-    run_ctri_trials()  # saves ctri_trials.json
+    print("\nRunning CTRI scraper...")
+    run_ctri_trials()
 
-    print("\n🔬 Running EU CTIS scraper...")
-    run_eu_ctis_trials()  # saves eu_ctis_trials.json
+    print("\nRunning EU CTIS scraper...")
+    run_eu_ctis_trials()
 
-    print("\n📈 Running investor scrapers...")
-    run_investor_scrapers()  # saves investor_results.json
+    print("\nRunning investor scrapers...")
+    run_investor_scrapers()
