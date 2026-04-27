@@ -1,16 +1,64 @@
 {
-  "last_updated": "2026-04-26 11:43:29 IST",
+  "last_updated": "2026-04-27 04:09:43 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "MEPSGEN moves into large-scale microparticle production for long-acting injectables",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31438",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "04.27 11:41",
+          "new": true
+        },
+        {
+          "title": "Olympus Korea, KSGO partner to expand laparoscopic training for residents",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31437",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "04.27 11:26",
+          "new": true
+        },
+        {
+          "title": "Korea may ease GLP-1 drug rules as Novo’s Ozempic faces access limits: diabetes association",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31435",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "04.27 11:24",
+          "new": true
+        },
+        {
+          "title": "Korea faces sharpest OECD surge in chronic disease and costs by 2050: report",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31434",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "04.27 11:03",
+          "new": true
+        },
+        {
+          "title": "Hugel ramps up Indonesia push with Letybo training program",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31436",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "04.27 10:55",
+          "new": true
+        },
+        {
+          "title": "[Interview] Measles comeback exposes gaps in vaccine uptake, expert warns",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31433",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "04.27 09:32",
+          "new": true
+        },
         {
           "title": "Korea tops 2 million foreign patients for 1st time as aesthetics drive surge",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31432",
           "category": "K-Beauty",
           "author": "Kim Ji-hye",
           "date": "04.24 17:28",
-          "new": true
+          "new": false
         },
         {
           "title": "MSD, Sanofi boost dividends from Korea as pharma units keep cash flowing to headquarters",
@@ -18,7 +66,7 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "04.24 17:24",
-          "new": true
+          "new": false
         },
         {
           "title": "Severance hospital training program leads to 1st lung transplant in Vietnam",
@@ -26,7 +74,7 @@
           "category": "Hospital",
           "author": "Lee Han-soo",
           "date": "04.24 15:56",
-          "new": true
+          "new": false
         },
         {
           "title": "Epilepsy drugs delayed or absent in Korea as pricing system limits access",
@@ -34,7 +82,7 @@
           "category": "Policy",
           "author": "Kim Eun-young",
           "date": "04.24 15:44",
-          "new": true
+          "new": false
         },
         {
           "title": "[Column] Intravesical therapy: delivering anticancer drugs directly into the bladder",
@@ -114,54 +162,6 @@
           "category": "Bio",
           "author": "Lee Han-soo",
           "date": "04.23 17:22",
-          "new": false
-        },
-        {
-          "title": "Korea expands fertility support to include prevention and mental health",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31417",
-          "category": "Policy",
-          "author": "Kim Kyoung-Won",
-          "date": "04.23 16:38",
-          "new": false
-        },
-        {
-          "title": "Korean doctors press HPV-first cervical screening as payers push back on cost",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31414",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "04.23 16:29",
-          "new": false
-        },
-        {
-          "title": "Opposition lawmaker warns of essential drug shortages, blames low pricing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31416",
-          "category": "Policy",
-          "author": "Kim Eun-young",
-          "date": "04.23 15:47",
-          "new": false
-        },
-        {
-          "title": "Anemia, infections, and nosebleeds in older adults may signal blood cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31415",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "04.23 15:28",
-          "new": false
-        },
-        {
-          "title": "Gene test unclear? Tumor grade may hold the answer for younger breast cancer patients",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31413",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "04.23 15:15",
-          "new": false
-        },
-        {
-          "title": "Celltrion begins dosing for 3 ADC cancer candidates",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31411",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "04.23 14:29",
           "new": false
         }
       ]

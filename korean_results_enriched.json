@@ -1,17 +1,62 @@
 {
-  "last_updated": "2026-04-26 11:43:29 IST",
+  "last_updated": "2026-04-27 04:09:43 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "MSD, Sanofi boost dividends from Korea as pharma units keep cash flowing to headquarters",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31431",
-          "category": "Pharma",
+          "title": "MEPSGEN moves into large-scale microparticle production for long-acting injectables",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31438",
+          "category": "Device/ICT",
           "author": "Lee Han-soo",
-          "date": "04.24 17:24",
+          "date": "04.27 11:41",
           "new": true,
-          "tag": "Financial"
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Korea may ease GLP-1 drug rules as Novo’s Ozempic faces access limits: diabetes association",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31435",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "04.27 11:24",
+          "new": true,
+          "tag": "Other"
+        },
+        {
+          "title": "Hugel ramps up Indonesia push with Letybo training program",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31436",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "04.27 10:55",
+          "new": true,
+          "tag": "Other"
+        },
+        {
+          "title": "Epilepsy drugs delayed or absent in Korea as pricing system limits access",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31429",
+          "category": "Policy",
+          "author": "Kim Eun-young",
+          "date": "04.24 15:44",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "[Column] Intravesical therapy: delivering anticancer drugs directly into the bladder",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31428",
+          "category": "Opinion",
+          "author": "Nam Wook",
+          "date": "04.24 15:02",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Medytox pushes anatomy-led training to shape aesthetic practice in Asia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31427",
+          "category": "K-Beauty",
+          "author": "Kim Ji-hye",
+          "date": "04.24 14:57",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "Korea OKs 1st advanced regenerative medicine treatment plan for rare lymphoma",
@@ -50,6 +95,15 @@
           "tag": "Clinical Trial"
         },
         {
+          "title": "Hugel trains overseas doctors in Korea to drive global standards in aesthetics",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31421",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "04.24 10:29",
+          "new": false,
+          "tag": "Other"
+        },
+        {
           "title": "Samsung Bioepis' operating profit up 13% in Q1 on solid global biosimilar sales",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31418",
           "category": "Bio",
@@ -57,15 +111,6 @@
           "date": "04.23 17:22",
           "new": false,
           "tag": "Financial"
-        },
-        {
-          "title": "Celltrion begins dosing for 3 ADC cancer candidates",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31411",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "04.23 14:29",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }
