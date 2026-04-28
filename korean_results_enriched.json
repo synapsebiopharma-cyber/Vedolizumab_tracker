@@ -1,10 +1,15 @@
 {
+<<<<<<< HEAD
   "last_updated": "2026-04-27 15:32:19 IST",
+=======
+  "last_updated": "2026-04-28 04:15:26 IST",
+>>>>>>> 170e78a42ad5cb35cd90de0cc2de3e42135a0c68
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
+<<<<<<< HEAD
           "title": "Bayer Korea partners with KDDF to expand open innovation network for Korean biotech startups",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31444",
           "category": "Pharma",
@@ -55,6 +60,67 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "04.24 17:24",
+=======
+          "title": "Celltrion launches Avtozma in Japan, entering tocilizumab market as first mover",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31459",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "04.28 13:14",
+          "new": true,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "ABL Bio partner Compass reports PFS win for tovecimig in phase 2/3 biliary tract cancer trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31452",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "04.28 10:38",
+          "new": true,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "JW Pharmaceutical finishes phase 3 dosing for epaminurad, data due this year",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31446",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "04.27 15:34",
+          "new": true,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "[AACR 2026] ABL Bio advances bispecific ADCs, eyes dual-payload shift",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31445",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "04.27 15:14",
+          "new": true,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Bayer Korea partners with KDDF to expand open innovation network for Korean biotech startups",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31444",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "04.27 14:40",
+          "new": true,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "HK inno.N, Atomatrix partner on AI-based obesity drug development",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31440",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "04.27 13:46",
+          "new": true,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Korea may ease GLP-1 drug rules as Novo’s Ozempic faces access limits: diabetes association",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31435",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "04.27 11:24",
+>>>>>>> 170e78a42ad5cb35cd90de0cc2de3e42135a0c68
           "new": false,
           "tag": "Other"
         }
