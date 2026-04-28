@@ -1,17 +1,62 @@
 {
-  "last_updated": "2026-04-27 04:09:43 IST",
+  "last_updated": "2026-04-28 04:15:26 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "MEPSGEN moves into large-scale microparticle production for long-acting injectables",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31438",
-          "category": "Device/ICT",
+          "title": "Celltrion launches Avtozma in Japan, entering tocilizumab market as first mover",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31459",
+          "category": "Pharma",
           "author": "Lee Han-soo",
-          "date": "04.27 11:41",
+          "date": "04.28 13:14",
+          "new": true,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "ABL Bio partner Compass reports PFS win for tovecimig in phase 2/3 biliary tract cancer trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31452",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "04.28 10:38",
+          "new": true,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "JW Pharmaceutical finishes phase 3 dosing for epaminurad, data due this year",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31446",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "04.27 15:34",
+          "new": true,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "[AACR 2026] ABL Bio advances bispecific ADCs, eyes dual-payload shift",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31445",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "04.27 15:14",
           "new": true,
           "tag": "Pipeline"
+        },
+        {
+          "title": "Bayer Korea partners with KDDF to expand open innovation network for Korean biotech startups",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31444",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "04.27 14:40",
+          "new": true,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "HK inno.N, Atomatrix partner on AI-based obesity drug development",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31440",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "04.27 13:46",
+          "new": true,
+          "tag": "Collaboration"
         },
         {
           "title": "Korea may ease GLP-1 drug rules as Novo’s Ozempic faces access limits: diabetes association",
@@ -19,98 +64,8 @@
           "category": "Policy",
           "author": "Kim Ji-hye",
           "date": "04.27 11:24",
-          "new": true,
-          "tag": "Other"
-        },
-        {
-          "title": "Hugel ramps up Indonesia push with Letybo training program",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31436",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "04.27 10:55",
-          "new": true,
-          "tag": "Other"
-        },
-        {
-          "title": "Epilepsy drugs delayed or absent in Korea as pricing system limits access",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31429",
-          "category": "Policy",
-          "author": "Kim Eun-young",
-          "date": "04.24 15:44",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "[Column] Intravesical therapy: delivering anticancer drugs directly into the bladder",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31428",
-          "category": "Opinion",
-          "author": "Nam Wook",
-          "date": "04.24 15:02",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Medytox pushes anatomy-led training to shape aesthetic practice in Asia",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31427",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "04.24 14:57",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Korea OKs 1st advanced regenerative medicine treatment plan for rare lymphoma",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31426",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "04.24 14:34",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "SNUH–Stanford team clears key hurdle in T-cell lymphoma CAR-T",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31423",
-          "category": "Life science",
-          "author": "Lee Han-soo",
-          "date": "04.24 13:20",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Dx&Vx affiliate Oxford Vacmedix reports phase 1 success for cancer vaccine OVM-200",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31419",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "04.24 11:32",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "GI Innovation advances GI-102 into 1st-line metastatic melanoma in Keytruda combo trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31420",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "04.24 11:26",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Hugel trains overseas doctors in Korea to drive global standards in aesthetics",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31421",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "04.24 10:29",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Samsung Bioepis' operating profit up 13% in Q1 on solid global biosimilar sales",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31418",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "04.23 17:22",
-          "new": false,
-          "tag": "Financial"
         }
       ]
     }
