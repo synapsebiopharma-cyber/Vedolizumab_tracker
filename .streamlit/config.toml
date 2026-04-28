@@ -4,3 +4,6 @@ backgroundColor="#ffd7b5"    # White background
 secondaryBackgroundColor="#ffb38a"  # Light orange for panels
 textColor="#000000"          # Black text
 font="sans serif"
+
+[browser]
+gatherUsageStats = false

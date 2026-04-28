@@ -172,18 +172,12 @@ if api_key and genai is not None:
     genai.configure(api_key=api_key)
 
 
-def parse_companies_container(data):
-    return data.get("companies", data) if isinstance(data, dict) else data
-
-
 def extract_news_sections(input_file=INPUT_FILE):
     with open(input_file, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    companies = parse_companies_container(data)
-
     news_data = {"companies": []}
-    for company in companies:
+    for company in data.get("companies", []):
         news_data["companies"].append(
             {
                 "company": company.get("company"),
@@ -415,16 +409,10 @@ def enrich_news(news_data):
 def merge_enriched_news(full_data, enriched_news, output_file=OUTPUT_FILE):
     enriched_map = {c["company"]: c for c in enriched_news["companies"]}
 
-    companies = parse_companies_container(full_data)
-    for company in companies:
+    for company in full_data.get("companies", []):
         cname = company.get("company")
         if cname in enriched_map:
             company["google_news"] = enriched_map[cname].get("google_news", [])
-
-    if isinstance(full_data, dict) and "companies" in full_data:
-        full_data["companies"] = companies
-    else:
-        full_data = companies
 
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(full_data, f, indent=2, ensure_ascii=False)

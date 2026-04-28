@@ -132,6 +132,12 @@ else:
 
 st.markdown('<div class="company-logo">', unsafe_allow_html=True)
 
+
+def format_pipeline_status(value):
+    if isinstance(value, list):
+        return ", ".join(part for part in value if part)
+    return value or ""
+
 # --- Website News ---
 st.header(f"{company_name} Website")
 if company_data.get("website"):
@@ -183,7 +189,9 @@ if isinstance(pipeline_data, list) and len(pipeline_data) > 0:
                 or p.get("details", {}).get("therapeutic_area", "")
             ),
             "Stage": next((s["stage"] for s in reversed(p.get("stages", [])) if s.get("active")), "Unknown"),
-            "Status": p.get("status_note") or p.get("current_phase", "")
+            "Status": format_pipeline_status(
+                p.get("status_note") or p.get("current_phase", "")
+            ),
         }
         for p in pipeline_data if p.get("name") or p.get("code")
     ])
