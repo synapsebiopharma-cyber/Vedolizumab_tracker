@@ -1,0 +1,354 @@
+{
+    "company": "Samsung Bioepis",
+    "source_url": "https://www.samsungbioepis.com/en/product/product02.do",
+    "pipeline_count": 9,
+    "pipeline": [
+        {
+            "code": "SB27",
+            "type": "Biosimilar candidate",
+            "details": {
+                "molecule": "Pembrolizumab",
+                "reference_biologic": "Keytruda i",
+                "therapeutic_area": "Oncology"
+            },
+            "current_phase": "Phase Iii",
+            "stages": [
+                {
+                    "stage": "Preclinical",
+                    "active": true
+                },
+                {
+                    "stage": "Phase I",
+                    "active": true
+                },
+                {
+                    "stage": "Phase III",
+                    "active": true
+                },
+                {
+                    "stage": "Filing",
+                    "active": false
+                },
+                {
+                    "stage": "Approval",
+                    "active": false
+                },
+                {
+                    "stage": "Launch",
+                    "active": false
+                }
+            ],
+            "clinical_trials": [
+                {
+                    "text": "Learn more about the clinical trial (phase I)",
+                    "url": "https://clinicaltrials.gov/study/NCT06268613"
+                },
+                {
+                    "text": "Learn more about the clinical trial (phase III)",
+                    "url": "https://clinicaltrials.gov/study/NCT06348199"
+                }
+            ]
+        },
+        {
+            "code": "SB33",
+            "type": "Biosimilar candidate",
+            "details": {
+                "molecule": "Dupilumab",
+                "reference_biologic": "Dupixent ii",
+                "therapeutic_area": "Immunology"
+            },
+            "current_phase": null,
+            "stages": [
+                {
+                    "stage": "Preclinical",
+                    "active": true
+                },
+                {
+                    "stage": "Phase I",
+                    "active": false
+                },
+                {
+                    "stage": "Phase III",
+                    "active": false
+                },
+                {
+                    "stage": "Filing",
+                    "active": false
+                },
+                {
+                    "stage": "Approval",
+                    "active": false
+                },
+                {
+                    "stage": "Launch",
+                    "active": false
+                }
+            ],
+            "clinical_trials": []
+        },
+        {
+            "code": "SB34",
+            "type": "Biosimilar candidate",
+            "details": {
+                "molecule": "Guselkumab",
+                "reference_biologic": "Tremfya iii",
+                "therapeutic_area": "Immunology"
+            },
+            "current_phase": null,
+            "stages": [
+                {
+                    "stage": "Preclinical",
+                    "active": true
+                },
+                {
+                    "stage": "Phase I",
+                    "active": false
+                },
+                {
+                    "stage": "Phase III",
+                    "active": false
+                },
+                {
+                    "stage": "Filing",
+                    "active": false
+                },
+                {
+                    "stage": "Approval",
+                    "active": false
+                },
+                {
+                    "stage": "Launch",
+                    "active": false
+                }
+            ],
+            "clinical_trials": []
+        },
+        {
+            "code": "SB35",
+            "type": "Biosimilar candidate",
+            "details": {
+                "molecule": "Ixekizumab",
+                "reference_biologic": "Taltz iv",
+                "therapeutic_area": "Immunology"
+            },
+            "current_phase": null,
+            "stages": [
+                {
+                    "stage": "Preclinical",
+                    "active": true
+                },
+                {
+                    "stage": "Phase I",
+                    "active": false
+                },
+                {
+                    "stage": "Phase III",
+                    "active": false
+                },
+                {
+                    "stage": "Filing",
+                    "active": false
+                },
+                {
+                    "stage": "Approval",
+                    "active": false
+                },
+                {
+                    "stage": "Launch",
+                    "active": false
+                }
+            ],
+            "clinical_trials": []
+        },
+        {
+            "code": "SB36",
+            "type": "Biosimilar candidate",
+            "details": {
+                "molecule": "Vedolizumab",
+                "reference_biologic": "Entyvio v",
+                "therapeutic_area": "Immunology"
+            },
+            "current_phase": null,
+            "stages": [
+                {
+                    "stage": "Preclinical",
+                    "active": true
+                },
+                {
+                    "stage": "Phase I",
+                    "active": false
+                },
+                {
+                    "stage": "Phase III",
+                    "active": false
+                },
+                {
+                    "stage": "Filing",
+                    "active": false
+                },
+                {
+                    "stage": "Approval",
+                    "active": false
+                },
+                {
+                    "stage": "Launch",
+                    "active": false
+                }
+            ],
+            "clinical_trials": []
+        },
+        {
+            "code": "SB37",
+            "type": "Biosimilar candidate",
+            "details": {
+                "molecule": "Ocrelizumab",
+                "reference_biologic": "Ocrevus vi",
+                "therapeutic_area": "Neurology"
+            },
+            "current_phase": null,
+            "stages": [
+                {
+                    "stage": "Preclinical",
+                    "active": true
+                },
+                {
+                    "stage": "Phase I",
+                    "active": false
+                },
+                {
+                    "stage": "Phase III",
+                    "active": false
+                },
+                {
+                    "stage": "Filing",
+                    "active": false
+                },
+                {
+                    "stage": "Approval",
+                    "active": false
+                },
+                {
+                    "stage": "Launch",
+                    "active": false
+                }
+            ],
+            "clinical_trials": []
+        },
+        {
+            "code": "SB38",
+            "type": "Biosimilar candidate",
+            "details": {
+                "molecule": "Trastuzumab deruxtecan",
+                "reference_biologic": "Enhertu vii",
+                "therapeutic_area": "Oncology"
+            },
+            "current_phase": null,
+            "stages": [
+                {
+                    "stage": "Preclinical",
+                    "active": true
+                },
+                {
+                    "stage": "Phase I",
+                    "active": false
+                },
+                {
+                    "stage": "Phase III",
+                    "active": false
+                },
+                {
+                    "stage": "Filing",
+                    "active": false
+                },
+                {
+                    "stage": "Approval",
+                    "active": false
+                },
+                {
+                    "stage": "Launch",
+                    "active": false
+                }
+            ],
+            "clinical_trials": []
+        },
+        {
+            "code": "SBE303",
+            "type": "Novel biologic",
+            "details": {
+                "molecule": "",
+                "reference_biologic": "",
+                "therapeutic_area": "Oncology (Nectin-4 ADC)"
+            },
+            "current_phase": "Phase I",
+            "stages": [
+                {
+                    "stage": "Preclinical",
+                    "active": true
+                },
+                {
+                    "stage": "Phase I",
+                    "active": true
+                },
+                {
+                    "stage": "Phase III",
+                    "active": false
+                },
+                {
+                    "stage": "Filing",
+                    "active": false
+                },
+                {
+                    "stage": "Approval",
+                    "active": false
+                },
+                {
+                    "stage": "Launch",
+                    "active": false
+                }
+            ],
+            "clinical_trials": [
+                {
+                    "text": "Learn more about the clinical trial (phase I)",
+                    "url": "https://clinicaltrials.gov/study/NCT07524348"
+                }
+            ]
+        },
+        {
+            "code": "SBE313",
+            "type": "Novel biologic",
+            "details": {
+                "molecule": "",
+                "reference_biologic": "",
+                "therapeutic_area": "Oncology (EGFR-HER3 ADC, Dual Payload)"
+            },
+            "current_phase": null,
+            "stages": [
+                {
+                    "stage": "Preclinical",
+                    "active": true
+                },
+                {
+                    "stage": "Phase I",
+                    "active": false
+                },
+                {
+                    "stage": "Phase III",
+                    "active": false
+                },
+                {
+                    "stage": "Filing",
+                    "active": false
+                },
+                {
+                    "stage": "Approval",
+                    "active": false
+                },
+                {
+                    "stage": "Launch",
+                    "active": false
+                }
+            ],
+            "clinical_trials": []
+        }
+    ]
+}

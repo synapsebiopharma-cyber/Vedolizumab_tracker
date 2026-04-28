@@ -2,6 +2,7 @@ import os
 import json
 import streamlit as st
 import pandas as pd
+from datetime import datetime
 
 # --- Cache JSON loading to prevent reloading on every rerun ---
 @st.cache_data
@@ -16,6 +17,20 @@ def load_json_file(file_path):
     except json.JSONDecodeError as e:
         st.error(f"❌ JSON parsing error in {file_path}: {e}")
         st.stop()
+
+
+def sort_news_by_date(items):
+    """Sort news items newest first, tolerating missing or invalid dates."""
+    def parse_date(value):
+        text = str(value or "").strip()
+        for fmt in ("%Y-%m-%d %H:%M", "%Y-%m-%d", "%d/%m/%Y", "%d-%m-%Y"):
+            try:
+                return datetime.strptime(text, fmt)
+            except ValueError:
+                continue
+        return datetime.min
+
+    return sorted(items, key=lambda item: parse_date(item.get("date")), reverse=True)
 
 # --- CSS Styling ---
 custom_css = """
@@ -139,7 +154,7 @@ else:
 # --- Google News ---
 st.header("Google News")
 if company_data.get("google_news"):
-    gnews_df = pd.DataFrame(company_data["google_news"])
+    gnews_df = pd.DataFrame(sort_news_by_date(company_data["google_news"]))
     for _, row in gnews_df.iterrows():
         tags_html = []
         if "tag" in row and pd.notna(row["tag"]):
@@ -162,12 +177,15 @@ pipeline_data = company_data.get("pipeline", [])
 if isinstance(pipeline_data, list) and len(pipeline_data) > 0:
     pipeline_df = pd.DataFrame([
         {
-            "Drug": p.get("name", ""),
-            "Therapeutic Area": p.get("details", {}).get("Therapeutic Area", ""),
+            "Drug": p.get("name") or p.get("code", ""),
+            "Therapeutic Area": (
+                p.get("details", {}).get("Therapeutic Area")
+                or p.get("details", {}).get("therapeutic_area", "")
+            ),
             "Stage": next((s["stage"] for s in reversed(p.get("stages", [])) if s.get("active")), "Unknown"),
-            "Status": p.get("status_note", "")
+            "Status": p.get("status_note") or p.get("current_phase", "")
         }
-        for p in pipeline_data if p.get("name")
+        for p in pipeline_data if p.get("name") or p.get("code")
     ])
     st.dataframe(pipeline_df)
 else:

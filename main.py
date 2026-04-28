@@ -1,5 +1,5 @@
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 
 from dotenv import load_dotenv
 
@@ -16,6 +16,7 @@ from website_scrapers.Advanz_scraper import fetch_advanz_news
 from website_scrapers.Teva_scraper import fetch_teva_news
 from website_scrapers.MS_scraper import fetch_mspharma_news
 from website_scrapers.Fuji_scraper import fetch_fuji_news
+from website_scrapers.samsung_bioepis_scraper import fetch_bioepis_news
 from GN_scraper.GW_central import fetch_google_news_rss
 
 # --- Pipeline scrapers ---
@@ -25,6 +26,7 @@ from pipeline_scrapers.Dr_Reddy_pipeline import fetch_dr_reddys_pipeline
 from pipeline_scrapers.polpharma_pipeline import fetch_polpharma_pipeline
 from pipeline_scrapers.samsung_pipeline import fetch_samsung_pipeline
 from pipeline_scrapers.sandoz_pipeline import fetch_sandoz_pipeline
+from pipeline_scrapers.samsung_bioepis_pipeline import fetch_samsung_pipeline as fetch_samsung_bioepis_pipeline
 
 # --- Korea scrapers ---
 from Korean.Business_korea import scrape_news_section
@@ -64,6 +66,7 @@ SCRAPERS = {
     "Dr Reddy": {"website": fetch_dr_reddys_news, "pipeline": fetch_dr_reddys_pipeline},
     "Celltrion": {"website": fetch_celltrion_news, "pipeline": fetch_celltrion_pipeline},
     "Samsung Biologics": {"website": fetch_samsung_news, "pipeline": fetch_samsung_pipeline},
+    "Samsung Bioepis": {"website": fetch_bioepis_news, "pipeline": fetch_samsung_bioepis_pipeline},
     "Sandoz": {"website": fetch_sandoz_news, "pipeline": fetch_sandoz_pipeline},
     "Biocon": {"website": fetch_biocon_news},
     "Advanz": {"website": fetch_advanz_news},
@@ -109,7 +112,44 @@ def save_results(file_path, key_name, data):
         json.dump(wrapper, file, indent=2, ensure_ascii=False)
 
 
-def mark_new_items(old_list, new_list, unique_key="link"):
+def parse_item_datetime(date_value):
+    """
+    Parse supported date strings from news scrapers into a datetime.
+    Returns None when the format is unknown.
+    """
+    text = str(date_value or "").strip()
+    if not text:
+        return None
+
+    for fmt in (
+        "%Y-%m-%d %H:%M",
+        "%Y-%m-%d",
+        "%d/%m/%Y",
+        "%d-%m-%Y",
+        "%b %d, %Y",
+        "%B %d, %Y",
+        "%d %b %Y",
+        "%d %B %Y",
+    ):
+        try:
+            return datetime.strptime(text, fmt)
+        except ValueError:
+            continue
+
+    return None
+
+
+def is_recent_item(item, window_hours=24):
+    """
+    Return True only when the item's date falls within the recent time window.
+    """
+    published_at = parse_item_datetime(item.get("date"))
+    if published_at is None:
+        return False
+    return datetime.now() - published_at <= timedelta(hours=window_hours)
+
+
+def mark_new_items(old_list, new_list, unique_key="link", recent_hours=None):
     """
     Mark items in new_list as new when their unique key was not present before.
     """
@@ -118,7 +158,9 @@ def mark_new_items(old_list, new_list, unique_key="link"):
     updated_list = []
     for item in new_list:
         item_copy = item.copy()
-        item_copy["new"] = item.get(unique_key) not in old_keys
+        is_unseen = item.get(unique_key) not in old_keys
+        is_recent = True if recent_hours is None else is_recent_item(item, recent_hours)
+        item_copy["new"] = is_unseen and is_recent
         updated_list.append(item_copy)
 
     return updated_list
@@ -162,7 +204,9 @@ def run_all_scrapers():
         if "website" in sources:
             try:
                 new_data = sources["website"]()
-                company_entry["website"] = mark_new_items(company_entry["website"], new_data)
+                company_entry["website"] = mark_new_items(
+                    company_entry["website"], new_data, recent_hours=24
+                )
                 company_entry["website"] = keep_all_items(company_entry["website"])
                 updated = True
             except Exception as exc:
@@ -182,7 +226,9 @@ def run_all_scrapers():
 
         try:
             new_data = fetch_google_news_rss(company)
-            company_entry["google_news"] = mark_new_items(company_entry["google_news"], new_data)
+            company_entry["google_news"] = mark_new_items(
+                company_entry["google_news"], new_data, recent_hours=24
+            )
             company_entry["google_news"] = keep_all_items(company_entry["google_news"])
             updated = True
         except Exception as exc:
@@ -212,7 +258,9 @@ def run_korean_scrapers():
 
         try:
             new_data = scraper_func()
-            source_entry["articles"] = mark_new_items(source_entry["articles"], new_data)
+            source_entry["articles"] = mark_new_items(
+                source_entry["articles"], new_data, recent_hours=24
+            )
             source_entry["articles"] = keep_all_items(source_entry["articles"])
             updated = True
         except Exception as exc:
@@ -284,7 +332,9 @@ def run_investor_scrapers():
 
         try:
             new_data = scraper_func()
-            company_entry["investor_news"] = mark_new_items(company_entry["investor_news"], new_data)
+            company_entry["investor_news"] = mark_new_items(
+                company_entry["investor_news"], new_data, recent_hours=24
+            )
             company_entry["investor_news"] = keep_all_items(company_entry["investor_news"])
             updated = True
         except Exception as exc:
