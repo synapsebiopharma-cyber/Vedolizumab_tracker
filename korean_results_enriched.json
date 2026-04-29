@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-04-29 11:09:11 IST",
+  "last_updated": "2026-04-29 09:37:20 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "MFDS expands pre-consultation for cell and gene therapy developers",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31484",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "04.29 14:45",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Pediatric experts urge end to 1-year limit on Crohn’s nutrition therapy support",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31480",
+          "category": "Policy",
+          "author": "You Ji-young",
+          "date": "04.29 13:28",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Samsung Bioepis signs open innovation deal with China’s ATLATL",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31479",
@@ -11,16 +29,7 @@
           "author": "Lee Han-soo",
           "date": "04.29 13:14",
           "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Dong-A University Hospital rolls out region’s largest AI smart ward with Daewoong",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31478",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "04.29 11:45",
-          "new": false,
-          "tag": "Collaboration"
+          "tag": "Other"
         },
         {
           "title": "Curogen, Epibiotech win 1st AbbVie-KHIDI biotech award",
@@ -32,15 +41,6 @@
           "tag": "Other"
         },
         {
-          "title": "AstraZeneca Korea spotlights AI-bio partnerships at BIO KOREA 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31476",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "04.29 11:01",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
           "title": "Ilyang Pharmaceutical wins infant-use approval for flu vaccines",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31474",
           "category": "Pharma",
@@ -48,33 +48,6 @@
           "date": "04.29 10:30",
           "new": false,
           "tag": "FDA Approval"
-        },
-        {
-          "title": "Kisqali maintains recurrence reduction benefit in young breast cancer patients: Novartis Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31467",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "04.28 15:40",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Biosolution’s CartiLife enters China as 1st Korean-approved cell therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31465",
-          "category": "Bio",
-          "author": "Park Gi-taek",
-          "date": "04.28 15:25",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "[Interview] Korea’s 1st Alzheimer’s antibody faces cost, access barriers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31456",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "04.28 13:46",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }
