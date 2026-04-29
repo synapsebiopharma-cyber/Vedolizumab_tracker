@@ -1,128 +1,125 @@
 {
-<<<<<<< HEAD
-  "last_updated": "2026-04-27 15:32:19 IST",
-=======
-  "last_updated": "2026-04-28 04:15:26 IST",
->>>>>>> 170e78a42ad5cb35cd90de0cc2de3e42135a0c68
+  "last_updated": "2026-04-29 04:12:56 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-<<<<<<< HEAD
-          "title": "Bayer Korea partners with KDDF to expand open innovation network for Korean biotech startups",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31444",
+          "title": "Dong-A University Hospital rolls out region’s largest AI smart ward with Daewoong",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31478",
           "category": "Pharma",
           "author": "Lee Han-soo",
-          "date": "04.27 14:40",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "[Reporter’s Notebook] Retevmo highlights delays in Korea’s rare cancer drug coverage",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31442",
-          "category": "Opinion",
-          "author": "Kim Yun-mi",
-          "date": "04.27 14:21",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Korea to overhaul innovative pharma certification, scrap cap on approved firms",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31441",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "04.27 13:50",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "HK inno.N, Atomatrix partner on AI-based obesity drug development",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31440",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "04.27 13:46",
+          "date": "04.29 11:45",
           "new": false,
           "tag": "Collaboration"
         },
         {
-          "title": "Korea may ease GLP-1 drug rules as Novo’s Ozempic faces access limits: diabetes association",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31435",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "04.27 11:24",
+          "title": "Curogen, Epibiotech win 1st AbbVie-KHIDI biotech award",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31477",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "04.29 11:12",
           "new": false,
           "tag": "Other"
         },
         {
-          "title": "MSD, Sanofi boost dividends from Korea as pharma units keep cash flowing to headquarters",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31431",
+          "title": "AstraZeneca Korea spotlights AI-bio partnerships at BIO KOREA 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31476",
           "category": "Pharma",
           "author": "Lee Han-soo",
-          "date": "04.24 17:24",
-=======
+          "date": "04.29 11:01",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Ilyang Pharmaceutical wins infant-use approval for flu vaccines",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31474",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "04.29 10:30",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "AbbVie, Roche cut donations despite strong revenue growth in Korea in 2025",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31472",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "04.29 10:20",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "SK bioscience to buy ₩17.1 bil. in treasury shares for employee RSU plan",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31471",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "04.28 18:28",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Kisqali maintains recurrence reduction benefit in young breast cancer patients: Novartis Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31467",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "04.28 15:40",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Biosolution’s CartiLife enters China as 1st Korean-approved cell therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31465",
+          "category": "Bio",
+          "author": "Park Gi-taek",
+          "date": "04.28 15:25",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "[Interview] Korea’s 1st Alzheimer’s antibody faces cost, access barriers",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31456",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "04.28 13:46",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "i-SENS sees CGM surge in Q1, but profit pressured by expansion costs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31461",
+          "category": "Device/ICT",
+          "author": "Kwon Min-seon",
+          "date": "04.28 13:23",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "CHA Biotech, Miltenyi Biotec collaborate on scalable CAR-NK manufacturing",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31460",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "04.28 13:17",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
           "title": "Celltrion launches Avtozma in Japan, entering tocilizumab market as first mover",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31459",
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "04.28 13:14",
-          "new": true,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "ABL Bio partner Compass reports PFS win for tovecimig in phase 2/3 biliary tract cancer trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31452",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "04.28 10:38",
-          "new": true,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "JW Pharmaceutical finishes phase 3 dosing for epaminurad, data due this year",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31446",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "04.27 15:34",
-          "new": true,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "[AACR 2026] ABL Bio advances bispecific ADCs, eyes dual-payload shift",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31445",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "04.27 15:14",
-          "new": true,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Bayer Korea partners with KDDF to expand open innovation network for Korean biotech startups",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31444",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "04.27 14:40",
-          "new": true,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "HK inno.N, Atomatrix partner on AI-based obesity drug development",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31440",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "04.27 13:46",
-          "new": true,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Korea may ease GLP-1 drug rules as Novo’s Ozempic faces access limits: diabetes association",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31435",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "04.27 11:24",
->>>>>>> 170e78a42ad5cb35cd90de0cc2de3e42135a0c68
           "new": false,
           "tag": "Other"
+        },
+        {
+          "title": "AITRICS signs MOU with Vietnam’s Hung Yen health authority to expand medical AI cooperation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31457",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "04.28 13:10",
+          "new": false,
+          "tag": "Collaboration"
         }
       ]
     }
