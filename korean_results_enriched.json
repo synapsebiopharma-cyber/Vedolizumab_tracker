@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-04-29 04:12:56 IST",
+  "last_updated": "2026-04-29 11:09:11 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Samsung Bioepis signs open innovation deal with China’s ATLATL",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31479",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "04.29 13:14",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "Dong-A University Hospital rolls out region’s largest AI smart ward with Daewoong",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31478",
@@ -41,24 +50,6 @@
           "tag": "FDA Approval"
         },
         {
-          "title": "AbbVie, Roche cut donations despite strong revenue growth in Korea in 2025",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31472",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "04.29 10:20",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "SK bioscience to buy ₩17.1 bil. in treasury shares for employee RSU plan",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31471",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "04.28 18:28",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
           "title": "Kisqali maintains recurrence reduction benefit in young breast cancer patients: Novartis Korea",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31467",
           "category": "Pharma",
@@ -74,7 +65,7 @@
           "author": "Park Gi-taek",
           "date": "04.28 15:25",
           "new": false,
-          "tag": "Other"
+          "tag": "FDA Approval"
         },
         {
           "title": "[Interview] Korea’s 1st Alzheimer’s antibody faces cost, access barriers",
@@ -84,42 +75,6 @@
           "date": "04.28 13:46",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "i-SENS sees CGM surge in Q1, but profit pressured by expansion costs",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31461",
-          "category": "Device/ICT",
-          "author": "Kwon Min-seon",
-          "date": "04.28 13:23",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "CHA Biotech, Miltenyi Biotec collaborate on scalable CAR-NK manufacturing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31460",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "04.28 13:17",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Celltrion launches Avtozma in Japan, entering tocilizumab market as first mover",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31459",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "04.28 13:14",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "AITRICS signs MOU with Vietnam’s Hung Yen health authority to expand medical AI cooperation",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31457",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "04.28 13:10",
-          "new": false,
-          "tag": "Collaboration"
         }
       ]
     }

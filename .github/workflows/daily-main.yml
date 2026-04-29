@@ -5,6 +5,8 @@ on:
   schedule:
     # 00:30 UTC = 06:00 AM IST
     - cron: "30 0 * * *"
+    # 07:30 UTC = 01:00 PM IST
+    - cron: "30 7 * * *"
 
 permissions:
   contents: write
