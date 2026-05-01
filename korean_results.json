@@ -1,85 +1,12 @@
 {
-<<<<<<< HEAD
-  "last_updated": "2026-05-01 10:04:03 IST",
-=======
-  "last_updated": "2026-04-29 09:37:20 IST",
->>>>>>> 94f97eb75a7b1d9f75e2e9759fd2b49e2b7131dc
+  "last_updated": "2026-05-01 09:25:28 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-<<<<<<< HEAD
           "title": "Celltrion files Herceptin biosimilar SC formulation with EMA",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31510",
-=======
-          "title": "GSK’s Blenrep launch brings BCMA-targeted ADC option to relapsed multiple myeloma patients in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31487",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "04.29 16:36",
-          "new": false
-        },
-        {
-          "title": "'Korea’s regional doctor plan may repeat Japan, Taiwan failures'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31486",
-          "category": "Policy",
-          "author": "Koh Jung Min",
-          "date": "04.29 15:09",
-          "new": false
-        },
-        {
-          "title": "Amorepacific Group Q1 sales rise on derma beauty growth, Amazon expansion and Japan momentum",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31485",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "04.29 14:47",
-          "new": false
-        },
-        {
-          "title": "MFDS expands pre-consultation for cell and gene therapy developers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31484",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "04.29 14:45",
-          "new": false
-        },
-        {
-          "title": "Kolmar becomes 1st cosmetics ODM to join Korea’s large conglomerate ranks",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31483",
-          "category": "K-Beauty",
-          "author": "Kim Yoon-mi",
-          "date": "04.29 14:07",
-          "new": false
-        },
-        {
-          "title": "Korea-US research team finds blood-based exosome protein panel for colorectal cancer diagnosis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31482",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "04.29 13:48",
-          "new": false
-        },
-        {
-          "title": "Immunotherapy, ADCs expand options in cervical cancer across stages: expert",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31481",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "04.29 13:34",
-          "new": false
-        },
-        {
-          "title": "Pediatric experts urge end to 1-year limit on Crohn’s nutrition therapy support",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31480",
-          "category": "Policy",
-          "author": "You Ji-young",
-          "date": "04.29 13:28",
-          "new": false
-        },
-        {
-          "title": "Samsung Bioepis signs open innovation deal with China’s ATLATL",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31479",
->>>>>>> 94f97eb75a7b1d9f75e2e9759fd2b49e2b7131dc
           "category": "Bio",
           "author": "Lee Han-soo",
           "date": "04.30 17:03",
@@ -204,7 +131,6 @@
           "author": "Lee Han-soo",
           "date": "04.30 11:07",
           "new": false
-<<<<<<< HEAD
         },
         {
           "title": "Curocell’s Rimqarto approval turns Korea’s CAR-T race into a reimbursement battle",
@@ -237,8 +163,6 @@
           "author": "Koh Jung Min",
           "date": "04.29 15:09",
           "new": false
-=======
->>>>>>> 94f97eb75a7b1d9f75e2e9759fd2b49e2b7131dc
         }
       ]
     }
