@@ -1,78 +1,78 @@
 {
-  "last_updated": "2026-04-29 11:09:11 IST",
+  "last_updated": "2026-05-01 10:04:03 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Samsung Bioepis signs open innovation deal with China’s ATLATL",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31479",
+          "title": "Celltrion files Herceptin biosimilar SC formulation with EMA",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31510",
           "category": "Bio",
           "author": "Lee Han-soo",
-          "date": "04.29 13:14",
+          "date": "04.30 17:03",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Samsung Biologics maps out C-Lab Outside to scale K-biotechs with Lilly partnership",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31504",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "04.30 15:20",
           "new": false,
           "tag": "Collaboration"
         },
         {
-          "title": "Dong-A University Hospital rolls out region’s largest AI smart ward with Daewoong",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31478",
+          "title": "Numeco gains Ukraine nod for Newlux, eyes Eastern Europe expansion",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31502",
           "category": "Pharma",
           "author": "Lee Han-soo",
-          "date": "04.29 11:45",
+          "date": "04.30 14:50",
           "new": false,
-          "tag": "Collaboration"
+          "tag": "FDA Approval"
         },
         {
-          "title": "Curogen, Epibiotech win 1st AbbVie-KHIDI biotech award",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31477",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "04.29 11:12",
+          "title": "GLP-1 weight-loss drugs may cause metabolic imbalance, study finds",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31500",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "04.30 14:12",
           "new": false,
           "tag": "Other"
         },
         {
-          "title": "AstraZeneca Korea spotlights AI-bio partnerships at BIO KOREA 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31476",
+          "title": "Daewoong, FMI invest in General Proximity to advance induced-proximity drugs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31495",
           "category": "Pharma",
           "author": "Lee Han-soo",
-          "date": "04.29 11:01",
+          "date": "04.30 13:11",
           "new": false,
           "tag": "Collaboration"
         },
         {
-          "title": "Ilyang Pharmaceutical wins infant-use approval for flu vaccines",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31474",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "04.29 10:30",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Kisqali maintains recurrence reduction benefit in young breast cancer patients: Novartis Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31467",
+          "title": "Astellas Korea rolls out Vesomni CR, aiming to simplify BPH–OAB treatment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31492",
           "category": "Pharma",
           "author": "Lee Han-soo",
-          "date": "04.28 15:40",
+          "date": "04.30 11:25",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Other"
         },
         {
-          "title": "Biosolution’s CartiLife enters China as 1st Korean-approved cell therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31465",
+          "title": "Curocell’s Rimqarto approval turns Korea’s CAR-T race into a reimbursement battle",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31490",
           "category": "Bio",
-          "author": "Park Gi-taek",
-          "date": "04.28 15:25",
+          "author": "Hong Sook",
+          "date": "04.30 09:54",
           "new": false,
           "tag": "FDA Approval"
         },
         {
-          "title": "[Interview] Korea’s 1st Alzheimer’s antibody faces cost, access barriers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31456",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "04.28 13:46",
+          "title": "GSK’s Blenrep launch brings BCMA-targeted ADC option to relapsed multiple myeloma patients in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31487",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "04.29 16:36",
           "new": false,
           "tag": "Other"
         }

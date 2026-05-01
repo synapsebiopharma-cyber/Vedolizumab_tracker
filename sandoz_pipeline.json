@@ -1,0 +1,1181 @@
+{
+    "company": "Sandoz",
+    "pipeline": [
+        {
+            "name": "Herwenda ® (trastuzumab) Reference medicine Herceptin ®",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Oncology",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": false
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": true
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "Regulatory approval in Europe Regulatory submission in US",
+                "section": "Regulatory review",
+                "link": null
+            },
+            "status_note": "USD 2 bn"
+        },
+        {
+            "name": "Avzivi ® (bevacizumab) Reference medicine Avastin ®",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Oncology",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": false
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": true
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "Regulatory approval in Europe Regulatory approval in US",
+                "section": "Regulatory review",
+                "link": null
+            },
+            "status_note": "USD 2 bn"
+        },
+        {
+            "name": "Reference medicine NovoLog ® (insulin aspart)",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Diabetes",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": false
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": true
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "Regulatory submission in Europe Regulatory submission in US",
+                "section": "Regulatory review",
+                "link": null
+            },
+            "status_note": "USD 4 bn"
+        },
+        {
+            "name": "Ondibta ® (insulin glargine) Reference medicine Lantus ®",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Diabetes",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": false
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": true
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "Regulatory approval in Europe Regulatory submission in US",
+                "section": "Regulatory review",
+                "link": null
+            },
+            "status_note": "USD 2 bn"
+        },
+        {
+            "name": "Reference medicine Humalog ® (insulin lispro)",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Diabetes",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": false
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": true
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "Regulatory submission in Europe Regulatory submission in US",
+                "section": "Regulatory review",
+                "link": null
+            },
+            "status_note": "USD 2 bn"
+        },
+        {
+            "name": "Reference medicine Perjeta® (pertuzumab)",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Oncology",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": false
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": true
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In clinical development",
+                "section": "Clinical development",
+                "link": null
+            },
+            "status_note": "USD 4 bn"
+        },
+        {
+            "name": "Reference medicine Opdivo ® (nivolumab) IV",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Oncology",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": false
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": true
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In clinical development",
+                "section": "Clinical development",
+                "link": null
+            },
+            "status_note": "USD 10 bn"
+        },
+        {
+            "name": "Reference medicine Keytruda ® (pembrolizumab) IV",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Oncology",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": false
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": true
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In clinical development",
+                "section": "Clinical development",
+                "link": null
+            },
+            "status_note": "USD 31 bn"
+        },
+        {
+            "name": "Reference medicine Ocrevus ® (ocrelizumab) IV",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Neurology",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": false
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": true
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In clinical development",
+                "section": "Clinical development",
+                "link": null
+            },
+            "status_note": "USD 5 bn"
+        },
+        {
+            "name": "Reference medicine Yervoy ® (ipilimumab)",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Oncology",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": false
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": true
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In clinical development",
+                "section": "Clinical development",
+                "link": null
+            },
+            "status_note": "USD 3 bn"
+        },
+        {
+            "name": "Reference medicine Tecentriq ® (atezolizumab)",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Oncology",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": false
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": true
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In clinical development",
+                "section": "Clinical development",
+                "link": null
+            },
+            "status_note": "USD 4 bn"
+        },
+        {
+            "name": "Reference medicine Darzalex ® (daratumumab) SC",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Oncology",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": false
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In technical development",
+                "section": "Technical development",
+                "link": null
+            },
+            "status_note": "USD 17 bn"
+        },
+        {
+            "name": "Reference medicine Opdivo Qvantig® (nivolumab) SC",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Oncology",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": false
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In technical development",
+                "section": "Technical development",
+                "link": null
+            },
+            "status_note": "USD 2 bn"
+        },
+        {
+            "name": "Reference medicine Padcev® (enfortumab vedotin)",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Oncology",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": false
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In technical development",
+                "section": "Technical development",
+                "link": null
+            },
+            "status_note": "USD 7 bn"
+        },
+        {
+            "name": "Reference medicine Enhertu ® (trastuzumab deruxtecan)",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Oncology",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": false
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In technical development",
+                "section": "Technical development",
+                "link": null
+            },
+            "status_note": "USD 15 bn"
+        },
+        {
+            "name": "Reference medicine Skyrizi ® (risankizumab)",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Immunology",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": false
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In technical development",
+                "section": "Technical development",
+                "link": null
+            },
+            "status_note": "USD 25 bn"
+        },
+        {
+            "name": "Reference medicine Tremfya ® (guselkumab)",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Immunology",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": false
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In technical development",
+                "section": "Technical development",
+                "link": null
+            },
+            "status_note": "USD 7 bn"
+        },
+        {
+            "name": "Reference medicine Eylea HD ® (aflibercept) 8 mg",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Ophthalmology",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": false
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In technical development",
+                "section": "Technical development",
+                "link": null
+            },
+            "status_note": "USD 4 bn"
+        },
+        {
+            "name": "Reference medicine Ocrevus ® (ocrelizumab) SC",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Neurology",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": false
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In technical development",
+                "section": "Technical development",
+                "link": null
+            },
+            "status_note": "USD 4 bn"
+        },
+        {
+            "name": "Reference medicine Dupixent ® (dupilumab)",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Dermatology",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": false
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In technical development",
+                "section": "Technical development",
+                "link": null
+            },
+            "status_note": "USD 24 bn"
+        },
+        {
+            "name": "Reference medicine Keytruda Qlex® (pembrolizumab) SC",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Oncology",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": true
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In early development",
+                "section": "Early development",
+                "link": null
+            },
+            "status_note": "USD 8 bn"
+        },
+        {
+            "name": "Reference medicine Entyvio® (vedolizumab)",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Immunology",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": true
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In early development",
+                "section": "Early development",
+                "link": null
+            },
+            "status_note": "USD 8 bn"
+        },
+        {
+            "name": "Reference medicine Takhzyro® (lanadelumab)",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Rare diseases",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": true
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In early development",
+                "section": "Early development",
+                "link": null
+            },
+            "status_note": "USD 2 bn"
+        },
+        {
+            "name": "Reference medicine Vyvgart®/Vyvgart Hytrulo® (efgartigimod alfa) IV / SC",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Rare diseases",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": true
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In early development",
+                "section": "Early development",
+                "link": null
+            },
+            "status_note": "USD 12 bn"
+        },
+        {
+            "name": "Reference medicine Ultomiris® (ravulizumab)",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Rare diseases",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": true
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In early development",
+                "section": "Early development",
+                "link": null
+            },
+            "status_note": "USD 8 bn"
+        },
+        {
+            "name": "Reference medicine Vabysmo® (faricimab)",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Ophthalmology",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": true
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In early development",
+                "section": "Early development",
+                "link": null
+            },
+            "status_note": "USD 11 bn"
+        },
+        {
+            "name": "Reference medicine Reblozyl® (luspatercept)",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Supportive care",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": true
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In early development",
+                "section": "Early development",
+                "link": null
+            },
+            "status_note": "USD 4 bn"
+        },
+        {
+            "name": "Reference medicine Tezspire® (tezepelumab)",
+            "details": {
+                "INN": null,
+                "Reference Drug": null,
+                "Originator": null,
+                "Therapeutic Area": "Respiratory",
+                "Partner": null
+            },
+            "stages": [
+                {
+                    "stage": "EARLY PHASE",
+                    "active": true
+                },
+                {
+                    "stage": "PRE-CLINICAL",
+                    "active": false
+                },
+                {
+                    "stage": "CLINICAL TRIALS",
+                    "active": false
+                },
+                {
+                    "stage": "FILING",
+                    "active": false
+                },
+                {
+                    "stage": "APPROVAL",
+                    "active": false
+                },
+                {
+                    "stage": "LAUNCH",
+                    "active": false
+                }
+            ],
+            "clinical_info": {
+                "phase": "In early development",
+                "section": "Early development",
+                "link": null
+            },
+            "status_note": "USD 5 bn"
+        }
+    ]
+}
