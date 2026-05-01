@@ -1,12 +1,39 @@
 {
+<<<<<<< HEAD
   "last_updated": "2026-05-01 10:04:03 IST",
+=======
+  "last_updated": "2026-04-29 09:37:20 IST",
+>>>>>>> 94f97eb75a7b1d9f75e2e9759fd2b49e2b7131dc
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
+<<<<<<< HEAD
           "title": "Celltrion files Herceptin biosimilar SC formulation with EMA",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31510",
+=======
+          "title": "MFDS expands pre-consultation for cell and gene therapy developers",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31484",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "04.29 14:45",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Pediatric experts urge end to 1-year limit on Crohn’s nutrition therapy support",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31480",
+          "category": "Policy",
+          "author": "You Ji-young",
+          "date": "04.29 13:28",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Samsung Bioepis signs open innovation deal with China’s ATLATL",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31479",
+>>>>>>> 94f97eb75a7b1d9f75e2e9759fd2b49e2b7131dc
           "category": "Bio",
           "author": "Lee Han-soo",
           "date": "04.30 17:03",
@@ -20,6 +47,7 @@
           "author": "Lee Han-soo",
           "date": "04.30 15:20",
           "new": false,
+<<<<<<< HEAD
           "tag": "Collaboration"
         },
         {
@@ -30,6 +58,9 @@
           "date": "04.30 14:50",
           "new": false,
           "tag": "FDA Approval"
+=======
+          "tag": "Other"
+>>>>>>> 94f97eb75a7b1d9f75e2e9759fd2b49e2b7131dc
         },
         {
           "title": "GLP-1 weight-loss drugs may cause metabolic imbalance, study finds",
@@ -41,6 +72,7 @@
           "tag": "Other"
         },
         {
+<<<<<<< HEAD
           "title": "Daewoong, FMI invest in General Proximity to advance induced-proximity drugs",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31495",
           "category": "Pharma",
@@ -75,6 +107,15 @@
           "date": "04.29 16:36",
           "new": false,
           "tag": "Other"
+=======
+          "title": "Ilyang Pharmaceutical wins infant-use approval for flu vaccines",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31474",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "04.29 10:30",
+          "new": false,
+          "tag": "FDA Approval"
+>>>>>>> 94f97eb75a7b1d9f75e2e9759fd2b49e2b7131dc
         }
       ]
     }
