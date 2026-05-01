@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "last_updated": "2026-05-01 10:04:03 IST",
+=======
+  "last_updated": "2026-05-01 09:25:28 IST",
+>>>>>>> 491efcc17fee1a5a626c406330d12149fd4657fa
   "sources": [
     {
       "source": "Korea Biomedical Review",
@@ -38,7 +42,7 @@
           "author": "Kim Kyoung-Won",
           "date": "04.30 14:12",
           "new": false,
-          "tag": "Other"
+          "tag": "Clinical Trial"
         },
         {
           "title": "Daewoong, FMI invest in General Proximity to advance induced-proximity drugs",
