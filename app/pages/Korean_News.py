@@ -7,7 +7,7 @@ st.title("📰 Korean Biopharma News")
 
 # --- Cache JSON loading to prevent reloading on every rerun ---
 @st.cache_data
-def load_korean_json(file_path):
+def load_korean_json(file_path, modified_time=None):
     """Load and cache Korean news JSON file"""
     try:
         with open(file_path, "r", encoding="utf-8") as f:
@@ -26,11 +26,13 @@ use_ai_filter = st.sidebar.toggle("AI Filter", value=True)  # ✅ ON by default
 root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 if use_ai_filter:
     json_path = os.path.join(root_dir, "korean_results_enriched.json")
-    korean_news = load_korean_json(json_path)
+    json_mtime = os.path.getmtime(json_path) if os.path.exists(json_path) else None
+    korean_news = load_korean_json(json_path, json_mtime)
     st.sidebar.success("✅ AI Filter: ON (showing enriched results)")
 else:
     json_path = os.path.join(root_dir, "korean_results.json")
-    korean_news = load_korean_json(json_path)
+    json_mtime = os.path.getmtime(json_path) if os.path.exists(json_path) else None
+    korean_news = load_korean_json(json_path, json_mtime)
     st.sidebar.warning("⚠️ AI Filter: OFF (showing raw results)")
 
 

@@ -8,7 +8,7 @@ st.title("Clinical Trials")
 
 
 @st.cache_data
-def load_trials_json(file_path):
+def load_trials_json(file_path, modified_time=None):
     try:
         with open(file_path, "r", encoding="utf-8") as file:
             return json.load(file)
@@ -34,7 +34,7 @@ for json_name in JSON_FILES:
     if not os.path.exists(json_path):
         st.warning(f"Could not load `{json_name}`. Make sure it exists in the project root.")
     else:
-        all_trials.extend(load_trials_json(json_path))
+        all_trials.extend(load_trials_json(json_path, os.path.getmtime(json_path)))
 
 if not all_trials:
     st.error("No clinical trials data found across any of the JSON files.")

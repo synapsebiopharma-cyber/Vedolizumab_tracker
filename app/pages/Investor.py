@@ -7,7 +7,7 @@ from datetime import datetime
 
 # --- Cache JSON loading ---
 @st.cache_data
-def load_json_file(file_path):
+def load_json_file(file_path, modified_time=None):
     """Load and cache JSON file"""
     try:
         with open(file_path, "r", encoding="utf-8") as f:
@@ -456,7 +456,8 @@ st.sidebar.caption("Toggle to filter only future-dated events/results.")
 # --- Load data ---
 json_file, data_type = COMPANY_CONFIG[selected_company]
 json_path = os.path.join(BASE_DIR, json_file)
-data = load_json_file(json_path)
+json_mtime = os.path.getmtime(json_path) if os.path.exists(json_path) else None
+data = load_json_file(json_path, json_mtime)
 
 # --- Header ---
 logo_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "logos", f"{selected_company}.png")
