@@ -1,8 +1,8 @@
 {
   "source": "https://investors.alvotech.com/news-events/events",
-  "last_fetched": "2026-05-02T04:01:20Z",
-  "total_runs": 11,
-  "new_on_last_run": 2,
+  "last_fetched": "2026-05-02T08:54:34Z",
+  "total_runs": 12,
+  "new_on_last_run": 0,
   "events": [
     {
       "id": "q4-2026-earnings-call-(full-year)|march-11,-2027",
@@ -852,7 +852,7 @@
         "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcc.webcasts.com%2Fmorg007%2F091222a_js%2F%3Fentity%3D71_KID50RU&data=05%7C01%7Cbenedikt.stefansson%40alvotech.com%7Cf3dc3892b8944f122a5008da8616f310%7C53cf7bdbb4f949879c325764ef5621ce%7C0%7C0%7C637969730365775326%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=BOfW%2FT7nyLhkunop%2BCdwbUUaahIolpGQpRKq4FIGehY%3D&reserved=0"
       },
       "docs": [],
-      "new": true
+      "new": false
     },
     {
       "id": "citi’s-17th-annual-biopharma-conference|september-8,-2022",
@@ -870,7 +870,7 @@
           "url": "https://investors.alvotech.com/static-files/de100dbc-2a1e-4dc1-a598-b0c8e38908c3"
         }
       ],
-      "new": true
+      "new": false
     },
     {
       "id": "alvotech-2q22-earnings-conference-call|september-1,-2022",
