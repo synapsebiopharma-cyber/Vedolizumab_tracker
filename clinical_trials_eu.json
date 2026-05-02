@@ -3,8 +3,8 @@
     "nct_id": "2022-502778-18-00",
     "eu_ct_number": "2022-502778-18-00",
     "registry": "EU_CTIS",
-    "brief_title": "A study in people with moderately to severely active ulcerative colitis to see how well an investigational treatment called PB016 works and how safe it is compared to a licensed treatment called EntyvioÂ®.",
-    "official_title": "A randomized, double-blind, multicenter phase 3 study in patients with moderately to severely active ulcerative colitis (UC) to compare the efficacy, safety and immunogenicity of PB016 and EntyvioÂ® for the induction and maintenance of clinical response and remission. (UCESIVE)",
+    "brief_title": "A study in people with moderately to severely active ulcerative colitis to see how well an investigational treatment called PB016 works and how safe it is compared to a licensed treatment called Entyvio®.",
+    "official_title": "A randomized, double-blind, multicenter phase 3 study in patients with moderately to severely active ulcerative colitis (UC) to compare the efficacy, safety and immunogenicity of PB016 and Entyvio® for the induction and maintenance of clinical response and remission. (UCESIVE)",
     "short_title": "PB016-03-01",
     "status": "COMPLETED",
     "study_type": "INTERVENTIONAL",
@@ -23,16 +23,16 @@
       "Entyvio 300 mg powder for concentrate for solution for infusion | VEDOLIZUMAB | IV INFUSION"
     ],
     "outcomes": [
-      "To demonstrate similarity of effect of induction treatment with (intravenous) IV formulations of PB016 and EntyvioÂ® on clinical response rate at 6 weeks",
-      "1. To demonstrate similarity of effect of maintenance treatment with IV formulations of PB016 and EntyvioÂ® on clinical response rate at 52 weeks",
-      "2.\tTo demonstrate similarity of effect of IV PB016 and EntyvioÂ® on partial Mayo score",
-      "3.\tTo demonstrate similarity of effect of IV PB016 and EntyvioÂ® on clinical remission rate",
-      "4.\tTo demonstrate similarity of effect of IV PB016 and EntyvioÂ® on mucosal healing rate",
-      "5.\tTo demonstrate similarity of effect of IV PB016 and EntyvioÂ® on corticosteroid-free remission rate",
-      "6.\tTo demonstrate similarity of effect of IV PB016 and EntyvioÂ® on disease-related biomarkers",
-      "7.\tTo demonstrate similarity of IV PB016 and EntyvioÂ® on pharmacokinetics",
-      "8.\tTo compare the safety profiles of PB016 and EntyvioÂ®",
-      "9.\tTo demonstrate similarity of IV PB016 and EntyvioÂ® on immunogenicity"
+      "To demonstrate similarity of effect of induction treatment with (intravenous) IV formulations of PB016 and Entyvio® on clinical response rate at 6 weeks",
+      "1. To demonstrate similarity of effect of maintenance treatment with IV formulations of PB016 and Entyvio® on clinical response rate at 52 weeks",
+      "2.\tTo demonstrate similarity of effect of IV PB016 and Entyvio® on partial Mayo score",
+      "3.\tTo demonstrate similarity of effect of IV PB016 and Entyvio® on clinical remission rate",
+      "4.\tTo demonstrate similarity of effect of IV PB016 and Entyvio® on mucosal healing rate",
+      "5.\tTo demonstrate similarity of effect of IV PB016 and Entyvio® on corticosteroid-free remission rate",
+      "6.\tTo demonstrate similarity of effect of IV PB016 and Entyvio® on disease-related biomarkers",
+      "7.\tTo demonstrate similarity of IV PB016 and Entyvio® on pharmacokinetics",
+      "8.\tTo compare the safety profiles of PB016 and Entyvio®",
+      "9.\tTo demonstrate similarity of IV PB016 and Entyvio® on immunogenicity"
     ],
     "eligibility": null,
     "ages": null,
@@ -51,14 +51,14 @@
     "who_utn": "U1111-1289-2771",
     "last_update_posted": "2026-04-18",
     "_api_version": "eu_ctis_v1",
-    "change_status": "unchanged",
-    "last_checked": "2026-05-01T04:34:31.509419+00:00"
+    "change_status": "updated",
+    "last_checked": "2026-05-02T04:01:18.567701+00:00"
   },
   {
     "nct_id": "2025-522534-31-00",
     "eu_ct_number": "2025-522534-31-00",
     "registry": "EU_CTIS",
-    "brief_title": "A single dose, randomized, double-blind 2-arm parallel-group study to compare the pharmacokinetics, immunogenicity, and safety for PB016 versus US-licensed EntyvioÂ® after subcutaneous administration in healthy participants",
+    "brief_title": "A single dose, randomized, double-blind 2-arm parallel-group study to compare the pharmacokinetics, immunogenicity, and safety for PB016 versus US-licensed Entyvio® after subcutaneous administration in healthy participants",
     "official_title": null,
     "short_title": "PB016-01-02",
     "status": "AUTHORIZED",
@@ -85,6 +85,6 @@
     "last_update_posted": "2026-04-08",
     "_api_version": "eu_ctis_v1",
     "change_status": "unchanged",
-    "last_checked": "2026-05-01T04:34:33.342960+00:00"
+    "last_checked": "2026-05-02T04:01:19.236413+00:00"
   }
 ]
