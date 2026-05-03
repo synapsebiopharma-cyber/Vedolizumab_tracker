@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02 08:54:04 IST",
+  "last_updated": "2026-05-03 04:20:04 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
@@ -11,7 +11,7 @@
           "author": "Lee Han-soo",
           "date": "04.30 17:03",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "FDA Approval"
         },
         {
           "title": "Samsung Biologics maps out C-Lab Outside to scale K-biotechs with Lilly partnership",
@@ -29,6 +29,15 @@
           "author": "Lee Han-soo",
           "date": "04.30 14:50",
           "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Korea added to Lebanon’s pharma reference list, gaining fast-track market access",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31501",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "04.30 14:49",
+          "new": false,
           "tag": "Other"
         },
         {
@@ -38,7 +47,7 @@
           "author": "Kim Kyoung-Won",
           "date": "04.30 14:12",
           "new": false,
-          "tag": "Other"
+          "tag": "Clinical Trial"
         },
         {
           "title": "Daewoong, FMI invest in General Proximity to advance induced-proximity drugs",
@@ -47,7 +56,7 @@
           "author": "Lee Han-soo",
           "date": "04.30 13:11",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Collaboration"
         },
         {
           "title": "Astellas Korea rolls out Vesomni CR, aiming to simplify BPH–OAB treatment",
