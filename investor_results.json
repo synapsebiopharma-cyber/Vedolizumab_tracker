@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04 09:45:13 IST",
+  "last_updated": "2026-05-05 04:03:40 IST",
   "companies": [
     {
       "company": "Alvotech",
@@ -1960,6 +1960,15 @@
     {
       "company": "Teva",
       "investor_news": [
+        {
+          "id": "bofa-securities-health-care-conference|may-12,-2026",
+          "title": "BofA Securities Health Care Conference",
+          "date": "May 12, 2026",
+          "url": "https://ir.tevapharm.com/Events-and-Presentations/events-and-presentations/event-details/2026/BofA-Securities-Health-Care-Conference-2026-4pUDFvBIn7/default.aspx",
+          "webcast": "https://bofa.veracast.com/webcasts/bofa/healthcare2026/B9U38l.cfm",
+          "docs": [],
+          "new": false
+        },
         {
           "id": "q1-2026-teva-pharmaceutical-industries-ltd.-earnings-conference-call|april-29,-2026",
           "title": "Q1 2026 Teva Pharmaceutical Industries Ltd. Earnings Conference Call",
