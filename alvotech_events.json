@@ -1,8 +1,8 @@
 {
   "source": "https://investors.alvotech.com/news-events/events",
-  "last_fetched": "2026-05-06T04:16:39Z",
-  "total_runs": 19,
-  "new_on_last_run": 2,
+  "last_fetched": "2026-05-06T09:46:18Z",
+  "total_runs": 20,
+  "new_on_last_run": 0,
   "events": [
     {
       "id": "q4-2026-earnings-call-(full-year)|march-11,-2027",
@@ -72,7 +72,7 @@
       "time": "",
       "webcast": null,
       "docs": [],
-      "new": true
+      "new": false
     },
     {
       "id": "bofa-global-healthcare-conference-2026|may-13,-2026",
@@ -85,7 +85,7 @@
         "url": "https://bofa.veracast.com/webcasts/bofa/healthcare2026/0KL9NA.cfm"
       },
       "docs": [],
-      "new": true
+      "new": false
     },
     {
       "id": "q1-2026-earnings-call|may-7,-2026",
