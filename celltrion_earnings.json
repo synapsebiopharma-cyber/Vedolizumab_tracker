@@ -1,9 +1,17 @@
 {
   "source": "https://celltrion.com/en-us/investment/ir/earnings",
-  "last_fetched": "2026-05-05T09:32:45Z",
-  "total_runs": 16,
-  "new_on_last_run": 0,
+  "last_fetched": "2026-05-06T04:17:13Z",
+  "total_runs": 17,
+  "new_on_last_run": 1,
   "releases": [
+    {
+      "id": "1q-2026-earnings-release-celltrion-inc-2026-05-06",
+      "title": "1Q 2026 Earnings Release_Celltrion Inc.",
+      "date": "2026-05-06",
+      "raw_date": "2026.05.06",
+      "enc_data": "ffsOQGU34jeC8htL8YsyzTooKKVw0kXG21X7RkfPSrE=",
+      "new": true
+    },
     {
       "id": "fy2025-4q25-earnings-release-celltrion-inc-2026-02-05",
       "title": "FY2025, 4Q25 Earnings Release_Celltrion Inc.",
