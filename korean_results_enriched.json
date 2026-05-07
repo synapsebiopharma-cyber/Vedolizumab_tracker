@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-05-06 09:45:52 IST",
+  "last_updated": "2026-05-07 04:14:39 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "SK biopharmaceuticals posts record Q1 profit on Xcopri US growth",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31557",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.07 11:04",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "GC Biopharma’s Hunter syndrome therapy wins Peru approval",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31556",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.07 10:53",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Xcell Therapeutics signs Vietnam distribution deal for cell culture media",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31554",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.07 09:23",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "BCWorld Pharm wins approval for easier-to-take blood pressure pill",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31553",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.07 09:12",
+          "new": false,
+          "tag": "FDA Approval"
+        },
         {
           "title": "Korea begins insurance coverage for Novo Nordisk’s weekly growth hormone drug",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31552",
@@ -12,6 +48,15 @@
           "date": "05.06 17:18",
           "new": false,
           "tag": "Other"
+        },
+        {
+          "title": "SK bioscience's Q1 revenue up 9% on IDT growth, vaccine distribution",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31551",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "05.06 16:34",
+          "new": false,
+          "tag": "Financial"
         },
         {
           "title": "Ajovy wins Korea approval for pediatric episodic migraine prevention",
@@ -23,13 +68,22 @@
           "tag": "FDA Approval"
         },
         {
-          "title": "Mediwhale wins EU CE MDR approval for retinal AI cardiovascular risk tool",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31542",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "05.06 15:24",
+          "title": "Hugel targets Taiwan as key growth market for Letybo, aesthetic portfolio",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31547",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "05.06 15:33",
           "new": false,
-          "tag": "FDA Approval"
+          "tag": "Other"
+        },
+        {
+          "title": "Korean P-CAB drugs build case against older acid reflux treatments",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31544",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.06 14:59",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "Asan team identifies protein mechanism critical to stem cell therapy safety",
@@ -38,43 +92,16 @@
           "author": "Kim Ji-hye",
           "date": "05.06 13:49",
           "new": false,
-          "tag": "Other"
+          "tag": "Pipeline"
         },
         {
-          "title": "AITRICS highlights clinical value of VitalCare at KSCCM·ACCC 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31535",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "05.06 13:05",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Celltrion’s Q1 operating profit more than doubles on biosimilar growth",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31532",
+          "title": "Matica Biolabs signs stem cell media CMO deal with Jeongjin Bioscience",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31536",
           "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.06 11:35",
+          "author": "Kim Ji-hye",
+          "date": "05.06 13:13",
           "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "GC Cell wins Japanese certification for cell therapy manufacturing facility",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31531",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.06 10:52",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Novartis Korea's Jakavi wins reimbursement for 2nd-line treatment of polycythemia vera",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31527",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.04 17:27",
-          "new": false,
-          "tag": "Other"
+          "tag": "Collaboration"
         }
       ]
     }

@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-05-06 09:45:52 IST",
+  "last_updated": "2026-05-07 04:14:39 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Rokit Healthcare enters Saudi market with AI kidney disease prediction deal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31558",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.07 11:08",
+          "new": false
+        },
+        {
+          "title": "SK biopharmaceuticals posts record Q1 profit on Xcopri US growth",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31557",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.07 11:04",
+          "new": false
+        },
+        {
+          "title": "GC Biopharma’s Hunter syndrome therapy wins Peru approval",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31556",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.07 10:53",
+          "new": false
+        },
+        {
+          "title": "Riding K-content boom, AKOM calls for traditional Korean medicine as strategic industry",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31555",
+          "category": "Policy",
+          "author": "Lee Han-soo",
+          "date": "05.07 09:45",
+          "new": false
+        },
+        {
+          "title": "Xcell Therapeutics signs Vietnam distribution deal for cell culture media",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31554",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.07 09:23",
+          "new": false
+        },
+        {
+          "title": "BCWorld Pharm wins approval for easier-to-take blood pressure pill",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31553",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.07 09:12",
+          "new": false
+        },
+        {
+          "title": "Amid legal fears and burnout, one ER doctor has stayed in South Jeolla for 15 years",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31550",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "05.07 09:00",
+          "new": false
+        },
         {
           "title": "Korea begins insurance coverage for Novo Nordisk’s weekly growth hormone drug",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31552",
@@ -106,62 +162,6 @@
           "category": "Bio",
           "author": "Kim Ji-hye",
           "date": "05.06 13:13",
-          "new": false
-        },
-        {
-          "title": "AITRICS highlights clinical value of VitalCare at KSCCM·ACCC 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31535",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "05.06 13:05",
-          "new": false
-        },
-        {
-          "title": "Roche Korea, KHIDI and Basel partners launch open innovation alliance for Korean biotechs",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31534",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.06 13:01",
-          "new": false
-        },
-        {
-          "title": "Celltrion’s Q1 operating profit more than doubles on biosimilar growth",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31532",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.06 11:35",
-          "new": false
-        },
-        {
-          "title": "Samyang Biopharm launches Lafullen filler in Thailand’s fast-growing aesthetic market",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31533",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "05.06 11:10",
-          "new": false
-        },
-        {
-          "title": "GC Cell wins Japanese certification for cell therapy manufacturing facility",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31531",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.06 10:52",
-          "new": false
-        },
-        {
-          "title": "Korea’s SEERS signs $14.7 mil. UAE deal to supply AI heart-monitoring wearables",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31530",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "05.06 10:45",
-          "new": false
-        },
-        {
-          "title": "Novartis Korea's Jakavi wins reimbursement for 2nd-line treatment of polycythemia vera",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31527",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.04 17:27",
           "new": false
         }
       ]
