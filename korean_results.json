@@ -1,9 +1,129 @@
 {
-  "last_updated": "2026-05-08 04:01:47 IST",
+  "last_updated": "2026-05-08 09:09:00 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "GC Biopharma’s Alyglo powers 46% Q1 profit jump",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31592",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.08 18:01",
+          "new": false
+        },
+        {
+          "title": "Kolmar Korea’s Q1 net profit surges 159% on K-beauty demand, HK inno.N growth",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31591",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "05.08 17:55",
+          "new": false
+        },
+        {
+          "title": "Seegene’s Q1 operating profit jumps 59% on non-respiratory test growth",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31590",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "05.08 17:29",
+          "new": false
+        },
+        {
+          "title": "Daewoong adds long-acting GLP-1 shot to oral, microneedle obesity push",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31574",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.08 17:23",
+          "new": false
+        },
+        {
+          "title": "Alteogen posts strong Q1 earnings on GSK, Biogen licensing deals",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31588",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "05.08 17:08",
+          "new": false
+        },
+        {
+          "title": "SK chemicals’ Q1 operating profit jumps 460% on core business growth",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31587",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.08 16:57",
+          "new": false
+        },
+        {
+          "title": "Bangkok tests Korean AI tools for stroke and brain disease scans",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31586",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "05.08 16:41",
+          "new": false
+        },
+        {
+          "title": "'Movement control may matter more than strength in breast cancer rehabilitation'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31585",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "05.08 16:20",
+          "new": false
+        },
+        {
+          "title": "Beijing Hanmi reports strongest-ever sales despite China pharma market volatility",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31584",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.08 15:44",
+          "new": false
+        },
+        {
+          "title": "Rznomics wins FDA RMAT designation for liver cancer gene therapy RZ-001",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31583",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.08 15:27",
+          "new": false
+        },
+        {
+          "title": "SCLC patients urgently seek reimbursement for breakthrough therapy Imdelltra",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31582",
+          "category": "People",
+          "author": "Kim Kyoung-Won",
+          "date": "05.08 14:59",
+          "new": false
+        },
+        {
+          "title": "Huons BioPharma enters Gulf market with Kuwait approval for botulinum toxin Hutox",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31581",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "05.08 14:46",
+          "new": false
+        },
+        {
+          "title": "KMA to press government on oriental medicine practitioners’ cosmetic procedures",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31580",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "05.08 14:27",
+          "new": false
+        },
+        {
+          "title": "[Contribution] Why some gastric cancer patients face higher bleeding risks after surgery",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31579",
+          "category": "Opinion",
+          "author": "Song Kyo-young",
+          "date": "05.08 13:58",
+          "new": false
+        },
+        {
+          "title": "Cancer experts urge caution on microbiome therapies despite growing research interest",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31578",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "05.08 13:17",
+          "new": false
+        },
         {
           "title": "AbbVie Korea holds ovarian cancer awareness campaign on World Ovarian Cancer Day",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31577",
@@ -42,126 +162,6 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "05.08 11:05",
-          "new": false
-        },
-        {
-          "title": "Leadership vacuum persists at national university hospitals as presidential appointments stall",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31567",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "05.08 09:10",
-          "new": false
-        },
-        {
-          "title": "AZ/Daiichi's Enhertu lands earlier-line Korean approvals in HER2 breast and gastric cancers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31571",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.07 18:13",
-          "new": false
-        },
-        {
-          "title": "APR hits record quarter on Medicube growth, overseas sales near 90%",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31569",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "05.07 17:14",
-          "new": false
-        },
-        {
-          "title": "Korea reports 1st locally acquired Oz virus infection",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31570",
-          "category": "Policy",
-          "author": "Lee Han-soo",
-          "date": "05.07 16:45",
-          "new": false
-        },
-        {
-          "title": "Lilly grants Korean biotech 1STBIO access to proprietary AI drug discovery models",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31568",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.07 16:17",
-          "new": false
-        },
-        {
-          "title": "Hugel posts record Q1 earnings on global toxin sales growth",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31566",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "05.07 15:23",
-          "new": false
-        },
-        {
-          "title": "Samsung fund invests in Cartography, adding another cancer biotech to portfolio",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31564",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.07 15:09",
-          "new": false
-        },
-        {
-          "title": "Samjin Pharmaceutical launches high-dose epilepsy drug, Epilatam SC 1000mg",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31565",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "05.07 15:03",
-          "new": false
-        },
-        {
-          "title": "New KHA President Yoo takes office, pledging sustainable hospital management as top priority",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31563",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "05.07 14:36",
-          "new": false
-        },
-        {
-          "title": "SK plasma’s Indonesia blood products project wins IJGlobal infrastructure award",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31561",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.07 14:08",
-          "new": false
-        },
-        {
-          "title": "Korea approves 1st advanced regenerative medicine treatment, opening era of ‘pre-approval therapy’",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31562",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "05.07 14:02",
-          "new": false
-        },
-        {
-          "title": "A doctor’s bag, a patient’s home, and lessons medical school never taught",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31560",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "05.07 13:47",
-          "new": false
-        },
-        {
-          "title": "Celltrion highlights new CT-P13 SC data at DDW 2026, reinforcing IBD treatment potential",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31559",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.07 13:33",
-          "new": false
-        },
-        {
-          "title": "Rokit Healthcare enters Saudi market with AI kidney disease prediction deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31558",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.07 11:08",
-          "new": false
-        },
-        {
-          "title": "SK biopharmaceuticals posts record Q1 profit on Xcopri US growth",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31557",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.07 11:04",
           "new": false
         }
       ]

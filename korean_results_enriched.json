@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-05-08 04:01:47 IST",
+  "last_updated": "2026-05-08 09:09:00 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Beijing Hanmi reports strongest-ever sales despite China pharma market volatility",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31584",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.08 15:44",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Rznomics wins FDA RMAT designation for liver cancer gene therapy RZ-001",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31583",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.08 15:27",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "SCLC patients urgently seek reimbursement for breakthrough therapy Imdelltra",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31582",
+          "category": "People",
+          "author": "Kim Kyoung-Won",
+          "date": "05.08 14:59",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Huons BioPharma enters Gulf market with Kuwait approval for botulinum toxin Hutox",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31581",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "05.08 14:46",
+          "new": false,
+          "tag": "FDA Approval"
+        },
         {
           "title": "Lilly's Retevmo moves closer to Korea reimbursement coverage after key review approval",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31576",
@@ -19,51 +55,6 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "05.08 11:05",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Lilly grants Korean biotech 1STBIO access to proprietary AI drug discovery models",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31568",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.07 16:17",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Samsung fund invests in Cartography, adding another cancer biotech to portfolio",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31564",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.07 15:09",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Samjin Pharmaceutical launches high-dose epilepsy drug, Epilatam SC 1000mg",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31565",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "05.07 15:03",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Korea approves 1st advanced regenerative medicine treatment, opening era of ‘pre-approval therapy’",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31562",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "05.07 14:02",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Celltrion highlights new CT-P13 SC data at DDW 2026, reinforcing IBD treatment potential",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31559",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.07 13:33",
           "new": false,
           "tag": "Other"
         }
