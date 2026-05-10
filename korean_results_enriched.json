@@ -1,27 +1,9 @@
 {
-  "last_updated": "2026-05-09 09:03:20 IST",
+  "last_updated": "2026-05-10 04:34:38 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
-        {
-          "title": "GC Biopharma’s Alyglo powers 46% Q1 profit jump",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31592",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.08 18:01",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Seegene’s Q1 operating profit jumps 59% on non-respiratory test growth",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31590",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "05.08 17:29",
-          "new": false,
-          "tag": "Financial"
-        },
         {
           "title": "Daewoong adds long-acting GLP-1 shot to oral, microneedle obesity push",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31574",
@@ -38,25 +20,7 @@
           "author": "Hong Sook",
           "date": "05.08 17:08",
           "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "SK chemicals’ Q1 operating profit jumps 460% on core business growth",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31587",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.08 16:57",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Beijing Hanmi reports strongest-ever sales despite China pharma market volatility",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31584",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.08 15:44",
-          "new": false,
-          "tag": "Financial"
+          "tag": "Collaboration"
         },
         {
           "title": "Rznomics wins FDA RMAT designation for liver cancer gene therapy RZ-001",
@@ -86,15 +50,6 @@
           "tag": "Other"
         },
         {
-          "title": "Cancer experts urge caution on microbiome therapies despite growing research interest",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31578",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "05.08 13:17",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
           "title": "Lilly's Retevmo moves closer to Korea reimbursement coverage after key review approval",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31576",
           "category": "Policy",
@@ -104,22 +59,13 @@
           "tag": "Other"
         },
         {
-          "title": "Huons N seeks global nutraceutical partnerships at Vitafoods Europe 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31573",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.08 11:35",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
           "title": "LG Chem launches progesterone injection Eutipro for infertility treatment support",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31572",
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "05.08 11:05",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Other"
         }
       ]
     }
