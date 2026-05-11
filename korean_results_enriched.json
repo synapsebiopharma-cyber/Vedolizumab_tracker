@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-05-10 09:17:22 IST",
+  "last_updated": "2026-05-11 04:45:29 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Lung cancer patients petition for coverage of 'miracle drug' tarlatamab",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31595",
+          "category": "Pharma",
+          "author": "Kim Eun-young",
+          "date": "05.11 11:45",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "GC Biopharma’s Alyglo powers 46% Q1 profit jump",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31592",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.08 18:01",
+          "new": false,
+          "tag": "Financial"
+        },
         {
           "title": "Daewoong adds long-acting GLP-1 shot to oral, microneedle obesity push",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31574",
@@ -14,13 +32,40 @@
           "tag": "Pipeline"
         },
         {
+          "title": "Alteogen posts strong Q1 earnings on GSK, Biogen licensing deals",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31588",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "05.08 17:08",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "SK chemicals’ Q1 operating profit jumps 460% on core business growth",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31587",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.08 16:57",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Beijing Hanmi reports strongest-ever sales despite China pharma market volatility",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31584",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.08 15:44",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
           "title": "Rznomics wins FDA RMAT designation for liver cancer gene therapy RZ-001",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31583",
           "category": "Bio",
           "author": "Kim Ji-hye",
           "date": "05.08 15:27",
           "new": false,
-          "tag": "FDA Approval"
+          "tag": "Pipeline"
         },
         {
           "title": "SCLC patients urgently seek reimbursement for breakthrough therapy Imdelltra",
@@ -38,6 +83,15 @@
           "author": "Lee Han-soo",
           "date": "05.08 14:46",
           "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "AbbVie Korea holds ovarian cancer awareness campaign on World Ovarian Cancer Day",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31577",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.08 12:54",
+          "new": false,
           "tag": "Other"
         },
         {
@@ -46,15 +100,6 @@
           "category": "Policy",
           "author": "Kim Yun-mi",
           "date": "05.08 12:50",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "LG Chem launches progesterone injection Eutipro for infertility treatment support",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31572",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.08 11:05",
           "new": false,
           "tag": "Other"
         }
