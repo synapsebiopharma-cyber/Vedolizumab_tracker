@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-05-11 10:51:31 IST",
+  "last_updated": "2026-05-12 04:16:41 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[Global Pharma Leadership Voices] Bayer bets on open collaboration to shape healthcare’s next frontier",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31608",
+          "category": "Opinion",
+          "author": "Lee Jin-a",
+          "date": "05.12 10:07",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "Huons to launch Korea’s 1st preservative-free multidose olopatadine, Hurotadine Eye Drops 0.7%",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31604",
@@ -11,7 +20,7 @@
           "author": "Kim Ji-hye",
           "date": "05.11 17:17",
           "new": false,
-          "tag": "Other"
+          "tag": "FDA Approval"
         },
         {
           "title": "Gencurix secures Thai approval for breast cancer PIK3CA companion diagnostics",
@@ -66,51 +75,6 @@
           "date": "05.11 15:38",
           "new": false,
           "tag": "Collaboration"
-        },
-        {
-          "title": "Lung cancer patients petition for coverage of 'miracle drug' tarlatamab",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31595",
-          "category": "Pharma",
-          "author": "Kim Eun-young",
-          "date": "05.11 11:45",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "GC Biopharma’s Alyglo powers 46% Q1 profit jump",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31592",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.08 18:01",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Kolmar Korea’s Q1 net profit surges 159% on K-beauty demand, HK inno.N growth",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31591",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "05.08 17:55",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Daewoong adds long-acting GLP-1 shot to oral, microneedle obesity push",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31574",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.08 17:23",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Alteogen posts strong Q1 earnings on GSK, Biogen licensing deals",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31588",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "05.08 17:08",
-          "new": false,
-          "tag": "Financial"
         }
       ]
     }
