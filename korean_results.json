@@ -1,9 +1,97 @@
 {
-  "last_updated": "2026-05-12 04:16:41 IST",
+  "last_updated": "2026-05-12 10:09:53 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea’s top hospital under scrutiny after 9 years atop disability levy list",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31625",
+          "category": "Hospital",
+          "author": "Kim Ji-hye",
+          "date": "05.12 18:25",
+          "new": false
+        },
+        {
+          "title": "365mc sees rising demand for nonsurgical fat-reduction treatments among younger patients",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31624",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "05.12 17:24",
+          "new": false
+        },
+        {
+          "title": "MetaVia’s obesity drug candidate DA-1726 to be presented at European liver meeting",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31623",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.12 16:59",
+          "new": false
+        },
+        {
+          "title": "Servier launches Voranigo in Korea, marking major shift in low-grade glioma care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31622",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.12 16:33",
+          "new": false
+        },
+        {
+          "title": "9 in 10 rural health subcenters may lack doctors next year, NARS warns",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31621",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "05.12 16:07",
+          "new": false
+        },
+        {
+          "title": "BasGenBio, Cambridge Scientific plan US rollout for AI drug trial platform",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31620",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.12 15:55",
+          "new": false
+        },
+        {
+          "title": "[Column] Crohn’s disease was once rare in Korea. Why are more children developing it now?",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31619",
+          "category": "Opinion",
+          "author": "Ryu In-hyeok",
+          "date": "05.12 15:05",
+          "new": false
+        },
+        {
+          "title": "[Column] Government response helped contain Korea’s medical device supply crisis",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31618",
+          "category": "Opinion",
+          "author": "Lee Jin-hyu",
+          "date": "05.12 14:47",
+          "new": false
+        },
+        {
+          "title": "Celltrion buys France’s Gifrer to tap expanding biosimilar substitution market",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31617",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "05.12 13:54",
+          "new": false
+        },
+        {
+          "title": "After leukemia transplant, another battle begins: Living with chronic GVHD",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31616",
+          "category": "Hospital",
+          "author": "Kim Yun-mi",
+          "date": "05.12 13:31",
+          "new": false
+        },
+        {
+          "title": "AffyXell, ProAbTech team up on LYTAC protein degrader therapies for autoimmune diseases",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31615",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.12 13:20",
+          "new": false
+        },
         {
           "title": "Amorepacific develops ultra-small nano delivery technology for skincare",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31614",
@@ -74,94 +162,6 @@
           "category": "Pharma",
           "author": "Kim Ji-hye",
           "date": "05.11 17:17",
-          "new": false
-        },
-        {
-          "title": "Gencurix secures Thai approval for breast cancer PIK3CA companion diagnostics",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31605",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.11 17:16",
-          "new": false
-        },
-        {
-          "title": "GC Cell affiliate Artiva raises $300 mil., as AlloNK enters P3 in rheumatoid arthritis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31606",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.11 17:15",
-          "new": false
-        },
-        {
-          "title": "Common last-line schizophrenia drug may alter brain microstructure in schizophrenia, study finds",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31603",
-          "category": "Hospital",
-          "author": "Kim Ji-hye",
-          "date": "05.11 17:15",
-          "new": false
-        },
-        {
-          "title": "Sky Labs CEO Lee stresses 'validation' over 'technology' for cuffless blood pressure monitors",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31602",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "05.11 16:18",
-          "new": false
-        },
-        {
-          "title": "Hugel strengthens market leadership through academic collaboration with Korean medical professionals",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31600",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "05.11 16:17",
-          "new": false
-        },
-        {
-          "title": "Shortness of breath or a persistent dry cough may signal idiopathic pulmonary fibrosis, requiring early diagnosis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31601",
-          "category": "Policy",
-          "author": "Kim Kyoung-Won",
-          "date": "05.11 16:13",
-          "new": false
-        },
-        {
-          "title": "Family members of tuberculosis patients face up to '17-fold higher' TB risk than general population",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31599",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "05.11 16:01",
-          "new": false
-        },
-        {
-          "title": "‘Life-Link Stethoscope,’ the so-called 1st gateway for suicide prevention, draws mixed reviews from the field",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31598",
-          "category": "Policy",
-          "author": "Kim Eun-young",
-          "date": "05.11 15:57",
-          "new": false
-        },
-        {
-          "title": "Onconic Therapeutics’ Q1 sales jump 151% on Jaqbo growth",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31597",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.11 15:39",
-          "new": false
-        },
-        {
-          "title": "Curacle, MabTics land $1.08 bil. licensing deal for eye-disease antibody",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31596",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.11 15:38",
-          "new": false
-        },
-        {
-          "title": "Amorepacific's Laneige debuts a multifunctional sunscreen with UV protection and skin tone correction",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31593",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "05.11 11:45",
           "new": false
         }
       ]

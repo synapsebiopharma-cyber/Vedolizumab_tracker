@@ -1,15 +1,51 @@
 {
-  "last_updated": "2026-05-12 04:16:41 IST",
+  "last_updated": "2026-05-12 10:09:53 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "[Global Pharma Leadership Voices] Bayer bets on open collaboration to shape healthcare’s next frontier",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31608",
-          "category": "Opinion",
-          "author": "Lee Jin-a",
-          "date": "05.12 10:07",
+          "title": "MetaVia’s obesity drug candidate DA-1726 to be presented at European liver meeting",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31623",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.12 16:59",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Servier launches Voranigo in Korea, marking major shift in low-grade glioma care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31622",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.12 16:33",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "BasGenBio, Cambridge Scientific plan US rollout for AI drug trial platform",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31620",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.12 15:55",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Celltrion buys France’s Gifrer to tap expanding biosimilar substitution market",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31617",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "05.12 13:54",
+          "new": false,
+          "tag": "Acquisition"
+        },
+        {
+          "title": "AffyXell, ProAbTech team up on LYTAC protein degrader therapies for autoimmune diseases",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31615",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.12 13:20",
           "new": false,
           "tag": "Collaboration"
         },
@@ -21,60 +57,6 @@
           "date": "05.11 17:17",
           "new": false,
           "tag": "FDA Approval"
-        },
-        {
-          "title": "Gencurix secures Thai approval for breast cancer PIK3CA companion diagnostics",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31605",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.11 17:16",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "GC Cell affiliate Artiva raises $300 mil., as AlloNK enters P3 in rheumatoid arthritis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31606",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.11 17:15",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Common last-line schizophrenia drug may alter brain microstructure in schizophrenia, study finds",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31603",
-          "category": "Hospital",
-          "author": "Kim Ji-hye",
-          "date": "05.11 17:15",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Hugel strengthens market leadership through academic collaboration with Korean medical professionals",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31600",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "05.11 16:17",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Onconic Therapeutics’ Q1 sales jump 151% on Jaqbo growth",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31597",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.11 15:39",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Curacle, MabTics land $1.08 bil. licensing deal for eye-disease antibody",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31596",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.11 15:38",
-          "new": false,
-          "tag": "Collaboration"
         }
       ]
     }
