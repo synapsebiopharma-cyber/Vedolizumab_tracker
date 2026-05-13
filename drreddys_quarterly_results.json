@@ -1,8 +1,8 @@
 {
   "source": "https://www.drreddys.com/drreddys-media#presentationsreports",
-  "last_fetched": "2026-05-12T10:10:53Z",
-  "total_runs": 30,
-  "new_on_last_run": 0,
+  "last_fetched": "2026-05-13T04:34:57Z",
+  "total_runs": 31,
+  "new_on_last_run": 1,
   "results": [
     {
       "id": "press-presentation--q1-fy26",
@@ -24,6 +24,13 @@
       "url": "https://www.drreddys.com/cms/sites/default/files/2026-01/Q3FY26Results.pdf",
       "approximate_date": "Jan 2026",
       "new": false
+    },
+    {
+      "id": "press-presentation---q4-fy26",
+      "title": "Press Presentation - Q4 FY26",
+      "url": "https://www.drreddys.com/cms/sites/default/files/2026-05/Q4FY26_Results_Update_120526.pdf",
+      "approximate_date": "May 2026",
+      "new": true
     }
   ]
 }

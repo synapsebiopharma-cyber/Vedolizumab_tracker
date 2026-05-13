@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12 10:11:06 IST",
+  "last_updated": "2026-05-13 04:35:11 IST",
   "companies": [
     {
       "company": "Alvotech",
@@ -1834,6 +1834,13 @@
           "title": "Press Presentation- Q3 FY26",
           "url": "https://www.drreddys.com/cms/sites/default/files/2026-01/Q3FY26Results.pdf",
           "approximate_date": "Jan 2026",
+          "new": false
+        },
+        {
+          "id": "press-presentation---q4-fy26",
+          "title": "Press Presentation - Q4 FY26",
+          "url": "https://www.drreddys.com/cms/sites/default/files/2026-05/Q4FY26_Results_Update_120526.pdf",
+          "approximate_date": "May 2026",
           "new": false
         }
       ]

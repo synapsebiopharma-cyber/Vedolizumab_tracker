@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-05-12 10:09:53 IST",
+  "last_updated": "2026-05-13 04:31:52 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "HLB spotlights solid tumor CAR-T platform ahead of FDA cancer decisions",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31631",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.13 10:21",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Huons swings to operating loss in Q1 on US recall costs, weaker contract manufacturing demand",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31628",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.13 10:07",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Samsung Biologics showcases oncology CRDO platform at PEGS Boston",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31630",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "05.13 10:04",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Daewoong signs IBD licensing deal with Innovo Therapeutics for mucosal regeneration drug",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31626",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.13 09:33",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "MetaVia’s obesity drug candidate DA-1726 to be presented at European liver meeting",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31623",
@@ -11,7 +47,7 @@
           "author": "Lee Han-soo",
           "date": "05.12 16:59",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Clinical Trial"
         },
         {
           "title": "Servier launches Voranigo in Korea, marking major shift in low-grade glioma care",
@@ -48,15 +84,6 @@
           "date": "05.12 13:20",
           "new": false,
           "tag": "Collaboration"
-        },
-        {
-          "title": "Huons to launch Korea’s 1st preservative-free multidose olopatadine, Hurotadine Eye Drops 0.7%",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31604",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.11 17:17",
-          "new": false,
-          "tag": "FDA Approval"
         }
       ]
     }
