@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-05-13 04:31:52 IST",
+  "last_updated": "2026-05-13 10:09:08 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "MEDIPOST sets up Japan filing after stem cell knee therapy clears phase 3 trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31645",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.13 17:40",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Alpha Tau to present pancreatic cancer data for intratumoral alpha radiation therapy at ASCO",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31640",
+          "category": "Pharma",
+          "author": "Park Gi-taek",
+          "date": "05.13 15:07",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Johns Hopkins and Korea’s Huinno to test AI tool for spotting patient decline",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31636",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "05.13 13:48",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "'Reimbursement delays block access to new ovarian cancer therapies in Korea'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31634",
+          "category": "Policy",
+          "author": "Kim Eun-young",
+          "date": "05.13 11:33",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "HLB spotlights solid tumor CAR-T platform ahead of FDA cancer decisions",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31631",
@@ -29,7 +65,16 @@
           "author": "Lee Han-soo",
           "date": "05.13 10:04",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Other"
+        },
+        {
+          "title": "Noul signs MOU with Latin American diagnostics federation to expand AI diagnostic platform",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31627",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "05.13 09:55",
+          "new": false,
+          "tag": "Collaboration"
         },
         {
           "title": "Daewoong signs IBD licensing deal with Innovo Therapeutics for mucosal regeneration drug",
@@ -48,42 +93,6 @@
           "date": "05.12 16:59",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "Servier launches Voranigo in Korea, marking major shift in low-grade glioma care",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31622",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.12 16:33",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "BasGenBio, Cambridge Scientific plan US rollout for AI drug trial platform",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31620",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.12 15:55",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Celltrion buys France’s Gifrer to tap expanding biosimilar substitution market",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31617",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.12 13:54",
-          "new": false,
-          "tag": "Acquisition"
-        },
-        {
-          "title": "AffyXell, ProAbTech team up on LYTAC protein degrader therapies for autoimmune diseases",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31615",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.12 13:20",
-          "new": false,
-          "tag": "Collaboration"
         }
       ]
     }

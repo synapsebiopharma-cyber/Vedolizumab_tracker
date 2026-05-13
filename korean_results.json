@@ -1,9 +1,89 @@
 {
-  "last_updated": "2026-05-13 04:31:52 IST",
+  "last_updated": "2026-05-13 10:09:08 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "MEDIPOST sets up Japan filing after stem cell knee therapy clears phase 3 trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31645",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.13 17:40",
+          "new": false
+        },
+        {
+          "title": "Kolmar, Cosmax and Cosmecca post strong Q1 results on K-beauty boom, but margins diverge",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31643",
+          "category": "K-Beauty",
+          "author": "Kim Ji-hye",
+          "date": "05.13 17:35",
+          "new": false
+        },
+        {
+          "title": "Lunit posts record Q1 sales as overseas revenue drives growth",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31642",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "05.13 16:54",
+          "new": false
+        },
+        {
+          "title": "Artificial cadavers emerge as answer to anatomy training shortages",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31641",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "05.13 15:57",
+          "new": false
+        },
+        {
+          "title": "Livsmed study finds laparoscopic device matched robotic surgery outcomes in rectal cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31639",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "05.13 15:20",
+          "new": false
+        },
+        {
+          "title": "Alpha Tau to present pancreatic cancer data for intratumoral alpha radiation therapy at ASCO",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31640",
+          "category": "Pharma",
+          "author": "Park Gi-taek",
+          "date": "05.13 15:07",
+          "new": false
+        },
+        {
+          "title": "Korea faces childhood myopia crisis as experts urge government action",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31638",
+          "category": "Pharma",
+          "author": "You Ji-young",
+          "date": "05.13 14:37",
+          "new": false
+        },
+        {
+          "title": "Myongji Hospital strengthens limb-saving care for diabetic foot patients",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31637",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "05.13 14:32",
+          "new": false
+        },
+        {
+          "title": "GE HealthCare Korea unveils ultrasound platform for quantitative fatty liver assessment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31635",
+          "category": "Device/ICT",
+          "author": "Park Gi-taek",
+          "date": "05.13 13:56",
+          "new": false
+        },
+        {
+          "title": "Johns Hopkins and Korea’s Huinno to test AI tool for spotting patient decline",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31636",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "05.13 13:48",
+          "new": false
+        },
         {
           "title": "'Reimbursement delays block access to new ovarian cancer therapies in Korea'",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31634",
@@ -82,86 +162,6 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "05.12 16:59",
-          "new": false
-        },
-        {
-          "title": "Servier launches Voranigo in Korea, marking major shift in low-grade glioma care",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31622",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.12 16:33",
-          "new": false
-        },
-        {
-          "title": "9 in 10 rural health subcenters may lack doctors next year, NARS warns",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31621",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "05.12 16:07",
-          "new": false
-        },
-        {
-          "title": "BasGenBio, Cambridge Scientific plan US rollout for AI drug trial platform",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31620",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.12 15:55",
-          "new": false
-        },
-        {
-          "title": "[Column] Crohn’s disease was once rare in Korea. Why are more children developing it now?",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31619",
-          "category": "Opinion",
-          "author": "Ryu In-hyeok",
-          "date": "05.12 15:05",
-          "new": false
-        },
-        {
-          "title": "[Column] Government response helped contain Korea’s medical device supply crisis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31618",
-          "category": "Opinion",
-          "author": "Lee Jin-hyu",
-          "date": "05.12 14:47",
-          "new": false
-        },
-        {
-          "title": "Celltrion buys France’s Gifrer to tap expanding biosimilar substitution market",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31617",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.12 13:54",
-          "new": false
-        },
-        {
-          "title": "After leukemia transplant, another battle begins: Living with chronic GVHD",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31616",
-          "category": "Hospital",
-          "author": "Kim Yun-mi",
-          "date": "05.12 13:31",
-          "new": false
-        },
-        {
-          "title": "AffyXell, ProAbTech team up on LYTAC protein degrader therapies for autoimmune diseases",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31615",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.12 13:20",
-          "new": false
-        },
-        {
-          "title": "Amorepacific develops ultra-small nano delivery technology for skincare",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31614",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "05.12 13:09",
-          "new": false
-        },
-        {
-          "title": "Yuyu's US unit Mervyn's Petcare launches feline oral care supplement on Amazon",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31613",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.12 11:43",
           "new": false
         }
       ]
