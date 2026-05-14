@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-05-13 10:09:08 IST",
+  "last_updated": "2026-05-14 04:31:30 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "JW Pharmaceutical to present rare pediatric brain disease data at WODC USA",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31650",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.14 10:48",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "AriBio signs up to $4.7 billion global licensing deal with Fosun Pharma for Alzheimer’s drug",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31649",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "05.14 10:44",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "GC Biopharma, Merck sign biopharma manufacturing MOU to boost supply stability",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31648",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.14 10:05",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "MEDIPOST sets up Japan filing after stem cell knee therapy clears phase 3 trial",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31645",
@@ -11,7 +38,7 @@
           "author": "Kim Ji-hye",
           "date": "05.13 17:40",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "FDA Approval"
         },
         {
           "title": "Alpha Tau to present pancreatic cancer data for intratumoral alpha radiation therapy at ASCO",
@@ -23,24 +50,6 @@
           "tag": "Clinical Trial"
         },
         {
-          "title": "Johns Hopkins and Korea’s Huinno to test AI tool for spotting patient decline",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31636",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "05.13 13:48",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "'Reimbursement delays block access to new ovarian cancer therapies in Korea'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31634",
-          "category": "Policy",
-          "author": "Kim Eun-young",
-          "date": "05.13 11:33",
-          "new": false,
-          "tag": "Other"
-        },
-        {
           "title": "HLB spotlights solid tumor CAR-T platform ahead of FDA cancer decisions",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31631",
           "category": "Bio",
@@ -50,15 +59,6 @@
           "tag": "Pipeline"
         },
         {
-          "title": "Huons swings to operating loss in Q1 on US recall costs, weaker contract manufacturing demand",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31628",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.13 10:07",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
           "title": "Samsung Biologics showcases oncology CRDO platform at PEGS Boston",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31630",
           "category": "Bio",
@@ -66,33 +66,6 @@
           "date": "05.13 10:04",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Noul signs MOU with Latin American diagnostics federation to expand AI diagnostic platform",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31627",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "05.13 09:55",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Daewoong signs IBD licensing deal with Innovo Therapeutics for mucosal regeneration drug",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31626",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.13 09:33",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "MetaVia’s obesity drug candidate DA-1726 to be presented at European liver meeting",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31623",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.12 16:59",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }
