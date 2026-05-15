@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-05-14 10:06:29 IST",
+  "last_updated": "2026-05-15 04:38:18 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "GC Biopharma joins government-backed AI drug discovery project",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31672",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.15 13:11",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Alteogen lands Korea nod for Eylea biosimilar as aflibercept prices fall",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31667",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.15 09:55",
+          "new": false,
+          "tag": "FDA Approval"
+        },
         {
           "title": "Korea finds illegal sales in GLP-1 obesity drug inspections",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31665",
@@ -29,7 +47,7 @@
           "author": "Lee Han-soo",
           "date": "05.14 14:59",
           "new": false,
-          "tag": "Other"
+          "tag": "FDA Approval"
         },
         {
           "title": "Yuhan gets $30 mil. from J&J as Lazcluze-Rybrevant reaches Europe",
@@ -47,52 +65,7 @@
           "author": "Kim Ji-hye",
           "date": "05.14 14:06",
           "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "SK chemicals launches coin-sized Trast pain relief patch",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31651",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.14 13:42",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "JW Pharmaceutical to present rare pediatric brain disease data at WODC USA",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31650",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.14 10:48",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "AriBio signs up to $4.7 billion global licensing deal with Fosun Pharma for Alzheimer’s drug",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31649",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.14 10:44",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "GC Biopharma, Merck sign biopharma manufacturing MOU to boost supply stability",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31648",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.14 10:05",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "MEDIPOST sets up Japan filing after stem cell knee therapy clears phase 3 trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31645",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.13 17:40",
-          "new": false,
-          "tag": "Clinical Trial"
+          "tag": "FDA Approval"
         }
       ]
     }

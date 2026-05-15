@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-05-14 10:06:29 IST",
+  "last_updated": "2026-05-15 04:38:18 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "GC Biopharma joins government-backed AI drug discovery project",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31672",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.15 13:11",
+          "new": false
+        },
+        {
+          "title": "ATsens tops 53,000 cumulative exports of wearable ECG monitor to Japan",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31671",
+          "category": "Device/ICT",
+          "author": "Kwon Min-seon",
+          "date": "05.15 13:01",
+          "new": false
+        },
+        {
+          "title": "Medical educators warn of ‘silent exodus’ as faculty disengagement deepens",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31670",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "05.15 11:36",
+          "new": false
+        },
+        {
+          "title": "Experts call for preemptive pandemic legislation after MERS, Covid-19",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31669",
+          "category": "Policy",
+          "author": "Kim Eun-young",
+          "date": "05.15 11:08",
+          "new": false
+        },
+        {
+          "title": "Korean team achieves robot-assisted supermicrosurgery on blood vessels thinner than hair",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31668",
+          "category": "Hospital",
+          "author": "Kim Ji-hye",
+          "date": "05.15 10:28",
+          "new": false
+        },
+        {
+          "title": "Alteogen lands Korea nod for Eylea biosimilar as aflibercept prices fall",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31667",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.15 09:55",
+          "new": false
+        },
+        {
+          "title": "Sky Labs wins UK approval for ring-type blood pressure monitor",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31666",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "05.15 09:25",
+          "new": false
+        },
         {
           "title": "Korea finds illegal sales in GLP-1 obesity drug inspections",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31665",
@@ -106,62 +162,6 @@
           "category": "Hospital",
           "author": "Lee Han-soo",
           "date": "05.14 13:55",
-          "new": false
-        },
-        {
-          "title": "SK chemicals launches coin-sized Trast pain relief patch",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31651",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.14 13:42",
-          "new": false
-        },
-        {
-          "title": "JW Pharmaceutical to present rare pediatric brain disease data at WODC USA",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31650",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.14 10:48",
-          "new": false
-        },
-        {
-          "title": "AriBio signs up to $4.7 billion global licensing deal with Fosun Pharma for Alzheimer’s drug",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31649",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.14 10:44",
-          "new": false
-        },
-        {
-          "title": "GC Biopharma, Merck sign biopharma manufacturing MOU to boost supply stability",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31648",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.14 10:05",
-          "new": false
-        },
-        {
-          "title": "Samsung Epis Holdings earns MSCI ‘AA’ ESG rating in 1st global assessment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31647",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.14 09:44",
-          "new": false
-        },
-        {
-          "title": "Analysts grow more bullish on Celltrion as margin expansion gains traction",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31644",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.14 09:08",
-          "new": false
-        },
-        {
-          "title": "MEDIPOST sets up Japan filing after stem cell knee therapy clears phase 3 trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31645",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.13 17:40",
           "new": false
         }
       ]
