@@ -1,9 +1,73 @@
 {
-  "last_updated": "2026-05-15 04:38:18 IST",
+  "last_updated": "2026-05-15 10:15:25 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea built a world-class IVF system. The birth crisis deepened anyway.",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31680",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "05.15 18:50",
+          "new": false
+        },
+        {
+          "title": "Experts advocate life-cycle fertility screening for women aged 20–39",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31679",
+          "category": "Policy",
+          "author": "Kim Yun-mi",
+          "date": "05.15 16:46",
+          "new": false
+        },
+        {
+          "title": "Korean startup WIRobotics plans humanoid robot sales this year after $63 mil. raise",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31677",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "05.15 15:48",
+          "new": false
+        },
+        {
+          "title": "Why nurses embraced some AI tools but rejected others",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31678",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "05.15 15:37",
+          "new": false
+        },
+        {
+          "title": "KSMO spotlights AI and precision medicine at 2026 spring symposium",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31676",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "05.15 15:10",
+          "new": false
+        },
+        {
+          "title": "ST Pharm joins U.N. Global Compact to strengthen ESG management",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31675",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.15 14:39",
+          "new": false
+        },
+        {
+          "title": "[Column] Who will practice critical care in a society that sees doctors as butchers?",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31674",
+          "category": "Opinion",
+          "author": "Park Jong-hoon",
+          "date": "05.15 14:16",
+          "new": false
+        },
+        {
+          "title": "Daewoong’s Fexuclue wins approval for H. pylori eradication therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31673",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.15 13:44",
+          "new": false
+        },
         {
           "title": "GC Biopharma joins government-backed AI drug discovery project",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31672",
@@ -98,70 +162,6 @@
           "category": "Bio",
           "author": "Lee Han-soo",
           "date": "05.14 16:11",
-          "new": false
-        },
-        {
-          "title": "Doctors warn Korea’s health system is unprepared for COPD screening wave",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31658",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "05.14 15:52",
-          "new": false
-        },
-        {
-          "title": "Korea expands pediatric emergency centers to 14 with 2 new designations",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31659",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "05.14 15:45",
-          "new": false
-        },
-        {
-          "title": "Ovarian suppression cuts recurrence, mortality risk by 25% in younger breast cancer patients",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31657",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "05.14 15:23",
-          "new": false
-        },
-        {
-          "title": "Curocell bets on faster access as Korea’s 1st homegrown CAR-T enters market",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31655",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.14 14:59",
-          "new": false
-        },
-        {
-          "title": "Yuhan gets $30 mil. from J&J as Lazcluze-Rybrevant reaches Europe",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31656",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.14 14:51",
-          "new": false
-        },
-        {
-          "title": "IPF patients call for greater awareness and treatment support",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31654",
-          "category": "People",
-          "author": "Kim Kyoung-Won",
-          "date": "05.14 14:36",
-          "new": false
-        },
-        {
-          "title": "Boryung launches Korea’s first generic dasatinib for leukemia",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31653",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.14 14:06",
-          "new": false
-        },
-        {
-          "title": "Anxiety linked to longer morning grogginess than sleep habits: Korean study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31652",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "05.14 13:55",
           "new": false
         }
       ]

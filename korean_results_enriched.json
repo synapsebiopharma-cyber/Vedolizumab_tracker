@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-05-15 04:38:18 IST",
+  "last_updated": "2026-05-15 10:15:25 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Daewoong’s Fexuclue wins approval for H. pylori eradication therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31673",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.15 13:44",
+          "new": false,
+          "tag": "FDA Approval"
+        },
         {
           "title": "GC Biopharma joins government-backed AI drug discovery project",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31672",
@@ -11,7 +20,7 @@
           "author": "Kim Ji-hye",
           "date": "05.15 13:11",
           "new": false,
-          "tag": "Collaboration"
+          "tag": "Other"
         },
         {
           "title": "Alteogen lands Korea nod for Eylea biosimilar as aflibercept prices fall",
@@ -19,6 +28,15 @@
           "category": "Bio",
           "author": "Kim Ji-hye",
           "date": "05.15 09:55",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Sky Labs wins UK approval for ring-type blood pressure monitor",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31666",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "05.15 09:25",
           "new": false,
           "tag": "FDA Approval"
         },
@@ -29,7 +47,16 @@
           "author": "Kim Ji-hye",
           "date": "05.14 17:48",
           "new": false,
-          "tag": "Inspection"
+          "tag": "Financial"
+        },
+        {
+          "title": "[Column] A game changer in colorectal cancer treatment: the evolution of NGS testing and targeted therapies",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31663",
+          "category": "Opinion",
+          "author": "Hong Joo-hyun",
+          "date": "05.14 16:26",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "Pharos iBio and Kolon Pharma collaborate on 4th-generation EGFR cancer therapy",
@@ -38,34 +65,7 @@
           "author": "Hong Sook",
           "date": "05.14 16:19",
           "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Curocell bets on faster access as Korea’s 1st homegrown CAR-T enters market",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31655",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.14 14:59",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Yuhan gets $30 mil. from J&J as Lazcluze-Rybrevant reaches Europe",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31656",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.14 14:51",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Boryung launches Korea’s first generic dasatinib for leukemia",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31653",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.14 14:06",
-          "new": false,
-          "tag": "FDA Approval"
+          "tag": "Other"
         }
       ]
     }
