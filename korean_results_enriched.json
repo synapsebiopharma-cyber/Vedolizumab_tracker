@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-05-15 10:15:25 IST",
+  "last_updated": "2026-05-16 04:12:34 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "ST Pharm joins U.N. Global Compact to strengthen ESG management",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31675",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.15 14:39",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Daewoong’s Fexuclue wins approval for H. pylori eradication therapy",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31673",
@@ -20,7 +29,7 @@
           "author": "Kim Ji-hye",
           "date": "05.15 13:11",
           "new": false,
-          "tag": "Other"
+          "tag": "Collaboration"
         },
         {
           "title": "Alteogen lands Korea nod for Eylea biosimilar as aflibercept prices fall",
@@ -28,15 +37,6 @@
           "category": "Bio",
           "author": "Kim Ji-hye",
           "date": "05.15 09:55",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Sky Labs wins UK approval for ring-type blood pressure monitor",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31666",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "05.15 09:25",
           "new": false,
           "tag": "FDA Approval"
         },
@@ -47,16 +47,7 @@
           "author": "Kim Ji-hye",
           "date": "05.14 17:48",
           "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "[Column] A game changer in colorectal cancer treatment: the evolution of NGS testing and targeted therapies",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31663",
-          "category": "Opinion",
-          "author": "Hong Joo-hyun",
-          "date": "05.14 16:26",
-          "new": false,
-          "tag": "Other"
+          "tag": "Inspection"
         },
         {
           "title": "Pharos iBio and Kolon Pharma collaborate on 4th-generation EGFR cancer therapy",
@@ -65,7 +56,16 @@
           "author": "Hong Sook",
           "date": "05.14 16:19",
           "new": false,
-          "tag": "Other"
+          "tag": "Collaboration"
+        },
+        {
+          "title": "BTGEN becomes 1st bio-firm to receive National Growth Fund support",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31661",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "05.14 16:11",
+          "new": false,
+          "tag": "Financial"
         }
       ]
     }
