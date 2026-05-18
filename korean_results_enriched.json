@@ -1,9 +1,54 @@
 {
-  "last_updated": "2026-05-17 09:23:53 IST",
+  "last_updated": "2026-05-18 04:53:04 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Celltrion’s Vegzelma strengthens lead in Japan bevacizumab biosimilar market",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31689",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.18 13:51",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Lunit eyes US AI breast cancer risk market after NCCN guideline update",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31686",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "05.18 13:16",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Kolon Life Science presents preclinical TNBC data for KLS-3021 at ASGCT 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31685",
+          "category": "Life science",
+          "author": "Kim Ji-hye",
+          "date": "05.18 13:05",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Boryung begins Alimta supply to Taiwan’s Lotus Pharma, expands global CDMO business",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31684",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.18 11:41",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Samsung Bioepis presents real-world Humira biosimilar data at KCR 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31681",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "05.18 11:03",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "ST Pharm joins U.N. Global Compact to strengthen ESG management",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31675",
@@ -32,31 +77,13 @@
           "tag": "Collaboration"
         },
         {
-          "title": "Alteogen lands Korea nod for Eylea biosimilar as aflibercept prices fall",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31667",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.15 09:55",
+          "title": "ATsens tops 53,000 cumulative exports of wearable ECG monitor to Japan",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31671",
+          "category": "Device/ICT",
+          "author": "Kwon Min-seon",
+          "date": "05.15 13:01",
           "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Korea finds illegal sales in GLP-1 obesity drug inspections",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31665",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "05.14 17:48",
-          "new": false,
-          "tag": "Inspection"
-        },
-        {
-          "title": "Pharos iBio and Kolon Pharma collaborate on 4th-generation EGFR cancer therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31662",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "05.14 16:19",
-          "new": false,
-          "tag": "Collaboration"
+          "tag": "Other"
         }
       ]
     }
