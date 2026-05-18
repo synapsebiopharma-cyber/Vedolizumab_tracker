@@ -1,9 +1,54 @@
 {
-  "last_updated": "2026-05-18 04:53:04 IST",
+  "last_updated": "2026-05-18 11:41:06 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Hanmi starts phase 3 diabetes trial for GLP-1 drug ahead of obesity launch",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31696",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.18 18:05",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Merck Healthcare Korea launches ‘Plan F’ campaign to promote early reproductive health awareness",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31694",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.18 16:27",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Kolon TissueGene reshuffles board ahead of TG-C phase 3 topline data",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31693",
+          "category": "Pharma",
+          "author": "Hong Sook",
+          "date": "05.18 15:45",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "CHA Biotech, Thermo Fisher Korea to build K-Bio CIC innovation hub in Pangyo",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31690",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "05.18 14:21",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Lotte Biologics expands Ottimo alliance for PD-1/VEGFR2 antibody",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31688",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.18 13:53",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "Celltrion’s Vegzelma strengthens lead in Japan bevacizumab biosimilar market",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31689",
@@ -46,42 +91,6 @@
           "category": "Bio",
           "author": "Lee Han-soo",
           "date": "05.18 11:03",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "ST Pharm joins U.N. Global Compact to strengthen ESG management",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31675",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.15 14:39",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Daewoong’s Fexuclue wins approval for H. pylori eradication therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31673",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.15 13:44",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "GC Biopharma joins government-backed AI drug discovery project",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31672",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.15 13:11",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "ATsens tops 53,000 cumulative exports of wearable ECG monitor to Japan",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31671",
-          "category": "Device/ICT",
-          "author": "Kwon Min-seon",
-          "date": "05.15 13:01",
           "new": false,
           "tag": "Other"
         }
