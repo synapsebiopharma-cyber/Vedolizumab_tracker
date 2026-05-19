@@ -1,9 +1,73 @@
 {
-  "last_updated": "2026-05-18 11:41:06 IST",
+  "last_updated": "2026-05-19 04:46:28 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "New women doctors association chief vows stronger support for young physicians",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31705",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "05.19 13:45",
+          "new": false
+        },
+        {
+          "title": "Huons Meditech wins EU approval for aesthetic microneedle device",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31704",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "05.19 13:31",
+          "new": false
+        },
+        {
+          "title": "Korean researchers propose AI-based diagnostic model for neonatal intestinal injury",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31703",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "05.19 13:26",
+          "new": false
+        },
+        {
+          "title": "GC Biopharma clears WHO GMP review without on-site inspection",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31702",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.19 11:35",
+          "new": false
+        },
+        {
+          "title": "Yuyu Pharma signs industry-academia cooperation agreement with Korea Bio Meister High School",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31701",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.19 11:12",
+          "new": false
+        },
+        {
+          "title": "FutureChem lands Indonesia deal for Prostavue, eyes broader Southeast Asia push",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31700",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.19 11:00",
+          "new": false
+        },
+        {
+          "title": "Korean scientists slow rare inherited nerve disease in mice with gene editing",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31698",
+          "category": "Hospital",
+          "author": "Kim Ji-hye",
+          "date": "05.19 09:55",
+          "new": false
+        },
+        {
+          "title": "[Interview] New UCB Korea chief puts patient access at center of growth strategy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31697",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.19 09:20",
+          "new": false
+        },
         {
           "title": "Hanmi starts phase 3 diabetes trial for GLP-1 drug ahead of obesity launch",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31696",
@@ -98,70 +162,6 @@
           "category": "Life science",
           "author": "Kim Ji-hye",
           "date": "05.18 13:05",
-          "new": false
-        },
-        {
-          "title": "Boryung begins Alimta supply to Taiwan’s Lotus Pharma, expands global CDMO business",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31684",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.18 11:41",
-          "new": false
-        },
-        {
-          "title": "Latest advances in urologic ultrasound therapy shared at KSUU annual conference",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31683",
-          "category": "Hospital",
-          "author": "Park Gi-taek",
-          "date": "05.18 11:29",
-          "new": false
-        },
-        {
-          "title": "Ativan shortage strains pediatric emergency care as hospitals warn of treatment disruptions",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31682",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "05.18 11:07",
-          "new": false
-        },
-        {
-          "title": "Samsung Bioepis presents real-world Humira biosimilar data at KCR 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31681",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.18 11:03",
-          "new": false
-        },
-        {
-          "title": "Korea built a world-class IVF system. The birth crisis deepened anyway.",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31680",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "05.15 18:50",
-          "new": false
-        },
-        {
-          "title": "Experts advocate life-cycle fertility screening for women aged 20–39",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31679",
-          "category": "Policy",
-          "author": "Kim Yun-mi",
-          "date": "05.15 16:46",
-          "new": false
-        },
-        {
-          "title": "Korean startup WIRobotics plans humanoid robot sales this year after $63 mil. raise",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31677",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "05.15 15:48",
-          "new": false
-        },
-        {
-          "title": "Why nurses embraced some AI tools but rejected others",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31678",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "05.15 15:37",
           "new": false
         }
       ]

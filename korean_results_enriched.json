@@ -1,9 +1,54 @@
 {
-  "last_updated": "2026-05-18 11:41:06 IST",
+  "last_updated": "2026-05-19 04:46:28 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Huons Meditech wins EU approval for aesthetic microneedle device",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31704",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "05.19 13:31",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "GC Biopharma clears WHO GMP review without on-site inspection",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31702",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.19 11:35",
+          "new": false,
+          "tag": "Inspection"
+        },
+        {
+          "title": "Yuyu Pharma signs industry-academia cooperation agreement with Korea Bio Meister High School",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31701",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.19 11:12",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "FutureChem lands Indonesia deal for Prostavue, eyes broader Southeast Asia push",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31700",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.19 11:00",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "[Interview] New UCB Korea chief puts patient access at center of growth strategy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31697",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.19 09:20",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Hanmi starts phase 3 diabetes trial for GLP-1 drug ahead of obesity launch",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31696",
@@ -29,7 +74,7 @@
           "author": "Hong Sook",
           "date": "05.18 15:45",
           "new": false,
-          "tag": "Other"
+          "tag": "Pipeline"
         },
         {
           "title": "CHA Biotech, Thermo Fisher Korea to build K-Bio CIC innovation hub in Pangyo",
@@ -75,24 +120,6 @@
           "date": "05.18 13:05",
           "new": false,
           "tag": "Pipeline"
-        },
-        {
-          "title": "Boryung begins Alimta supply to Taiwan’s Lotus Pharma, expands global CDMO business",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31684",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.18 11:41",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Samsung Bioepis presents real-world Humira biosimilar data at KCR 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31681",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.18 11:03",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }
