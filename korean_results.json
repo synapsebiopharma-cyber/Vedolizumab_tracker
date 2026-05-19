@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-05-19 04:46:28 IST",
+  "last_updated": "2026-05-19 10:54:57 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "BeOne urges Korea to move beyond trial execution in global oncology race",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31714",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.19 17:02",
+          "new": false
+        },
+        {
+          "title": "[Column] How outcome absolutism and punitive thinking are undermining Korean healthcare",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31713",
+          "category": "Opinion",
+          "author": "Ahn Duck-sun",
+          "date": "05.19 16:25",
+          "new": false
+        },
+        {
+          "title": "After decade-long climb in Korea, AstraZeneca’s Tagrisso hits access wall",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31712",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.19 16:23",
+          "new": false
+        },
+        {
+          "title": "Korea’s global health aid agency marks 20th anniversary, aims to nurture next ‘Lee Jong-wook’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31711",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "05.19 16:02",
+          "new": false
+        },
+        {
+          "title": "Dual graduation wave could leave 2,000 medical graduates without internships by 2031",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31710",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "05.19 15:49",
+          "new": false
+        },
+        {
+          "title": "GC Cell doses 1st patient in HER2 CAR-NK therapy study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31708",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.19 15:01",
+          "new": false
+        },
+        {
+          "title": "Roche companies, Korean Diabetes Association team up on diabetes care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31707",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.19 14:46",
+          "new": false
+        },
+        {
+          "title": "[Interview] Will Lynparza combo therapy fill treatment gap in pMMR endometrial cancer?",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31709",
+          "category": "Hospital",
+          "author": "Hong Sook",
+          "date": "05.19 14:28",
+          "new": false
+        },
+        {
+          "title": "Neurofibromatosis patients push for adult reimbursement of Koselugo",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31706",
+          "category": "People",
+          "author": "You Ji-young",
+          "date": "05.19 14:11",
+          "new": false
+        },
         {
           "title": "New women doctors association chief vows stronger support for young physicians",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31705",
@@ -90,78 +162,6 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "05.18 16:27",
-          "new": false
-        },
-        {
-          "title": "Kolon TissueGene reshuffles board ahead of TG-C phase 3 topline data",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31693",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "05.18 15:45",
-          "new": false
-        },
-        {
-          "title": "[Interview] Asia taking bigger role in cancer research ahead of ASCO Breakthrough 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31692",
-          "category": "Hospital",
-          "author": "Kim Ji-hye",
-          "date": "05.18 15:27",
-          "new": false
-        },
-        {
-          "title": "Dongwha Pharm launches Fusiderm skincare products at Daiso",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31691",
-          "category": "K-Beauty",
-          "author": "Kwon Min-seon",
-          "date": "05.18 14:38",
-          "new": false
-        },
-        {
-          "title": "CHA Biotech, Thermo Fisher Korea to build K-Bio CIC innovation hub in Pangyo",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31690",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.18 14:21",
-          "new": false
-        },
-        {
-          "title": "Lotte Biologics expands Ottimo alliance for PD-1/VEGFR2 antibody",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31688",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.18 13:53",
-          "new": false
-        },
-        {
-          "title": "Celltrion’s Vegzelma strengthens lead in Japan bevacizumab biosimilar market",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31689",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.18 13:51",
-          "new": false
-        },
-        {
-          "title": "Hugel picks actor Ji Chang-wook as new face of advertising campaigns",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31687",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "05.18 13:29",
-          "new": false
-        },
-        {
-          "title": "Lunit eyes US AI breast cancer risk market after NCCN guideline update",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31686",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "05.18 13:16",
-          "new": false
-        },
-        {
-          "title": "Kolon Life Science presents preclinical TNBC data for KLS-3021 at ASGCT 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31685",
-          "category": "Life science",
-          "author": "Kim Ji-hye",
-          "date": "05.18 13:05",
           "new": false
         }
       ]
