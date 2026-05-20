@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-05-20 04:47:03 IST",
+  "last_updated": "2026-05-20 10:39:09 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "MSD wins Korea approval for subcutaneous Keytruda in 18 cancer types, eyes Q4 launch",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31734",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.20 19:04",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Facing Korea’s generic price crackdown, Huons folds in biotech arm to chase R&D premium",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31733",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.20 16:42",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Yuhan signs $139.8 mil. API deal with Gilead, strengthening CDMO growth push",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31724",
@@ -32,15 +50,6 @@
           "tag": "Collaboration"
         },
         {
-          "title": "GC Labs joins global effort to develop saliva-based malaria test",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31718",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.20 10:38",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
           "title": "ProGen pits GLP-1/GLP-2 drug against Ozempic in global phase 2b trial",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31717",
           "category": "Pharma",
@@ -50,67 +59,13 @@
           "tag": "Clinical Trial"
         },
         {
-          "title": "Noul wins Korean funding to push AI blood analyzer toward US FDA, Europe",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31716",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "05.20 09:35",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
           "title": "Samsung Bioepis makes Japan debut with Stelara biosimilar through Nipro",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31715",
           "category": "Bio",
           "author": "Kim Ji-hye",
           "date": "05.20 09:23",
           "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "After decade-long climb in Korea, AstraZeneca’s Tagrisso hits access wall",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31712",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.19 16:23",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "GC Cell doses 1st patient in HER2 CAR-NK therapy study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31708",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.19 15:01",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Roche companies, Korean Diabetes Association team up on diabetes care",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31707",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.19 14:46",
-          "new": false,
           "tag": "Collaboration"
-        },
-        {
-          "title": "[Interview] Will Lynparza combo therapy fill treatment gap in pMMR endometrial cancer?",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31709",
-          "category": "Hospital",
-          "author": "Hong Sook",
-          "date": "05.19 14:28",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Neurofibromatosis patients push for adult reimbursement of Koselugo",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31706",
-          "category": "People",
-          "author": "You Ji-young",
-          "date": "05.19 14:11",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }

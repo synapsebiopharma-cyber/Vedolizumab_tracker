@@ -1,13 +1,85 @@
 {
-  "last_updated": "2026-05-20 04:47:03 IST",
+  "last_updated": "2026-05-20 10:39:09 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
+          "title": "MSD wins Korea approval for subcutaneous Keytruda in 18 cancer types, eyes Q4 launch",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31734",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.20 19:04",
+          "new": false
+        },
+        {
+          "title": "Medtronic taps Asan Medical Center to expand Hugo robotic surgery push in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31735",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "05.20 19:02",
+          "new": false
+        },
+        {
+          "title": "Facing Korea’s generic price crackdown, Huons folds in biotech arm to chase R&D premium",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31733",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.20 16:42",
+          "new": false
+        },
+        {
+          "title": "Samsung Fire, SEERS plan wearable-based health monitoring service",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31729",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "05.20 16:38",
+          "new": false
+        },
+        {
+          "title": "SMC researchers develop AI model to predict gallbladder cancer prognosis",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31732",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "05.20 16:18",
+          "new": false
+        },
+        {
+          "title": "GIST, SNUH identify beneficial bacterium linked to lower endometrial cancer recurrence",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31731",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "05.20 15:44",
+          "new": false
+        },
+        {
+          "title": "[Interview] Inside Soombit.ai’s generative AI X-ray reader that surprised even radiologists",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31728",
+          "category": "Device/ICT",
+          "author": "Kwon Min-seon",
+          "date": "05.20 15:36",
+          "new": false
+        },
+        {
+          "title": "Dong-A Pharm’s MelaToning Cream tops 3 million units in sales",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31730",
+          "category": "K-Beauty",
+          "author": "Kwon Min-seon",
+          "date": "05.20 15:14",
+          "new": false
+        },
+        {
+          "title": "Sky Labs touts nighttime BP accuracy of ring monitor at cardiology meeting",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31726",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "05.20 14:11",
+          "new": false
+        },
+        {
           "title": "365mc publishes book spotlighting fat-derived stem cells in anti-aging medicine",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31725",
-          "category": "Hospital",
+          "category": "K-Beauty",
           "author": "Lee Han-soo",
           "date": "05.20 13:42",
           "new": false
@@ -90,78 +162,6 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "05.19 17:02",
-          "new": false
-        },
-        {
-          "title": "[Column] How outcome absolutism and punitive thinking are undermining Korean healthcare",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31713",
-          "category": "Opinion",
-          "author": "Ahn Duck-sun",
-          "date": "05.19 16:25",
-          "new": false
-        },
-        {
-          "title": "After decade-long climb in Korea, AstraZeneca’s Tagrisso hits access wall",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31712",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.19 16:23",
-          "new": false
-        },
-        {
-          "title": "Korea’s global health aid agency marks 20th anniversary, aims to nurture next ‘Lee Jong-wook’",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31711",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "05.19 16:02",
-          "new": false
-        },
-        {
-          "title": "Dual graduation wave could leave 2,000 medical graduates without internships by 2031",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31710",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "05.19 15:49",
-          "new": false
-        },
-        {
-          "title": "GC Cell doses 1st patient in HER2 CAR-NK therapy study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31708",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.19 15:01",
-          "new": false
-        },
-        {
-          "title": "Roche companies, Korean Diabetes Association team up on diabetes care",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31707",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.19 14:46",
-          "new": false
-        },
-        {
-          "title": "[Interview] Will Lynparza combo therapy fill treatment gap in pMMR endometrial cancer?",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31709",
-          "category": "Hospital",
-          "author": "Hong Sook",
-          "date": "05.19 14:28",
-          "new": false
-        },
-        {
-          "title": "Neurofibromatosis patients push for adult reimbursement of Koselugo",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31706",
-          "category": "People",
-          "author": "You Ji-young",
-          "date": "05.19 14:11",
-          "new": false
-        },
-        {
-          "title": "New women doctors association chief vows stronger support for young physicians",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31705",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "05.19 13:45",
           "new": false
         }
       ]
