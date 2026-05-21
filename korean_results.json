@@ -1,9 +1,105 @@
 {
-  "last_updated": "2026-05-20 10:39:09 IST",
+  "last_updated": "2026-05-21 04:55:41 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Over half of Korean healthcare workers perform duties outside their roles: survey",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31749",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "05.21 13:42",
+          "new": false
+        },
+        {
+          "title": "Seran Hospital orthopedist Kim demonstrates live surgery at international spine conference",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31748",
+          "category": "Policy",
+          "author": "Park Gi-taek",
+          "date": "05.21 13:37",
+          "new": false
+        },
+        {
+          "title": "Exercise before diagnosis linked to lower mortality in cervical cancer patients",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31746",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "05.21 13:24",
+          "new": false
+        },
+        {
+          "title": "Japanese orthopedic surgeons visit Seoul Medical Center for hip surgery training",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31745",
+          "category": "Hospital",
+          "author": "Song Soo-youn",
+          "date": "05.21 13:13",
+          "new": false
+        },
+        {
+          "title": "[Column] Hospitals in super-aged Korea must shift from growth to sustainability",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31744",
+          "category": "Opinion",
+          "author": "Choi Soo-young",
+          "date": "05.21 13:11",
+          "new": false
+        },
+        {
+          "title": "Nonprofit medical foundations move closer to SME recognition",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31743",
+          "category": "Policy",
+          "author": "Kim Eun-young",
+          "date": "05.21 11:20",
+          "new": false
+        },
+        {
+          "title": "Korea expands support program to stabilize supply of essential medicines",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31742",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "05.21 10:58",
+          "new": false
+        },
+        {
+          "title": "Olive Young launches 1st US K-beauty store in California as Sephora and Ulta expand Korean skincare shelves",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31741",
+          "category": "K-Beauty",
+          "author": "Kim Ji-hye",
+          "date": "05.21 10:48",
+          "new": false
+        },
+        {
+          "title": "Korean, US preventive medicine groups discuss joint research, exchanges",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31739",
+          "category": "Hospital",
+          "author": "Kim Ji-hye",
+          "date": "05.21 10:37",
+          "new": false
+        },
+        {
+          "title": "Merz Aesthetics Korea reports improved ESG self-assessment score",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31737",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "05.21 10:00",
+          "new": false
+        },
+        {
+          "title": "Home dialysis takes spotlight at nephrology summit hosted by Vantive Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31738",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.21 09:58",
+          "new": false
+        },
+        {
+          "title": "MSD Korea urges broader HPV awareness as boys join national vaccination program",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31736",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.21 09:16",
+          "new": false
+        },
         {
           "title": "MSD wins Korea approval for subcutaneous Keytruda in 18 cancer types, eyes Q4 launch",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31734",
@@ -66,102 +162,6 @@
           "category": "K-Beauty",
           "author": "Kwon Min-seon",
           "date": "05.20 15:14",
-          "new": false
-        },
-        {
-          "title": "Sky Labs touts nighttime BP accuracy of ring monitor at cardiology meeting",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31726",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "05.20 14:11",
-          "new": false
-        },
-        {
-          "title": "365mc publishes book spotlighting fat-derived stem cells in anti-aging medicine",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31725",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "05.20 13:42",
-          "new": false
-        },
-        {
-          "title": "Yuhan signs $139.8 mil. API deal with Gilead, strengthening CDMO growth push",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31724",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.20 13:24",
-          "new": false
-        },
-        {
-          "title": "Dongtan Sacred Heart Hospital tops 800 keloid surgery-radiation cases",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31723",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "05.20 11:22",
-          "new": false
-        },
-        {
-          "title": "Ilsan Paik Hospital launches Hernia Center focused on minimally invasive surgery",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31722",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "05.20 11:15",
-          "new": false
-        },
-        {
-          "title": "Sanofi’s hemophilia B therapy Alprolix approved for 6-month room-temperature storage",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31719",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.20 10:58",
-          "new": false
-        },
-        {
-          "title": "CHA Biotech, Yonsei team up to support biohealth startups",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31720",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.20 10:44",
-          "new": false
-        },
-        {
-          "title": "GC Labs joins global effort to develop saliva-based malaria test",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31718",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.20 10:38",
-          "new": false
-        },
-        {
-          "title": "ProGen pits GLP-1/GLP-2 drug against Ozempic in global phase 2b trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31717",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.20 10:18",
-          "new": false
-        },
-        {
-          "title": "Noul wins Korean funding to push AI blood analyzer toward US FDA, Europe",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31716",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "05.20 09:35",
-          "new": false
-        },
-        {
-          "title": "Samsung Bioepis makes Japan debut with Stelara biosimilar through Nipro",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31715",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.20 09:23",
-          "new": false
-        },
-        {
-          "title": "BeOne urges Korea to move beyond trial execution in global oncology race",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31714",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.19 17:02",
           "new": false
         }
       ]

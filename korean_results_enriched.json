@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-05-20 10:39:09 IST",
+  "last_updated": "2026-05-21 04:55:41 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea expands support program to stabilize supply of essential medicines",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31742",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "05.21 10:58",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Home dialysis takes spotlight at nephrology summit hosted by Vantive Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31738",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.21 09:58",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "MSD Korea urges broader HPV awareness as boys join national vaccination program",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31736",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.21 09:16",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "MSD wins Korea approval for subcutaneous Keytruda in 18 cancer types, eyes Q4 launch",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31734",
@@ -23,49 +50,13 @@
           "tag": "Other"
         },
         {
-          "title": "Yuhan signs $139.8 mil. API deal with Gilead, strengthening CDMO growth push",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31724",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.20 13:24",
+          "title": "Dong-A Pharm’s MelaToning Cream tops 3 million units in sales",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31730",
+          "category": "K-Beauty",
+          "author": "Kwon Min-seon",
+          "date": "05.20 15:14",
           "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Sanofi’s hemophilia B therapy Alprolix approved for 6-month room-temperature storage",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31719",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.20 10:58",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "CHA Biotech, Yonsei team up to support biohealth startups",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31720",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.20 10:44",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "ProGen pits GLP-1/GLP-2 drug against Ozempic in global phase 2b trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31717",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.20 10:18",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Samsung Bioepis makes Japan debut with Stelara biosimilar through Nipro",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31715",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.20 09:23",
-          "new": false,
-          "tag": "Collaboration"
+          "tag": "Other"
         }
       ]
     }
