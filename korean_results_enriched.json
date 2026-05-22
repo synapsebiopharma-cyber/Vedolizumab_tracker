@@ -1,15 +1,60 @@
 {
-  "last_updated": "2026-05-21 10:57:32 IST",
+  "last_updated": "2026-05-22 04:47:40 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[Interview] ‘Elahere brings meaningful survival gains in platinum-resistant ovarian cancer’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31761",
+          "category": "Hospital",
+          "author": "Hong Sook",
+          "date": "05.22 13:22",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "'New achondroplasia drugs may increase height by up to 20 cm'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31759",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "05.22 11:43",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Samjin Pharm ramps up lorazepam injection production to stabilize essential drug supply",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31757",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.22 10:34",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Seegene unveils PCR-based MDRO assay for hospital infection control in Europe",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31754",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "05.21 16:54",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "[Interview] Vanflyta reshapes FLT3-ITD AML care beyond the transplant-centered paradigm",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31753",
           "category": "Hospital",
           "author": "Kim Yun-mi",
           "date": "05.21 16:26",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Neurophet hires former RadNet tech chief to push Alzheimer’s imaging AI in US",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31751",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "05.21 14:50",
           "new": false,
           "tag": "Other"
         },
@@ -39,33 +84,6 @@
           "date": "05.21 10:58",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Home dialysis takes spotlight at nephrology summit hosted by Vantive Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31738",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.21 09:58",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "MSD Korea urges broader HPV awareness as boys join national vaccination program",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31736",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.21 09:16",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "MSD wins Korea approval for subcutaneous Keytruda in 18 cancer types, eyes Q4 launch",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31734",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.20 19:04",
-          "new": false,
-          "tag": "FDA Approval"
         }
       ]
     }
