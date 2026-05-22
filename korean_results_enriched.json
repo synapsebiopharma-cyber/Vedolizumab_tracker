@@ -1,9 +1,63 @@
 {
-  "last_updated": "2026-05-22 04:47:40 IST",
+  "last_updated": "2026-05-22 10:38:53 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Lilly Korea deepens Korea investment but flags launch risks for new drugs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31773",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.22 18:38",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Kwangdong secures approval for Fabry disease treatment Elfabrio",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31771",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.22 17:00",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "GC Biopharma targets AI-driven prediction of hemophilia-related joint damage",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31765",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.22 14:33",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Organon to supply Hanmi’s 3 combo drugs in Malaysia, Philippines",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31764",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.22 14:20",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Myongji Hospital opens Alzheimer’s Leqembi Clinic to advance early dementia treatment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31763",
+          "category": "Hospital",
+          "author": "Kim Ji-hye",
+          "date": "05.22 14:09",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Novo’s Sogroya gets Korea reimbursement for growth hormone deficiency",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31762",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.22 14:05",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "[Interview] ‘Elahere brings meaningful survival gains in platinum-resistant ovarian cancer’",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31761",
@@ -32,15 +86,6 @@
           "tag": "Other"
         },
         {
-          "title": "Seegene unveils PCR-based MDRO assay for hospital infection control in Europe",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31754",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "05.21 16:54",
-          "new": false,
-          "tag": "Other"
-        },
-        {
           "title": "[Interview] Vanflyta reshapes FLT3-ITD AML care beyond the transplant-centered paradigm",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31753",
           "category": "Hospital",
@@ -48,42 +93,6 @@
           "date": "05.21 16:26",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "Neurophet hires former RadNet tech chief to push Alzheimer’s imaging AI in US",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31751",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "05.21 14:50",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "HanAll Bio’s Imeroprubart posts strong response rates in refractory RA",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31750",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.21 14:37",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Daewoong takes over US anti-aging platform in $239 mil-linked deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31747",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.21 14:15",
-          "new": false,
-          "tag": "Acquisition"
-        },
-        {
-          "title": "Korea expands support program to stabilize supply of essential medicines",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31742",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "05.21 10:58",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }
