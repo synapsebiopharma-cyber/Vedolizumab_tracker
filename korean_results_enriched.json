@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-05-24 09:33:28 IST",
+  "last_updated": "2026-05-25 05:04:07 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korean oncology firms head to ASCO with clinical data, AI biomarker studies",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31772",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.25 07:00",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "Lilly Korea deepens Korea investment but flags launch risks for new drugs",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31773",
@@ -11,7 +20,7 @@
           "author": "Kim Ji-hye",
           "date": "05.22 18:38",
           "new": false,
-          "tag": "Other"
+          "tag": "Pipeline"
         },
         {
           "title": "Kwangdong secures approval for Fabry disease treatment Elfabrio",
@@ -29,7 +38,7 @@
           "author": "Lee Han-soo",
           "date": "05.22 14:33",
           "new": false,
-          "tag": "Other"
+          "tag": "Pipeline"
         },
         {
           "title": "Organon to supply Hanmi’s 3 combo drugs in Malaysia, Philippines",
@@ -50,6 +59,15 @@
           "tag": "Other"
         },
         {
+          "title": "[Interview] ‘Elahere brings meaningful survival gains in platinum-resistant ovarian cancer’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31761",
+          "category": "Hospital",
+          "author": "Hong Sook",
+          "date": "05.22 13:22",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
           "title": "Samjin Pharm ramps up lorazepam injection production to stabilize essential drug supply",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31757",
           "category": "Pharma",
@@ -57,6 +75,15 @@
           "date": "05.22 10:34",
           "new": false,
           "tag": "Other"
+        },
+        {
+          "title": "[Interview] Vanflyta reshapes FLT3-ITD AML care beyond the transplant-centered paradigm",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31753",
+          "category": "Hospital",
+          "author": "Kim Yun-mi",
+          "date": "05.21 16:26",
+          "new": false,
+          "tag": "Clinical Trial"
         }
       ]
     }

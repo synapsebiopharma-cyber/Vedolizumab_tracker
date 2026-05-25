@@ -1,9 +1,17 @@
 {
-  "last_updated": "2026-05-24 09:33:28 IST",
+  "last_updated": "2026-05-25 05:04:07 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korean oncology firms head to ASCO with clinical data, AI biomarker studies",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31772",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.25 07:00",
+          "new": false
+        },
         {
           "title": "Lilly Korea deepens Korea investment but flags launch risks for new drugs",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31773",
@@ -154,14 +162,6 @@
           "category": "K-Beauty",
           "author": "Lee Han-soo",
           "date": "05.21 15:51",
-          "new": false
-        },
-        {
-          "title": "Neurophet hires former RadNet tech chief to push Alzheimer’s imaging AI in US",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31751",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "05.21 14:50",
           "new": false
         }
       ]
