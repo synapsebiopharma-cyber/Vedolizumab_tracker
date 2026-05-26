@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-05-25 11:40:24 IST",
+  "last_updated": "2026-05-26 04:44:58 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Woori Children’s Hospital ramps up staffing as 24-hour pediatric visits climb",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31781",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "05.26 13:33",
+          "new": false
+        },
+        {
+          "title": "Neurophet partners with Spain’s VHIR on AI research for multiple sclerosis imaging",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31778",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "05.26 13:19",
+          "new": false
+        },
+        {
+          "title": "DKSH Korea’s ATTR-CM drug candidate wins MFDS orphan designation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31777",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.26 13:12",
+          "new": false
+        },
+        {
+          "title": "GE HealthCare Korea, ACK partner on real-time patient monitoring platform",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31776",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "05.26 11:30",
+          "new": false
+        },
+        {
+          "title": "AriBio receives first $10 mil. from Fosun Pharma in Alzheimer’s licensing deal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31775",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "05.26 11:09",
+          "new": false
+        },
+        {
+          "title": "Researchers redefine type 2 diabetes through 13-body-system model",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31779",
+          "category": "Hospital",
+          "author": "Kim Ji-hye",
+          "date": "05.26 10:59",
+          "new": false
+        },
+        {
+          "title": "SK bioscience lands Colombia vaccine tech transfer deal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31774",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.26 10:26",
+          "new": false
+        },
         {
           "title": "Korean oncology firms head to ASCO with clinical data, AI biomarker studies",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31772",
@@ -106,62 +162,6 @@
           "category": "Hospital",
           "author": "Hong Sook",
           "date": "05.22 13:22",
-          "new": false
-        },
-        {
-          "title": "Innovo Therapeutics clears technology assessment for Kosdaq listing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31760",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "05.22 13:13",
-          "new": false
-        },
-        {
-          "title": "'New achondroplasia drugs may increase height by up to 20 cm'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31759",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "05.22 11:43",
-          "new": false
-        },
-        {
-          "title": "Korea’s top court overturns 34-year precedent, rules non-physician tattooing not illegal medical practice",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31758",
-          "category": "Policy",
-          "author": "Lee Han-soo",
-          "date": "05.22 11:24",
-          "new": false
-        },
-        {
-          "title": "Samjin Pharm ramps up lorazepam injection production to stabilize essential drug supply",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31757",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.22 10:34",
-          "new": false
-        },
-        {
-          "title": "Seegene unveils PCR-based MDRO assay for hospital infection control in Europe",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31754",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "05.21 16:54",
-          "new": false
-        },
-        {
-          "title": "[Interview] Vanflyta reshapes FLT3-ITD AML care beyond the transplant-centered paradigm",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31753",
-          "category": "Hospital",
-          "author": "Kim Yun-mi",
-          "date": "05.21 16:26",
-          "new": false
-        },
-        {
-          "title": "Kolmar Korea applies targeted therapy concept to anti-aging cosmetics",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31752",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "05.21 15:51",
           "new": false
         }
       ]

@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-05-25 11:40:24 IST",
+  "last_updated": "2026-05-26 04:44:58 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "DKSH Korea’s ATTR-CM drug candidate wins MFDS orphan designation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31777",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.26 13:12",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "AriBio receives first $10 mil. from Fosun Pharma in Alzheimer’s licensing deal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31775",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "05.26 11:09",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "SK bioscience lands Colombia vaccine tech transfer deal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31774",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.26 10:26",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "Korean oncology firms head to ASCO with clinical data, AI biomarker studies",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31772",
@@ -20,7 +47,7 @@
           "author": "Kim Ji-hye",
           "date": "05.22 18:38",
           "new": false,
-          "tag": "Financial"
+          "tag": "Other"
         },
         {
           "title": "Kwangdong secures approval for Fabry disease treatment Elfabrio",
@@ -30,6 +57,15 @@
           "date": "05.22 17:00",
           "new": false,
           "tag": "FDA Approval"
+        },
+        {
+          "title": "Samsung Biologics union may face ₩20 mil. penalty for each prohibited strike instruction",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31768",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.22 15:28",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "Dong-A ST signs Brazil distribution deal for HiCardi+ remote monitoring solution",
@@ -47,7 +83,7 @@
           "author": "Lee Han-soo",
           "date": "05.22 14:33",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Other"
         },
         {
           "title": "Organon to supply Hanmi’s 3 combo drugs in Malaysia, Philippines",
@@ -65,43 +101,7 @@
           "author": "Kim Ji-hye",
           "date": "05.22 14:05",
           "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "[Interview] ‘Elahere brings meaningful survival gains in platinum-resistant ovarian cancer’",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31761",
-          "category": "Hospital",
-          "author": "Hong Sook",
-          "date": "05.22 13:22",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "'New achondroplasia drugs may increase height by up to 20 cm'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31759",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "05.22 11:43",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Samjin Pharm ramps up lorazepam injection production to stabilize essential drug supply",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31757",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.22 10:34",
-          "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "[Interview] Vanflyta reshapes FLT3-ITD AML care beyond the transplant-centered paradigm",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31753",
-          "category": "Hospital",
-          "author": "Kim Yun-mi",
-          "date": "05.21 16:26",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }
