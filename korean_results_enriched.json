@@ -1,9 +1,135 @@
 {
-  "last_updated": "2026-05-26 04:44:58 IST",
+  "last_updated": "2026-05-27 05:00:01 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "MFDS moves to tighten controls on GLP-1 obesity drugs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31799",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "05.27 13:43",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "KAIST develops light-activated antibody platform for precision cancer therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31796",
+          "category": "Life science",
+          "author": "Lee Han-soo",
+          "date": "05.27 13:17",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Lunit, Leica roll out AI biomarker tool for lung cancer research",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31795",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "05.27 11:09",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "CGBio signs Novosis commercialization deal with DePuy Synthes in US, Canada, Australia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31794",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "05.27 11:01",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Lilly’s Curevo buyout could bring GC Biopharma up to $304 million",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31791",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.27 10:45",
+          "new": false,
+          "tag": "Acquisition"
+        },
+        {
+          "title": "Rznomics secures WHO INN for cancer gene therapy candidate RZ-001",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31793",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.27 10:41",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Daewoong lands Mexico approval for SGLT-2 diabetes drug Enblo",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31792",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.27 10:35",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Korea’s kidney cancer coverage lags behind immunotherapy-era standards: experts",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31789",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "05.27 09:14",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "[Reporter’s notebook] FDA’s real-time trial push signals Korea’s next clinical trial challenge",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31788",
+          "category": "Reporter’s Notebook",
+          "author": "Lee Han-soo",
+          "date": "05.26 16:48",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Novo Nordisk wins Korean approval for once-weekly insulin-GLP-1 combo Kyinsu",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31786",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.26 16:01",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "[Interview] 'K-Bio licensing is changing -- value design now matters more than good science'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31784",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "05.26 15:57",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Everest Medicines positions Nefecon as Korea’s first targeted IgA nephropathy treatment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31783",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.26 14:30",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Korea becomes 1st to include ring-type cuffless BP monitor in hypertension guidelines",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31782",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "05.26 13:57",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Neurophet partners with Spain’s VHIR on AI research for multiple sclerosis imaging",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31778",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "05.26 13:19",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "DKSH Korea’s ATTR-CM drug candidate wins MFDS orphan designation",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31777",
@@ -12,96 +138,6 @@
           "date": "05.26 13:12",
           "new": false,
           "tag": "Pipeline"
-        },
-        {
-          "title": "AriBio receives first $10 mil. from Fosun Pharma in Alzheimer’s licensing deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31775",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.26 11:09",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "SK bioscience lands Colombia vaccine tech transfer deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31774",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.26 10:26",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Korean oncology firms head to ASCO with clinical data, AI biomarker studies",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31772",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.25 07:00",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Lilly Korea deepens Korea investment but flags launch risks for new drugs",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31773",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.22 18:38",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Kwangdong secures approval for Fabry disease treatment Elfabrio",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31771",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.22 17:00",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Samsung Biologics union may face ₩20 mil. penalty for each prohibited strike instruction",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31768",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.22 15:28",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Dong-A ST signs Brazil distribution deal for HiCardi+ remote monitoring solution",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31766",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.22 15:03",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "GC Biopharma targets AI-driven prediction of hemophilia-related joint damage",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31765",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.22 14:33",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Organon to supply Hanmi’s 3 combo drugs in Malaysia, Philippines",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31764",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.22 14:20",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Novo’s Sogroya gets Korea reimbursement for growth hormone deficiency",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31762",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.22 14:05",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }
