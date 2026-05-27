@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-05-27 05:00:01 IST",
+  "last_updated": "2026-05-27 11:09:32 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "From Korea’s 1st women’s hospital to AI healthcare: Ewha Seoul Hospital marks 7 years",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31809",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "05.27 16:57",
+          "new": false
+        },
+        {
+          "title": "Don’t skip sunscreen during monsoon season, dermatologist warns",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31808",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "05.27 16:23",
+          "new": false
+        },
+        {
+          "title": "62% of telemedicine doctors oppose 7-day prescription limit for new patients: survey",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31807",
+          "category": "Policy",
+          "author": "Kim Jung-hyun",
+          "date": "05.27 16:19",
+          "new": false
+        },
+        {
+          "title": "Kangbuk Samsung Hospital expands participation in digital healthcare-based ODA projects",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31806",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "05.27 16:16",
+          "new": false
+        },
+        {
+          "title": "Emocog’s Cogthera shows 73% adherence in real-world mild cognitive impairment use",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31803",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "05.27 16:06",
+          "new": false
+        },
+        {
+          "title": "New technology extends battery life of pacemakers, reducing need for replacement surgeries",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31804",
+          "category": "Device/ICT",
+          "author": "Song Soo-youn",
+          "date": "05.27 15:41",
+          "new": false
+        },
+        {
+          "title": "[Interview] Curaco CEO says excretion care is about dignity, not just hygiene",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31802",
+          "category": "Device/ICT",
+          "author": "Kim Jung-hyun",
+          "date": "05.27 15:38",
+          "new": false
+        },
+        {
+          "title": "Lundbeck's Vyepti approved in Korea as once-quarterly migraine preventive",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31801",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.27 15:16",
+          "new": false
+        },
+        {
+          "title": "Medison Pharma’s Amvuttra reimbursement could reshape hATTR-PN treatment in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31800",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.27 14:41",
+          "new": false
+        },
         {
           "title": "MFDS moves to tighten controls on GLP-1 obesity drugs",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31799",
@@ -90,78 +162,6 @@
           "category": "Reporter’s Notebook",
           "author": "Lee Han-soo",
           "date": "05.26 16:48",
-          "new": false
-        },
-        {
-          "title": "Korean lung wash fluid study wins TLCR’s most-cited paper award",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31787",
-          "category": "Hospital",
-          "author": "Song Soo-youn",
-          "date": "05.26 16:31",
-          "new": false
-        },
-        {
-          "title": "Novo Nordisk wins Korean approval for once-weekly insulin-GLP-1 combo Kyinsu",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31786",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.26 16:01",
-          "new": false
-        },
-        {
-          "title": "[Interview] 'K-Bio licensing is changing -- value design now matters more than good science'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31784",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "05.26 15:57",
-          "new": false
-        },
-        {
-          "title": "Maihub seeks to lower barriers to medical AI adoption with integrated platform strategy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31785",
-          "category": "Device/ICT",
-          "author": "Park Gi-taek",
-          "date": "05.26 15:26",
-          "new": false
-        },
-        {
-          "title": "Everest Medicines positions Nefecon as Korea’s first targeted IgA nephropathy treatment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31783",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.26 14:30",
-          "new": false
-        },
-        {
-          "title": "Korea becomes 1st to include ring-type cuffless BP monitor in hypertension guidelines",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31782",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "05.26 13:57",
-          "new": false
-        },
-        {
-          "title": "Woori Children’s Hospital ramps up staffing as 24-hour pediatric visits climb",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31781",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "05.26 13:33",
-          "new": false
-        },
-        {
-          "title": "Neurophet partners with Spain’s VHIR on AI research for multiple sclerosis imaging",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31778",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "05.26 13:19",
-          "new": false
-        },
-        {
-          "title": "DKSH Korea’s ATTR-CM drug candidate wins MFDS orphan designation",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31777",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.26 13:12",
           "new": false
         }
       ]

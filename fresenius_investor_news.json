@@ -1,8 +1,8 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-05-27T05:01:13Z",
-  "total_runs": 58,
-  "new_on_last_run": 1,
+  "last_fetched": "2026-05-27T11:10:40Z",
+  "total_runs": 59,
+  "new_on_last_run": 0,
   "articles": [
     {
       "id": "ai-assistant-enhances-access-to-investor-relations-information|may-26,-2026",
@@ -11,7 +11,7 @@
       "date": "May 26, 2026",
       "source": "Fresenius",
       "meta": "Brief News",
-      "new": true
+      "new": false
     },
     {
       "id": "#futurefresenius:-rejuvenate-in-action-–-excellent-start-to-the-year---demonstrating-continued-strength-and-resilient-performance;-guidance-reconfirmed|may-6,-2026",

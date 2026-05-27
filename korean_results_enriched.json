@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-05-27 05:00:01 IST",
+  "last_updated": "2026-05-27 11:09:32 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Emocog’s Cogthera shows 73% adherence in real-world mild cognitive impairment use",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31803",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "05.27 16:06",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Lundbeck's Vyepti approved in Korea as once-quarterly migraine preventive",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31801",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.27 15:16",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Medison Pharma’s Amvuttra reimbursement could reshape hATTR-PN treatment in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31800",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.27 14:41",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "MFDS moves to tighten controls on GLP-1 obesity drugs",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31799",
@@ -21,15 +48,6 @@
           "date": "05.27 13:17",
           "new": false,
           "tag": "Pipeline"
-        },
-        {
-          "title": "Lunit, Leica roll out AI biomarker tool for lung cancer research",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31795",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "05.27 11:09",
-          "new": false,
-          "tag": "Collaboration"
         },
         {
           "title": "CGBio signs Novosis commercialization deal with DePuy Synthes in US, Canada, Australia",
@@ -75,69 +93,6 @@
           "date": "05.27 09:14",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "[Reporter’s notebook] FDA’s real-time trial push signals Korea’s next clinical trial challenge",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31788",
-          "category": "Reporter’s Notebook",
-          "author": "Lee Han-soo",
-          "date": "05.26 16:48",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Novo Nordisk wins Korean approval for once-weekly insulin-GLP-1 combo Kyinsu",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31786",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.26 16:01",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "[Interview] 'K-Bio licensing is changing -- value design now matters more than good science'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31784",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "05.26 15:57",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Everest Medicines positions Nefecon as Korea’s first targeted IgA nephropathy treatment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31783",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.26 14:30",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Korea becomes 1st to include ring-type cuffless BP monitor in hypertension guidelines",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31782",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "05.26 13:57",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Neurophet partners with Spain’s VHIR on AI research for multiple sclerosis imaging",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31778",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "05.26 13:19",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "DKSH Korea’s ATTR-CM drug candidate wins MFDS orphan designation",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31777",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.26 13:12",
-          "new": false,
-          "tag": "Pipeline"
         }
       ]
     }
