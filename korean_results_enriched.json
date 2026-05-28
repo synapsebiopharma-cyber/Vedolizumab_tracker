@@ -1,15 +1,42 @@
 {
-  "last_updated": "2026-05-27 11:09:32 IST",
+  "last_updated": "2026-05-28 04:53:04 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Emocog’s Cogthera shows 73% adherence in real-world mild cognitive impairment use",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31803",
-          "category": "Device/ICT",
+          "title": "Novo and TCG pitch NewCo routes for Korean biotech assets as investors question early exits",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31813",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.28 13:14",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Curocell to retry CAR-T Rimqarto reimbursement in July after first HIRA setback",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31814",
+          "category": "Pharma",
           "author": "Lee Han-soo",
-          "date": "05.27 16:06",
+          "date": "05.28 10:29",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "AbbVie’s Elahere clears 1st reimbursement hurdle for platinum-resistant ovarian cancer in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31812",
+          "category": "Policy",
+          "author": "You Ji-young",
+          "date": "05.28 10:09",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Korea to pilot 100-day reimbursement track for rare disease drugs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31811",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "05.28 10:04",
           "new": false,
           "tag": "Other"
         },
@@ -48,51 +75,6 @@
           "date": "05.27 13:17",
           "new": false,
           "tag": "Pipeline"
-        },
-        {
-          "title": "CGBio signs Novosis commercialization deal with DePuy Synthes in US, Canada, Australia",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31794",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "05.27 11:01",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Lilly’s Curevo buyout could bring GC Biopharma up to $304 million",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31791",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.27 10:45",
-          "new": false,
-          "tag": "Acquisition"
-        },
-        {
-          "title": "Rznomics secures WHO INN for cancer gene therapy candidate RZ-001",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31793",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.27 10:41",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Daewoong lands Mexico approval for SGLT-2 diabetes drug Enblo",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31792",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.27 10:35",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Korea’s kidney cancer coverage lags behind immunotherapy-era standards: experts",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31789",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "05.27 09:14",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }
