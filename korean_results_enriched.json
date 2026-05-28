@@ -1,17 +1,44 @@
 {
-  "last_updated": "2026-05-28 04:53:04 IST",
+  "last_updated": "2026-05-28 11:18:04 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Novo and TCG pitch NewCo routes for Korean biotech assets as investors question early exits",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31813",
+          "title": "iNtRON says crop disease drug wiped out fire blight bacteria in US test",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31828",
           "category": "Bio",
           "author": "Kim Ji-hye",
-          "date": "05.28 13:14",
+          "date": "05.28 17:08",
           "new": false,
-          "tag": "Financial"
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Dong-A ST says MetaVia obesity candidate shows promising safety profile",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31827",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.28 16:29",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Galux, AimedBio partner to develop BBB-crossing protein delivery platform",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31822",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "05.28 15:25",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Boryung to launch triple-combination hypertension, dyslipidemia drug Kanarbzet",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31818",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.28 14:22",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "Curocell to retry CAR-T Rimqarto reimbursement in July after first HIRA setback",
@@ -30,51 +57,6 @@
           "date": "05.28 10:09",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Korea to pilot 100-day reimbursement track for rare disease drugs",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31811",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "05.28 10:04",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Lundbeck's Vyepti approved in Korea as once-quarterly migraine preventive",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31801",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.27 15:16",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Medison Pharma’s Amvuttra reimbursement could reshape hATTR-PN treatment in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31800",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.27 14:41",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "MFDS moves to tighten controls on GLP-1 obesity drugs",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31799",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "05.27 13:43",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "KAIST develops light-activated antibody platform for precision cancer therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31796",
-          "category": "Life science",
-          "author": "Lee Han-soo",
-          "date": "05.27 13:17",
-          "new": false,
-          "tag": "Pipeline"
         }
       ]
     }

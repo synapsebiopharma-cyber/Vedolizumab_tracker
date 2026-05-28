@@ -1,9 +1,105 @@
 {
-  "last_updated": "2026-05-28 04:53:04 IST",
+  "last_updated": "2026-05-28 11:18:04 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "iNtRON says crop disease drug wiped out fire blight bacteria in US test",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31828",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.28 17:08",
+          "new": false
+        },
+        {
+          "title": "Humedix hosts brand seminar to expand topical skin booster Reedle Booster",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31826",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "05.28 16:30",
+          "new": false
+        },
+        {
+          "title": "Dong-A ST says MetaVia obesity candidate shows promising safety profile",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31827",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.28 16:29",
+          "new": false
+        },
+        {
+          "title": "Korean EMR startup targets Finland with AI-powered medical charting",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31825",
+          "category": "Hospital",
+          "author": "Kwon Min-seon",
+          "date": "05.28 16:07",
+          "new": false
+        },
+        {
+          "title": "Konyang University Hospital introduces advanced prostate cancer biopsy system",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31824",
+          "category": "Hospital",
+          "author": "Song Soo-youn",
+          "date": "05.28 15:41",
+          "new": false
+        },
+        {
+          "title": "Airway obstruction among deadliest home accidents for young children: KDCA",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31823",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "05.28 15:30",
+          "new": false
+        },
+        {
+          "title": "Galux, AimedBio partner to develop BBB-crossing protein delivery platform",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31822",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "05.28 15:25",
+          "new": false
+        },
+        {
+          "title": "Korea reviews ‘success-based loan’ program to help biopharma firms cross phase 3 funding gap",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31821",
+          "category": "Policy",
+          "author": "Park Gi-taek",
+          "date": "05.28 15:17",
+          "new": false
+        },
+        {
+          "title": "BD Korea, You Balm clinic partner on VAB training center for breast biopsy education",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31819",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "05.28 14:59",
+          "new": false
+        },
+        {
+          "title": "Biomarker testing shapes first-line treatment in advanced colorectal cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31820",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "05.28 14:35",
+          "new": false
+        },
+        {
+          "title": "Boryung to launch triple-combination hypertension, dyslipidemia drug Kanarbzet",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31818",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "05.28 14:22",
+          "new": false
+        },
+        {
+          "title": "Daewoong joins SEERS, TR to develop bedside pulmonary testing smart ward solution",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31817",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "05.28 13:53",
+          "new": false
+        },
         {
           "title": "Overhaul of maternal care and transfer systems is long overdue, ob-gyn doctors say",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31816",
@@ -66,102 +162,6 @@
           "category": "Hospital",
           "author": "Lee Han-soo",
           "date": "05.27 16:57",
-          "new": false
-        },
-        {
-          "title": "Don’t skip sunscreen during monsoon season, dermatologist warns",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31808",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "05.27 16:23",
-          "new": false
-        },
-        {
-          "title": "62% of telemedicine doctors oppose 7-day prescription limit for new patients: survey",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31807",
-          "category": "Policy",
-          "author": "Kim Jung-hyun",
-          "date": "05.27 16:19",
-          "new": false
-        },
-        {
-          "title": "Kangbuk Samsung Hospital expands participation in digital healthcare-based ODA projects",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31806",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "05.27 16:16",
-          "new": false
-        },
-        {
-          "title": "Emocog’s Cogthera shows 73% adherence in real-world mild cognitive impairment use",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31803",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "05.27 16:06",
-          "new": false
-        },
-        {
-          "title": "New technology extends battery life of pacemakers, reducing need for replacement surgeries",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31804",
-          "category": "Device/ICT",
-          "author": "Song Soo-youn",
-          "date": "05.27 15:41",
-          "new": false
-        },
-        {
-          "title": "[Interview] Curaco CEO says excretion care is about dignity, not just hygiene",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31802",
-          "category": "Device/ICT",
-          "author": "Kim Jung-hyun",
-          "date": "05.27 15:38",
-          "new": false
-        },
-        {
-          "title": "Lundbeck's Vyepti approved in Korea as once-quarterly migraine preventive",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31801",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.27 15:16",
-          "new": false
-        },
-        {
-          "title": "Medison Pharma’s Amvuttra reimbursement could reshape hATTR-PN treatment in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31800",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.27 14:41",
-          "new": false
-        },
-        {
-          "title": "MFDS moves to tighten controls on GLP-1 obesity drugs",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31799",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "05.27 13:43",
-          "new": false
-        },
-        {
-          "title": "KAIST develops light-activated antibody platform for precision cancer therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31796",
-          "category": "Life science",
-          "author": "Lee Han-soo",
-          "date": "05.27 13:17",
-          "new": false
-        },
-        {
-          "title": "Korea legalizes telemedicine for foreign patients, including first visits",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31797",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "05.27 13:15",
-          "new": false
-        },
-        {
-          "title": "Lunit, Leica roll out AI biomarker tool for lung cancer research",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31795",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "05.27 11:09",
           "new": false
         }
       ]
