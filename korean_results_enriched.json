@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-05-29 11:04:20 IST",
+  "last_updated": "2026-05-30 09:40:20 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea and UK race on hantavirus shots as Andes coverage stays in doubt",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31847",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.29 20:07",
+          "new": false,
+          "tag": "Pipeline"
+        },
         {
           "title": "Onconic earns $1 mil. milestone as zastaprazan enters phase 3 H. pylori study in China",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31845",
@@ -50,15 +59,6 @@
           "tag": "Pipeline"
         },
         {
-          "title": "CG MedTech, PECOTEK partner to develop next-generation zirconia dental implants",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31835",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "05.29 14:15",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
           "title": "Sam Chun Dang wins Europe nod for oral insulin trial after stock whiplash",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31832",
           "category": "Pharma",
@@ -93,15 +93,6 @@
           "date": "05.29 10:53",
           "new": false,
           "tag": "Financial"
-        },
-        {
-          "title": "iNtRON says crop disease drug wiped out fire blight bacteria in US test",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31828",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.28 17:08",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }

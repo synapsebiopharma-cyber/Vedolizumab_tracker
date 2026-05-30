@@ -1,9 +1,17 @@
 {
-  "last_updated": "2026-05-29 11:04:20 IST",
+  "last_updated": "2026-05-30 09:40:20 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea and UK race on hantavirus shots as Andes coverage stays in doubt",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31847",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "05.29 20:07",
+          "new": false
+        },
         {
           "title": "Can Samsung’s Galaxy Watch help GLP‑1 patients keep muscle and be worth paying for?",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31846",
@@ -154,14 +162,6 @@
           "category": "Bio",
           "author": "Kim Ji-hye",
           "date": "05.28 17:08",
-          "new": false
-        },
-        {
-          "title": "Humedix hosts brand seminar to expand topical skin booster Reedle Booster",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31826",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "05.28 16:30",
           "new": false
         }
       ]
