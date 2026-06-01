@@ -1,35 +1,53 @@
 {
-  "last_updated": "2026-06-01 05:27:30 IST",
+  "last_updated": "2026-06-01 13:30:03 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Samjin Pharm, AriBioLab forge strategic alliance for vaccine development",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31856",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.01 14:20",
+          "title": "Samsung creates ₩200 bil. fund to invest in global biotech ventures",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31866",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "06.01 17:31",
           "new": false,
-          "tag": "Collaboration"
+          "tag": "Other"
         },
         {
-          "title": "GSK secures Omjjara reimbursement in Korea, expanding access for myelofibrosis patients",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31855",
+          "title": "Celltrion files for approval of Cosentyx biosimilar, CT-P55, in Canada",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31863",
           "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.01 13:59",
+          "author": "Kim Ji-hye",
+          "date": "06.01 15:57",
           "new": false,
           "tag": "FDA Approval"
         },
         {
-          "title": "HK inno.N completes phase 3 trial of Korea's 1st JAK-1 inhibitor for canine atopic dermatitis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31854",
+          "title": "Samsung Bioepis, Samsung Medical Center partner on AI-driven drug research",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31858",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "06.01 15:54",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Daewoong promotes Baroezet as treatment option for low- to moderate-risk dyslipidemia patients",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31862",
           "category": "Pharma",
           "author": "Lee Han-soo",
-          "date": "06.01 13:41",
+          "date": "06.01 15:51",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Other"
+        },
+        {
+          "title": "Helixmith platform-based gene therapy wins 1st Chinese approval for non-viral DNA treatment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31861",
+          "category": "Bio",
+          "author": "Park Gi-taek",
+          "date": "06.01 15:41",
+          "new": false,
+          "tag": "FDA Approval"
         },
         {
           "title": "[ASCO 2026] Korea’s 1st approved advanced cell therapy shows potential in rare lymphoma",
@@ -38,7 +56,7 @@
           "author": "Kim Yun-mi",
           "date": "06.01 11:41",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "FDA Approval"
         },
         {
           "title": "Lilly bets $1.26 billion on Hanmi's long-acting GLP-2 drug for short bowel syndrome",
@@ -47,61 +65,7 @@
           "author": "Kim Ji-hye",
           "date": "06.01 11:34",
           "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "AbbVie, Pfizer win broader reimbursement for oral JAK inhibitors in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31849",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.01 11:09",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Korea and UK race on hantavirus shots as Andes coverage stays in doubt",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31847",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.29 20:07",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Onconic earns $1 mil. milestone as zastaprazan enters phase 3 H. pylori study in China",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31845",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.29 17:16",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Samsung Bioepis launches Eylea biosimilar in Europe as parent company opens China R&D site",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31844",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.29 16:42",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Huons Global to seek shareholder vote on subsidiary merger in July",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31843",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.29 16:27",
-          "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "BMS Korea expands Pomalyst reimbursement to 2nd-line multiple myeloma treatment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31839",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.29 15:14",
-          "new": false,
-          "tag": "FDA Approval"
         }
       ]
     }
