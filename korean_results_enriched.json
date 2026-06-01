@@ -1,9 +1,63 @@
 {
-  "last_updated": "2026-05-31 10:05:46 IST",
+  "last_updated": "2026-06-01 05:27:30 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Samjin Pharm, AriBioLab forge strategic alliance for vaccine development",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31856",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.01 14:20",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "GSK secures Omjjara reimbursement in Korea, expanding access for myelofibrosis patients",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31855",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.01 13:59",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "HK inno.N completes phase 3 trial of Korea's 1st JAK-1 inhibitor for canine atopic dermatitis",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31854",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.01 13:41",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "[ASCO 2026] Korea’s 1st approved advanced cell therapy shows potential in rare lymphoma",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31851",
+          "category": "Bio",
+          "author": "Kim Yun-mi",
+          "date": "06.01 11:41",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Lilly bets $1.26 billion on Hanmi's long-acting GLP-2 drug for short bowel syndrome",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31850",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.01 11:34",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "AbbVie, Pfizer win broader reimbursement for oral JAK inhibitors in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31849",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.01 11:09",
+          "new": false,
+          "tag": "FDA Approval"
+        },
         {
           "title": "Korea and UK race on hantavirus shots as Andes coverage stays in doubt",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31847",
@@ -29,7 +83,7 @@
           "author": "Kim Ji-hye",
           "date": "05.29 16:42",
           "new": false,
-          "tag": "Other"
+          "tag": "FDA Approval"
         },
         {
           "title": "Huons Global to seek shareholder vote on subsidiary merger in July",
@@ -38,7 +92,7 @@
           "author": "Lee Han-soo",
           "date": "05.29 16:27",
           "new": false,
-          "tag": "Acquisition"
+          "tag": "Other"
         },
         {
           "title": "BMS Korea expands Pomalyst reimbursement to 2nd-line multiple myeloma treatment",
@@ -47,52 +101,7 @@
           "author": "Lee Han-soo",
           "date": "05.29 15:14",
           "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Celltrion begins final preclinical studies for obesity drug CT-G32",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31837",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.29 14:33",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Sam Chun Dang wins Europe nod for oral insulin trial after stock whiplash",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31832",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.29 13:09",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "MEPSGEN joins Imperial College London to build human-based IBD research model",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31831",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.29 11:45",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Boehringer launches Metalyse in Korea, bringing 1st new stroke thrombolytic option in 20 years",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31830",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.29 11:16",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "SK bioscience secures $200 mil. Korea Growth Fund backing for phase 3 vaccine push",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31829",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.29 10:53",
-          "new": false,
-          "tag": "Financial"
+          "tag": "FDA Approval"
         }
       ]
     }

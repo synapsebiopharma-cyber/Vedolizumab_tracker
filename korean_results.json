@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-05-31 10:05:46 IST",
+  "last_updated": "2026-06-01 05:27:30 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Samjin Pharm, AriBioLab forge strategic alliance for vaccine development",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31856",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.01 14:20",
+          "new": false
+        },
+        {
+          "title": "GSK secures Omjjara reimbursement in Korea, expanding access for myelofibrosis patients",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31855",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.01 13:59",
+          "new": false
+        },
+        {
+          "title": "HK inno.N completes phase 3 trial of Korea's 1st JAK-1 inhibitor for canine atopic dermatitis",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31854",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.01 13:41",
+          "new": false
+        },
+        {
+          "title": "Hugel’s WELLAGE enters Olive Young’s US store as North America push gains pace",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31853",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "06.01 13:29",
+          "new": false
+        },
+        {
+          "title": "Brain, immune system to drive next wave of medical devices: KAIST professor",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31852",
+          "category": "Life science",
+          "author": "Kwon Min-seon",
+          "date": "06.01 13:14",
+          "new": false
+        },
+        {
+          "title": "[ASCO 2026] Korea’s 1st approved advanced cell therapy shows potential in rare lymphoma",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31851",
+          "category": "Bio",
+          "author": "Kim Yun-mi",
+          "date": "06.01 11:41",
+          "new": false
+        },
+        {
+          "title": "Lilly bets $1.26 billion on Hanmi's long-acting GLP-2 drug for short bowel syndrome",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31850",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.01 11:34",
+          "new": false
+        },
+        {
+          "title": "AbbVie, Pfizer win broader reimbursement for oral JAK inhibitors in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31849",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.01 11:09",
+          "new": false
+        },
+        {
+          "title": "[Column] Where is AI taking hospitals?",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31848",
+          "category": "Opinion",
+          "author": "Choi Soo-young",
+          "date": "06.01 10:36",
+          "new": false
+        },
         {
           "title": "Korea and UK race on hantavirus shots as Andes coverage stays in doubt",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31847",
@@ -90,78 +162,6 @@
           "category": "Policy",
           "author": "Kim Jung-hyun",
           "date": "05.29 14:36",
-          "new": false
-        },
-        {
-          "title": "Celltrion begins final preclinical studies for obesity drug CT-G32",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31837",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.29 14:33",
-          "new": false
-        },
-        {
-          "title": "CG MedTech, PECOTEK partner to develop next-generation zirconia dental implants",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31835",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "05.29 14:15",
-          "new": false
-        },
-        {
-          "title": "Rznomics joins MSCI Korea Small Cap Index",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31834",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.29 13:52",
-          "new": false
-        },
-        {
-          "title": "KHIDI arranges 149 overseas market-entry consultations for K-beauty companies",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31833",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "05.29 13:23",
-          "new": false
-        },
-        {
-          "title": "Sam Chun Dang wins Europe nod for oral insulin trial after stock whiplash",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31832",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "05.29 13:09",
-          "new": false
-        },
-        {
-          "title": "MEPSGEN joins Imperial College London to build human-based IBD research model",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31831",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.29 11:45",
-          "new": false
-        },
-        {
-          "title": "Boehringer launches Metalyse in Korea, bringing 1st new stroke thrombolytic option in 20 years",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31830",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "05.29 11:16",
-          "new": false
-        },
-        {
-          "title": "SK bioscience secures $200 mil. Korea Growth Fund backing for phase 3 vaccine push",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31829",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "05.29 10:53",
-          "new": false
-        },
-        {
-          "title": "iNtRON says crop disease drug wiped out fire blight bacteria in US test",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31828",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.28 17:08",
           "new": false
         }
       ]
