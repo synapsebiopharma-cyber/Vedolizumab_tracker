@@ -1,9 +1,97 @@
 {
-  "last_updated": "2026-06-01 13:30:03 IST",
+  "last_updated": "2026-06-02 05:10:02 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Oscotec’s cevidoplenib licensing deal puts spotlight on 1st-line ITP expansion potential",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31877",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "06.02 13:57",
+          "new": false
+        },
+        {
+          "title": "ImmuneOncia reports 75% disease control rate for IMC-002 combo in TNBC at ASCO",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31876",
+          "category": "Pharma",
+          "author": "Hong Sook",
+          "date": "06.02 13:46",
+          "new": false
+        },
+        {
+          "title": "FutureChem to raise ₩40 billion through rights offering to speed up global expansion",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31875",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "06.02 13:43",
+          "new": false
+        },
+        {
+          "title": "CGBio launches 2nd filler brand in China through UPS BIO partnership",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31874",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "06.02 13:21",
+          "new": false
+        },
+        {
+          "title": "Daewoong partners with Chime Biologics on Dupixent biosimilar",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31873",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.02 13:14",
+          "new": false
+        },
+        {
+          "title": "HK inno.N expands US beauty push with Olive Young Pasadena launch",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31872",
+          "category": "K-Beauty",
+          "author": "Kim Yoon-mi",
+          "date": "06.02 11:40",
+          "new": false
+        },
+        {
+          "title": "Onconic files Jaqbo NDA in India after phase 3 success in erosive GERD",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31871",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.02 11:32",
+          "new": false
+        },
+        {
+          "title": "CEPI backs Moderna, IAVI, Oxford vaccines amid growing Bundibugyo Ebola outbreak",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31870",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.02 11:00",
+          "new": false
+        },
+        {
+          "title": "Boryung completes Sanofi Taxotere takeover, launches global oncology biz",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31869",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "06.02 10:50",
+          "new": false
+        },
+        {
+          "title": "OliX raises ₩110 bil. from L'Oréal venture fund and Weiss Asset Management",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31868",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "06.02 09:56",
+          "new": false
+        },
+        {
+          "title": "SK bioscience wins 1st UNICEF influenza vaccine contract",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31867",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "06.02 09:28",
+          "new": false
+        },
         {
           "title": "Samsung creates ₩200 bil. fund to invest in global biotech ventures",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31866",
@@ -74,94 +162,6 @@
           "category": "Device/ICT",
           "author": "Lee Han-soo",
           "date": "06.01 15:07",
-          "new": false
-        },
-        {
-          "title": "Samjin Pharm, AriBioLab forge strategic alliance for vaccine development",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31856",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.01 14:20",
-          "new": false
-        },
-        {
-          "title": "GSK secures Omjjara reimbursement in Korea, expanding access for myelofibrosis patients",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31855",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.01 13:59",
-          "new": false
-        },
-        {
-          "title": "HK inno.N completes phase 3 trial of Korea's 1st JAK-1 inhibitor for canine atopic dermatitis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31854",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.01 13:41",
-          "new": false
-        },
-        {
-          "title": "Hugel’s WELLAGE enters Olive Young’s US store as North America push gains pace",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31853",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "06.01 13:29",
-          "new": false
-        },
-        {
-          "title": "Brain, immune system to drive next wave of medical devices: KAIST professor",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31852",
-          "category": "Life science",
-          "author": "Kwon Min-seon",
-          "date": "06.01 13:14",
-          "new": false
-        },
-        {
-          "title": "[ASCO 2026] Korea’s 1st approved advanced cell therapy shows potential in rare lymphoma",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31851",
-          "category": "Bio",
-          "author": "Kim Yun-mi",
-          "date": "06.01 11:41",
-          "new": false
-        },
-        {
-          "title": "Lilly bets $1.26 billion on Hanmi's long-acting GLP-2 drug for short bowel syndrome",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31850",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.01 11:34",
-          "new": false
-        },
-        {
-          "title": "AbbVie, Pfizer win broader reimbursement for oral JAK inhibitors in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31849",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.01 11:09",
-          "new": false
-        },
-        {
-          "title": "[Column] Where is AI taking hospitals?",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31848",
-          "category": "Opinion",
-          "author": "Choi Soo-young",
-          "date": "06.01 10:36",
-          "new": false
-        },
-        {
-          "title": "Korea and UK race on hantavirus shots as Andes coverage stays in doubt",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31847",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "05.29 20:07",
-          "new": false
-        },
-        {
-          "title": "Can Samsung’s Galaxy Watch help GLP‑1 patients keep muscle and be worth paying for?",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31846",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "05.29 18:15",
           "new": false
         }
       ]

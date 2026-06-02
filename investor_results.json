@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01 13:31:22 IST",
+  "last_updated": "2026-06-02 05:11:23 IST",
   "companies": [
     {
       "company": "Alvotech",
@@ -2009,6 +2009,15 @@
     {
       "company": "Teva",
       "investor_news": [
+        {
+          "id": "goldman-sachs-global-healthcare-conference|june-08,-2026",
+          "title": "Goldman Sachs Global Healthcare Conference",
+          "date": "June 08, 2026",
+          "url": "https://ir.tevapharm.com/Events-and-Presentations/events-and-presentations/event-details/2026/Goldman-Sachs-Global-Healthcare-Conference-2026-3gLpDIc4G7/default.aspx",
+          "webcast": "https://event.webcasts.com/starthere.jsp?ei=1764378&tp_key=c908ab3195&tp_special=8",
+          "docs": [],
+          "new": false
+        },
         {
           "id": "bofa-securities-health-care-conference|may-12,-2026",
           "title": "BofA Securities Health Care Conference",

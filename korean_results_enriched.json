@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-06-01 13:30:03 IST",
+  "last_updated": "2026-06-02 05:10:02 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "CGBio launches 2nd filler brand in China through UPS BIO partnership",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31874",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "06.02 13:21",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Daewoong partners with Chime Biologics on Dupixent biosimilar",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31873",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.02 13:14",
+          "new": false,
+          "tag": "Pipeline"
+        },
         {
           "title": "Samsung creates ₩200 bil. fund to invest in global biotech ventures",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31866",
@@ -48,24 +66,6 @@
           "date": "06.01 15:41",
           "new": false,
           "tag": "FDA Approval"
-        },
-        {
-          "title": "[ASCO 2026] Korea’s 1st approved advanced cell therapy shows potential in rare lymphoma",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31851",
-          "category": "Bio",
-          "author": "Kim Yun-mi",
-          "date": "06.01 11:41",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Lilly bets $1.26 billion on Hanmi's long-acting GLP-2 drug for short bowel syndrome",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31850",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.01 11:34",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }
