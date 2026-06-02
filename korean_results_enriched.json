@@ -1,17 +1,53 @@
 {
-  "last_updated": "2026-06-02 05:10:02 IST",
+  "last_updated": "2026-06-02 11:55:02 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "CGBio launches 2nd filler brand in China through UPS BIO partnership",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31874",
+          "title": "[Interview] 'First-line esophageal cancer treatment has changed since immunotherapy reimbursement'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31880",
+          "category": "Hospital",
+          "author": "Hong Sook",
+          "date": "06.02 15:35",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "[ASCO 2026] Daraxonrasib emerges as the star of ASCO 2026 by winning a standing ovation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31879",
+          "category": "Pharma",
+          "author": "Kim Yun-mi",
+          "date": "06.02 15:31",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Oscotec’s cevidoplenib licensing deal puts spotlight on 1st-line ITP expansion potential",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31877",
           "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.02 13:21",
+          "author": "Hong Sook",
+          "date": "06.02 13:57",
           "new": false,
           "tag": "Collaboration"
+        },
+        {
+          "title": "ImmuneOncia reports 75% disease control rate for IMC-002 combo in TNBC at ASCO",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31876",
+          "category": "Pharma",
+          "author": "Hong Sook",
+          "date": "06.02 13:46",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "FutureChem to raise ₩40 billion through rights offering to speed up global expansion",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31875",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "06.02 13:43",
+          "new": false,
+          "tag": "Financial"
         },
         {
           "title": "Daewoong partners with Chime Biologics on Dupixent biosimilar",
@@ -20,7 +56,52 @@
           "author": "Lee Han-soo",
           "date": "06.02 13:14",
           "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Onconic files Jaqbo NDA in India after phase 3 success in erosive GERD",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31871",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.02 11:32",
+          "new": false,
           "tag": "Pipeline"
+        },
+        {
+          "title": "CEPI backs Moderna, IAVI, Oxford vaccines amid growing Bundibugyo Ebola outbreak",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31870",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.02 11:00",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Boryung completes Sanofi Taxotere takeover, launches global oncology biz",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31869",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "06.02 10:50",
+          "new": false,
+          "tag": "Acquisition"
+        },
+        {
+          "title": "OliX raises ₩110 bil. from L'Oréal venture fund and Weiss Asset Management",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31868",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "06.02 09:56",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "SK bioscience wins 1st UNICEF influenza vaccine contract",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31867",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "06.02 09:28",
+          "new": false,
+          "tag": "Collaboration"
         },
         {
           "title": "Samsung creates ₩200 bil. fund to invest in global biotech ventures",
@@ -29,43 +110,16 @@
           "author": "Lee Han-soo",
           "date": "06.01 17:31",
           "new": false,
-          "tag": "Other"
+          "tag": "Financial"
         },
         {
-          "title": "Celltrion files for approval of Cosentyx biosimilar, CT-P55, in Canada",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31863",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.01 15:57",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Samsung Bioepis, Samsung Medical Center partner on AI-driven drug research",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31858",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.01 15:54",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Daewoong promotes Baroezet as treatment option for low- to moderate-risk dyslipidemia patients",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31862",
+          "title": "Lilly Korea to launch higher-dose Mounjaro pens on June 10",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31865",
           "category": "Pharma",
           "author": "Lee Han-soo",
-          "date": "06.01 15:51",
+          "date": "06.01 16:52",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Helixmith platform-based gene therapy wins 1st Chinese approval for non-viral DNA treatment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31861",
-          "category": "Bio",
-          "author": "Park Gi-taek",
-          "date": "06.01 15:41",
-          "new": false,
-          "tag": "FDA Approval"
         }
       ]
     }

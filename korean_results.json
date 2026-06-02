@@ -1,9 +1,57 @@
 {
-  "last_updated": "2026-06-02 05:10:02 IST",
+  "last_updated": "2026-06-02 11:55:02 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Ewha Seoul Hospital strengthens pediatric emergency care as Korea's care gap widens",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31883",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "06.02 17:33",
+          "new": false
+        },
+        {
+          "title": "Health ministry to sharply raise delivery, NICU fees for maternal care centers",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31882",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "06.02 16:04",
+          "new": false
+        },
+        {
+          "title": "Foreign spending on liposuction at 365mc doubles as demand for body contouring rises",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31881",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "06.02 16:00",
+          "new": false
+        },
+        {
+          "title": "[Interview] 'First-line esophageal cancer treatment has changed since immunotherapy reimbursement'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31880",
+          "category": "Hospital",
+          "author": "Hong Sook",
+          "date": "06.02 15:35",
+          "new": false
+        },
+        {
+          "title": "[ASCO 2026] Daraxonrasib emerges as the star of ASCO 2026 by winning a standing ovation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31879",
+          "category": "Pharma",
+          "author": "Kim Yun-mi",
+          "date": "06.02 15:31",
+          "new": false
+        },
+        {
+          "title": "[Interview] Why natural rejuvenation is replacing the era of ‘filler face’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31878",
+          "category": "K-Beauty",
+          "author": "Park Gi-taek",
+          "date": "06.02 15:05",
+          "new": false
+        },
         {
           "title": "Oscotec’s cevidoplenib licensing deal puts spotlight on 1st-line ITP expansion potential",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31877",
@@ -114,54 +162,6 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "06.01 16:05",
-          "new": false
-        },
-        {
-          "title": "Celltrion files for approval of Cosentyx biosimilar, CT-P55, in Canada",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31863",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.01 15:57",
-          "new": false
-        },
-        {
-          "title": "Samsung Bioepis, Samsung Medical Center partner on AI-driven drug research",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31858",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.01 15:54",
-          "new": false
-        },
-        {
-          "title": "Daewoong promotes Baroezet as treatment option for low- to moderate-risk dyslipidemia patients",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31862",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.01 15:51",
-          "new": false
-        },
-        {
-          "title": "Helixmith platform-based gene therapy wins 1st Chinese approval for non-viral DNA treatment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31861",
-          "category": "Bio",
-          "author": "Park Gi-taek",
-          "date": "06.01 15:41",
-          "new": false
-        },
-        {
-          "title": "NEXT BIOMEDICAL taps Terumo Europe to distribute Nexsphere-F in EMEA markets",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31860",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "06.01 15:13",
-          "new": false
-        },
-        {
-          "title": "Olympus Korea holds ‘Going-on Walk’ environmental campaign with cancer survivors during Cancer Survivors Week",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31857",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "06.01 15:07",
           "new": false
         }
       ]
