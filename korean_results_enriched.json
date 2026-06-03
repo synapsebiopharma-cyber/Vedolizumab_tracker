@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03 05:34:23 IST",
+  "last_updated": "2026-06-03 12:25:35 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
@@ -39,6 +39,15 @@
           "date": "06.02 13:46",
           "new": false,
           "tag": "Clinical Trial"
+        },
+        {
+          "title": "FutureChem to raise ₩40 billion through rights offering to speed up global expansion",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31875",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "06.02 13:43",
+          "new": false,
+          "tag": "Financial"
         },
         {
           "title": "Daewoong partners with Chime Biologics on Dupixent biosimilar",
@@ -83,7 +92,16 @@
           "author": "Lee Han-soo",
           "date": "06.02 09:28",
           "new": false,
-          "tag": "Collaboration"
+          "tag": "Other"
+        },
+        {
+          "title": "Samsung creates ₩200 bil. fund to invest in global biotech ventures",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31866",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "06.01 17:31",
+          "new": false,
+          "tag": "Financial"
         },
         {
           "title": "Lilly Korea to launch higher-dose Mounjaro pens on June 10",
@@ -91,15 +109,6 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "06.01 16:52",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "BMS Korea invites applicants for 2026 Seoul-BMS Innovation Challenge",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31864",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.01 16:05",
           "new": false,
           "tag": "Other"
         }
