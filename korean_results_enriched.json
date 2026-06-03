@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02 11:55:02 IST",
+  "last_updated": "2026-06-03 05:34:23 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
@@ -41,15 +41,6 @@
           "tag": "Clinical Trial"
         },
         {
-          "title": "FutureChem to raise ₩40 billion through rights offering to speed up global expansion",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31875",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "06.02 13:43",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
           "title": "Daewoong partners with Chime Biologics on Dupixent biosimilar",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31873",
           "category": "Pharma",
@@ -65,7 +56,7 @@
           "author": "Lee Han-soo",
           "date": "06.02 11:32",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "FDA Approval"
         },
         {
           "title": "CEPI backs Moderna, IAVI, Oxford vaccines amid growing Bundibugyo Ebola outbreak",
@@ -86,15 +77,6 @@
           "tag": "Acquisition"
         },
         {
-          "title": "OliX raises ₩110 bil. from L'Oréal venture fund and Weiss Asset Management",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31868",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "06.02 09:56",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
           "title": "SK bioscience wins 1st UNICEF influenza vaccine contract",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31867",
           "category": "Bio",
@@ -104,20 +86,20 @@
           "tag": "Collaboration"
         },
         {
-          "title": "Samsung creates ₩200 bil. fund to invest in global biotech ventures",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31866",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.01 17:31",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
           "title": "Lilly Korea to launch higher-dose Mounjaro pens on June 10",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31865",
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "06.01 16:52",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "BMS Korea invites applicants for 2026 Seoul-BMS Innovation Challenge",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31864",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.01 16:05",
           "new": false,
           "tag": "Other"
         }

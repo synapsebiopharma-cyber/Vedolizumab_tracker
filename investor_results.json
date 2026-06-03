@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02 11:56:11 IST",
+  "last_updated": "2026-06-03 05:35:57 IST",
   "companies": [
     {
       "company": "Alvotech",
@@ -61,6 +61,45 @@
           "date": "August 19, 2026",
           "time": "",
           "webcast": null,
+          "docs": [],
+          "new": false
+        },
+        {
+          "id": "ubs-virtual-generics-and-biosimilars-day|june-10,-2026",
+          "title": "UBS Virtual Generics and Biosimilars Day",
+          "url": "https://investors.alvotech.com/events/event-details/ubs-virtual-generics-and-biosimilars-day",
+          "date": "June 10, 2026",
+          "time": "at 10:30 AM EDT",
+          "webcast": {
+            "text": "Registration for webcast (by invitation from UBS)",
+            "url": "https://ubs-2026-virtual-generics-biosimilars-day-jun-2026.open-exchange.net/registration"
+          },
+          "docs": [],
+          "new": false
+        },
+        {
+          "id": "goldman-sachs-47th-annual-global-healthcare-conference-miami-2026|june-8,-2026",
+          "title": "Goldman Sachs 47th Annual Global Healthcare Conference Miami 2026",
+          "url": "https://investors.alvotech.com/events/event-details/goldman-sachs-47th-annual-global-healthcare-conference-miami-2026",
+          "date": "June 8, 2026",
+          "time": "at 8:40 AM EDT",
+          "webcast": {
+            "text": "Register to listen to webcast",
+            "url": "https://event.webcasts.com/starthere.jsp?ei=1764664&tp_key=7f027f021b&tp_special=8"
+          },
+          "docs": [],
+          "new": false
+        },
+        {
+          "id": "jefferies-global-healthcare-conference-new-york-2026|june-4,-2026",
+          "title": "Jefferies Global Healthcare Conference New York 2026",
+          "url": "https://investors.alvotech.com/events/event-details/jefferies-global-healthcare-conference-new-york-2026",
+          "date": "June 4, 2026",
+          "time": "at 9:20 AM EDT",
+          "webcast": {
+            "text": "Register to listen to webcast",
+            "url": "https://event.summitcast.com/view/NgCqua4VVQjq9ibVWHVWca/J8Zz2Ao8fpMx999M3PVZdx"
+          },
           "docs": [],
           "new": false
         },
