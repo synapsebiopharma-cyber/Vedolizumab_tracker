@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-06-04 05:21:17 IST",
+  "last_updated": "2026-06-04 10:52:58 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "NCC launches AI project to predict drug efficacy before clinical testing",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31904",
+          "category": "Hospital",
+          "author": "Kim Ji-hye",
+          "date": "06.04 17:24",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "After $665 mil. Agios deal, Oscotec maps 2028 phase 3 path for blood disorder drug",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31902",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.04 17:13",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "'PDRN injection improves outcomes in surgery for Crohn’s disease-related anal fistulas'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31901",
+          "category": "Hospital",
+          "author": "Kwak Sung-sun",
+          "date": "06.04 16:50",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Beyond weight loss: Korean drugmakers to showcase obesity innovation at ADA 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31899",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.04 16:15",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Samjin adds 3mg donepezil option to Alzheimer’s treatment lineup",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31895",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.04 14:53",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "MFDS designates 3 cancer and anesthesia drugs as essential medicines",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31888",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "06.04 14:27",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "KRIBB team finds way to reverse chemotherapy resistance in colorectal cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31887",
+          "category": "Life science",
+          "author": "Lee Han-soo",
+          "date": "06.04 14:21",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "After MASH phase 2 win, D&D Pharmatech founders commit to 2027 lock-up",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31891",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.04 14:12",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "J&J Innovative Medicine Korea wins reimbursement for Darzalex SC regimen in newly diagnosed AL amyloidosis",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31893",
@@ -11,7 +83,7 @@
           "author": "Lee Han-soo",
           "date": "06.04 14:07",
           "new": false,
-          "tag": "Other"
+          "tag": "Financial"
         },
         {
           "title": "Daewoong’s Envlo advances in 1st head-to-head SGLT-2 inhibitor trial",
@@ -47,79 +119,7 @@
           "author": "Lee Han-soo",
           "date": "06.04 10:32",
           "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "[Interview] 'First-line esophageal cancer treatment has changed since immunotherapy reimbursement'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31880",
-          "category": "Hospital",
-          "author": "Hong Sook",
-          "date": "06.02 15:35",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "[ASCO 2026] Daraxonrasib emerges as the star of ASCO 2026 by winning a standing ovation",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31879",
-          "category": "Pharma",
-          "author": "Kim Yun-mi",
-          "date": "06.02 15:31",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Oscotec’s cevidoplenib licensing deal puts spotlight on 1st-line ITP expansion potential",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31877",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "06.02 13:57",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "ImmuneOncia reports 75% disease control rate for IMC-002 combo in TNBC at ASCO",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31876",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "06.02 13:46",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "CGBio launches 2nd filler brand in China through UPS BIO partnership",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31874",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.02 13:21",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Daewoong partners with Chime Biologics on Dupixent biosimilar",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31873",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.02 13:14",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Onconic files Jaqbo NDA in India after phase 3 success in erosive GERD",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31871",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.02 11:32",
-          "new": false,
           "tag": "Pipeline"
-        },
-        {
-          "title": "CEPI backs Moderna, IAVI, Oxford vaccines amid growing Bundibugyo Ebola outbreak",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31870",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.02 11:00",
-          "new": false,
-          "tag": "Collaboration"
         }
       ]
     }
