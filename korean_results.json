@@ -1,9 +1,57 @@
 {
-  "last_updated": "2026-06-04 10:52:58 IST",
+  "last_updated": "2026-06-05 04:57:19 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "AriBio’s AR1001 deal with Fosun reflects demand for a global oral Alzheimer’s therapy option",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31906",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "06.05 13:53",
+          "new": false
+        },
+        {
+          "title": "Boryung publishes 2026 Sustainability Report, highlights ESG progress",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31911",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.05 13:50",
+          "new": false
+        },
+        {
+          "title": "Doctors urge cutting traditional medicine benefits, redirecting funds to essential care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31908",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "06.05 11:49",
+          "new": false
+        },
+        {
+          "title": "FutureChem ends Curium Austria deal to regain European prostate cancer imaging rights",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31909",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.05 11:41",
+          "new": false
+        },
+        {
+          "title": "Korean to lead international standards for secondary use of genomic data",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31907",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "06.05 11:14",
+          "new": false
+        },
+        {
+          "title": "Vyloy, Fintepla and Rybrevant move closer to reimbursement after passing HIRA review",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31905",
+          "category": "Policy",
+          "author": "You Ji-young",
+          "date": "06.05 10:57",
+          "new": false
+        },
         {
           "title": "NCC launches AI project to predict drug efficacy before clinical testing",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31904",
@@ -114,54 +162,6 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "06.04 14:07",
-          "new": false
-        },
-        {
-          "title": "Daewoong’s Envlo advances in 1st head-to-head SGLT-2 inhibitor trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31884",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.04 14:04",
-          "new": false
-        },
-        {
-          "title": "ENCell wins US clinical manufacturing contract for Ingenium’s NK cell therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31886",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.04 11:17",
-          "new": false
-        },
-        {
-          "title": "C&R Research lands US pivotal trial for Korea’s 1st insomnia DTx",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31885",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.04 10:40",
-          "new": false
-        },
-        {
-          "title": "LigaChem's partner SOTIO wins FDA orphan drug status for osteosarcoma ADC",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31889",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.04 10:32",
-          "new": false
-        },
-        {
-          "title": "Ewha Seoul Hospital strengthens pediatric emergency care as Korea's care gap widens",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31883",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "06.02 17:33",
-          "new": false
-        },
-        {
-          "title": "Health ministry to sharply raise delivery, NICU fees for maternal care centers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31882",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "06.02 16:04",
           "new": false
         }
       ]

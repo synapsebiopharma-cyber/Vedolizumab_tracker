@@ -1,17 +1,35 @@
 {
-  "last_updated": "2026-06-04 10:52:58 IST",
+  "last_updated": "2026-06-05 04:57:19 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "NCC launches AI project to predict drug efficacy before clinical testing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31904",
-          "category": "Hospital",
-          "author": "Kim Ji-hye",
-          "date": "06.04 17:24",
+          "title": "AriBio’s AR1001 deal with Fosun reflects demand for a global oral Alzheimer’s therapy option",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31906",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "06.05 13:53",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Collaboration"
+        },
+        {
+          "title": "FutureChem ends Curium Austria deal to regain European prostate cancer imaging rights",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31909",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.05 11:41",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Vyloy, Fintepla and Rybrevant move closer to reimbursement after passing HIRA review",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31905",
+          "category": "Policy",
+          "author": "You Ji-young",
+          "date": "06.05 10:57",
+          "new": false,
+          "tag": "FDA Approval"
         },
         {
           "title": "After $665 mil. Agios deal, Oscotec maps 2028 phase 3 path for blood disorder drug",
@@ -20,16 +38,7 @@
           "author": "Kim Ji-hye",
           "date": "06.04 17:13",
           "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "'PDRN injection improves outcomes in surgery for Crohn’s disease-related anal fistulas'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31901",
-          "category": "Hospital",
-          "author": "Kwak Sung-sun",
-          "date": "06.04 16:50",
-          "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Acquisition"
         },
         {
           "title": "Beyond weight loss: Korean drugmakers to showcase obesity innovation at ADA 2026",
@@ -47,7 +56,7 @@
           "author": "Kim Ji-hye",
           "date": "06.04 14:53",
           "new": false,
-          "tag": "Other"
+          "tag": "Pipeline"
         },
         {
           "title": "MFDS designates 3 cancer and anesthesia drugs as essential medicines",
@@ -56,16 +65,7 @@
           "author": "Kim Ji-hye",
           "date": "06.04 14:27",
           "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "KRIBB team finds way to reverse chemotherapy resistance in colorectal cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31887",
-          "category": "Life science",
-          "author": "Lee Han-soo",
-          "date": "06.04 14:21",
-          "new": false,
-          "tag": "Pipeline"
+          "tag": "FDA Approval"
         },
         {
           "title": "After MASH phase 2 win, D&D Pharmatech founders commit to 2027 lock-up",
@@ -83,43 +83,7 @@
           "author": "Lee Han-soo",
           "date": "06.04 14:07",
           "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Daewoong’s Envlo advances in 1st head-to-head SGLT-2 inhibitor trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31884",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.04 14:04",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "ENCell wins US clinical manufacturing contract for Ingenium’s NK cell therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31886",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.04 11:17",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "C&R Research lands US pivotal trial for Korea’s 1st insomnia DTx",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31885",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.04 10:40",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "LigaChem's partner SOTIO wins FDA orphan drug status for osteosarcoma ADC",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31889",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.04 10:32",
-          "new": false,
-          "tag": "Pipeline"
+          "tag": "FDA Approval"
         }
       ]
     }
