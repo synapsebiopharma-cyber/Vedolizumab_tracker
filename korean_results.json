@@ -1,9 +1,97 @@
 {
-  "last_updated": "2026-06-05 04:57:19 IST",
+  "last_updated": "2026-06-05 11:10:43 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "AriBio joins Lilly TuneLab to advance AI-driven neuroscience research",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31922",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "06.05 17:15",
+          "new": false
+        },
+        {
+          "title": "MSD’s Enflonsia approval starts 2-way race in Korea's infant RSV prevention market",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31921",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.05 16:59",
+          "new": false
+        },
+        {
+          "title": "AbClon's HLX22 completes first-patient dosing across global phase 3 regions",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31920",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.05 16:10",
+          "new": false
+        },
+        {
+          "title": "Lotte's biotech CVC turns to Korea for first time as Japan's pharma pipelines thin",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31917",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.05 15:50",
+          "new": false
+        },
+        {
+          "title": "Kyung Hee University Medical Center opens pediatric obesity clinic",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31919",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "06.05 15:22",
+          "new": false
+        },
+        {
+          "title": "Researchers identify new compound targeting drug-resistant metastatic cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31918",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.05 15:13",
+          "new": false
+        },
+        {
+          "title": "MEDIPOST cuts US Cartistem trial size after FDA backs single-study approval strategy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31916",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.05 15:04",
+          "new": false
+        },
+        {
+          "title": "MFDS rejects Genexine's Efesa application, company plans resubmission",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31914",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.05 15:02",
+          "new": false
+        },
+        {
+          "title": "Coreline Soft gains visibility in European comparison of lung cancer screening AI tools",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31915",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "06.05 14:53",
+          "new": false
+        },
+        {
+          "title": "EuBiologics-backed Pop Bio wins $9.7 mil. CEPI funding for avian flu vaccine platform",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31913",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.05 14:14",
+          "new": false
+        },
+        {
+          "title": "[Contribution] Why ursodeoxycholic acid may help prevent gallstones after gastric cancer surgery",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31912",
+          "category": "Opinion",
+          "author": "Song Kyo-young",
+          "date": "06.05 14:06",
+          "new": false
+        },
         {
           "title": "AriBio’s AR1001 deal with Fosun reflects demand for a global oral Alzheimer’s therapy option",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31906",
@@ -74,94 +162,6 @@
           "category": "Bio",
           "author": "Kim Ji-hye",
           "date": "06.04 17:13",
-          "new": false
-        },
-        {
-          "title": "'PDRN injection improves outcomes in surgery for Crohn’s disease-related anal fistulas'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31901",
-          "category": "Hospital",
-          "author": "Kwak Sung-sun",
-          "date": "06.04 16:50",
-          "new": false
-        },
-        {
-          "title": "Ajou saves end-stage heart failure patient with LVAD implantation",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31900",
-          "category": "Hospital",
-          "author": "Kwak Sung-sun",
-          "date": "06.04 16:20",
-          "new": false
-        },
-        {
-          "title": "Beyond weight loss: Korean drugmakers to showcase obesity innovation at ADA 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31899",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.04 16:15",
-          "new": false
-        },
-        {
-          "title": "AI communication agent targets hidden frustrations in pediatric ERs",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31898",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "06.04 15:40",
-          "new": false
-        },
-        {
-          "title": "Physician mayor Shin Sang-jin, nurse mayor Kim Bo-ra win re-election in local polls",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31897",
-          "category": "Policy",
-          "author": "Kim Eun-young",
-          "date": "06.04 15:27",
-          "new": false
-        },
-        {
-          "title": "Korea to broaden life-sustaining treatment decisions beyond end-of-life stage",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31896",
-          "category": "Policy",
-          "author": "Kim Jung-hyun",
-          "date": "06.04 15:11",
-          "new": false
-        },
-        {
-          "title": "Samjin adds 3mg donepezil option to Alzheimer’s treatment lineup",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31895",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.04 14:53",
-          "new": false
-        },
-        {
-          "title": "MFDS designates 3 cancer and anesthesia drugs as essential medicines",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31888",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "06.04 14:27",
-          "new": false
-        },
-        {
-          "title": "KRIBB team finds way to reverse chemotherapy resistance in colorectal cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31887",
-          "category": "Life science",
-          "author": "Lee Han-soo",
-          "date": "06.04 14:21",
-          "new": false
-        },
-        {
-          "title": "After MASH phase 2 win, D&D Pharmatech founders commit to 2027 lock-up",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31891",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.04 14:12",
-          "new": false
-        },
-        {
-          "title": "J&J Innovative Medicine Korea wins reimbursement for Darzalex SC regimen in newly diagnosed AL amyloidosis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31893",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.04 14:07",
           "new": false
         }
       ]

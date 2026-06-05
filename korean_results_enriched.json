@@ -1,9 +1,72 @@
 {
-  "last_updated": "2026-06-05 04:57:19 IST",
+  "last_updated": "2026-06-05 11:10:43 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "AriBio joins Lilly TuneLab to advance AI-driven neuroscience research",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31922",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "06.05 17:15",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "MSD’s Enflonsia approval starts 2-way race in Korea's infant RSV prevention market",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31921",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.05 16:59",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "AbClon's HLX22 completes first-patient dosing across global phase 3 regions",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31920",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.05 16:10",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Lotte's biotech CVC turns to Korea for first time as Japan's pharma pipelines thin",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31917",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.05 15:50",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "MEDIPOST cuts US Cartistem trial size after FDA backs single-study approval strategy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31916",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.05 15:04",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "MFDS rejects Genexine's Efesa application, company plans resubmission",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31914",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.05 15:02",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "EuBiologics-backed Pop Bio wins $9.7 mil. CEPI funding for avian flu vaccine platform",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31913",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.05 14:14",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "AriBio’s AR1001 deal with Fosun reflects demand for a global oral Alzheimer’s therapy option",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31906",
@@ -29,7 +92,7 @@
           "author": "You Ji-young",
           "date": "06.05 10:57",
           "new": false,
-          "tag": "FDA Approval"
+          "tag": "Other"
         },
         {
           "title": "After $665 mil. Agios deal, Oscotec maps 2028 phase 3 path for blood disorder drug",
@@ -38,52 +101,7 @@
           "author": "Kim Ji-hye",
           "date": "06.04 17:13",
           "new": false,
-          "tag": "Acquisition"
-        },
-        {
-          "title": "Beyond weight loss: Korean drugmakers to showcase obesity innovation at ADA 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31899",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.04 16:15",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Samjin adds 3mg donepezil option to Alzheimer’s treatment lineup",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31895",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.04 14:53",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "MFDS designates 3 cancer and anesthesia drugs as essential medicines",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31888",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "06.04 14:27",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "After MASH phase 2 win, D&D Pharmatech founders commit to 2027 lock-up",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31891",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.04 14:12",
-          "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "J&J Innovative Medicine Korea wins reimbursement for Darzalex SC regimen in newly diagnosed AL amyloidosis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31893",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.04 14:07",
-          "new": false,
-          "tag": "FDA Approval"
         }
       ]
     }
