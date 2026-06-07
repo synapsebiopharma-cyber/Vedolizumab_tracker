@@ -1,18 +1,9 @@
 {
-  "last_updated": "2026-06-06 04:37:58 IST",
+  "last_updated": "2026-06-07 05:13:08 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
-        {
-          "title": "AriBio joins Lilly TuneLab to advance AI-driven neuroscience research",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31922",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.05 17:15",
-          "new": false,
-          "tag": "Collaboration"
-        },
         {
           "title": "MSD’s Enflonsia approval starts 2-way race in Korea's infant RSV prevention market",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31921",
@@ -21,15 +12,6 @@
           "date": "06.05 16:59",
           "new": false,
           "tag": "FDA Approval"
-        },
-        {
-          "title": "AbClon's HLX22 completes first-patient dosing across global phase 3 regions",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31920",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.05 16:10",
-          "new": false,
-          "tag": "Clinical Trial"
         },
         {
           "title": "Lotte's biotech CVC turns to Korea for first time as Japan's pharma pipelines thin",
@@ -47,7 +29,7 @@
           "author": "Lee Han-soo",
           "date": "06.05 15:13",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Other"
         },
         {
           "title": "MEDIPOST cuts US Cartistem trial size after FDA backs single-study approval strategy",
@@ -56,25 +38,7 @@
           "author": "Kim Ji-hye",
           "date": "06.05 15:04",
           "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "MFDS rejects Genexine's Efesa application, company plans resubmission",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31914",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.05 15:02",
-          "new": false,
           "tag": "FDA Approval"
-        },
-        {
-          "title": "EuBiologics-backed Pop Bio wins $9.7 mil. CEPI funding for avian flu vaccine platform",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31913",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.05 14:14",
-          "new": false,
-          "tag": "Collaboration"
         },
         {
           "title": "AriBio’s AR1001 deal with Fosun reflects demand for a global oral Alzheimer’s therapy option",
@@ -83,25 +47,16 @@
           "author": "Hong Sook",
           "date": "06.05 13:53",
           "new": false,
-          "tag": "Collaboration"
+          "tag": "Other"
         },
         {
-          "title": "FutureChem ends Curium Austria deal to regain European prostate cancer imaging rights",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31909",
-          "category": "Bio",
+          "title": "NCC launches AI project to predict drug efficacy before clinical testing",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31904",
+          "category": "Hospital",
           "author": "Kim Ji-hye",
-          "date": "06.05 11:41",
+          "date": "06.04 17:24",
           "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Vyloy, Fintepla and Rybrevant move closer to reimbursement after passing HIRA review",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31905",
-          "category": "Policy",
-          "author": "You Ji-young",
-          "date": "06.05 10:57",
-          "new": false,
-          "tag": "FDA Approval"
+          "tag": "Other"
         },
         {
           "title": "After $665 mil. Agios deal, Oscotec maps 2028 phase 3 path for blood disorder drug",
@@ -110,7 +65,7 @@
           "author": "Kim Ji-hye",
           "date": "06.04 17:13",
           "new": false,
-          "tag": "Acquisition"
+          "tag": "Clinical Trial"
         }
       ]
     }
