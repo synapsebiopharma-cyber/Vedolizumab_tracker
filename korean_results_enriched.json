@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-06-07 10:15:58 IST",
+  "last_updated": "2026-06-08 05:14:35 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea United Pharm wins approval for mixed dyslipidemia drug Fenoduo",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31929",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "06.08 14:04",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "SK biopharmaceuticals launches US innovation hub to help Korean biotechs scale globally",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31927",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.08 13:03",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "ABL Bio to spotlight bispecific ADC ABL209 at World ADC Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31925",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.08 11:09",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "AriBio joins Lilly TuneLab to advance AI-driven neuroscience research",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31922",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "06.05 17:15",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "MSD’s Enflonsia approval starts 2-way race in Korea's infant RSV prevention market",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31921",
@@ -12,6 +48,15 @@
           "date": "06.05 16:59",
           "new": false,
           "tag": "FDA Approval"
+        },
+        {
+          "title": "AbClon's HLX22 completes first-patient dosing across global phase 3 regions",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31920",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.05 16:10",
+          "new": false,
+          "tag": "Clinical Trial"
         },
         {
           "title": "Lotte's biotech CVC turns to Korea for first time as Japan's pharma pipelines thin",
@@ -23,22 +68,31 @@
           "tag": "Other"
         },
         {
-          "title": "Researchers identify new compound targeting drug-resistant metastatic cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31918",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.05 15:13",
-          "new": false,
-          "tag": "Other"
-        },
-        {
           "title": "MEDIPOST cuts US Cartistem trial size after FDA backs single-study approval strategy",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31916",
           "category": "Bio",
           "author": "Kim Ji-hye",
           "date": "06.05 15:04",
           "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "MFDS rejects Genexine's Efesa application, company plans resubmission",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31914",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.05 15:02",
+          "new": false,
           "tag": "FDA Approval"
+        },
+        {
+          "title": "EuBiologics-backed Pop Bio wins $9.7 mil. CEPI funding for avian flu vaccine platform",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31913",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.05 14:14",
+          "new": false,
+          "tag": "Financial"
         },
         {
           "title": "AriBio’s AR1001 deal with Fosun reflects demand for a global oral Alzheimer’s therapy option",
@@ -47,25 +101,7 @@
           "author": "Hong Sook",
           "date": "06.05 13:53",
           "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "NCC launches AI project to predict drug efficacy before clinical testing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31904",
-          "category": "Hospital",
-          "author": "Kim Ji-hye",
-          "date": "06.04 17:24",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "After $665 mil. Agios deal, Oscotec maps 2028 phase 3 path for blood disorder drug",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31902",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.04 17:13",
-          "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Collaboration"
         }
       ]
     }
