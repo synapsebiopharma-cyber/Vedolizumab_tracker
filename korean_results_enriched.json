@@ -1,9 +1,63 @@
 {
-  "last_updated": "2026-06-08 05:14:35 IST",
+  "last_updated": "2026-06-08 12:19:48 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Roche Korea picks 4 Korean biotech firms for K-Swiss BioPass program",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31939",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.08 17:31",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Inventage Lab presents ADA data on long-acting semaglutide, tirzepatide obesity therapies",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31938",
+          "category": "Pharma",
+          "author": "Hong Sook",
+          "date": "06.08 16:49",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Dong-A ST presents data showing Dapapro matches Forxiga across key clinical measures",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31937",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.08 16:42",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Should Besremi treatment stop if responses come later?",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31935",
+          "category": "Hospital",
+          "author": "Kim Yun-mi",
+          "date": "06.08 16:38",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Daewoong’s Envlo shows consistent glucose-lowering effect across Korean, Chinese patients",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31936",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.08 16:28",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Patient group calls faster rare disease drug reimbursement process a 'meaningful start'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31933",
+          "category": "People",
+          "author": "Kim Jung-hyun",
+          "date": "06.08 14:46",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Korea United Pharm wins approval for mixed dyslipidemia drug Fenoduo",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31929",
@@ -14,13 +68,22 @@
           "tag": "FDA Approval"
         },
         {
+          "title": "[Column] Mounjaro's reimbursement failure: Whose responsibility is it?",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31928",
+          "category": "Opinion",
+          "author": "Kim Sin-gon",
+          "date": "06.08 14:02",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
           "title": "SK biopharmaceuticals launches US innovation hub to help Korean biotechs scale globally",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31927",
           "category": "Bio",
           "author": "Kim Ji-hye",
           "date": "06.08 13:03",
           "new": false,
-          "tag": "Other"
+          "tag": "Collaboration"
         },
         {
           "title": "ABL Bio to spotlight bispecific ADC ABL209 at World ADC Korea",
@@ -57,51 +120,6 @@
           "date": "06.05 16:10",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "Lotte's biotech CVC turns to Korea for first time as Japan's pharma pipelines thin",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31917",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.05 15:50",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "MEDIPOST cuts US Cartistem trial size after FDA backs single-study approval strategy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31916",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.05 15:04",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "MFDS rejects Genexine's Efesa application, company plans resubmission",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31914",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.05 15:02",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "EuBiologics-backed Pop Bio wins $9.7 mil. CEPI funding for avian flu vaccine platform",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31913",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.05 14:14",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "AriBio’s AR1001 deal with Fosun reflects demand for a global oral Alzheimer’s therapy option",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31906",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "06.05 13:53",
-          "new": false,
-          "tag": "Collaboration"
         }
       ]
     }

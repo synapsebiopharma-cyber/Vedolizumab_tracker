@@ -1,9 +1,89 @@
 {
-  "last_updated": "2026-06-08 05:14:35 IST",
+  "last_updated": "2026-06-08 12:19:48 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Roche Korea picks 4 Korean biotech firms for K-Swiss BioPass program",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31939",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.08 17:31",
+          "new": false
+        },
+        {
+          "title": "Inventage Lab presents ADA data on long-acting semaglutide, tirzepatide obesity therapies",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31938",
+          "category": "Pharma",
+          "author": "Hong Sook",
+          "date": "06.08 16:49",
+          "new": false
+        },
+        {
+          "title": "Dong-A ST presents data showing Dapapro matches Forxiga across key clinical measures",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31937",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.08 16:42",
+          "new": false
+        },
+        {
+          "title": "Should Besremi treatment stop if responses come later?",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31935",
+          "category": "Hospital",
+          "author": "Kim Yun-mi",
+          "date": "06.08 16:38",
+          "new": false
+        },
+        {
+          "title": "Daewoong’s Envlo shows consistent glucose-lowering effect across Korean, Chinese patients",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31936",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.08 16:28",
+          "new": false
+        },
+        {
+          "title": "Former Samsung engineers raise $68 mil. for force-control humanoid technology",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31931",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "06.08 15:57",
+          "new": false
+        },
+        {
+          "title": "MFDS approves novel ultrasound-based device for hypertension treatment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31934",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "06.08 14:58",
+          "new": false
+        },
+        {
+          "title": "Patient group calls faster rare disease drug reimbursement process a 'meaningful start'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31933",
+          "category": "People",
+          "author": "Kim Jung-hyun",
+          "date": "06.08 14:46",
+          "new": false
+        },
+        {
+          "title": "Lunit to join Nvidia AI ecosystem meeting during Jensen Huang’s Korea visit",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31932",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "06.08 14:33",
+          "new": false
+        },
+        {
+          "title": "The gift of the dead: Why cadavers are becoming a bottleneck in medical education",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31930",
+          "category": "Hospital",
+          "author": "Song Soo-youn",
+          "date": "06.08 14:19",
+          "new": false
+        },
         {
           "title": "Korea United Pharm wins approval for mixed dyslipidemia drug Fenoduo",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31929",
@@ -82,86 +162,6 @@
           "category": "Bio",
           "author": "Kim Ji-hye",
           "date": "06.05 16:10",
-          "new": false
-        },
-        {
-          "title": "Lotte's biotech CVC turns to Korea for first time as Japan's pharma pipelines thin",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31917",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.05 15:50",
-          "new": false
-        },
-        {
-          "title": "Kyung Hee University Medical Center opens pediatric obesity clinic",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31919",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "06.05 15:22",
-          "new": false
-        },
-        {
-          "title": "Researchers identify new compound targeting drug-resistant metastatic cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31918",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.05 15:13",
-          "new": false
-        },
-        {
-          "title": "MEDIPOST cuts US Cartistem trial size after FDA backs single-study approval strategy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31916",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.05 15:04",
-          "new": false
-        },
-        {
-          "title": "MFDS rejects Genexine's Efesa application, company plans resubmission",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31914",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.05 15:02",
-          "new": false
-        },
-        {
-          "title": "Coreline Soft gains visibility in European comparison of lung cancer screening AI tools",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31915",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "06.05 14:53",
-          "new": false
-        },
-        {
-          "title": "EuBiologics-backed Pop Bio wins $9.7 mil. CEPI funding for avian flu vaccine platform",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31913",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.05 14:14",
-          "new": false
-        },
-        {
-          "title": "[Contribution] Why ursodeoxycholic acid may help prevent gallstones after gastric cancer surgery",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31912",
-          "category": "Opinion",
-          "author": "Song Kyo-young",
-          "date": "06.05 14:06",
-          "new": false
-        },
-        {
-          "title": "AriBio’s AR1001 deal with Fosun reflects demand for a global oral Alzheimer’s therapy option",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31906",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "06.05 13:53",
-          "new": false
-        },
-        {
-          "title": "Boryung publishes 2026 Sustainability Report, highlights ESG progress",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31911",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.05 13:50",
           "new": false
         }
       ]
