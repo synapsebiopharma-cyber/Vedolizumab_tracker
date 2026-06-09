@@ -1,9 +1,27 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-06-08T12:20:59Z",
-  "total_runs": 83,
-  "new_on_last_run": 0,
+  "last_fetched": "2026-06-09T04:47:09Z",
+  "total_runs": 84,
+  "new_on_last_run": 2,
   "articles": [
+    {
+      "id": "fresenius-announces-european-launch-of-pedismof®-range|june-8,-2026",
+      "title": "Fresenius announces European launch of Pedismof® range",
+      "url": "https://www.fresenius.com/node/7360",
+      "date": "June 8, 2026",
+      "source": "Fresenius Kabi",
+      "meta": "",
+      "new": true
+    },
+    {
+      "id": "fresenius-opens-innovation-center-for-medical-nutrition-in-bad-homburg|june-2,-2026",
+      "title": "Fresenius Opens Innovation Center for Medical Nutrition in Bad Homburg",
+      "url": "https://www.fresenius.com/node/7361",
+      "date": "June 2, 2026",
+      "source": "Fresenius Kabi",
+      "meta": "",
+      "new": true
+    },
     {
       "id": "ai-assistant-enhances-access-to-investor-relations-information|may-26,-2026",
       "title": "AI assistant enhances access to Investor Relations information",
@@ -63,24 +81,6 @@
       "title": "Fresenius Supervisory Board extends ahead of schedule CEO Michael Sen’s contract by five years --- Christian Pawlu to join Management Board for Fresenius Helios effective July 1, 2026",
       "url": "https://www.fresenius.com/node/7312",
       "date": "February 25, 2026",
-      "source": "Fresenius",
-      "meta": "",
-      "new": false
-    },
-    {
-      "id": "fresenius-and-phlow-partner-to-strengthen-u.s.-supply-of-essential-medicine|february-9,-2026",
-      "title": "Fresenius and Phlow Partner to Strengthen U.S. Supply of Essential Medicine",
-      "url": "https://www.fresenius.com/node/7299",
-      "date": "February 9, 2026",
-      "source": "Fresenius Kabi",
-      "meta": "Brief News",
-      "new": false
-    },
-    {
-      "id": "ai-in-healthcare:-sap-and-fresenius-accelerate-digital-healthcare-delivery|january-19,-2026",
-      "title": "AI in Healthcare: SAP and Fresenius Accelerate Digital Healthcare Delivery",
-      "url": "https://www.fresenius.com/node/7287",
-      "date": "January 19, 2026",
       "source": "Fresenius",
       "meta": "",
       "new": false
