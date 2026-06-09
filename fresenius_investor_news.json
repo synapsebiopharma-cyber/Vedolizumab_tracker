@@ -1,8 +1,8 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-06-09T04:47:09Z",
-  "total_runs": 84,
-  "new_on_last_run": 2,
+  "last_fetched": "2026-06-09T10:59:37Z",
+  "total_runs": 85,
+  "new_on_last_run": 0,
   "articles": [
     {
       "id": "fresenius-announces-european-launch-of-pedismof®-range|june-8,-2026",
@@ -11,7 +11,7 @@
       "date": "June 8, 2026",
       "source": "Fresenius Kabi",
       "meta": "",
-      "new": true
+      "new": false
     },
     {
       "id": "fresenius-opens-innovation-center-for-medical-nutrition-in-bad-homburg|june-2,-2026",
@@ -20,7 +20,7 @@
       "date": "June 2, 2026",
       "source": "Fresenius Kabi",
       "meta": "",
-      "new": true
+      "new": false
     },
     {
       "id": "ai-assistant-enhances-access-to-investor-relations-information|may-26,-2026",

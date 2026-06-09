@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-06-09 04:45:58 IST",
+  "last_updated": "2026-06-09 10:58:25 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Blood test may pinpoint best time to start Alzheimer’s treatment: study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31956",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "06.09 15:47",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "AprilBio to pitch REMAP platform at BIO 2026 as licensed assets show clinical progress",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31951",
@@ -21,51 +30,6 @@
           "date": "06.08 17:31",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Dong-A ST presents data showing Dapapro matches Forxiga across key clinical measures",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31937",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.08 16:42",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Should Besremi treatment stop if responses come later?",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31935",
-          "category": "Hospital",
-          "author": "Kim Yun-mi",
-          "date": "06.08 16:38",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "MFDS approves novel ultrasound-based device for hypertension treatment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31934",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "06.08 14:58",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Patient group calls faster rare disease drug reimbursement process a 'meaningful start'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31933",
-          "category": "People",
-          "author": "Kim Jung-hyun",
-          "date": "06.08 14:46",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Korea United Pharm wins approval for mixed dyslipidemia drug Fenoduo",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31929",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "06.08 14:04",
-          "new": false,
-          "tag": "FDA Approval"
         }
       ]
     }
