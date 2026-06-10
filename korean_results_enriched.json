@@ -1,35 +1,44 @@
 {
-  "last_updated": "2026-06-09 10:58:25 IST",
+  "last_updated": "2026-06-10 04:59:00 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Blood test may pinpoint best time to start Alzheimer’s treatment: study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31956",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "06.09 15:47",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "AprilBio to pitch REMAP platform at BIO 2026 as licensed assets show clinical progress",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31951",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.09 13:13",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Roche Korea picks 4 Korean biotech firms for K-Swiss BioPass program",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31939",
+          "title": "Dong-A ST licenses out epilepsy drug cenobamate in Australia, New Zealand",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31963",
           "category": "Pharma",
           "author": "Lee Han-soo",
-          "date": "06.08 17:31",
+          "date": "06.10 11:13",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Korean biotechs sidestep Lilly-Novo showdown at ADA 2026, pitch monthly GLP-1s and next-wave obesity technologies",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31960",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.09 18:44",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Galderma Korea marks 5th anniversary of Aklief launch with acne awareness event",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31955",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.09 15:39",
           "new": false,
           "tag": "Other"
+        },
+        {
+          "title": "Genome & Company targets novel ADC antigens for next licensing deals",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31953",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "06.09 14:29",
+          "new": false,
+          "tag": "Pipeline"
         }
       ]
     }
