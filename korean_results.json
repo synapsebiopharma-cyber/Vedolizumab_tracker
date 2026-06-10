@@ -1,9 +1,113 @@
 {
-  "last_updated": "2026-06-10 04:59:00 IST",
+  "last_updated": "2026-06-10 11:21:31 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Alteogen’s ALT-B4 patent push gets Europe boost amid Halozyme setback",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31980",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.10 19:17",
+          "new": false
+        },
+        {
+          "title": "InBody seals China deal to put body-fat scanners in pharma-backed obesity clinic",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31979",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "06.10 18:14",
+          "new": false
+        },
+        {
+          "title": "Arrhythmias you should know: why atrial fibrillation matters",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31978",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "06.10 17:22",
+          "new": false
+        },
+        {
+          "title": "Statin misinformation may delay treatment, raise cardiovascular risk, doctor warns",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31977",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.10 17:16",
+          "new": false
+        },
+        {
+          "title": "Government backs wearable patch technology for monitoring critically ill patients",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31976",
+          "category": "Policy",
+          "author": "Song Soo-youn",
+          "date": "06.10 16:44",
+          "new": false
+        },
+        {
+          "title": "Kolon Life Science secures Canadian patent for KLS-3021 manufacturing technology",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31975",
+          "category": "Life science",
+          "author": "Kim Yoon-mi",
+          "date": "06.10 16:29",
+          "new": false
+        },
+        {
+          "title": "[Reporter’s Notebook] The 'NewCo' boom in drug development -- success lies in 'design'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31974",
+          "category": "Opinion",
+          "author": "Hong Sook",
+          "date": "06.10 16:17",
+          "new": false
+        },
+        {
+          "title": "[ASCO 2026] Additional DESTINY-Breast09 analysis offers guidance on optimizing Enhertu use",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31973",
+          "category": "Hospital",
+          "author": "Kim Yun-mi",
+          "date": "06.10 16:12",
+          "new": false
+        },
+        {
+          "title": "Ewha Medical Center's design chief holds solo art exhibition",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31972",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "06.10 15:38",
+          "new": false
+        },
+        {
+          "title": "Celltrion picks AI, organoid startups for latest open innovation program",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31971",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.10 15:09",
+          "new": false
+        },
+        {
+          "title": "Samsung becomes top shareholder of US gene sequencing firm Element Biosciences",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31970",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "06.10 14:58",
+          "new": false
+        },
+        {
+          "title": "Government to prioritize hygiene guidelines for Tattoo Licensing Law, seek consensus by year-end",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31969",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "06.10 14:20",
+          "new": false
+        },
+        {
+          "title": "Only 3% of ER dizziness patients show positive brain CT findings, study finds",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31968",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "06.10 14:17",
+          "new": false
+        },
         {
           "title": "Women under 50 show lower gastric cancer survival rates than men, study finds",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31967",
@@ -58,110 +162,6 @@
           "category": "Hospital",
           "author": "Lee Han-soo",
           "date": "06.10 09:31",
-          "new": false
-        },
-        {
-          "title": "Korean biotechs sidestep Lilly-Novo showdown at ADA 2026, pitch monthly GLP-1s and next-wave obesity technologies",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31960",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.09 18:44",
-          "new": false
-        },
-        {
-          "title": "Can't remember even with a hint? It may be an early sign of dementia",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31959",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "06.09 16:14",
-          "new": false
-        },
-        {
-          "title": "Experts call for seamless home-based care system for patients with serious illnesses",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31958",
-          "category": "Policy",
-          "author": "Kim Kyoung-Won",
-          "date": "06.09 15:59",
-          "new": false
-        },
-        {
-          "title": "Persistent painless lump near ear or jaw may signal salivary gland cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31957",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "06.09 15:50",
-          "new": false
-        },
-        {
-          "title": "Blood test may pinpoint best time to start Alzheimer’s treatment: study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31956",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "06.09 15:47",
-          "new": false
-        },
-        {
-          "title": "Galderma Korea marks 5th anniversary of Aklief launch with acne awareness event",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31955",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.09 15:39",
-          "new": false
-        },
-        {
-          "title": "Samsung Medical Center opens memorial hall honoring deceased organ donors",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31954",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "06.09 15:04",
-          "new": false
-        },
-        {
-          "title": "[Column] AI may assist surgery, but responsibility remains human",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31947",
-          "category": "Opinion",
-          "author": "Choi Soo-young",
-          "date": "06.09 14:53",
-          "new": false
-        },
-        {
-          "title": "Genome & Company targets novel ADC antigens for next licensing deals",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31953",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.09 14:29",
-          "new": false
-        },
-        {
-          "title": "Medical community urges Lee administration to flesh out healthcare reform plans",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31946",
-          "category": "Policy",
-          "author": "Koh Jung Min",
-          "date": "06.09 13:52",
-          "new": false
-        },
-        {
-          "title": "'1 in 4 public health doctors deployed during Covid-19 showed signs of depression'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31945",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "06.09 13:44",
-          "new": false
-        },
-        {
-          "title": "Huons Global to distribute merger shares to minority shareholders through stock dividend",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31944",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.09 13:42",
-          "new": false
-        },
-        {
-          "title": "365mc expands stem cell services with new adipose stem cell center in Incheon",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31942",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "06.09 13:40",
           "new": false
         }
       ]
