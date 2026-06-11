@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-06-10 11:21:31 IST",
+  "last_updated": "2026-06-11 05:12:01 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "LG Chem highlights 15 years of Eutropin data, unveils new growth hormone injection device",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31984",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.11 14:07",
+          "new": false
+        },
+        {
+          "title": "Bill seeks to expand pharmacists’ role from medication counseling to medication management",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31989",
+          "category": "Policy",
+          "author": "Kim Eun-young",
+          "date": "06.11 13:59",
+          "new": false
+        },
+        {
+          "title": "Waycen showcases AI endoscopy platform at Dubai congress, deepens UAE market push",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31985",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "06.11 13:53",
+          "new": false
+        },
+        {
+          "title": "Daewoong, DNC Esthetics unveil DCLASSY CaHA treatment protocol and combo insights at DEEP Symposium",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31983",
+          "category": "K-Beauty",
+          "author": "Kim Ji-hye",
+          "date": "06.11 13:47",
+          "new": false
+        },
+        {
+          "title": "JW Pharma says rare disease candidate restored cognition in multiple adult animal models",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31982",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.11 10:55",
+          "new": false
+        },
+        {
+          "title": "New SNUBH chief vows to turn hospital into global AI healthcare leader",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31986",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "06.11 10:33",
+          "new": false
+        },
+        {
+          "title": "Siemens installs MRI, CT systems at Dongrae Bongseng Hospital's new center in Busan",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31981",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "06.11 10:13",
+          "new": false
+        },
         {
           "title": "Alteogen’s ALT-B4 patent push gets Europe boost amid Halozyme setback",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31980",
@@ -106,62 +162,6 @@
           "category": "Hospital",
           "author": "Kim Jung-hyun",
           "date": "06.10 14:17",
-          "new": false
-        },
-        {
-          "title": "Women under 50 show lower gastric cancer survival rates than men, study finds",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31967",
-          "category": "Hospital",
-          "author": "Kim Ji-hye",
-          "date": "06.10 13:47",
-          "new": false
-        },
-        {
-          "title": "[Editor’s Column] Manual therapy: a miracle, a loophole, or both?",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31966",
-          "category": "Opinion",
-          "author": "Kim Yoon-mi",
-          "date": "06.10 13:28",
-          "new": false
-        },
-        {
-          "title": "Noul joins government's Global Hidden Champion 1000+ Project",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31965",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "06.10 11:47",
-          "new": false
-        },
-        {
-          "title": "Hugel to showcase global aesthetics portfolio at inaugural AMWC Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31964",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "06.10 11:40",
-          "new": false
-        },
-        {
-          "title": "Korean biotech stocks struggle for direction after Monday's market rout",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31962",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.10 11:37",
-          "new": false
-        },
-        {
-          "title": "Dong-A ST licenses out epilepsy drug cenobamate in Australia, New Zealand",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31963",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.10 11:13",
-          "new": false
-        },
-        {
-          "title": "Voice problems after thyroid surgery can occur without nerve damage",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31961",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "06.10 09:31",
           "new": false
         }
       ]

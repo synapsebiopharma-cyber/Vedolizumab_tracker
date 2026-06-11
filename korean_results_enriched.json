@@ -1,17 +1,44 @@
 {
-  "last_updated": "2026-06-10 11:21:31 IST",
+  "last_updated": "2026-06-11 05:12:01 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Alteogen’s ALT-B4 patent push gets Europe boost amid Halozyme setback",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31980",
-          "category": "Bio",
+          "title": "Daewoong, DNC Esthetics unveil DCLASSY CaHA treatment protocol and combo insights at DEEP Symposium",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31983",
+          "category": "K-Beauty",
           "author": "Kim Ji-hye",
-          "date": "06.10 19:17",
+          "date": "06.11 13:47",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "JW Pharma says rare disease candidate restored cognition in multiple adult animal models",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31982",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.11 10:55",
           "new": false,
           "tag": "Pipeline"
+        },
+        {
+          "title": "InBody seals China deal to put body-fat scanners in pharma-backed obesity clinic",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31979",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "06.10 18:14",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Statin misinformation may delay treatment, raise cardiovascular risk, doctor warns",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31977",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.10 17:16",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "Kolon Life Science secures Canadian patent for KLS-3021 manufacturing technology",
@@ -20,16 +47,16 @@
           "author": "Kim Yoon-mi",
           "date": "06.10 16:29",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Other"
         },
         {
-          "title": "[ASCO 2026] Additional DESTINY-Breast09 analysis offers guidance on optimizing Enhertu use",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31973",
-          "category": "Hospital",
-          "author": "Kim Yun-mi",
-          "date": "06.10 16:12",
+          "title": "[Reporter’s Notebook] The 'NewCo' boom in drug development -- success lies in 'design'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31974",
+          "category": "Opinion",
+          "author": "Hong Sook",
+          "date": "06.10 16:17",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Pipeline"
         },
         {
           "title": "Celltrion picks AI, organoid startups for latest open innovation program",
@@ -38,16 +65,7 @@
           "author": "Lee Han-soo",
           "date": "06.10 15:09",
           "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Dong-A ST licenses out epilepsy drug cenobamate in Australia, New Zealand",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31963",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.10 11:13",
-          "new": false,
-          "tag": "Collaboration"
+          "tag": "Other"
         }
       ]
     }
