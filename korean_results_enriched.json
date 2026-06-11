@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-06-11 05:12:01 IST",
+  "last_updated": "2026-06-11 11:59:46 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Onconic signs Jaqbo licensing, supply deal in Indonesia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31998",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.11 17:00",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "LG Chem highlights 15 years of Eutropin data, unveils new growth hormone injection device",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31984",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.11 14:07",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Waycen showcases AI endoscopy platform at Dubai congress, deepens UAE market push",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31985",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "06.11 13:53",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Daewoong, DNC Esthetics unveil DCLASSY CaHA treatment protocol and combo insights at DEEP Symposium",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31983",
@@ -23,49 +50,22 @@
           "tag": "Pipeline"
         },
         {
+          "title": "Alteogen’s ALT-B4 patent push gets Europe boost amid Halozyme setback",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31980",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.10 19:17",
+          "new": false,
+          "tag": "Other"
+        },
+        {
           "title": "InBody seals China deal to put body-fat scanners in pharma-backed obesity clinic",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31979",
           "category": "Device/ICT",
           "author": "Kim Ji-hye",
           "date": "06.10 18:14",
           "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Statin misinformation may delay treatment, raise cardiovascular risk, doctor warns",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31977",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.10 17:16",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Kolon Life Science secures Canadian patent for KLS-3021 manufacturing technology",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31975",
-          "category": "Life science",
-          "author": "Kim Yoon-mi",
-          "date": "06.10 16:29",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "[Reporter’s Notebook] The 'NewCo' boom in drug development -- success lies in 'design'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31974",
-          "category": "Opinion",
-          "author": "Hong Sook",
-          "date": "06.10 16:17",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Celltrion picks AI, organoid startups for latest open innovation program",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31971",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.10 15:09",
-          "new": false,
-          "tag": "Other"
+          "tag": "Collaboration"
         }
       ]
     }
