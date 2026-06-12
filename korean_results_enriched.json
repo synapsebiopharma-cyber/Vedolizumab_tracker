@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-06-11 11:59:46 IST",
+  "last_updated": "2026-06-12 05:20:13 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "ABL Bio presents Grabody-T clinical progress at global bispecific antibody summit",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32004",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.12 13:27",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Handok launches Empaveli injector in Korea for PNH patients",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32003",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.12 13:24",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Samil Pharmaceutical signs Vietnam licensing deal for postoperative eye drop",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32000",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.12 10:40",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Boryung positions for post-ISS era with bet on commercial space stations",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31992",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.11 18:12",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Onconic signs Jaqbo licensing, supply deal in Indonesia",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31998",
@@ -30,42 +66,6 @@
           "date": "06.11 13:53",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Daewoong, DNC Esthetics unveil DCLASSY CaHA treatment protocol and combo insights at DEEP Symposium",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31983",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "06.11 13:47",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "JW Pharma says rare disease candidate restored cognition in multiple adult animal models",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31982",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.11 10:55",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Alteogen’s ALT-B4 patent push gets Europe boost amid Halozyme setback",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31980",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.10 19:17",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "InBody seals China deal to put body-fat scanners in pharma-backed obesity clinic",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31979",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.10 18:14",
-          "new": false,
-          "tag": "Collaboration"
         }
       ]
     }

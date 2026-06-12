@@ -1,9 +1,57 @@
 {
-  "last_updated": "2026-06-11 11:59:46 IST",
+  "last_updated": "2026-06-12 05:20:13 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Near-centenarian survives ruptured aortic aneurysm after emergency surgery at Ewha",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32005",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "06.12 13:36",
+          "new": false
+        },
+        {
+          "title": "ABL Bio presents Grabody-T clinical progress at global bispecific antibody summit",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32004",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.12 13:27",
+          "new": false
+        },
+        {
+          "title": "Handok launches Empaveli injector in Korea for PNH patients",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32003",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.12 13:24",
+          "new": false
+        },
+        {
+          "title": "Seoul St. Mary's Hospital develops AI platform for student suicide prevention",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32002",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "06.12 13:10",
+          "new": false
+        },
+        {
+          "title": "Korea opens access to clinical-grade stem cell lines through National Stem Cell Bank",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32001",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "06.12 11:06",
+          "new": false
+        },
+        {
+          "title": "Samil Pharmaceutical signs Vietnam licensing deal for postoperative eye drop",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32000",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.12 10:40",
+          "new": false
+        },
         {
           "title": "Korea's $60 million bet on space medicine faces years before a payoff",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31999",
@@ -114,54 +162,6 @@
           "category": "K-Beauty",
           "author": "Kim Ji-hye",
           "date": "06.11 13:47",
-          "new": false
-        },
-        {
-          "title": "JW Pharma says rare disease candidate restored cognition in multiple adult animal models",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31982",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.11 10:55",
-          "new": false
-        },
-        {
-          "title": "New SNUBH chief vows to turn hospital into global AI healthcare leader",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31986",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "06.11 10:33",
-          "new": false
-        },
-        {
-          "title": "Siemens installs MRI, CT systems at Dongrae Bongseng Hospital's new center in Busan",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31981",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "06.11 10:13",
-          "new": false
-        },
-        {
-          "title": "Alteogen’s ALT-B4 patent push gets Europe boost amid Halozyme setback",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31980",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.10 19:17",
-          "new": false
-        },
-        {
-          "title": "InBody seals China deal to put body-fat scanners in pharma-backed obesity clinic",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31979",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.10 18:14",
-          "new": false
-        },
-        {
-          "title": "Arrhythmias you should know: why atrial fibrillation matters",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31978",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "06.10 17:22",
           "new": false
         }
       ]
