@@ -1,9 +1,73 @@
 {
-  "last_updated": "2026-06-12 05:20:13 IST",
+  "last_updated": "2026-06-12 11:17:57 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "ROKIT to launch what it calls 1st human kidney regeneration surgery in July",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32016",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.12 18:22",
+          "new": false
+        },
+        {
+          "title": "New book blames 'lack of interagency coordination' for failed youth suicide prevention efforts",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32014",
+          "category": "Hospital",
+          "author": "You Ji-young",
+          "date": "06.12 16:47",
+          "new": false
+        },
+        {
+          "title": "Health ministry to unveil criteria for 'medical-oriented nursing hospitals' next month",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32013",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "06.12 16:43",
+          "new": false
+        },
+        {
+          "title": "Surgeons warn Korea’s hepatobiliary care is nearing collapse amid workforce shortage",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32015",
+          "category": "Policy",
+          "author": "Lee Han-soo",
+          "date": "06.12 16:25",
+          "new": false
+        },
+        {
+          "title": "Crescom launches Mass General Brigham validation study for pediatric imaging AI",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32009",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "06.12 15:09",
+          "new": false
+        },
+        {
+          "title": "Haeundae Paik Hospital named SPRA robotic thyroid surgery observation training center",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32011",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "06.12 15:08",
+          "new": false
+        },
+        {
+          "title": "'Brain connectivity patterns may predict antidepressant response in depressed adolescents'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32010",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "06.12 15:03",
+          "new": false
+        },
+        {
+          "title": "Non-specialist dialysis facilities carry 13% higher death risk as Korea's CKD law stalls",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32007",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "06.12 14:59",
+          "new": false
+        },
         {
           "title": "Near-centenarian survives ruptured aortic aneurysm after emergency surgery at Ewha",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32005",
@@ -98,70 +162,6 @@
           "category": "Policy",
           "author": "Kwak Sung-sun",
           "date": "06.11 16:31",
-          "new": false
-        },
-        {
-          "title": "Advocacy groups seek stronger safeguards for expanded life-sustaining treatment policy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31994",
-          "category": "People",
-          "author": "Kim Jung-hyun",
-          "date": "06.11 16:25",
-          "new": false
-        },
-        {
-          "title": "[Interview] 'A new treatment paradigm for insomnia focuses on reducing excessive arousal'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31993",
-          "category": "Hospital",
-          "author": "You Ji-young",
-          "date": "06.11 16:04",
-          "new": false
-        },
-        {
-          "title": "AMC breaks ground on Korea’s largest heavy ion therapy center",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31991",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "06.11 15:47",
-          "new": false
-        },
-        {
-          "title": "Court upholds conviction of obstetrician for operating unregistered postpartum care center",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31990",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "06.11 14:24",
-          "new": false
-        },
-        {
-          "title": "LG Chem highlights 15 years of Eutropin data, unveils new growth hormone injection device",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31984",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.11 14:07",
-          "new": false
-        },
-        {
-          "title": "Bill seeks to expand pharmacists’ role from medication counseling to medication management",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31989",
-          "category": "Policy",
-          "author": "Kim Eun-young",
-          "date": "06.11 13:59",
-          "new": false
-        },
-        {
-          "title": "Waycen showcases AI endoscopy platform at Dubai congress, deepens UAE market push",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31985",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.11 13:53",
-          "new": false
-        },
-        {
-          "title": "Daewoong, DNC Esthetics unveil DCLASSY CaHA treatment protocol and combo insights at DEEP Symposium",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31983",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "06.11 13:47",
           "new": false
         }
       ]
