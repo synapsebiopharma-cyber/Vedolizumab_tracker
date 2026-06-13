@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-06-12 11:17:57 IST",
+  "last_updated": "2026-06-13 05:03:18 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "ROKIT to launch what it calls 1st human kidney regeneration surgery in July",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32016",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.12 18:22",
+          "new": false,
+          "tag": "Pipeline"
+        },
         {
           "title": "ABL Bio presents Grabody-T clinical progress at global bispecific antibody summit",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32004",
@@ -20,6 +29,15 @@
           "author": "Lee Han-soo",
           "date": "06.12 13:24",
           "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Korea opens access to clinical-grade stem cell lines through National Stem Cell Bank",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32001",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "06.12 11:06",
+          "new": false,
           "tag": "Other"
         },
         {
@@ -30,6 +48,24 @@
           "date": "06.12 10:40",
           "new": false,
           "tag": "Collaboration"
+        },
+        {
+          "title": "Korea's $60 million bet on space medicine faces years before a payoff",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31999",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.11 18:33",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Boryung positions for post-ISS era with bet on commercial space stations",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31992",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.11 18:12",
+          "new": false,
+          "tag": "Pipeline"
         },
         {
           "title": "Onconic signs Jaqbo licensing, supply deal in Indonesia",
