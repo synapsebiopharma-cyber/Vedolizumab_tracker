@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14 05:17:48 IST",
+  "last_updated": "2026-06-14 10:47:19 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
@@ -11,7 +11,16 @@
           "author": "Kim Ji-hye",
           "date": "06.12 18:22",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Other"
+        },
+        {
+          "title": "Crescom launches Mass General Brigham validation study for pediatric imaging AI",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32009",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "06.12 15:09",
+          "new": false,
+          "tag": "Clinical Trial"
         },
         {
           "title": "ABL Bio presents Grabody-T clinical progress at global bispecific antibody summit",
