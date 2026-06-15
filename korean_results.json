@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-06-14 10:47:19 IST",
+  "last_updated": "2026-06-15 05:38:02 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "CML patients challenge NHIS re-registration denials under rare disease benefit program",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32025",
+          "category": "People",
+          "author": "Kim Jung-hyun",
+          "date": "06.15 14:09",
+          "new": false
+        },
+        {
+          "title": "KASL drops ALT requirement, expands hepatitis B treatment under new guidelines",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32024",
+          "category": "Hospital",
+          "author": "Kim Yun-mi",
+          "date": "06.15 13:59",
+          "new": false
+        },
+        {
+          "title": "Hugel's Wellage broadens Hyper PDRN range with capsule cream",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32023",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "06.15 13:44",
+          "new": false
+        },
+        {
+          "title": "Curocell reports published phase 2 results for approved CAR-T therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32022",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.15 13:19",
+          "new": false
+        },
+        {
+          "title": "Huinno, Yuhan expand AI telemetry deployment to Korea University Anam Hospital",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32019",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "06.15 13:07",
+          "new": false
+        },
+        {
+          "title": "Celltrion expands Vietnam portfolio with two oncology biosimilars",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32020",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "06.15 11:33",
+          "new": false
+        },
+        {
+          "title": "Noul reports high concordance for AI blood analysis system at EHA 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32018",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "06.15 11:09",
+          "new": false
+        },
+        {
+          "title": "Matica Biolabs signs CDMO deal to support ArthRegen’s regenerative cell therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32017",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.15 10:54",
+          "new": false
+        },
+        {
+          "title": "SK plasma breaks ground on plasma plant in Türkiye to localize essential drug supply",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32021",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.15 09:49",
+          "new": false
+        },
         {
           "title": "ROKIT to launch what it calls 1st human kidney regeneration surgery in July",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32016",
@@ -90,78 +162,6 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "06.12 13:24",
-          "new": false
-        },
-        {
-          "title": "Seoul St. Mary's Hospital develops AI platform for student suicide prevention",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32002",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "06.12 13:10",
-          "new": false
-        },
-        {
-          "title": "Korea opens access to clinical-grade stem cell lines through National Stem Cell Bank",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32001",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "06.12 11:06",
-          "new": false
-        },
-        {
-          "title": "Samil Pharmaceutical signs Vietnam licensing deal for postoperative eye drop",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32000",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.12 10:40",
-          "new": false
-        },
-        {
-          "title": "Korea's $60 million bet on space medicine faces years before a payoff",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31999",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.11 18:33",
-          "new": false
-        },
-        {
-          "title": "Boryung positions for post-ISS era with bet on commercial space stations",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31992",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.11 18:12",
-          "new": false
-        },
-        {
-          "title": "Onconic signs Jaqbo licensing, supply deal in Indonesia",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31998",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.11 17:00",
-          "new": false
-        },
-        {
-          "title": "42% of health YouTube videos targeting seniors are AI-generated",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31997",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "06.11 16:52",
-          "new": false
-        },
-        {
-          "title": "NHIS flags widespread antibiotic use in uncomplicated flu cases",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31996",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "06.11 16:35",
-          "new": false
-        },
-        {
-          "title": "'liposuction complication rates as high as 6%, serious events in about 1% of cases'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=31995",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "06.11 16:31",
           "new": false
         }
       ]
