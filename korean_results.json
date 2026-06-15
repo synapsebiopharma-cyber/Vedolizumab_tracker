@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-06-15 05:38:02 IST",
+  "last_updated": "2026-06-15 13:35:11 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Heuron eyes IPO with Parkinson's, stroke portfolio across four markets",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32033",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "06.15 18:04",
+          "new": false
+        },
+        {
+          "title": "ViGenCell reports 4-year lymphoma data for VT-EBV-N at EHA",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32032",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "06.15 16:46",
+          "new": false
+        },
+        {
+          "title": "Korean gene therapy shows early signs of activity in recurrent glioblastoma",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32031",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.15 16:22",
+          "new": false
+        },
+        {
+          "title": "Severance under scrutiny as patient group calls for probe into foreign trainee surgery allegations",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32030",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "06.15 15:59",
+          "new": false
+        },
+        {
+          "title": "Hair loss coverage debate grows as health ministry reviews insurance expansion",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32028",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "06.15 15:39",
+          "new": false
+        },
+        {
+          "title": "Korean drugmakers target licensing, CDMO deals at BIO USA 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32027",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "06.15 15:16",
+          "new": false
+        },
+        {
+          "title": "Medical accident reviews focus too much on outcomes, not causes, expert says",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32026",
+          "category": "Hospital",
+          "author": "Kwon Min-seon",
+          "date": "06.15 14:53",
+          "new": false
+        },
         {
           "title": "CML patients challenge NHIS re-registration denials under rare disease benefit program",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32025",
@@ -106,62 +162,6 @@
           "category": "Policy",
           "author": "Lee Han-soo",
           "date": "06.12 16:25",
-          "new": false
-        },
-        {
-          "title": "Crescom launches Mass General Brigham validation study for pediatric imaging AI",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32009",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.12 15:09",
-          "new": false
-        },
-        {
-          "title": "Haeundae Paik Hospital named SPRA robotic thyroid surgery observation training center",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32011",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "06.12 15:08",
-          "new": false
-        },
-        {
-          "title": "'Brain connectivity patterns may predict antidepressant response in depressed adolescents'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32010",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "06.12 15:03",
-          "new": false
-        },
-        {
-          "title": "Non-specialist dialysis facilities carry 13% higher death risk as Korea's CKD law stalls",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32007",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "06.12 14:59",
-          "new": false
-        },
-        {
-          "title": "Near-centenarian survives ruptured aortic aneurysm after emergency surgery at Ewha",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32005",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "06.12 13:36",
-          "new": false
-        },
-        {
-          "title": "ABL Bio presents Grabody-T clinical progress at global bispecific antibody summit",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32004",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.12 13:27",
-          "new": false
-        },
-        {
-          "title": "Handok launches Empaveli injector in Korea for PNH patients",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32003",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.12 13:24",
           "new": false
         }
       ]

@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-06-15 05:38:02 IST",
+  "last_updated": "2026-06-15 13:35:11 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Heuron eyes IPO with Parkinson's, stroke portfolio across four markets",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32033",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "06.15 18:04",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "ViGenCell reports 4-year lymphoma data for VT-EBV-N at EHA",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32032",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "06.15 16:46",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Korean gene therapy shows early signs of activity in recurrent glioblastoma",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32031",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.15 16:22",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Korean drugmakers target licensing, CDMO deals at BIO USA 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32027",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "06.15 15:16",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "Curocell reports published phase 2 results for approved CAR-T therapy",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32022",
@@ -12,15 +48,6 @@
           "date": "06.15 13:19",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "Huinno, Yuhan expand AI telemetry deployment to Korea University Anam Hospital",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32019",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.15 13:07",
-          "new": false,
-          "tag": "Collaboration"
         },
         {
           "title": "Celltrion expands Vietnam portfolio with two oncology biosimilars",
@@ -46,33 +73,6 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "06.15 09:49",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "ROKIT to launch what it calls 1st human kidney regeneration surgery in July",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32016",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.12 18:22",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "ABL Bio presents Grabody-T clinical progress at global bispecific antibody summit",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32004",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.12 13:27",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Handok launches Empaveli injector in Korea for PNH patients",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32003",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.12 13:24",
           "new": false,
           "tag": "Other"
         }
