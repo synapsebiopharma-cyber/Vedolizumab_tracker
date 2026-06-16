@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-06-15 13:35:11 IST",
+  "last_updated": "2026-06-16 05:48:17 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Government unveils plan to make national university hospitals regional healthcare hubs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32042",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "06.16 13:21",
+          "new": false
+        },
+        {
+          "title": "Korea United Pharm to resume supply of D.T.I. Injection 200mg",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32041",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.16 13:18",
+          "new": false
+        },
+        {
+          "title": "Yuhan at 100: From Korea's first homegrown medicines to global drug ambitions",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32040",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "06.16 12:59",
+          "new": false
+        },
+        {
+          "title": "GC Wellbeing reports positive phase 3 results for IV Laennec in chronic liver disease",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32038",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.16 11:10",
+          "new": false
+        },
+        {
+          "title": "CG MedTech enters human tissue CDMO market with Kolon Pharma deal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32036",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "06.16 11:00",
+          "new": false
+        },
+        {
+          "title": "Huons Meditech promotes aesthetic devices at Indonesia’s AMUSE 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32035",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "06.16 10:29",
+          "new": false
+        },
+        {
+          "title": "Korean drugmakers push derma cosmetics beyond pharmacies, into mainstream beauty",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32034",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "06.16 10:27",
+          "new": false
+        },
         {
           "title": "Heuron eyes IPO with Parkinson's, stroke portfolio across four markets",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32033",
@@ -106,62 +162,6 @@
           "category": "Bio",
           "author": "Lee Han-soo",
           "date": "06.15 11:33",
-          "new": false
-        },
-        {
-          "title": "Noul reports high concordance for AI blood analysis system at EHA 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32018",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "06.15 11:09",
-          "new": false
-        },
-        {
-          "title": "Matica Biolabs signs CDMO deal to support ArthRegen’s regenerative cell therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32017",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.15 10:54",
-          "new": false
-        },
-        {
-          "title": "SK plasma breaks ground on plasma plant in Türkiye to localize essential drug supply",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32021",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.15 09:49",
-          "new": false
-        },
-        {
-          "title": "ROKIT to launch what it calls 1st human kidney regeneration surgery in July",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32016",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.12 18:22",
-          "new": false
-        },
-        {
-          "title": "New book blames 'lack of interagency coordination' for failed youth suicide prevention efforts",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32014",
-          "category": "Hospital",
-          "author": "You Ji-young",
-          "date": "06.12 16:47",
-          "new": false
-        },
-        {
-          "title": "Health ministry to unveil criteria for 'medical-oriented nursing hospitals' next month",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32013",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "06.12 16:43",
-          "new": false
-        },
-        {
-          "title": "Surgeons warn Korea’s hepatobiliary care is nearing collapse amid workforce shortage",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32015",
-          "category": "Policy",
-          "author": "Lee Han-soo",
-          "date": "06.12 16:25",
           "new": false
         }
       ]

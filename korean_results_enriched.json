@@ -1,17 +1,44 @@
 {
-  "last_updated": "2026-06-15 13:35:11 IST",
+  "last_updated": "2026-06-16 05:48:17 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Heuron eyes IPO with Parkinson's, stroke portfolio across four markets",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32033",
+          "title": "Korea United Pharm to resume supply of D.T.I. Injection 200mg",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32041",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.16 13:18",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Yuhan at 100: From Korea's first homegrown medicines to global drug ambitions",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32040",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "06.16 12:59",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "GC Wellbeing reports positive phase 3 results for IV Laennec in chronic liver disease",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32038",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.16 11:10",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "CG MedTech enters human tissue CDMO market with Kolon Pharma deal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32036",
           "category": "Device/ICT",
           "author": "Kim Ji-hye",
-          "date": "06.15 18:04",
+          "date": "06.16 11:00",
           "new": false,
-          "tag": "Financial"
+          "tag": "Collaboration"
         },
         {
           "title": "ViGenCell reports 4-year lymphoma data for VT-EBV-N at EHA",
@@ -55,24 +82,6 @@
           "category": "Bio",
           "author": "Lee Han-soo",
           "date": "06.15 11:33",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Matica Biolabs signs CDMO deal to support ArthRegen’s regenerative cell therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32017",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.15 10:54",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "SK plasma breaks ground on plasma plant in Türkiye to localize essential drug supply",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32021",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.15 09:49",
           "new": false,
           "tag": "Other"
         }
