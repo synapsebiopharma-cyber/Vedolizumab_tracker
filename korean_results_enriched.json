@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-06-16 05:48:17 IST",
+  "last_updated": "2026-06-16 12:31:02 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Daewoong's CGM-based employee health pilot at KT linked to lower blood sugar, weight",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32046",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "06.16 15:21",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Korea United Pharm to resume supply of D.T.I. Injection 200mg",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32041",
@@ -57,33 +66,6 @@
           "date": "06.15 16:22",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "Korean drugmakers target licensing, CDMO deals at BIO USA 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32027",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.15 15:16",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Curocell reports published phase 2 results for approved CAR-T therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32022",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.15 13:19",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Celltrion expands Vietnam portfolio with two oncology biosimilars",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32020",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.15 11:33",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }

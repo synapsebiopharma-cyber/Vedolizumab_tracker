@@ -1,9 +1,73 @@
 {
-  "last_updated": "2026-06-16 05:48:17 IST",
+  "last_updated": "2026-06-16 12:31:02 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "AITRICS inks research pact with Yokohama City University to study AI medical devices in Japan",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32050",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "06.16 19:02",
+          "new": false
+        },
+        {
+          "title": "Prostate cancer now Korea's top male cancer; urologists push for state-funded screening",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32049",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "06.16 18:59",
+          "new": false
+        },
+        {
+          "title": "MRI access expanded as Korea eases staffing rules for radiologists",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32048",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "06.16 16:27",
+          "new": false
+        },
+        {
+          "title": "Konyang University Hospital Prof. Hwang wins KRCP outstanding contribution award",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32047",
+          "category": "People",
+          "author": "Song Soo-youn",
+          "date": "06.16 16:22",
+          "new": false
+        },
+        {
+          "title": "Japan treats surgeons as strategic assets. Korea risks losing them, KSS says",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32045",
+          "category": "Hospital",
+          "author": "Kwak Sung-sun",
+          "date": "06.16 16:00",
+          "new": false
+        },
+        {
+          "title": "Korean study at Stanford AIMI finds gains from smartphone-based knee rehabilitation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32044",
+          "category": "Hospital",
+          "author": "Song Soo-youn",
+          "date": "06.16 15:52",
+          "new": false
+        },
+        {
+          "title": "[Interview] 'New multiple myeloma drug brought about a miracle when I was about to give up'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32043",
+          "category": "People",
+          "author": "You Ji-young",
+          "date": "06.16 15:36",
+          "new": false
+        },
+        {
+          "title": "Daewoong's CGM-based employee health pilot at KT linked to lower blood sugar, weight",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32046",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "06.16 15:21",
+          "new": false
+        },
         {
           "title": "Government unveils plan to make national university hospitals regional healthcare hubs",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32042",
@@ -98,70 +162,6 @@
           "category": "Policy",
           "author": "Kwak Sung-sun",
           "date": "06.15 15:39",
-          "new": false
-        },
-        {
-          "title": "Korean drugmakers target licensing, CDMO deals at BIO USA 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32027",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.15 15:16",
-          "new": false
-        },
-        {
-          "title": "Medical accident reviews focus too much on outcomes, not causes, expert says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32026",
-          "category": "Hospital",
-          "author": "Kwon Min-seon",
-          "date": "06.15 14:53",
-          "new": false
-        },
-        {
-          "title": "CML patients challenge NHIS re-registration denials under rare disease benefit program",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32025",
-          "category": "People",
-          "author": "Kim Jung-hyun",
-          "date": "06.15 14:09",
-          "new": false
-        },
-        {
-          "title": "KASL drops ALT requirement, expands hepatitis B treatment under new guidelines",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32024",
-          "category": "Hospital",
-          "author": "Kim Yun-mi",
-          "date": "06.15 13:59",
-          "new": false
-        },
-        {
-          "title": "Hugel's Wellage broadens Hyper PDRN range with capsule cream",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32023",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "06.15 13:44",
-          "new": false
-        },
-        {
-          "title": "Curocell reports published phase 2 results for approved CAR-T therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32022",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.15 13:19",
-          "new": false
-        },
-        {
-          "title": "Huinno, Yuhan expand AI telemetry deployment to Korea University Anam Hospital",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32019",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.15 13:07",
-          "new": false
-        },
-        {
-          "title": "Celltrion expands Vietnam portfolio with two oncology biosimilars",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32020",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.15 11:33",
           "new": false
         }
       ]
