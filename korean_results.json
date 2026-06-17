@@ -1,9 +1,97 @@
 {
-  "last_updated": "2026-06-16 12:31:02 IST",
+  "last_updated": "2026-06-17 05:26:29 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Medidata pushes AI orchestration to tackle clinical trial bottlenecks",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32060",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "06.17 13:55",
+          "new": false
+        },
+        {
+          "title": "Mediana partners with ACA Group to target Japan's long-term care market",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32061",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "06.17 13:48",
+          "new": false
+        },
+        {
+          "title": "LabGenomics plans Alzheimer's blood testing service through US CLIA lab",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32059",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "06.17 13:30",
+          "new": false
+        },
+        {
+          "title": "Matica Biotech launches open-access CDMO platform, signs first client",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32058",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.17 13:12",
+          "new": false
+        },
+        {
+          "title": "Roen Surgical symposium highlights early clinical experience with kidney stone surgery robot",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32057",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "06.17 11:22",
+          "new": false
+        },
+        {
+          "title": "Sky Labs' ring-type blood pressure monitor to be used in national aging cohort study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32056",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "06.17 11:17",
+          "new": false
+        },
+        {
+          "title": "Former Gyeonggi governor Nam Kyung-pil takes helm of GemVax & KAEL",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32055",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "06.17 11:05",
+          "new": false
+        },
+        {
+          "title": "JW Pharma selected for government-backed AI anticancer drug discovery project",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32054",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.17 10:41",
+          "new": false
+        },
+        {
+          "title": "Sam Chun Dang Pharm starts global phase 1 trial of oral insulin",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32053",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.17 10:16",
+          "new": false
+        },
+        {
+          "title": "IQVIA Korea launches AI platform MediLens to sharpen physician engagement strategies",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32052",
+          "category": "Life science",
+          "author": "Lee Han-soo",
+          "date": "06.17 09:44",
+          "new": false
+        },
+        {
+          "title": "Liver society backs earlier hepatitis B treatment to reduce liver cancer risk",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32051",
+          "category": "Policy",
+          "author": "Lee Han-soo",
+          "date": "06.17 09:09",
+          "new": false
+        },
         {
           "title": "AITRICS inks research pact with Yokohama City University to study AI medical devices in Japan",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32050",
@@ -74,94 +162,6 @@
           "category": "Policy",
           "author": "Kwak Sung-sun",
           "date": "06.16 13:21",
-          "new": false
-        },
-        {
-          "title": "Korea United Pharm to resume supply of D.T.I. Injection 200mg",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32041",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.16 13:18",
-          "new": false
-        },
-        {
-          "title": "Yuhan at 100: From Korea's first homegrown medicines to global drug ambitions",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32040",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "06.16 12:59",
-          "new": false
-        },
-        {
-          "title": "GC Wellbeing reports positive phase 3 results for IV Laennec in chronic liver disease",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32038",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.16 11:10",
-          "new": false
-        },
-        {
-          "title": "CG MedTech enters human tissue CDMO market with Kolon Pharma deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32036",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.16 11:00",
-          "new": false
-        },
-        {
-          "title": "Huons Meditech promotes aesthetic devices at Indonesia’s AMUSE 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32035",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "06.16 10:29",
-          "new": false
-        },
-        {
-          "title": "Korean drugmakers push derma cosmetics beyond pharmacies, into mainstream beauty",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32034",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "06.16 10:27",
-          "new": false
-        },
-        {
-          "title": "Heuron eyes IPO with Parkinson's, stroke portfolio across four markets",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32033",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.15 18:04",
-          "new": false
-        },
-        {
-          "title": "ViGenCell reports 4-year lymphoma data for VT-EBV-N at EHA",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32032",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "06.15 16:46",
-          "new": false
-        },
-        {
-          "title": "Korean gene therapy shows early signs of activity in recurrent glioblastoma",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32031",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.15 16:22",
-          "new": false
-        },
-        {
-          "title": "Severance under scrutiny as patient group calls for probe into foreign trainee surgery allegations",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32030",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "06.15 15:59",
-          "new": false
-        },
-        {
-          "title": "Hair loss coverage debate grows as health ministry reviews insurance expansion",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32028",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "06.15 15:39",
           "new": false
         }
       ]

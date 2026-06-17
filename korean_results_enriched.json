@@ -1,69 +1,42 @@
 {
-  "last_updated": "2026-06-16 12:31:02 IST",
+  "last_updated": "2026-06-17 05:26:29 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Daewoong's CGM-based employee health pilot at KT linked to lower blood sugar, weight",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32046",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "06.16 15:21",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Korea United Pharm to resume supply of D.T.I. Injection 200mg",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32041",
-          "category": "Pharma",
+          "title": "Matica Biotech launches open-access CDMO platform, signs first client",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32058",
+          "category": "Bio",
           "author": "Kim Ji-hye",
-          "date": "06.16 13:18",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Yuhan at 100: From Korea's first homegrown medicines to global drug ambitions",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32040",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "06.16 12:59",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "GC Wellbeing reports positive phase 3 results for IV Laennec in chronic liver disease",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32038",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.16 11:10",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "CG MedTech enters human tissue CDMO market with Kolon Pharma deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32036",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.16 11:00",
+          "date": "06.17 13:12",
           "new": false,
           "tag": "Collaboration"
         },
         {
-          "title": "ViGenCell reports 4-year lymphoma data for VT-EBV-N at EHA",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32032",
+          "title": "Former Gyeonggi governor Nam Kyung-pil takes helm of GemVax & KAEL",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32055",
           "category": "Bio",
-          "author": "Hong Sook",
-          "date": "06.15 16:46",
+          "author": "Lee Han-soo",
+          "date": "06.17 11:05",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Other"
         },
         {
-          "title": "Korean gene therapy shows early signs of activity in recurrent glioblastoma",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32031",
-          "category": "Bio",
+          "title": "JW Pharma selected for government-backed AI anticancer drug discovery project",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32054",
+          "category": "Pharma",
           "author": "Kim Ji-hye",
-          "date": "06.15 16:22",
+          "date": "06.17 10:41",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Sam Chun Dang Pharm starts global phase 1 trial of oral insulin",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32053",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.17 10:16",
           "new": false,
           "tag": "Clinical Trial"
         }
