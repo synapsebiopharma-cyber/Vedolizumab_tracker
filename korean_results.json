@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-06-17 12:09:40 IST",
+  "last_updated": "2026-06-18 05:16:23 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[Column] In Korea's clinics, many expect Michelin-level care at McDonald's prices",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32080",
+          "category": "Opinion",
+          "author": "Kim Hyun-jung",
+          "date": "06.18 14:04",
+          "new": false
+        },
+        {
+          "title": "Shock wave therapy to be limited to 12 sessions annually under new KMA guideline",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32079",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "06.18 13:46",
+          "new": false
+        },
+        {
+          "title": "SNU hospital vows training overhaul after admitting over-reliance on trainee doctors slowed crisis recovery",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32077",
+          "category": "Hospital",
+          "author": "Kim Ji-hye",
+          "date": "06.18 13:35",
+          "new": false
+        },
+        {
+          "title": "Samsung Medical Center tops Newsweek APAC rankings in cancer, pulmonology, gastroenterology",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32078",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "06.18 13:30",
+          "new": false
+        },
+        {
+          "title": "Inventage Lab to explore partnerships for long-acting obesity therapy platform at BIO USA 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32076",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.18 11:28",
+          "new": false
+        },
+        {
+          "title": "LG Chem taps AI-powered LabGenius platform to accelerate cancer drug discovery",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32075",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.18 11:23",
+          "new": false
+        },
+        {
+          "title": "Sanofi has been developing subcutaneous Dupixent with Alteogen since 2019",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32074",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.18 11:17",
+          "new": false
+        },
+        {
+          "title": "[Reporter’s notebook] FDA sunscreen decision puts Kolmar’s US ODM strategy in spotlight",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32073",
+          "category": "Reporter’s Notebook",
+          "author": "Lee Han-soo",
+          "date": "06.18 10:54",
+          "new": false
+        },
+        {
+          "title": "Lemon Healthcare seeks $13 mil. IPO to turn patient data into AI fuel",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32072",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.18 09:27",
+          "new": false
+        },
         {
           "title": "AbClon, GC Biopharma partner on in vivo CAR-T using proprietary antibody",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32071",
@@ -90,78 +162,6 @@
           "category": "Device/ICT",
           "author": "Kim Ji-hye",
           "date": "06.17 13:48",
-          "new": false
-        },
-        {
-          "title": "LabGenomics plans Alzheimer's blood testing service through US CLIA lab",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32059",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.17 13:30",
-          "new": false
-        },
-        {
-          "title": "Matica Biotech launches open-access CDMO platform, signs first client",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32058",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.17 13:12",
-          "new": false
-        },
-        {
-          "title": "Roen Surgical symposium highlights early clinical experience with kidney stone surgery robot",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32057",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.17 11:22",
-          "new": false
-        },
-        {
-          "title": "Sky Labs' ring-type blood pressure monitor to be used in national aging cohort study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32056",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "06.17 11:17",
-          "new": false
-        },
-        {
-          "title": "Former Gyeonggi governor Nam Kyung-pil takes helm of GemVax & KAEL",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32055",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.17 11:05",
-          "new": false
-        },
-        {
-          "title": "JW Pharma selected for government-backed AI anticancer drug discovery project",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32054",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.17 10:41",
-          "new": false
-        },
-        {
-          "title": "Sam Chun Dang Pharm starts global phase 1 trial of oral insulin",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32053",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.17 10:16",
-          "new": false
-        },
-        {
-          "title": "IQVIA Korea launches AI platform MediLens to sharpen physician engagement strategies",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32052",
-          "category": "Life science",
-          "author": "Lee Han-soo",
-          "date": "06.17 09:44",
-          "new": false
-        },
-        {
-          "title": "Liver society backs earlier hepatitis B treatment to reduce liver cancer risk",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32051",
-          "category": "Policy",
-          "author": "Lee Han-soo",
-          "date": "06.17 09:09",
           "new": false
         }
       ]
