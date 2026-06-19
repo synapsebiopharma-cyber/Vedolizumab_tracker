@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-06-19 05:35:23 IST",
+  "last_updated": "2026-06-19 11:54:01 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Alzheimer's biotech ADEL clears key hurdle for Kosdaq listing",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32113",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.19 16:01",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Cellid wins state funding for therapeutic vaccine targeting five high-risk HPV types",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32109",
+          "category": "Bio",
+          "author": "Kim Kyoung-Won",
+          "date": "06.19 15:01",
+          "new": false,
+          "tag": "Pipeline"
+        },
         {
           "title": "Novo Nordisk Korea's rare disease chief on expanding treatment access",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32107",
@@ -32,20 +50,20 @@
           "tag": "Collaboration"
         },
         {
+          "title": "Hugel brings Letybo training program to Chengdu as China expansion continues",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32097",
+          "category": "K-Beauty",
+          "author": "Kim Yoon-mi",
+          "date": "06.19 11:03",
+          "new": false,
+          "tag": "Other"
+        },
+        {
           "title": "Medison Pharma launches Amvuttra in Korea for hATTR-PN",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32103",
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "06.19 10:54",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "[Digital shift in growth hormone therapy①] Data-driven management emerges as new focus in long-term care",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32095",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.19 09:18",
           "new": false,
           "tag": "Other"
         },
@@ -66,15 +84,6 @@
           "date": "06.18 16:07",
           "new": false,
           "tag": "Collaboration"
-        },
-        {
-          "title": "UCB's Bimzelx gains ground in Korea as psoriasis care shifts toward complete skin clearance",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32082",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.18 15:04",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }
