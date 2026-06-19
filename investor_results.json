@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18 11:42:29 IST",
+  "last_updated": "2026-06-19 05:36:40 IST",
   "companies": [
     {
       "company": "Alvotech",
@@ -2048,6 +2048,20 @@
     {
       "company": "Teva",
       "investor_news": [
+        {
+          "id": "q2-2026-teva-pharmaceutical-industries-ltd.-earnings-conference-call|july-29,-2026",
+          "title": "Q2 2026 Teva Pharmaceutical Industries Ltd. Earnings Conference Call",
+          "date": "July 29, 2026",
+          "url": "https://ir.tevapharm.com/Events-and-Presentations/events-and-presentations/event-details/2026/Q2-2026-Teva-Pharmaceutical-Industries-Ltd-Earnings-Conference-Call/default.aspx",
+          "webcast": "https://events.q4inc.com/attendee/303169536",
+          "docs": [
+            {
+              "title": "Registration(opens in new window)",
+              "url": "https://registrations.events/direct/Q4I498086"
+            }
+          ],
+          "new": false
+        },
         {
           "id": "goldman-sachs-global-healthcare-conference|june-08,-2026",
           "title": "Goldman Sachs Global Healthcare Conference",

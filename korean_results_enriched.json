@@ -1,9 +1,54 @@
 {
-  "last_updated": "2026-06-18 11:41:00 IST",
+  "last_updated": "2026-06-19 05:35:23 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Novo Nordisk Korea's rare disease chief on expanding treatment access",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32107",
+          "category": "Pharma",
+          "author": "You Ji-young",
+          "date": "06.19 14:23",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Humedix wins China approval for Rephoria HARA-L filler",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32098",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "06.19 13:16",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Samsung Bioepis, Organon expand Stelara biosimilar partnership to Canada",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32099",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "06.19 11:32",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Medison Pharma launches Amvuttra in Korea for hATTR-PN",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32103",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.19 10:54",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "[Digital shift in growth hormone therapy①] Data-driven management emerges as new focus in long-term care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32095",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.19 09:18",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Proteina wins state funding for osteoarthritis candidate after outperforming Biosplice drug in animal tests",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32094",
@@ -30,33 +75,6 @@
           "date": "06.18 15:04",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Inventage Lab to explore partnerships for long-acting obesity therapy platform at BIO USA 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32076",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.18 11:28",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "LG Chem taps AI-powered LabGenius platform to accelerate cancer drug discovery",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32075",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.18 11:23",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Sanofi has been developing subcutaneous Dupixent with Alteogen since 2019",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32074",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.18 11:17",
-          "new": false,
-          "tag": "Collaboration"
         }
       ]
     }
