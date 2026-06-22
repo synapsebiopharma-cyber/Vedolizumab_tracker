@@ -1,21 +1,39 @@
 {
-  "last_updated": "2026-06-22 05:41:58 IST",
+  "last_updated": "2026-06-22 13:19:15 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "PRG S&Tech's NF2 drug Trineumin wins nod for compassionate use, expanding patient access",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32117",
+          "title": "SK biopharm agrees with Insilico to hunt CNS drug candidates in potential $2.57 billion pact",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32129",
           "category": "Bio",
           "author": "Kim Ji-hye",
-          "date": "06.22 13:14",
+          "date": "06.22 17:04",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Innovo Therapeutics scores Korean phase 3 approval for scar treatment, INV-001",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32124",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.22 15:10",
           "new": false,
           "tag": "FDA Approval"
         },
         {
-          "title": "DRGEM gains CE MDR certification for next-generation mobile DR system, RAYMO, accelerating European expansion",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32119",
+          "title": "Proteina signs 1st pharma deal in partnership with a Parkinson’s foundation network",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32125",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.22 15:09",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "PRG S&Tech's NF2 drug Trineumin wins nod for compassionate use, expanding patient access",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32117",
           "category": "Bio",
           "author": "Kim Ji-hye",
           "date": "06.22 13:14",
@@ -37,24 +55,6 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "06.22 09:00",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Cellid wins state funding for therapeutic vaccine targeting five high-risk HPV types",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32109",
-          "category": "Bio",
-          "author": "Kim Kyoung-Won",
-          "date": "06.19 15:01",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Novo Nordisk Korea's rare disease chief on expanding treatment access",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32107",
-          "category": "Pharma",
-          "author": "You Ji-young",
-          "date": "06.19 14:23",
           "new": false,
           "tag": "Other"
         }
