@@ -1,9 +1,73 @@
 {
-  "last_updated": "2026-06-22 13:19:15 IST",
+  "last_updated": "2026-06-23 04:41:21 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea's digital healthcare bill sparks debate over medical data use and AI",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32143",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "06.23 13:38",
+          "new": false
+        },
+        {
+          "title": "Dong-A Socio Holdings adopts ISSB standards in new sustainability report",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32141",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.23 11:17",
+          "new": false
+        },
+        {
+          "title": "Numeco secures approval for 200-unit Newlux botulinum toxin",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32140",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "06.23 10:54",
+          "new": false
+        },
+        {
+          "title": "Huons wins KDDF funding to advance fibrostenotic Crohn's disease drug candidate",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32139",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "06.23 10:43",
+          "new": false
+        },
+        {
+          "title": "Yuhan secures EMA orphan drug designation for Gaucher disease candidate",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32138",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.23 10:23",
+          "new": false
+        },
+        {
+          "title": "[BIO USA 2026] AstraZeneca expands hunt for external innovation beyond single-asset licensing",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32133",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "06.23 09:34",
+          "new": false
+        },
+        {
+          "title": "[BIO USA 2026] China’s biotech rise puts Korea on notice: KoreaBIO VP",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32137",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "06.23 09:26",
+          "new": false
+        },
+        {
+          "title": "GLP-1s linked to 51% drop in colorectal cancer risk as cancer blood test proves out across Asia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32132",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.23 09:24",
+          "new": false
+        },
         {
           "title": "SK biopharm agrees with Insilico to hunt CNS drug candidates in potential $2.57 billion pact",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32129",
@@ -98,70 +162,6 @@
           "category": "Opinion",
           "author": "Yoo In-hyuk",
           "date": "06.22 13:27",
-          "new": false
-        },
-        {
-          "title": "PRG S&Tech's NF2 drug Trineumin wins nod for compassionate use, expanding patient access",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32117",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.22 13:14",
-          "new": false
-        },
-        {
-          "title": "DRGEM gains CE MDR certification for next-generation mobile DR system,  RAYMO, accelerating European expansion",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32119",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.22 13:14",
-          "new": false
-        },
-        {
-          "title": "Emergency room refusal cases fall to zero in pilot program, government reports",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32118",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "06.22 11:34",
-          "new": false
-        },
-        {
-          "title": "[Caring the Korean Way] Koreans’ IV drip habit shows the country’s obsession with quick recovery",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32112",
-          "category": "Life science",
-          "author": "Lee Han-soo",
-          "date": "06.22 09:23",
-          "new": false
-        },
-        {
-          "title": "Korean neurosurgeons propose pressure-based model for chronic subdural hematoma",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32115",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "06.22 09:15",
-          "new": false
-        },
-        {
-          "title": "Lotte Biologics wins use approval for 1st Songdo plant, moving closer to commercial production",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32116",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.22 09:01",
-          "new": false
-        },
-        {
-          "title": "[Digital shift in growth hormone therapy②] Merck bets digital growth hormone ecosystem can improve adherence, outcomes",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32104",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.22 09:00",
-          "new": false
-        },
-        {
-          "title": "AI-assisted imaging technique shows promise for real-time brain tumor diagnosis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32114",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "06.19 16:51",
           "new": false
         }
       ]

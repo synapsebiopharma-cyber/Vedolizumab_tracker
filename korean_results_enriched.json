@@ -1,9 +1,54 @@
 {
-  "last_updated": "2026-06-22 13:19:15 IST",
+  "last_updated": "2026-06-23 04:41:21 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Numeco secures approval for 200-unit Newlux botulinum toxin",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32140",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "06.23 10:54",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Huons wins KDDF funding to advance fibrostenotic Crohn's disease drug candidate",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32139",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "06.23 10:43",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Yuhan secures EMA orphan drug designation for Gaucher disease candidate",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32138",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.23 10:23",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "[BIO USA 2026] AstraZeneca expands hunt for external innovation beyond single-asset licensing",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32133",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "06.23 09:34",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "GLP-1s linked to 51% drop in colorectal cancer risk as cancer blood test proves out across Asia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32132",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.23 09:24",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "SK biopharm agrees with Insilico to hunt CNS drug candidates in potential $2.57 billion pact",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32129",
@@ -20,7 +65,7 @@
           "author": "Kim Ji-hye",
           "date": "06.22 15:10",
           "new": false,
-          "tag": "FDA Approval"
+          "tag": "Clinical Trial"
         },
         {
           "title": "Proteina signs 1st pharma deal in partnership with a Parkinson’s foundation network",
@@ -30,33 +75,6 @@
           "date": "06.22 15:09",
           "new": false,
           "tag": "Collaboration"
-        },
-        {
-          "title": "PRG S&Tech's NF2 drug Trineumin wins nod for compassionate use, expanding patient access",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32117",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.22 13:14",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Lotte Biologics wins use approval for 1st Songdo plant, moving closer to commercial production",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32116",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "06.22 09:01",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "[Digital shift in growth hormone therapy②] Merck bets digital growth hormone ecosystem can improve adherence, outcomes",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32104",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.22 09:00",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }
