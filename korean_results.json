@@ -1,9 +1,89 @@
 {
-  "last_updated": "2026-06-23 04:41:21 IST",
+  "last_updated": "2026-06-23 10:59:01 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea's new baldness data spotlights a potential $455 million plan to cover a drug that can cost $6 a month",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32153",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "06.23 17:47",
+          "new": false
+        },
+        {
+          "title": "Hemophilia B drug Idelvion is now available at KHF-run clinics",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32152",
+          "category": "Pharma",
+          "author": "You Ji-young",
+          "date": "06.23 16:33",
+          "new": false
+        },
+        {
+          "title": "Government raises malpractice coverage to ₩1.8 bil. for essential care physicians",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32151",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "06.23 16:20",
+          "new": false
+        },
+        {
+          "title": "Poorly controlled severe asthma raises risk of daily activity limitations fivefold: study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32150",
+          "category": "Hospital",
+          "author": "Kwak Sung-sun",
+          "date": "06.23 16:01",
+          "new": false
+        },
+        {
+          "title": "[Column] AI becomes a force multiplier in the fight against rare diseases",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32149",
+          "category": "Opinion",
+          "author": "Yoo Han-wook",
+          "date": "06.23 15:54",
+          "new": false
+        },
+        {
+          "title": "[Photo News] From CDMO to AI, Korean biotechs make their case at BIO USA 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32146",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "06.23 15:36",
+          "new": false
+        },
+        {
+          "title": "Ovarian cancer risk linked to BMI above 28, experts say",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32148",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "06.23 15:14",
+          "new": false
+        },
+        {
+          "title": "Korean team targets 2029 clinical trial for homegrown retinal gene therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32147",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "06.23 15:01",
+          "new": false
+        },
+        {
+          "title": "[BIO USA 2026] SK biopharmaceuticals bets on AI, open innovation to build East-West biotech bridge",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32144",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "06.23 14:25",
+          "new": false
+        },
+        {
+          "title": "For 77 island villages, the hospital arrives by sea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32145",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "06.23 13:48",
+          "new": false
+        },
         {
           "title": "Korea's digital healthcare bill sparks debate over medical data use and AI",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32143",
@@ -82,86 +162,6 @@
           "category": "K-Beauty",
           "author": "Kim Ji-hye",
           "date": "06.22 17:03",
-          "new": false
-        },
-        {
-          "title": "KRPIA welcomes Korean regulator's 1st international joint drug review, expects broader regulatory harmonization",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32131",
-          "category": "Policy",
-          "author": "Hong Sook",
-          "date": "06.22 17:03",
-          "new": false
-        },
-        {
-          "title": "240-day review system is a 3-legged race with industry, top drug regulator says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32128",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "06.22 15:52",
-          "new": false
-        },
-        {
-          "title": "Remedi bets on low-dose, high-resolution X-ray technology in its 3rd Kosdaq attempt",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32127",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "06.22 15:47",
-          "new": false
-        },
-        {
-          "title": "Innovo Therapeutics scores Korean phase 3 approval for scar treatment, INV-001",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32124",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.22 15:10",
-          "new": false
-        },
-        {
-          "title": "Proteina signs 1st pharma deal in partnership with a Parkinson’s foundation network",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32125",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.22 15:09",
-          "new": false
-        },
-        {
-          "title": "Korea updates liver cancer guidelines to prioritize immunotherapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32126",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "06.22 15:09",
-          "new": false
-        },
-        {
-          "title": "Insurance coverage for migraine therapies is more urgent than hair loss treatments, headache society argues",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32122",
-          "category": "Policy",
-          "author": "You Ji-young",
-          "date": "06.22 14:10",
-          "new": false
-        },
-        {
-          "title": "Health ministry finalizes insurance coverage scenarios for hair loss treatment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32121",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "06.22 14:09",
-          "new": false
-        },
-        {
-          "title": "Defying medical community's planned rally, government pushes ahead with manual therapy coverage controls",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32123",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "06.22 13:44",
-          "new": false
-        },
-        {
-          "title": "[Column] For Crohn’s disease and ulcerative colitis, key question is not what to avoid but what to eat",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32120",
-          "category": "Opinion",
-          "author": "Yoo In-hyuk",
-          "date": "06.22 13:27",
           "new": false
         }
       ]

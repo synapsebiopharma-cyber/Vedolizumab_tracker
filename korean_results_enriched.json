@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-06-23 04:41:21 IST",
+  "last_updated": "2026-06-23 10:59:01 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea's new baldness data spotlights a potential $455 million plan to cover a drug that can cost $6 a month",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32153",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "06.23 17:47",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Hemophilia B drug Idelvion is now available at KHF-run clinics",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32152",
+          "category": "Pharma",
+          "author": "You Ji-young",
+          "date": "06.23 16:33",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Korean team targets 2029 clinical trial for homegrown retinal gene therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32147",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "06.23 15:01",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "[BIO USA 2026] SK biopharmaceuticals bets on AI, open innovation to build East-West biotech bridge",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32144",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "06.23 14:25",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Numeco secures approval for 200-unit Newlux botulinum toxin",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32140",
@@ -20,7 +56,7 @@
           "author": "Kim Yoon-mi",
           "date": "06.23 10:43",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Financial"
         },
         {
           "title": "Yuhan secures EMA orphan drug designation for Gaucher disease candidate",
@@ -32,22 +68,13 @@
           "tag": "Pipeline"
         },
         {
-          "title": "[BIO USA 2026] AstraZeneca expands hunt for external innovation beyond single-asset licensing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32133",
+          "title": "[BIO USA 2026] China’s biotech rise puts Korea on notice: KoreaBIO VP",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32137",
           "category": "Special",
           "author": "Lee Han-soo",
-          "date": "06.23 09:34",
+          "date": "06.23 09:26",
           "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "GLP-1s linked to 51% drop in colorectal cancer risk as cancer blood test proves out across Asia",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32132",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.23 09:24",
-          "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Other"
         },
         {
           "title": "SK biopharm agrees with Insilico to hunt CNS drug candidates in potential $2.57 billion pact",
@@ -56,25 +83,7 @@
           "author": "Kim Ji-hye",
           "date": "06.22 17:04",
           "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Innovo Therapeutics scores Korean phase 3 approval for scar treatment, INV-001",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32124",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.22 15:10",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Proteina signs 1st pharma deal in partnership with a Parkinson’s foundation network",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32125",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.22 15:09",
-          "new": false,
-          "tag": "Collaboration"
+          "tag": "Other"
         }
       ]
     }
