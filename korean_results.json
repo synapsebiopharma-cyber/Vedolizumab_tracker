@@ -1,9 +1,89 @@
 {
-  "last_updated": "2026-06-23 10:59:01 IST",
+  "last_updated": "2026-06-24 04:48:50 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Higher self-efficacy linked to lower risk of internet gaming disorder, study finds",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32163",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "06.24 13:31",
+          "new": false
+        },
+        {
+          "title": "LYV Sciences showcases aesthetics portfolio, wins two awards at AMWC Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32162",
+          "category": "K-Beauty",
+          "author": "Kim Ji-hye",
+          "date": "06.24 13:24",
+          "new": false
+        },
+        {
+          "title": "Daewoong's Fexuclue wins phase 3 IND approval for gastric ulcer indication",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32161",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "06.24 13:21",
+          "new": false
+        },
+        {
+          "title": "Hugel’s overseas leaders frame K-aesthetics as clinical philosophy, not beauty trend",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32160",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "06.24 11:45",
+          "new": false
+        },
+        {
+          "title": "Labor, civic groups oppose Ihn Yohan's election as Korean Red Cross chief",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32159",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "06.24 11:35",
+          "new": false
+        },
+        {
+          "title": "ROKIT America moves closer to Nasdaq listing after SEC clears registration statement",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32158",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.24 10:55",
+          "new": false
+        },
+        {
+          "title": "Huons BioPharma secures KDDF funding to advance peptide eye-drop therapy for dry AMD",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32157",
+          "category": "Bio",
+          "author": "Kwon Min-seon",
+          "date": "06.24 10:42",
+          "new": false
+        },
+        {
+          "title": "LASEROPTEK showcases aesthetic laser portfolio at IMCAS Asia 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32156",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "06.24 10:25",
+          "new": false
+        },
+        {
+          "title": "[Global Pharma Leadership Voices] The future of pharmaceutical innovation begins where patients still wait",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32142",
+          "category": "Opinion",
+          "author": "Kang So-young",
+          "date": "06.24 09:40",
+          "new": false
+        },
+        {
+          "title": "Humedix exports osteoarthritis injection to Brazil after regulatory approval",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32155",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "06.24 09:36",
+          "new": false
+        },
         {
           "title": "Korea's new baldness data spotlights a potential $455 million plan to cover a drug that can cost $6 a month",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32153",
@@ -82,86 +162,6 @@
           "category": "Hospital",
           "author": "Kim Jung-hyun",
           "date": "06.23 13:48",
-          "new": false
-        },
-        {
-          "title": "Korea's digital healthcare bill sparks debate over medical data use and AI",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32143",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "06.23 13:38",
-          "new": false
-        },
-        {
-          "title": "Dong-A Socio Holdings adopts ISSB standards in new sustainability report",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32141",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.23 11:17",
-          "new": false
-        },
-        {
-          "title": "Numeco secures approval for 200-unit Newlux botulinum toxin",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32140",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "06.23 10:54",
-          "new": false
-        },
-        {
-          "title": "Huons wins KDDF funding to advance fibrostenotic Crohn's disease drug candidate",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32139",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "06.23 10:43",
-          "new": false
-        },
-        {
-          "title": "Yuhan secures EMA orphan drug designation for Gaucher disease candidate",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32138",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.23 10:23",
-          "new": false
-        },
-        {
-          "title": "[BIO USA 2026] AstraZeneca expands hunt for external innovation beyond single-asset licensing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32133",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "06.23 09:34",
-          "new": false
-        },
-        {
-          "title": "[BIO USA 2026] China’s biotech rise puts Korea on notice: KoreaBIO VP",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32137",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "06.23 09:26",
-          "new": false
-        },
-        {
-          "title": "GLP-1s linked to 51% drop in colorectal cancer risk as cancer blood test proves out across Asia",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32132",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.23 09:24",
-          "new": false
-        },
-        {
-          "title": "SK biopharm agrees with Insilico to hunt CNS drug candidates in potential $2.57 billion pact",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32129",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.22 17:04",
-          "new": false
-        },
-        {
-          "title": "LG Chem spins off aesthetics business in 3-way merger",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32130",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "06.22 17:03",
           "new": false
         }
       ]
