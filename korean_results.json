@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-06-24 04:48:50 IST",
+  "last_updated": "2026-06-24 10:36:55 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[BIO USA 2026] Samsung Biologics to open Netherlands sales office as European CDMO push gains pace",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32172",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "06.24 17:00",
+          "new": false
+        },
+        {
+          "title": "10-year data raises possibility of broader tissue valve use in younger patients",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32154",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "06.24 16:00",
+          "new": false
+        },
+        {
+          "title": "[BIO USA 2026] NVIDIA pushes agentic AI beyond coding and into drug discovery",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32170",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "06.24 15:25",
+          "new": false
+        },
+        {
+          "title": "Hospital culture, not technology, remains biggest barrier to AI adoption, physician says",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32169",
+          "category": "Hospital",
+          "author": "Kwak Sung-sun",
+          "date": "06.24 15:13",
+          "new": false
+        },
+        {
+          "title": "Helixmith secures ₩4.75 bil. in government funding over 5 years",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32168",
+          "category": "Bio",
+          "author": "Park Gi-taek",
+          "date": "06.24 14:40",
+          "new": false
+        },
+        {
+          "title": "Eisai's insomnia drug Dayvigo wins approval in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32167",
+          "category": "Pharma",
+          "author": "Hong Sook",
+          "date": "06.24 14:21",
+          "new": false
+        },
+        {
+          "title": "Galux secures KDDF support for AI-designed bispecific cancer immunotherapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32166",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.24 14:15",
+          "new": false
+        },
+        {
+          "title": "Peptron launches next-generation ADC research collaboration with Debiopharm",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32165",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "06.24 14:12",
+          "new": false
+        },
+        {
+          "title": "Viral comedy skit prompts nurses to share realities of hospital working conditions",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32164",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "06.24 14:09",
+          "new": false
+        },
         {
           "title": "Higher self-efficacy linked to lower risk of internet gaming disorder, study finds",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32163",
@@ -90,78 +162,6 @@
           "category": "Policy",
           "author": "Kim Ji-hye",
           "date": "06.23 17:47",
-          "new": false
-        },
-        {
-          "title": "Hemophilia B drug Idelvion is now available at KHF-run clinics",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32152",
-          "category": "Pharma",
-          "author": "You Ji-young",
-          "date": "06.23 16:33",
-          "new": false
-        },
-        {
-          "title": "Government raises malpractice coverage to ₩1.8 bil. for essential care physicians",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32151",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "06.23 16:20",
-          "new": false
-        },
-        {
-          "title": "Poorly controlled severe asthma raises risk of daily activity limitations fivefold: study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32150",
-          "category": "Hospital",
-          "author": "Kwak Sung-sun",
-          "date": "06.23 16:01",
-          "new": false
-        },
-        {
-          "title": "[Column] AI becomes a force multiplier in the fight against rare diseases",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32149",
-          "category": "Opinion",
-          "author": "Yoo Han-wook",
-          "date": "06.23 15:54",
-          "new": false
-        },
-        {
-          "title": "[Photo News] From CDMO to AI, Korean biotechs make their case at BIO USA 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32146",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "06.23 15:36",
-          "new": false
-        },
-        {
-          "title": "Ovarian cancer risk linked to BMI above 28, experts say",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32148",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "06.23 15:14",
-          "new": false
-        },
-        {
-          "title": "Korean team targets 2029 clinical trial for homegrown retinal gene therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32147",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "06.23 15:01",
-          "new": false
-        },
-        {
-          "title": "[BIO USA 2026] SK biopharmaceuticals bets on AI, open innovation to build East-West biotech bridge",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32144",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "06.23 14:25",
-          "new": false
-        },
-        {
-          "title": "For 77 island villages, the hospital arrives by sea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32145",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "06.23 13:48",
           "new": false
         }
       ]

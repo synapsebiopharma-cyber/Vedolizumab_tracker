@@ -1,9 +1,72 @@
 {
-  "last_updated": "2026-06-24 04:48:50 IST",
+  "last_updated": "2026-06-24 10:36:55 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[BIO USA 2026] Samsung Biologics to open Netherlands sales office as European CDMO push gains pace",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32172",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "06.24 17:00",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "[BIO USA 2026] NVIDIA pushes agentic AI beyond coding and into drug discovery",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32170",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "06.24 15:25",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Helixmith secures ₩4.75 bil. in government funding over 5 years",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32168",
+          "category": "Bio",
+          "author": "Park Gi-taek",
+          "date": "06.24 14:40",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Eisai's insomnia drug Dayvigo wins approval in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32167",
+          "category": "Pharma",
+          "author": "Hong Sook",
+          "date": "06.24 14:21",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Galux secures KDDF support for AI-designed bispecific cancer immunotherapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32166",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.24 14:15",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Peptron launches next-generation ADC research collaboration with Debiopharm",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32165",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "06.24 14:12",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "LYV Sciences showcases aesthetics portfolio, wins two awards at AMWC Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32162",
+          "category": "K-Beauty",
+          "author": "Kim Ji-hye",
+          "date": "06.24 13:24",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Daewoong's Fexuclue wins phase 3 IND approval for gastric ulcer indication",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32161",
@@ -11,7 +74,7 @@
           "author": "Kwon Min-seon",
           "date": "06.24 13:21",
           "new": false,
-          "tag": "FDA Approval"
+          "tag": "Clinical Trial"
         },
         {
           "title": "Hugel’s overseas leaders frame K-aesthetics as clinical philosophy, not beauty trend",
@@ -23,20 +86,29 @@
           "tag": "Other"
         },
         {
+          "title": "ROKIT America moves closer to Nasdaq listing after SEC clears registration statement",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32158",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.24 10:55",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
           "title": "Huons BioPharma secures KDDF funding to advance peptide eye-drop therapy for dry AMD",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32157",
           "category": "Bio",
           "author": "Kwon Min-seon",
           "date": "06.24 10:42",
           "new": false,
-          "tag": "Financial"
+          "tag": "Pipeline"
         },
         {
-          "title": "[Global Pharma Leadership Voices] The future of pharmaceutical innovation begins where patients still wait",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32142",
-          "category": "Opinion",
-          "author": "Kang So-young",
-          "date": "06.24 09:40",
+          "title": "LASEROPTEK showcases aesthetic laser portfolio at IMCAS Asia 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32156",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "06.24 10:25",
           "new": false,
           "tag": "Other"
         },
@@ -46,42 +118,6 @@
           "category": "Device/ICT",
           "author": "Kim Yoon-mi",
           "date": "06.24 09:36",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Korea's new baldness data spotlights a potential $455 million plan to cover a drug that can cost $6 a month",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32153",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "06.23 17:47",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Hemophilia B drug Idelvion is now available at KHF-run clinics",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32152",
-          "category": "Pharma",
-          "author": "You Ji-young",
-          "date": "06.23 16:33",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Korean team targets 2029 clinical trial for homegrown retinal gene therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32147",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "06.23 15:01",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "[BIO USA 2026] SK biopharmaceuticals bets on AI, open innovation to build East-West biotech bridge",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32144",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "06.23 14:25",
           "new": false,
           "tag": "Other"
         }
