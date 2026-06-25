@@ -1,9 +1,129 @@
 {
-  "last_updated": "2026-06-24 10:36:55 IST",
+  "last_updated": "2026-06-25 04:43:39 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "‘In COPD, the 1st exacerbation is the turning point in treatment’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32186",
+          "category": "Hospital",
+          "author": "Kim Yun-mi",
+          "date": "06.25 13:26",
+          "new": false
+        },
+        {
+          "title": "[BIO USA 2026] Samsung Biologics expands Bio R&D Center beyond CDMO support",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32183",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "06.25 12:00",
+          "new": false
+        },
+        {
+          "title": "[BIO USA 2026] Lotte Biologics accelerates Songdo plant toward commercial production, eyes 1st global orders",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32179",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "06.25 12:00",
+          "new": false
+        },
+        {
+          "title": "Gil Medical Center to develop AI program for suicide loss survivors",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32185",
+          "category": "Hospital",
+          "author": "Kim Ji-hye",
+          "date": "06.25 11:35",
+          "new": false
+        },
+        {
+          "title": "Noul enters UAE with miLab supply deal, targets broader Middle East expansion",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32184",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "06.25 11:22",
+          "new": false
+        },
+        {
+          "title": "GC Biopharma unveils ‘THE FAB FIVE’ to sharpen R&D focus",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32182",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.25 11:00",
+          "new": false
+        },
+        {
+          "title": "MabTics, Curacle receive national R&D backing for antithrombotic antibody MT-201",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32181",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.25 10:47",
+          "new": false
+        },
+        {
+          "title": "[BIO USA 2026] PanGen Biotech eyes Europe as next market for EPO biosimilar",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32180",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "06.25 09:52",
+          "new": false
+        },
+        {
+          "title": "[BIO USA 2026] AriBio broadens dementia pipeline strategy after Fosun deal: AriBio USA chief",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32178",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "06.25 09:44",
+          "new": false
+        },
+        {
+          "title": "Gilead to refile Yescarta reimbursement bid after Korea review stalls",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32177",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.25 09:37",
+          "new": false
+        },
+        {
+          "title": "Xcell Therapeutics signs 3rd China MOU, completing cell therapy media portfolio coverage",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32175",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.25 09:28",
+          "new": false
+        },
+        {
+          "title": "Korea should broker global pharma IP disputes, Lancet commentary argues",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32176",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "06.25 09:23",
+          "new": false
+        },
+        {
+          "title": "Hemophilia A drug Hemlibra demonstrates long-term safety, sharply cutting exercise-related bleeding risk",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32174",
+          "category": "Pharma",
+          "author": "You Ji-young",
+          "date": "06.25 09:00",
+          "new": false
+        },
+        {
+          "title": "Age ceiling set at 74 as Korea revises gastric cancer screening guidelines after a decade",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32173",
+          "category": "Policy",
+          "author": "You Ji-young",
+          "date": "06.25 09:00",
+          "new": false
+        },
+        {
+          "title": "Government to revise CML catastrophic illness coverage criteria following patient concerns",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32171",
+          "category": "Policy",
+          "author": "Kim Jung-hyun",
+          "date": "06.25 09:00",
+          "new": false
+        },
         {
           "title": "[BIO USA 2026] Samsung Biologics to open Netherlands sales office as European CDMO push gains pace",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32172",
@@ -42,126 +162,6 @@
           "category": "Bio",
           "author": "Park Gi-taek",
           "date": "06.24 14:40",
-          "new": false
-        },
-        {
-          "title": "Eisai's insomnia drug Dayvigo wins approval in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32167",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "06.24 14:21",
-          "new": false
-        },
-        {
-          "title": "Galux secures KDDF support for AI-designed bispecific cancer immunotherapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32166",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.24 14:15",
-          "new": false
-        },
-        {
-          "title": "Peptron launches next-generation ADC research collaboration with Debiopharm",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32165",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "06.24 14:12",
-          "new": false
-        },
-        {
-          "title": "Viral comedy skit prompts nurses to share realities of hospital working conditions",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32164",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "06.24 14:09",
-          "new": false
-        },
-        {
-          "title": "Higher self-efficacy linked to lower risk of internet gaming disorder, study finds",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32163",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "06.24 13:31",
-          "new": false
-        },
-        {
-          "title": "LYV Sciences showcases aesthetics portfolio, wins two awards at AMWC Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32162",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "06.24 13:24",
-          "new": false
-        },
-        {
-          "title": "Daewoong's Fexuclue wins phase 3 IND approval for gastric ulcer indication",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32161",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "06.24 13:21",
-          "new": false
-        },
-        {
-          "title": "Hugel’s overseas leaders frame K-aesthetics as clinical philosophy, not beauty trend",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32160",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "06.24 11:45",
-          "new": false
-        },
-        {
-          "title": "Labor, civic groups oppose Ihn Yohan's election as Korean Red Cross chief",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32159",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "06.24 11:35",
-          "new": false
-        },
-        {
-          "title": "ROKIT America moves closer to Nasdaq listing after SEC clears registration statement",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32158",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.24 10:55",
-          "new": false
-        },
-        {
-          "title": "Huons BioPharma secures KDDF funding to advance peptide eye-drop therapy for dry AMD",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32157",
-          "category": "Bio",
-          "author": "Kwon Min-seon",
-          "date": "06.24 10:42",
-          "new": false
-        },
-        {
-          "title": "LASEROPTEK showcases aesthetic laser portfolio at IMCAS Asia 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32156",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "06.24 10:25",
-          "new": false
-        },
-        {
-          "title": "[Global Pharma Leadership Voices] The future of pharmaceutical innovation begins where patients still wait",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32142",
-          "category": "Opinion",
-          "author": "Kang So-young",
-          "date": "06.24 09:40",
-          "new": false
-        },
-        {
-          "title": "Humedix exports osteoarthritis injection to Brazil after regulatory approval",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32155",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "06.24 09:36",
-          "new": false
-        },
-        {
-          "title": "Korea's new baldness data spotlights a potential $455 million plan to cover a drug that can cost $6 a month",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32153",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "06.23 17:47",
           "new": false
         }
       ]
