@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-06-25 04:43:39 IST",
+  "last_updated": "2026-06-25 10:29:28 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[BIO USA 2026] ABL Bio bets on Neok Bio to create US-Style value through later-stage clinical development",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32187",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "06.25 17:00",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Medytox wins China approval for NEURAMIS filler, expands presence in aesthetic market",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32192",
+          "category": "K-Beauty",
+          "author": "Kim Ji-hye",
+          "date": "06.25 16:01",
+          "new": false,
+          "tag": "FDA Approval"
+        },
         {
           "title": "[BIO USA 2026] Samsung Biologics expands Bio R&D Center beyond CDMO support",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32183",
@@ -11,7 +29,7 @@
           "author": "Lee Han-soo",
           "date": "06.25 12:00",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Other"
         },
         {
           "title": "[BIO USA 2026] Lotte Biologics accelerates Songdo plant toward commercial production, eyes 1st global orders",
@@ -93,24 +111,6 @@
           "date": "06.25 09:00",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "[BIO USA 2026] Samsung Biologics to open Netherlands sales office as European CDMO push gains pace",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32172",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "06.24 17:00",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Helixmith secures ₩4.75 bil. in government funding over 5 years",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32168",
-          "category": "Bio",
-          "author": "Park Gi-taek",
-          "date": "06.24 14:40",
-          "new": false,
-          "tag": "Financial"
         }
       ]
     }
