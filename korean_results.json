@@ -1,9 +1,57 @@
 {
-  "last_updated": "2026-06-26 04:57:24 IST",
+  "last_updated": "2026-06-26 10:40:58 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Deepnoid wins Korea's 1st clearance for generative chest X-ray AI, with FDA ambitions in tow",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32212",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "06.26 17:44",
+          "new": false
+        },
+        {
+          "title": "Huons Group publishes 2026 sustainability report covering 4 listed affiliates",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32211",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "06.26 16:25",
+          "new": false
+        },
+        {
+          "title": "Taiwanese tourist recovers after emergency brain surgery at Busan Paik Hospital",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32210",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "06.26 16:13",
+          "new": false
+        },
+        {
+          "title": "Experts urge Korea to tap nonprofit medical foundations to strengthen public healthcare",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32209",
+          "category": "Policy",
+          "author": "Kim Eun-young",
+          "date": "06.26 15:49",
+          "new": false
+        },
+        {
+          "title": "KCA meeting spotlights AI, K-Bio and multidisciplinary cancer care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32208",
+          "category": "Hospital",
+          "author": "Kim Yun-mi",
+          "date": "06.26 15:24",
+          "new": false
+        },
+        {
+          "title": "Korea's chip fund makes first biotech bet, backing LigaChem with $323 million",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32207",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.26 14:50",
+          "new": false
+        },
         {
           "title": "Korea University Ansan Hospital launches smart pharmacy with chemotherapy robot",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32206",
@@ -114,54 +162,6 @@
           "category": "Policy",
           "author": "Kwak Sung-sun",
           "date": "06.26 09:00",
-          "new": false
-        },
-        {
-          "title": "[BIO USA 2026] ABL Bio bets on Neok Bio to create US-Style value through later-stage clinical development",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32187",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "06.25 17:00",
-          "new": false
-        },
-        {
-          "title": "Medytox wins China approval for NEURAMIS filler, expands presence in aesthetic market",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32192",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "06.25 16:01",
-          "new": false
-        },
-        {
-          "title": "Debate over limits on shockwave therapy sessions goes global",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32191",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "06.25 15:57",
-          "new": false
-        },
-        {
-          "title": "AI-empowered 'smarter patients' are coming: what skills will physicians need?",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32189",
-          "category": "Hospital",
-          "author": "Kwak Sung-sun",
-          "date": "06.25 15:04",
-          "new": false
-        },
-        {
-          "title": "CAD patients live like cancer patients, but rare disease system leaves many without treatment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32188",
-          "category": "Hospital",
-          "author": "You Ji-young",
-          "date": "06.25 14:10",
-          "new": false
-        },
-        {
-          "title": "‘In COPD, the 1st exacerbation is the turning point in treatment’",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32186",
-          "category": "Hospital",
-          "author": "Kim Yun-mi",
-          "date": "06.25 13:26",
           "new": false
         }
       ]

@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-06-26 04:57:24 IST",
+  "last_updated": "2026-06-26 10:40:58 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Deepnoid wins Korea's 1st clearance for generative chest X-ray AI, with FDA ambitions in tow",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32212",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "06.26 17:44",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Korea's chip fund makes first biotech bet, backing LigaChem with $323 million",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32207",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.26 14:50",
+          "new": false,
+          "tag": "Financial"
+        },
         {
           "title": "Merck Life Science, Inha University partner to nurture biopharma talent",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32205",
@@ -66,24 +84,6 @@
           "date": "06.26 09:00",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "[BIO USA 2026] ABL Bio bets on Neok Bio to create US-Style value through later-stage clinical development",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32187",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "06.25 17:00",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Medytox wins China approval for NEURAMIS filler, expands presence in aesthetic market",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32192",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "06.25 16:01",
-          "new": false,
-          "tag": "FDA Approval"
         }
       ]
     }
