@@ -1,9 +1,54 @@
 {
-  "last_updated": "2026-06-28 10:18:08 IST",
+  "last_updated": "2026-06-29 05:12:21 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "AriBio completes main phase 3 dosing for oral Alzheimer's drug AR1001, topline data due this fall",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32221",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.29 13:48",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "GC Wellbeing secures Korean rights to next-gen fat-dissolving injection ahead of US phase 3 trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32219",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.29 13:25",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Three weeks after taking a stake in OliX, L'Oréal signs expanded siRNA deal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32218",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.29 13:17",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "SK chemicals, J2H Biotech sign LOI to co-develop MASH therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32215",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.29 11:03",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "[BIO USA 2026] Inside Lilly’s San Diego incubator: Gateway Labs model headed to Korea through Samsung Biologics",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32214",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "06.29 09:44",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "Korea's chip fund makes first biotech bet, backing LigaChem with $323 million",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32207",
@@ -21,60 +66,6 @@
           "date": "06.26 13:37",
           "new": false,
           "tag": "Collaboration"
-        },
-        {
-          "title": "Gencurix to acquire liquid biopsy startup GenoPeaks in small-scale merger",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32199",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.26 11:15",
-          "new": false,
-          "tag": "Acquisition"
-        },
-        {
-          "title": "[Exclusive] NVIDIA eyes Korean biobank amid SK biopharmaceuticals’ AI drug discovery push",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32197",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "06.26 10:20",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "[BIO USA 2026] Celltrion expands AI-driven drug development partnerships",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32196",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "06.26 10:06",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "AprilBio to be acquired by chemical group TKG in $225 mil. deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32195",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.26 09:43",
-          "new": false,
-          "tag": "Acquisition"
-        },
-        {
-          "title": "Amid Gavi funding shortfall, EuBiologics bets on Korea-Africa tech transfer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32198",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "06.26 09:41",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Rare disease drug listing period to be cut from 240 to 100 days under the H2 pilot program",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32193",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "06.26 09:00",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }
