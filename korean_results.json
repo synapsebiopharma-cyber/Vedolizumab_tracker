@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-06-30 04:46:12 IST",
+  "last_updated": "2026-06-30 10:47:46 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Qurient’s CDK7 inhibitor extends survival in preclinical pediatric brain cancer study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32256",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "06.30 17:32",
+          "new": false
+        },
+        {
+          "title": "Intuitive's robotic surgery use in Korea nearly triples, but insurance coverage still lags",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32255",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "06.30 16:46",
+          "new": false
+        },
+        {
+          "title": "Hospitalists warn of crisis after being left out of healthcare reforms",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32251",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "06.30 15:00",
+          "new": false
+        },
+        {
+          "title": "Tremfya enters Korea’s inflammatory bowel disease reimbursement market as care shifts toward deep remission",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32248",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "06.30 14:45",
+          "new": false
+        },
+        {
+          "title": "[Interview] 'CLL affects younger people, and more aggressively, in Korea, so treatment options should be expanded'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32250",
+          "category": "Hospital",
+          "author": "Hong Sook",
+          "date": "06.30 14:17",
+          "new": false
+        },
+        {
+          "title": "Korea adds pancreatic disorders to disability registry for first time in 23 years",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32249",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "06.30 14:14",
+          "new": false
+        },
+        {
+          "title": "Korea adds alcohol addiction treatment to 24/7 essential care program, names 8 more specialty hospitals",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32247",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "06.30 14:00",
+          "new": false
+        },
         {
           "title": "Roche launches AXELIOS 1 sequencing platform, installs 1st system in Asia at Macrogen",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32246",
@@ -106,62 +162,6 @@
           "category": "Device/ICT",
           "author": "Kim Ji-hye",
           "date": "06.29 17:39",
-          "new": false
-        },
-        {
-          "title": "Samsung Bioepis’ Keytruda biosimilar clears phase 1 and phase 3 trials",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32233",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.29 17:10",
-          "new": false
-        },
-        {
-          "title": "Government retreats on hair loss coverage debate after backlash",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32232",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "06.29 16:52",
-          "new": false
-        },
-        {
-          "title": "Four pulmonary hypertension drugs blocked or unaffordable in Korea, doctors say",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32228",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "06.29 16:40",
-          "new": false
-        },
-        {
-          "title": "[BIO USA 2026] Galux pushes AI protein design toward bigger global pharma deals",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32229",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "06.29 16:11",
-          "new": false
-        },
-        {
-          "title": "SCL introduces Korea's 1st automated platform for newborn screening",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32227",
-          "category": "Hospital",
-          "author": "You Ji-young",
-          "date": "06.29 15:36",
-          "new": false
-        },
-        {
-          "title": "Daewoong supplies AI Monitoring system thynC to Hanyang University Hospital",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32226",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.29 15:33",
-          "new": false
-        },
-        {
-          "title": "Korea approves clinical study of NK cell therapy for recurrent glioblastoma",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32225",
-          "category": "Policy",
-          "author": "Kim Kyoung-Won",
-          "date": "06.29 15:29",
           "new": false
         }
       ]
