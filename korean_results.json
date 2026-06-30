@@ -1,9 +1,105 @@
 {
-  "last_updated": "2026-06-29 12:20:57 IST",
+  "last_updated": "2026-06-30 04:46:12 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Roche launches AXELIOS 1 sequencing platform, installs 1st system in Asia at Macrogen",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32246",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "06.30 13:31",
+          "new": false
+        },
+        {
+          "title": "GeneMatrix wins EU nod for tuberculosis diagnostic kit",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32245",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "06.30 13:12",
+          "new": false
+        },
+        {
+          "title": "Coreline Soft sees usage-based revenue surge in US radiology deal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32242",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "06.30 13:11",
+          "new": false
+        },
+        {
+          "title": "Korean diabetes society slams government's GLP-1 misuse designation as symbolic",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32241",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "06.30 13:10",
+          "new": false
+        },
+        {
+          "title": "New HIV cases in Korea fall 4.9% in 2025: KDCA report",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32243",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "06.30 11:38",
+          "new": false
+        },
+        {
+          "title": "Neurophet supplies brain imaging AI software to Singapore's Raffles Hospital",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32240",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "06.30 11:33",
+          "new": false
+        },
+        {
+          "title": "BONNE expands Touch in Sol base makeup line at Olive Young Town stores",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32239",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "06.30 11:05",
+          "new": false
+        },
+        {
+          "title": "LG Chem secures FDA clearance for phase 1/2 trial of TP53-mutant solid tumor drug candidate",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32238",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.30 10:44",
+          "new": false
+        },
+        {
+          "title": "Roen Surgical signs MOU with US firm Sovato to advance telesurgery integration",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32236",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "06.30 09:57",
+          "new": false
+        },
+        {
+          "title": "[Contribution] From ownership to connection: What BIO USA says about the next 50 years of biotech",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32235",
+          "category": "Opinion",
+          "author": "Lee Dong-hoon",
+          "date": "06.30 09:35",
+          "new": false
+        },
+        {
+          "title": "Korea's maternity care system faces twin crises of population decline and physician shortages",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32231",
+          "category": "Hospital",
+          "author": "You Ji-young",
+          "date": "06.30 09:20",
+          "new": false
+        },
+        {
+          "title": "[Global Pharma Leadership Voices] 70 Injections to have a child: Why Korea must embrace smarter injection technology",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32213",
+          "category": "Opinion",
+          "author": "Christoph Hamann",
+          "date": "06.30 09:00",
+          "new": false
+        },
         {
           "title": "SEERS wins FDA clearance for mobiCARE wearable heart monitor",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32234",
@@ -66,102 +162,6 @@
           "category": "Policy",
           "author": "Kim Kyoung-Won",
           "date": "06.29 15:29",
-          "new": false
-        },
-        {
-          "title": "Doctors protest proposed controls on non-covered care, accuse ministry of serving insurers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32224",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "06.29 14:50",
-          "new": false
-        },
-        {
-          "title": "Sanofi's Tdap vaccine Adacel approved for use during pregnancy to protect newborns against pertussis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32223",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.29 14:37",
-          "new": false
-        },
-        {
-          "title": "Study shows minimally invasive procedures now dominate kidney stone treatment in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32222",
-          "category": "Hospital",
-          "author": "Lee Chang-ho",
-          "date": "06.29 14:16",
-          "new": false
-        },
-        {
-          "title": "AriBio completes main phase 3 dosing for oral Alzheimer's drug AR1001, topline data due this fall",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32221",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.29 13:48",
-          "new": false
-        },
-        {
-          "title": "SK bioscience highlights climate action and global health initiatives in 2026 ESG Report",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32220",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.29 13:34",
-          "new": false
-        },
-        {
-          "title": "GC Wellbeing secures Korean rights to next-gen fat-dissolving injection ahead of US phase 3 trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32219",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.29 13:25",
-          "new": false
-        },
-        {
-          "title": "Three weeks after taking a stake in OliX, L'Oréal signs expanded siRNA deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32218",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.29 13:17",
-          "new": false
-        },
-        {
-          "title": "KHIDI expands US support network with new hub at Texas Medical Center",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32217",
-          "category": "Policy",
-          "author": "Lee Han-soo",
-          "date": "06.29 11:25",
-          "new": false
-        },
-        {
-          "title": "'CGM tied to lower complication and mortality risks in type 1 diabetes'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32216",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "06.29 11:12",
-          "new": false
-        },
-        {
-          "title": "SK chemicals, J2H Biotech sign LOI to co-develop MASH therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32215",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.29 11:03",
-          "new": false
-        },
-        {
-          "title": "[BIO USA 2026] Inside Lilly’s San Diego incubator: Gateway Labs model headed to Korea through Samsung Biologics",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32214",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "06.29 09:44",
-          "new": false
-        },
-        {
-          "title": "Deepnoid wins Korea's 1st clearance for generative chest X-ray AI, with FDA ambitions in tow",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32212",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.26 17:44",
           "new": false
         }
       ]

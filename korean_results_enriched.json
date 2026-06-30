@@ -1,17 +1,26 @@
 {
-  "last_updated": "2026-06-29 12:20:57 IST",
+  "last_updated": "2026-06-30 04:46:12 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "SEERS wins FDA clearance for mobiCARE wearable heart monitor",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32234",
-          "category": "Device/ICT",
+          "title": "Korean diabetes society slams government's GLP-1 misuse designation as symbolic",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32241",
+          "category": "Policy",
           "author": "Kim Ji-hye",
-          "date": "06.29 17:39",
+          "date": "06.30 13:10",
           "new": false,
-          "tag": "FDA Approval"
+          "tag": "Other"
+        },
+        {
+          "title": "LG Chem secures FDA clearance for phase 1/2 trial of TP53-mutant solid tumor drug candidate",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32238",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "06.30 10:44",
+          "new": false,
+          "tag": "Clinical Trial"
         },
         {
           "title": "Samsung Bioepis’ Keytruda biosimilar clears phase 1 and phase 3 trials",
@@ -23,6 +32,15 @@
           "tag": "Clinical Trial"
         },
         {
+          "title": "Four pulmonary hypertension drugs blocked or unaffordable in Korea, doctors say",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32228",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "06.29 16:40",
+          "new": false,
+          "tag": "Other"
+        },
+        {
           "title": "[BIO USA 2026] Galux pushes AI protein design toward bigger global pharma deals",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32229",
           "category": "Special",
@@ -32,15 +50,6 @@
           "tag": "Pipeline"
         },
         {
-          "title": "Daewoong supplies AI Monitoring system thynC to Hanyang University Hospital",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32226",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.29 15:33",
-          "new": false,
-          "tag": "Other"
-        },
-        {
           "title": "Korea approves clinical study of NK cell therapy for recurrent glioblastoma",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32225",
           "category": "Policy",
@@ -48,69 +57,6 @@
           "date": "06.29 15:29",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "Sanofi's Tdap vaccine Adacel approved for use during pregnancy to protect newborns against pertussis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32223",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.29 14:37",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "AriBio completes main phase 3 dosing for oral Alzheimer's drug AR1001, topline data due this fall",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32221",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.29 13:48",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "GC Wellbeing secures Korean rights to next-gen fat-dissolving injection ahead of US phase 3 trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32219",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.29 13:25",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Three weeks after taking a stake in OliX, L'Oréal signs expanded siRNA deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32218",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "06.29 13:17",
-          "new": false,
-          "tag": "Acquisition"
-        },
-        {
-          "title": "SK chemicals, J2H Biotech sign LOI to co-develop MASH therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32215",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "06.29 11:03",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "[BIO USA 2026] Inside Lilly’s San Diego incubator: Gateway Labs model headed to Korea through Samsung Biologics",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32214",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "06.29 09:44",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Deepnoid wins Korea's 1st clearance for generative chest X-ray AI, with FDA ambitions in tow",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32212",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.26 17:44",
-          "new": false,
-          "tag": "FDA Approval"
         }
       ]
     }
