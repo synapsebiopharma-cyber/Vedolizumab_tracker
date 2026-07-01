@@ -1,9 +1,113 @@
 {
-  "last_updated": "2026-06-30 10:47:46 IST",
+  "last_updated": "2026-07-01 05:08:48 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "VUNO breaks into Middle East market with ECG device deal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32266",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "07.01 14:05",
+          "new": false
+        },
+        {
+          "title": "Dong-A ST highlights oncology, immunology pipelines at BIO USA 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32267",
+          "category": "Pharma",
+          "author": "Park Gi-taek",
+          "date": "07.01 14:00",
+          "new": false
+        },
+        {
+          "title": "Tertiary hospital redesign raises bar for severe case treatment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32265",
+          "category": "Hospital",
+          "author": "Kwak Sung-sun",
+          "date": "07.01 13:50",
+          "new": false
+        },
+        {
+          "title": "Korea to re-evaluate coverage for Lynparza-bevacizumab regimen in HRD-positive ovarian cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32264",
+          "category": "Policy",
+          "author": "Kim Yun-mi",
+          "date": "07.01 13:28",
+          "new": false
+        },
+        {
+          "title": "SK chemicals, Eisai Korea partner to launch Korea's first orexin-blocking insomnia drug",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32263",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.01 11:42",
+          "new": false
+        },
+        {
+          "title": "Daewoong, CGBio launch veterinary wound dressing for pet skin care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32262",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "07.01 11:17",
+          "new": false
+        },
+        {
+          "title": "Severance performs robot-assisted Kasai procedure on 14-day-old infant weighing 3.14 kg",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32259",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "07.01 10:40",
+          "new": false
+        },
+        {
+          "title": "SMC's Park Hee-chul takes helm of Korean Liver Cancer Association",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32261",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "07.01 10:32",
+          "new": false
+        },
+        {
+          "title": "[Caring the Korean Way] Why Koreans try to sweat out fatigue before it becomes illness",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32260",
+          "category": "Life science",
+          "author": "Lee Han-soo",
+          "date": "07.01 10:13",
+          "new": false
+        },
+        {
+          "title": "Celltrion's Truxima becomes 1st interchangeable rituximab biosimilar in US",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32258",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.01 09:33",
+          "new": false
+        },
+        {
+          "title": "More than half of Pfizer's Lorviqua-treated lung cancer patients remain progression-free after 7 years",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32257",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "07.01 09:29",
+          "new": false
+        },
+        {
+          "title": "Kyung Hee University Hospital picked for 'Dr. Answer 3.0' diabetes AI project",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32253",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "07.01 09:10",
+          "new": false
+        },
+        {
+          "title": "Ulcerative colitis relapse risk rises 20% after stopping immunomodulators, study finds",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32252",
+          "category": "Hospital",
+          "author": "Kwak Sung-sun",
+          "date": "07.01 09:10",
+          "new": false
+        },
         {
           "title": "Qurient’s CDK7 inhibitor extends survival in preclinical pediatric brain cancer study",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32256",
@@ -58,110 +162,6 @@
           "category": "Policy",
           "author": "Kwak Sung-sun",
           "date": "06.30 14:00",
-          "new": false
-        },
-        {
-          "title": "Roche launches AXELIOS 1 sequencing platform, installs 1st system in Asia at Macrogen",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32246",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "06.30 13:31",
-          "new": false
-        },
-        {
-          "title": "GeneMatrix wins EU nod for tuberculosis diagnostic kit",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32245",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.30 13:12",
-          "new": false
-        },
-        {
-          "title": "Coreline Soft sees usage-based revenue surge in US radiology deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32242",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.30 13:11",
-          "new": false
-        },
-        {
-          "title": "Korean diabetes society slams government's GLP-1 misuse designation as symbolic",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32241",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "06.30 13:10",
-          "new": false
-        },
-        {
-          "title": "New HIV cases in Korea fall 4.9% in 2025: KDCA report",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32243",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "06.30 11:38",
-          "new": false
-        },
-        {
-          "title": "Neurophet supplies brain imaging AI software to Singapore's Raffles Hospital",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32240",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "06.30 11:33",
-          "new": false
-        },
-        {
-          "title": "BONNE expands Touch in Sol base makeup line at Olive Young Town stores",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32239",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "06.30 11:05",
-          "new": false
-        },
-        {
-          "title": "LG Chem secures FDA clearance for phase 1/2 trial of TP53-mutant solid tumor drug candidate",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32238",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.30 10:44",
-          "new": false
-        },
-        {
-          "title": "Roen Surgical signs MOU with US firm Sovato to advance telesurgery integration",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32236",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "06.30 09:57",
-          "new": false
-        },
-        {
-          "title": "[Contribution] From ownership to connection: What BIO USA says about the next 50 years of biotech",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32235",
-          "category": "Opinion",
-          "author": "Lee Dong-hoon",
-          "date": "06.30 09:35",
-          "new": false
-        },
-        {
-          "title": "Korea's maternity care system faces twin crises of population decline and physician shortages",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32231",
-          "category": "Hospital",
-          "author": "You Ji-young",
-          "date": "06.30 09:20",
-          "new": false
-        },
-        {
-          "title": "[Global Pharma Leadership Voices] 70 Injections to have a child: Why Korea must embrace smarter injection technology",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32213",
-          "category": "Opinion",
-          "author": "Christoph Hamann",
-          "date": "06.30 09:00",
-          "new": false
-        },
-        {
-          "title": "SEERS wins FDA clearance for mobiCARE wearable heart monitor",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32234",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.29 17:39",
           "new": false
         }
       ]

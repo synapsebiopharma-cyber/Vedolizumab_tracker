@@ -1,9 +1,63 @@
 {
-  "last_updated": "2026-06-30 10:47:46 IST",
+  "last_updated": "2026-07-01 05:08:48 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Dong-A ST highlights oncology, immunology pipelines at BIO USA 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32267",
+          "category": "Pharma",
+          "author": "Park Gi-taek",
+          "date": "07.01 14:00",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Korea to re-evaluate coverage for Lynparza-bevacizumab regimen in HRD-positive ovarian cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32264",
+          "category": "Policy",
+          "author": "Kim Yun-mi",
+          "date": "07.01 13:28",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "SK chemicals, Eisai Korea partner to launch Korea's first orexin-blocking insomnia drug",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32263",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.01 11:42",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Daewoong, CGBio launch veterinary wound dressing for pet skin care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32262",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "07.01 11:17",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Celltrion's Truxima becomes 1st interchangeable rituximab biosimilar in US",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32258",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.01 09:33",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "More than half of Pfizer's Lorviqua-treated lung cancer patients remain progression-free after 7 years",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32257",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "07.01 09:29",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "Qurient’s CDK7 inhibitor extends survival in preclinical pediatric brain cancer study",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32256",
@@ -11,16 +65,7 @@
           "author": "Kim Ji-hye",
           "date": "06.30 17:32",
           "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Intuitive's robotic surgery use in Korea nearly triples, but insurance coverage still lags",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32255",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.30 16:46",
-          "new": false,
-          "tag": "Other"
+          "tag": "Pipeline"
         },
         {
           "title": "Tremfya enters Korea’s inflammatory bowel disease reimbursement market as care shifts toward deep remission",
@@ -30,69 +75,6 @@
           "date": "06.30 14:45",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Roche launches AXELIOS 1 sequencing platform, installs 1st system in Asia at Macrogen",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32246",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "06.30 13:31",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "GeneMatrix wins EU nod for tuberculosis diagnostic kit",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32245",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.30 13:12",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Coreline Soft sees usage-based revenue surge in US radiology deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32242",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.30 13:11",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Neurophet supplies brain imaging AI software to Singapore's Raffles Hospital",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32240",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "06.30 11:33",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "LG Chem secures FDA clearance for phase 1/2 trial of TP53-mutant solid tumor drug candidate",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32238",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "06.30 10:44",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Roen Surgical signs MOU with US firm Sovato to advance telesurgery integration",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32236",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "06.30 09:57",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "SEERS wins FDA clearance for mobiCARE wearable heart monitor",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32234",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "06.29 17:39",
-          "new": false,
-          "tag": "FDA Approval"
         }
       ]
     }
