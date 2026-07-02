@@ -1,9 +1,54 @@
 {
-  "last_updated": "2026-07-01 11:06:23 IST",
+  "last_updated": "2026-07-02 04:40:38 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea approves new 1st-line treatment for extensive-stage small cell lung cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32285",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "07.02 13:40",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Samjin launches essential sedative injection for surgery and seizure emergencies",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32284",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "07.02 13:32",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Daewoong's Envlo enters MENA market in $93 mil. licensing deal with Acino",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32279",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "07.02 11:11",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Dongkook Pharm signs $25 mil. licensing deal with Spain's FAES FARMA for BPH drug in Latin America",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32280",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "07.02 10:42",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "SK bioscience to lead Gates Foundation-backed AI platform for vaccine development",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32278",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.02 09:34",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "Astellas launches Vyloy 300mg in Korea to ease gastric cancer drug preparation",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32276",
@@ -20,6 +65,15 @@
           "author": "Kim Ji-hye",
           "date": "07.01 15:46",
           "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Lilly Korea names Seiya Komatsu as new GM",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32269",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.01 14:40",
+          "new": false,
           "tag": "Other"
         },
         {
@@ -32,31 +86,22 @@
           "tag": "Other"
         },
         {
-          "title": "Tertiary hospital redesign raises bar for severe case treatment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32265",
-          "category": "Hospital",
-          "author": "Kwak Sung-sun",
-          "date": "07.01 13:50",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "SK chemicals, Eisai Korea partner to launch Korea's first orexin-blocking insomnia drug",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32263",
+          "title": "Dong-A ST highlights oncology, immunology pipelines at BIO USA 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32267",
           "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.01 11:42",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Celltrion's Truxima becomes 1st interchangeable rituximab biosimilar in US",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32258",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.01 09:33",
+          "author": "Park Gi-taek",
+          "date": "07.01 14:00",
           "new": false,
           "tag": "Pipeline"
+        },
+        {
+          "title": "Korea to re-evaluate coverage for Lynparza-bevacizumab regimen in HRD-positive ovarian cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32264",
+          "category": "Policy",
+          "author": "Kim Yun-mi",
+          "date": "07.01 13:28",
+          "new": false,
+          "tag": "Other"
         }
       ]
     }

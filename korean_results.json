@@ -1,9 +1,73 @@
 {
-  "last_updated": "2026-07-01 11:06:23 IST",
+  "last_updated": "2026-07-02 04:40:38 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea approves new 1st-line treatment for extensive-stage small cell lung cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32285",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "07.02 13:40",
+          "new": false
+        },
+        {
+          "title": "Samjin launches essential sedative injection for surgery and seizure emergencies",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32284",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "07.02 13:32",
+          "new": false
+        },
+        {
+          "title": "6 medical institutions referred to police over alleged cancer patient rebate schemes",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32283",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "07.02 13:15",
+          "new": false
+        },
+        {
+          "title": "Vantive Korea highlights digital patient management in home peritoneal dialysis at KSN 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32282",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "07.02 11:24",
+          "new": false
+        },
+        {
+          "title": "Daewoong's Envlo enters MENA market in $93 mil. licensing deal with Acino",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32279",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "07.02 11:11",
+          "new": false
+        },
+        {
+          "title": "Asan-trained Indonesian surgeons perform country's first robotic kidney transplant",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32281",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "07.02 11:00",
+          "new": false
+        },
+        {
+          "title": "Dongkook Pharm signs $25 mil. licensing deal with Spain's FAES FARMA for BPH drug in Latin America",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32280",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "07.02 10:42",
+          "new": false
+        },
+        {
+          "title": "SK bioscience to lead Gates Foundation-backed AI platform for vaccine development",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32278",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.02 09:34",
+          "new": false
+        },
         {
           "title": "Freshly merged LYV Sciences taps Japanese physician network to push YVOIRE filler",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32277",
@@ -98,70 +162,6 @@
           "category": "Policy",
           "author": "Kim Yun-mi",
           "date": "07.01 13:28",
-          "new": false
-        },
-        {
-          "title": "SK chemicals, Eisai Korea partner to launch Korea's first orexin-blocking insomnia drug",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32263",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.01 11:42",
-          "new": false
-        },
-        {
-          "title": "Daewoong, CGBio launch veterinary wound dressing for pet skin care",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32262",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "07.01 11:17",
-          "new": false
-        },
-        {
-          "title": "Severance performs robot-assisted Kasai procedure on 14-day-old infant weighing 3.14 kg",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32259",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "07.01 10:40",
-          "new": false
-        },
-        {
-          "title": "SMC's Park Hee-chul takes helm of Korean Liver Cancer Association",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32261",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "07.01 10:32",
-          "new": false
-        },
-        {
-          "title": "[Caring the Korean Way] Why Koreans try to sweat out fatigue before it becomes illness",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32260",
-          "category": "Life science",
-          "author": "Lee Han-soo",
-          "date": "07.01 10:13",
-          "new": false
-        },
-        {
-          "title": "Celltrion's Truxima becomes 1st interchangeable rituximab biosimilar in US",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32258",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.01 09:33",
-          "new": false
-        },
-        {
-          "title": "More than half of Pfizer's Lorviqua-treated lung cancer patients remain progression-free after 7 years",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32257",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "07.01 09:29",
-          "new": false
-        },
-        {
-          "title": "Kyung Hee University Hospital picked for 'Dr. Answer 3.0' diabetes AI project",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32253",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "07.01 09:10",
           "new": false
         }
       ]
