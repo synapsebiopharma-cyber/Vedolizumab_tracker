@@ -1,8 +1,8 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-07-02T04:41:43Z",
-  "total_runs": 130,
-  "new_on_last_run": 1,
+  "last_fetched": "2026-07-02T10:24:04Z",
+  "total_runs": 131,
+  "new_on_last_run": 0,
   "articles": [
     {
       "id": "fresenius-successfully-issues-€1-billion-in-bonds|july-1,-2026",
@@ -11,7 +11,7 @@
       "date": "July 1, 2026",
       "source": "Fresenius",
       "meta": "",
-      "new": true
+      "new": false
     },
     {
       "id": "fresenius-announces-european-launch-of-pedismof®-range|june-8,-2026",

@@ -1,9 +1,73 @@
 {
-  "last_updated": "2026-07-02 04:40:38 IST",
+  "last_updated": "2026-07-02 10:22:54 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "GLP-1 side effects open a new lane for Korean skin, hair and aesthetics stocks: analyst",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32293",
+          "category": "K-Beauty",
+          "author": "Kim Ji-hye",
+          "date": "07.02 17:43",
+          "new": false
+        },
+        {
+          "title": "[Reporter’s Notebook] Korea’s AI-bio race will be won in workflows, not slogans",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32292",
+          "category": "Reporter’s Notebook",
+          "author": "Lee Han-soo",
+          "date": "07.02 16:22",
+          "new": false
+        },
+        {
+          "title": "Platform technologies could drive Korean biotech rebound in H2: analyst",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32289",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "07.02 16:15",
+          "new": false
+        },
+        {
+          "title": "Switching to e-cigarettes after quitting smoking linked to higher lung cancer risk than complete cessation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32291",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "07.02 16:10",
+          "new": false
+        },
+        {
+          "title": "Cardiovascular disease linked to 43% higher suicide risk in Korean study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32290",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "07.02 16:02",
+          "new": false
+        },
+        {
+          "title": "From surgical videos to AI robotics, a urology conference looks beyond traditional meetings",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32288",
+          "category": "Device/ICT",
+          "author": "Park Gi-taek",
+          "date": "07.02 15:43",
+          "new": false
+        },
+        {
+          "title": "Lilly's Olumiant reimbursed for adults with severe hair loss disorder in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32287",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.02 15:25",
+          "new": false
+        },
+        {
+          "title": "Medical societies call for overhaul of Korea's disease severity classification system",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32286",
+          "category": "Hospital",
+          "author": "Song Soo-youn",
+          "date": "07.02 13:48",
+          "new": false
+        },
         {
           "title": "Korea approves new 1st-line treatment for extensive-stage small cell lung cancer",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32285",
@@ -98,70 +162,6 @@
           "category": "Hospital",
           "author": "Kim Kyoung-Won",
           "date": "07.01 16:06",
-          "new": false
-        },
-        {
-          "title": "Military explores AI as doctor shortages strain healthcare system",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32271",
-          "category": "Policy",
-          "author": "Kim Jung-hyun",
-          "date": "07.01 15:56",
-          "new": false
-        },
-        {
-          "title": "Samsung Bioepis Holdings starts work at new Beijing R&D site",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32270",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "07.01 15:46",
-          "new": false
-        },
-        {
-          "title": "Lilly Korea names Seiya Komatsu as new GM",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32269",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.01 14:40",
-          "new": false
-        },
-        {
-          "title": "Rinvoq reimbursement expansion gives ankylosing spondylitis patients earlier access to oral therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32268",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.01 14:20",
-          "new": false
-        },
-        {
-          "title": "VUNO breaks into Middle East market with ECG device deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32266",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "07.01 14:05",
-          "new": false
-        },
-        {
-          "title": "Dong-A ST highlights oncology, immunology pipelines at BIO USA 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32267",
-          "category": "Pharma",
-          "author": "Park Gi-taek",
-          "date": "07.01 14:00",
-          "new": false
-        },
-        {
-          "title": "Tertiary hospital redesign raises bar for severe case treatment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32265",
-          "category": "Hospital",
-          "author": "Kwak Sung-sun",
-          "date": "07.01 13:50",
-          "new": false
-        },
-        {
-          "title": "Korea to re-evaluate coverage for Lynparza-bevacizumab regimen in HRD-positive ovarian cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32264",
-          "category": "Policy",
-          "author": "Kim Yun-mi",
-          "date": "07.01 13:28",
           "new": false
         }
       ]

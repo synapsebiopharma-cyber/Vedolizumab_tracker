@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-07-02 04:40:38 IST",
+  "last_updated": "2026-07-02 10:22:54 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Lilly's Olumiant reimbursed for adults with severe hair loss disorder in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32287",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.02 15:25",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Korea approves new 1st-line treatment for extensive-stage small cell lung cancer",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32285",
@@ -55,51 +64,6 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "07.01 16:22",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Samsung Bioepis Holdings starts work at new Beijing R&D site",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32270",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "07.01 15:46",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Lilly Korea names Seiya Komatsu as new GM",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32269",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.01 14:40",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Rinvoq reimbursement expansion gives ankylosing spondylitis patients earlier access to oral therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32268",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.01 14:20",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Dong-A ST highlights oncology, immunology pipelines at BIO USA 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32267",
-          "category": "Pharma",
-          "author": "Park Gi-taek",
-          "date": "07.01 14:00",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Korea to re-evaluate coverage for Lynparza-bevacizumab regimen in HRD-positive ovarian cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32264",
-          "category": "Policy",
-          "author": "Kim Yun-mi",
-          "date": "07.01 13:28",
           "new": false,
           "tag": "Other"
         }

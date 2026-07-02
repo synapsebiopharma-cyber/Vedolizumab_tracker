@@ -95,5 +95,36 @@
     "collaborators": [],
     "last_update_posted": null,
     "_api_version": "v2"
+  },
+  {
+    "nct_id": "NCT06400719",
+    "brief_title": "Pilot Study of AVT16 in Healthy Adult Subjects",
+    "official_title": "An Open Label, Single Arm Pilot Study to Investigate the Safety and Tolerability of a Single 300mg Intravenous Dose of AVT16 in Healthy Adult Subjects Aged 18 to 55 Years Inclusive",
+    "status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "start_date": null,
+    "primary_completion_date": null,
+    "completion_date": null,
+    "enrollment": 18,
+    "conditions": [
+      "Healthy"
+    ],
+    "interventions": [
+      "AVT16"
+    ],
+    "outcomes": [
+      "Incidence, nature and severity of Treatment Emergent Adverse Events"
+    ],
+    "eligibility": "Inclusion Criteria:\n\n* Healthy male and female subjects aged between 18 and 55 years old inclusive\n* Medical history without evidence of clinically significant disorder, condition or disease that would pose a risk to subject safety\n* Haematology and biochemistry tests within normal range\n\nExclusion Criteria:\n\n* History of relevant drug and/or food allergies\n* History of hypersensitivity to vedolizumab, AVT16 of their constituents\n* Past or concurrent medical conditions that could potentially increase subject's risks or interfere with study evaluations",
+    "ages": "18 Years",
+    "sexes": "ALL",
+    "locations": [],
+    "sponsor": "Alvotech Swiss AG",
+    "collaborators": [],
+    "last_update_posted": null,
+    "_api_version": "v2"
   }
 ]
