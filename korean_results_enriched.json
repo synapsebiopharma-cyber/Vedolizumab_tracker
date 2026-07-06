@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-07-06 04:50:42 IST",
+  "last_updated": "2026-07-06 11:52:41 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Patient group urges fast reimbursement for Imdelltra, the only approved 3rd-line ES-SCLC drug",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32321",
+          "category": "People",
+          "author": "Kim Jung-hyun",
+          "date": "07.06 15:19",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "PAH patients urge faster reimbursement for Winrevair despite fast-track status",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32318",
+          "category": "People",
+          "author": "Kim Jung-hyun",
+          "date": "07.06 14:36",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Hugel backs physician research to boost K-aesthetics' global standing",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32313",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "07.06 11:33",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Kolon Life Science seeks Greater China partners for TG-C at BIO Asia-Taiwan 2026",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32305",
@@ -21,51 +48,6 @@
           "date": "07.03 16:10",
           "new": false,
           "tag": "Financial"
-        },
-        {
-          "title": "Daewoong's GERD drug improves symptoms in 95.8% of patients in real-world study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32303",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "07.03 15:44",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "LucasBio and Institut Pasteur Korea co-develop memory T-cell therapy candidate for SFTS",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32299",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.03 14:41",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Fosun Pharma to invest $27.5 mil. in AriBio after AR1001 licensing deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32298",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.03 13:20",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "GSK's RSV vaccine Arexvy approved for high-risk adults aged 18-49 in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32296",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.03 11:11",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Sam Chun Dang Pharm expands strategic partnership with Dr. Reddy's Laboratories through liposomal drug collaboration",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32294",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "07.03 10:53",
-          "new": false,
-          "tag": "Collaboration"
         }
       ]
     }
