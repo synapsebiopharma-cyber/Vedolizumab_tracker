@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-07-07 04:36:09 IST",
+  "last_updated": "2026-07-07 10:43:34 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korean NF2 drug candidate Trineumin wins FDA rare pediatric disease designation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32340",
+          "category": "Pharma",
+          "author": "Kim Kyoung-Won",
+          "date": "07.07 16:43",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "ABL Bio targets December phase 3 start for ABL111 in gastric cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32339",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.07 16:36",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Samjin Pharm launches fulvestrant injection for HR+/HER2- advanced breast cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32338",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.07 15:42",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Vivozon's oral non-opioid pain candidate shows encouraging efficacy trend in phase 2",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32336",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "07.07 15:31",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "Matica Biotech, VaxDome partner to advance antiviral vaccine platform into clinic",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32331",
@@ -20,7 +56,7 @@
           "author": "Lee Han-soo",
           "date": "07.07 11:28",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Clinical Trial"
         },
         {
           "title": "Celltrion’s Vegzelma gains preferred status at 2 major US PBMs",
@@ -37,33 +73,6 @@
           "category": "People",
           "author": "Kim Jung-hyun",
           "date": "07.06 15:19",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Bill seeks to replace imported medical cannabis with domestically produced alternatives",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32320",
-          "category": "Policy",
-          "author": "Kim Eun-young",
-          "date": "07.06 14:59",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "PAH patients urge faster reimbursement for Winrevair despite fast-track status",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32318",
-          "category": "People",
-          "author": "Kim Jung-hyun",
-          "date": "07.06 14:36",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "MFDS rolls out 60 safety initiatives to boost biopharma, rare disease care",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32316",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "07.06 14:06",
           "new": false,
           "tag": "Other"
         }
