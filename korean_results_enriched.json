@@ -1,15 +1,51 @@
 {
-  "last_updated": "2026-07-06 11:52:41 IST",
+  "last_updated": "2026-07-07 04:36:09 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Matica Biotech, VaxDome partner to advance antiviral vaccine platform into clinic",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32331",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.07 13:03",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "AriBio to unveil new AR1001 data at Alzheimer's conference",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32329",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.07 11:28",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Celltrion’s Vegzelma gains preferred status at 2 major US PBMs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32327",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.07 10:10",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Patient group urges fast reimbursement for Imdelltra, the only approved 3rd-line ES-SCLC drug",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32321",
           "category": "People",
           "author": "Kim Jung-hyun",
           "date": "07.06 15:19",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Bill seeks to replace imported medical cannabis with domestically produced alternatives",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32320",
+          "category": "Policy",
+          "author": "Kim Eun-young",
+          "date": "07.06 14:59",
           "new": false,
           "tag": "Other"
         },
@@ -23,31 +59,13 @@
           "tag": "Other"
         },
         {
-          "title": "Hugel backs physician research to boost K-aesthetics' global standing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32313",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "07.06 11:33",
+          "title": "MFDS rolls out 60 safety initiatives to boost biopharma, rare disease care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32316",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "07.06 14:06",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Kolon Life Science seeks Greater China partners for TG-C at BIO Asia-Taiwan 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32305",
-          "category": "Life science",
-          "author": "Kim Yoon-mi",
-          "date": "07.03 16:25",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Celltrion's operating profit jumps 77% in Q2 on strong biosimilar sales",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32301",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.03 16:10",
-          "new": false,
-          "tag": "Financial"
         }
       ]
     }

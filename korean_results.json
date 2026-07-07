@@ -1,9 +1,73 @@
 {
-  "last_updated": "2026-07-06 11:52:41 IST",
+  "last_updated": "2026-07-07 04:36:09 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Study links lung cancer surgery to 4-fold rise in atrial fibrillation risk during 1st year",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32333",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "07.07 13:27",
+          "new": false
+        },
+        {
+          "title": "365mc launches AI transformation team to accelerate smart healthcare strategy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32332",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "07.07 13:11",
+          "new": false
+        },
+        {
+          "title": "Matica Biotech, VaxDome partner to advance antiviral vaccine platform into clinic",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32331",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.07 13:03",
+          "new": false
+        },
+        {
+          "title": "Neurophet to showcase AI Alzheimer's imaging platform at AAIC 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32330",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "07.07 11:33",
+          "new": false
+        },
+        {
+          "title": "AriBio to unveil new AR1001 data at Alzheimer's conference",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32329",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.07 11:28",
+          "new": false
+        },
+        {
+          "title": "Heartscan Healthcare deploys Coreline Soft's AVIEW Aorta for cardiovascular screening",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32328",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "07.07 11:14",
+          "new": false
+        },
+        {
+          "title": "Celltrion’s Vegzelma gains preferred status at 2 major US PBMs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32327",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.07 10:10",
+          "new": false
+        },
+        {
+          "title": "Bundang Jesaeng Hospital introduces AI-based digital diagnostic testing system",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32326",
+          "category": "Hospital",
+          "author": "Kwon Min-seon",
+          "date": "07.07 09:20",
+          "new": false
+        },
         {
           "title": "Rising PSA after prostate cancer surgery may signal biochemical recurrence: expert",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32325",
@@ -98,70 +162,6 @@
           "category": "K-Beauty",
           "author": "Lee Han-soo",
           "date": "07.06 11:33",
-          "new": false
-        },
-        {
-          "title": "SMC's Lee Woo-yong named chair of Korean Cancer Association",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32312",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "07.06 11:19",
-          "new": false
-        },
-        {
-          "title": "Busan's Gijang Hospital deploys Daewoong AI bedside monitoring system",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32310",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "07.06 11:10",
-          "new": false
-        },
-        {
-          "title": "Novo Holdings courts Korea while channeling investments through Singapore",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32309",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "07.03 17:53",
-          "new": false
-        },
-        {
-          "title": "KDCA to routinely assess vaccine effectiveness by A, B, and C groups under new roadmap",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32307",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "07.03 17:17",
-          "new": false
-        },
-        {
-          "title": "AIRS Medical cut its US team amid a major deal and new funding, ex-staffers say",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32306",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "07.03 17:10",
-          "new": false
-        },
-        {
-          "title": "Kolon Life Science seeks Greater China partners for TG-C at BIO Asia-Taiwan 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32305",
-          "category": "Life science",
-          "author": "Kim Yoon-mi",
-          "date": "07.03 16:25",
-          "new": false
-        },
-        {
-          "title": "Celltrion's operating profit jumps 77% in Q2 on strong biosimilar sales",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32301",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.03 16:10",
-          "new": false
-        },
-        {
-          "title": "Neonatology society warns of nationwide NICU collapse in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32304",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "07.03 16:07",
           "new": false
         }
       ]
