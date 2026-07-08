@@ -1,9 +1,97 @@
 {
-  "last_updated": "2026-07-08 03:56:55 IST",
+  "last_updated": "2026-07-08 09:59:38 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Patient group urges swift reimbursement for Korea's 1st homegrown CAR-T therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32359",
+          "category": "People",
+          "author": "Kim Kyoung-Won",
+          "date": "07.08 17:03",
+          "new": false
+        },
+        {
+          "title": "'For facial paralysis, steroid treatment within 72 hours can determine lifelong recovery'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32358",
+          "category": "Hospital",
+          "author": "You Ji-young",
+          "date": "07.08 16:56",
+          "new": false
+        },
+        {
+          "title": "LigaChem's ADC platform gains clinical traction through global partners",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32356",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.08 16:31",
+          "new": false
+        },
+        {
+          "title": "Tablet bowel cleanser shows comparable safety in patients with renal impairment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32355",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "07.08 16:24",
+          "new": false
+        },
+        {
+          "title": "Government to pilot Korean-style primary care model at 100 clinics",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32354",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "07.08 16:19",
+          "new": false
+        },
+        {
+          "title": "AI answers dementia patients' calls in caregivers' voices to ease family burden",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32353",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "07.08 15:37",
+          "new": false
+        },
+        {
+          "title": "D&D Pharmatech earns milestone as partner advances FAP PET imaging agent into phase 2",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32352",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.08 14:24",
+          "new": false
+        },
+        {
+          "title": "Woojung Bio changes name to Kolmar BioTech after joining Kolmar Group",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32351",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.08 14:17",
+          "new": false
+        },
+        {
+          "title": "Seegene launches global study of 1 million clinical tests to validate diagnostic strategies",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32350",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "07.08 13:41",
+          "new": false
+        },
+        {
+          "title": "GC Cell forms cell and gene therapy alliance with 4 Korean biotechs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32349",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.08 13:28",
+          "new": false
+        },
+        {
+          "title": "Sky Labs files for Kosdaq IPO, seeks up to ₩32 bil.",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32348",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "07.08 13:01",
+          "new": false
+        },
         {
           "title": "Welt sets sights on AI-powered digital combination therapeutics for next growth phase",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32347",
@@ -74,94 +162,6 @@
           "category": "Bio",
           "author": "Lee Han-soo",
           "date": "07.07 16:36",
-          "new": false
-        },
-        {
-          "title": "Samjin Pharm launches fulvestrant injection for HR+/HER2- advanced breast cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32338",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.07 15:42",
-          "new": false
-        },
-        {
-          "title": "Inventage Lab to present mRNA-LNP mass production platform at CRS 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32337",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "07.07 15:33",
-          "new": false
-        },
-        {
-          "title": "Vivozon's oral non-opioid pain candidate shows encouraging efficacy trend in phase 2",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32336",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "07.07 15:31",
-          "new": false
-        },
-        {
-          "title": "Hanmi names Executive Director Doo as chief safety officer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32335",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.07 14:02",
-          "new": false
-        },
-        {
-          "title": "Drug discovery AI moves beyond hype to an R&D productivity test",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32334",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "07.07 13:43",
-          "new": false
-        },
-        {
-          "title": "Study links lung cancer surgery to 4-fold rise in atrial fibrillation risk during 1st year",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32333",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "07.07 13:27",
-          "new": false
-        },
-        {
-          "title": "365mc launches AI transformation team to accelerate smart healthcare strategy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32332",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "07.07 13:11",
-          "new": false
-        },
-        {
-          "title": "Matica Biotech, VaxDome partner to advance antiviral vaccine platform into clinic",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32331",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.07 13:03",
-          "new": false
-        },
-        {
-          "title": "Neurophet to showcase AI Alzheimer's imaging platform at AAIC 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32330",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.07 11:33",
-          "new": false
-        },
-        {
-          "title": "AriBio to unveil new AR1001 data at Alzheimer's conference",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32329",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.07 11:28",
-          "new": false
-        },
-        {
-          "title": "Heartscan Healthcare deploys Coreline Soft's AVIEW Aorta for cardiovascular screening",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32328",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.07 11:14",
           "new": false
         }
       ]

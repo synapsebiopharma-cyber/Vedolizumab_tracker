@@ -1,17 +1,80 @@
 {
-  "last_updated": "2026-07-08 03:56:55 IST",
+  "last_updated": "2026-07-08 09:59:38 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Celltrion draws bullish broker outlooks after second straight sales beat",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32345",
+          "title": "Patient group urges swift reimbursement for Korea's 1st homegrown CAR-T therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32359",
+          "category": "People",
+          "author": "Kim Kyoung-Won",
+          "date": "07.08 17:03",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "LigaChem's ADC platform gains clinical traction through global partners",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32356",
           "category": "Bio",
           "author": "Lee Han-soo",
-          "date": "07.08 10:25",
+          "date": "07.08 16:31",
           "new": false,
-          "tag": "Financial"
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Tablet bowel cleanser shows comparable safety in patients with renal impairment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32355",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "07.08 16:24",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "D&D Pharmatech earns milestone as partner advances FAP PET imaging agent into phase 2",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32352",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.08 14:24",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Woojung Bio changes name to Kolmar BioTech after joining Kolmar Group",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32351",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.08 14:17",
+          "new": false,
+          "tag": "Acquisition"
+        },
+        {
+          "title": "Seegene launches global study of 1 million clinical tests to validate diagnostic strategies",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32350",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "07.08 13:41",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "GC Cell forms cell and gene therapy alliance with 4 Korean biotechs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32349",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.08 13:28",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Welt sets sights on AI-powered digital combination therapeutics for next growth phase",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32347",
+          "category": "Device/ICT",
+          "author": "Kwon Min-seon",
+          "date": "07.08 11:36",
+          "new": false,
+          "tag": "Pipeline"
         },
         {
           "title": "LG Chem taps China's OTR Therapeutics to expand global oncology pipeline",
@@ -23,13 +86,22 @@
           "tag": "Collaboration"
         },
         {
+          "title": "Canon Medical adds Hongseong Medical Center to Korea clinical research network",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32342",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "07.08 09:40",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
           "title": "Korean NF2 drug candidate Trineumin wins FDA rare pediatric disease designation",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32340",
           "category": "Pharma",
           "author": "Kim Kyoung-Won",
           "date": "07.07 16:43",
           "new": false,
-          "tag": "FDA Approval"
+          "tag": "Pipeline"
         },
         {
           "title": "ABL Bio targets December phase 3 start for ABL111 in gastric cancer",
@@ -37,42 +109,6 @@
           "category": "Bio",
           "author": "Lee Han-soo",
           "date": "07.07 16:36",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Samjin Pharm launches fulvestrant injection for HR+/HER2- advanced breast cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32338",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.07 15:42",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Vivozon's oral non-opioid pain candidate shows encouraging efficacy trend in phase 2",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32336",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "07.07 15:31",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Matica Biotech, VaxDome partner to advance antiviral vaccine platform into clinic",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32331",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.07 13:03",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "AriBio to unveil new AR1001 data at Alzheimer's conference",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32329",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.07 11:28",
           "new": false,
           "tag": "Clinical Trial"
         }
