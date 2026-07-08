@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-07-07 10:43:34 IST",
+  "last_updated": "2026-07-08 03:56:55 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Celltrion draws bullish broker outlooks after second straight sales beat",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32345",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.08 10:25",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "LG Chem taps China's OTR Therapeutics to expand global oncology pipeline",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32344",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.08 10:19",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "Korean NF2 drug candidate Trineumin wins FDA rare pediatric disease designation",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32340",
@@ -57,24 +75,6 @@
           "date": "07.07 11:28",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "Celltrion’s Vegzelma gains preferred status at 2 major US PBMs",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32327",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.07 10:10",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Patient group urges fast reimbursement for Imdelltra, the only approved 3rd-line ES-SCLC drug",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32321",
-          "category": "People",
-          "author": "Kim Jung-hyun",
-          "date": "07.06 15:19",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }

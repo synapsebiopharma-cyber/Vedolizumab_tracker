@@ -1,8 +1,8 @@
 {
   "source": "https://ir.tevapharm.com/Events-and-Presentations/events-and-presentations/default.aspx",
-  "last_fetched": "2026-07-07T10:44:50Z",
-  "total_runs": 142,
-  "new_on_last_run": 0,
+  "last_fetched": "2026-07-08T03:58:17Z",
+  "total_runs": 143,
+  "new_on_last_run": 1,
   "events": [
     {
       "id": "q2-2026-teva-pharmaceutical-industries-ltd.-earnings-conference-call|july-29,-2026",
@@ -17,6 +17,20 @@
         }
       ],
       "new": false
+    },
+    {
+      "id": "il-15-vitiligo-phase-1b-24-week-efficacy-results---conference-call|july-07,-2026",
+      "title": "IL-15 Vitiligo Phase 1b 24 Week Efficacy Results - Conference Call",
+      "date": "July 07, 2026",
+      "url": "https://ir.tevapharm.com/Events-and-Presentations/events-and-presentations/event-details/2026/IL-15-Vitiligo-Phase-1b-24-Week-Efficacy-Results---Conference-Call/default.aspx",
+      "webcast": "https://events.q4inc.com/attendee/399557027",
+      "docs": [
+        {
+          "title": "Presentation(opens in new window)",
+          "url": "https://s24.q4cdn.com/720828402/files/doc_presentations/2026/Presentation-of-Phase-1b-24-Week-Efficacy-Results-in-Vitiligo-for-TEV-408-Anti-IL-15-vfinal.pdf"
+        }
+      ],
+      "new": true
     },
     {
       "id": "goldman-sachs-global-healthcare-conference|june-08,-2026",
