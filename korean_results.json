@@ -1,9 +1,89 @@
 {
-  "last_updated": "2026-07-10 04:35:01 IST",
+  "last_updated": "2026-07-10 10:42:29 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Patients win 1st damages ruling against Kolon over Invossa gene therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32395",
+          "category": "Life science",
+          "author": "Lee Han-soo",
+          "date": "07.10 16:59",
+          "new": false
+        },
+        {
+          "title": "Hanmi Pharm's phase 2 melanoma trial advances as planned",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32394",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "07.10 16:05",
+          "new": false
+        },
+        {
+          "title": "KMA proposes a special law on data governing AI use in healthcare",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32393",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "07.10 15:29",
+          "new": false
+        },
+        {
+          "title": "Oscotec outlines R&D expansion strategy with anti-resistance cancer platform",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32392",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "07.10 15:25",
+          "new": false
+        },
+        {
+          "title": "Hand, foot, and mouth disease cases more than double among young children in 4 weeks: KDCA",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32391",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "07.10 15:22",
+          "new": false
+        },
+        {
+          "title": "[Interview] New KASL hepatitis B guideline shifts focus to HBV DNA, but reimbursement lags",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32390",
+          "category": "Hospital",
+          "author": "Kim Yun-mi",
+          "date": "07.10 15:03",
+          "new": false
+        },
+        {
+          "title": "Huons N completes Chuncheon plant expansion, boosting its competitiveness in health functional foods.",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32389",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "07.10 14:48",
+          "new": false
+        },
+        {
+          "title": "Waycen partners with Daewoong to expand AI endoscopy market",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32388",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "07.10 14:39",
+          "new": false
+        },
+        {
+          "title": "Study reveals how stressed cells choose between survival and death",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32387",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "07.10 14:16",
+          "new": false
+        },
+        {
+          "title": "Peptron says Lilly research remains on track as Mounjaro remarks send shares to lower limit",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32386",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.10 13:49",
+          "new": false
+        },
         {
           "title": "GC Biopharma, Korea Vaccine partner on prefilled syringe vaccine manufacturing",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32385",
@@ -82,86 +162,6 @@
           "category": "Policy",
           "author": "Kim Eun-young",
           "date": "07.09 15:46",
-          "new": false
-        },
-        {
-          "title": "Weight-loss drugs may raise gallbladder risks, especially with rapid weight loss",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32375",
-          "category": "Hospital",
-          "author": "Lee Chang-ho",
-          "date": "07.09 15:31",
-          "new": false
-        },
-        {
-          "title": "1 in 4 Koreans aged 70 or older has chronic kidney disease: KDCA",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32374",
-          "category": "Hospital",
-          "author": "Lee Chang-ho",
-          "date": "07.09 15:26",
-          "new": false
-        },
-        {
-          "title": "SK chemicals identifies climate, circularity as top ESG priorities in 2025 report",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32373",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "07.09 14:53",
-          "new": false
-        },
-        {
-          "title": "Digital therapeutic for insomnia, SleepQ, surpasses 1,000 NECA registrations",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32372",
-          "category": "Device/ICT",
-          "author": "Kwon Min-seon",
-          "date": "07.09 14:35",
-          "new": false
-        },
-        {
-          "title": "CGBio's Novosis clears 7-year MFDS reexamination after post-market study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32364",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "07.09 14:30",
-          "new": false
-        },
-        {
-          "title": "Myongji Hospital holds healing concert for patients and caregivers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32370",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "07.09 14:19",
-          "new": false
-        },
-        {
-          "title": "OECD recognition of KeraSkin expected to boost Korea's alternative testing industry",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32369",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "07.09 14:02",
-          "new": false
-        },
-        {
-          "title": "GC Cell's Immunecell-LC Inj. is added to WHO's ATC classification for antineoplastic cell and gene therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32366",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.09 13:37",
-          "new": false
-        },
-        {
-          "title": "Philips Korea and Yeungnam University Medical Center partner to expand clinical use of AI-based low-dose CT",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32365",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.09 13:36",
-          "new": false
-        },
-        {
-          "title": "GSK Korea marks 40th anniversary with patient-centered growth pledge",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32367",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.09 13:19",
           "new": false
         }
       ]

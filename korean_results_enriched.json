@@ -1,9 +1,63 @@
 {
-  "last_updated": "2026-07-10 04:35:01 IST",
+  "last_updated": "2026-07-10 10:42:29 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Patients win 1st damages ruling against Kolon over Invossa gene therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32395",
+          "category": "Life science",
+          "author": "Lee Han-soo",
+          "date": "07.10 16:59",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Hanmi Pharm's phase 2 melanoma trial advances as planned",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32394",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "07.10 16:05",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Oscotec outlines R&D expansion strategy with anti-resistance cancer platform",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32392",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "07.10 15:25",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Huons N completes Chuncheon plant expansion, boosting its competitiveness in health functional foods.",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32389",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "07.10 14:48",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Waycen partners with Daewoong to expand AI endoscopy market",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32388",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "07.10 14:39",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Peptron says Lilly research remains on track as Mounjaro remarks send shares to lower limit",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32386",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.10 13:49",
+          "new": false,
+          "tag": "Pipeline"
+        },
         {
           "title": "GC Biopharma, Korea Vaccine partner on prefilled syringe vaccine manufacturing",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32385",
@@ -12,6 +66,15 @@
           "date": "07.10 11:19",
           "new": false,
           "tag": "Collaboration"
+        },
+        {
+          "title": "Emocog highlights real-world evidence for digital MCI therapy, emphasizing early intervention to bridge treatment gap",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32384",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "07.10 10:56",
+          "new": false,
+          "tag": "Clinical Trial"
         },
         {
           "title": "Celltrion’s high-margin biosimilars gain ground across Europe, strengthening H2 growth outlook",
@@ -47,7 +110,7 @@
           "author": "Lee Han-soo",
           "date": "07.10 08:45",
           "new": false,
-          "tag": "FDA Approval"
+          "tag": "Inspection"
         },
         {
           "title": "Proteina shares surge 19% after AI antibody option deal with Samsung Bioepis",
@@ -66,24 +129,6 @@
           "date": "07.09 16:07",
           "new": false,
           "tag": "FDA Approval"
-        },
-        {
-          "title": "Weight-loss drugs may raise gallbladder risks, especially with rapid weight loss",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32375",
-          "category": "Hospital",
-          "author": "Lee Chang-ho",
-          "date": "07.09 15:31",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "GC Cell's Immunecell-LC Inj. is added to WHO's ATC classification for antineoplastic cell and gene therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32366",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.09 13:37",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }
