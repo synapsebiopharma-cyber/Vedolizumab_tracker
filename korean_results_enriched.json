@@ -1,9 +1,54 @@
 {
-  "last_updated": "2026-07-09 10:42:08 IST",
+  "last_updated": "2026-07-10 04:35:01 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "GC Biopharma, Korea Vaccine partner on prefilled syringe vaccine manufacturing",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32385",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.10 11:19",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Celltrion’s high-margin biosimilars gain ground across Europe, strengthening H2 growth outlook",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32383",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.10 10:49",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Daewoong picks TA Associates as preferred bidder for CGBio after IMM talks collapse",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32382",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "07.10 10:19",
+          "new": false,
+          "tag": "Acquisition"
+        },
+        {
+          "title": "Ybrain taps Korea Pharma to widen reach of psychiatric brain diagnostics, electroceutical",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32381",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "07.10 10:07",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "FDA decision on HLB liver cancer combo delayed, again, over Hengrui plant issues",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32380",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.10 08:45",
+          "new": false,
+          "tag": "FDA Approval"
+        },
         {
           "title": "Proteina shares surge 19% after AI antibody option deal with Samsung Bioepis",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32379",
@@ -32,74 +77,11 @@
           "tag": "Other"
         },
         {
-          "title": "Digital therapeutic for insomnia, SleepQ, surpasses 1,000 NECA registrations",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32372",
-          "category": "Device/ICT",
-          "author": "Kwon Min-seon",
-          "date": "07.09 14:35",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "CGBio's Novosis clears 7-year MFDS reexamination after post-market study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32364",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "07.09 14:30",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
           "title": "GC Cell's Immunecell-LC Inj. is added to WHO's ATC classification for antineoplastic cell and gene therapy",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32366",
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "07.09 13:37",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Philips Korea and Yeungnam University Medical Center partner to expand clinical use of AI-based low-dose CT",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32365",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.09 13:36",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Curocell's CAR-T therapy Rimqarto clears 1st reimbursement hurdle in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32363",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.09 10:56",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "SK bioscience clears WHO GMP review without on-site inspection",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32362",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.09 10:43",
-          "new": false,
-          "tag": "Inspection"
-        },
-        {
-          "title": "Daewoong's Envlo improves fatty liver markers in up to 67% of diabetes patient: study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32361",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "07.09 10:29",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Patient group urges swift reimbursement for Korea's 1st homegrown CAR-T therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32359",
-          "category": "People",
-          "author": "Kim Kyoung-Won",
-          "date": "07.08 17:03",
           "new": false,
           "tag": "Other"
         }
