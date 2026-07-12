@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-07-11 09:12:18 IST",
+  "last_updated": "2026-07-12 04:09:06 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Patients win 1st damages ruling against Kolon over Invossa gene therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32395",
+          "category": "Life science",
+          "author": "Lee Han-soo",
+          "date": "07.10 16:59",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Hanmi Pharm's phase 2 melanoma trial advances as planned",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32394",
@@ -19,15 +28,6 @@
           "category": "Bio",
           "author": "Hong Sook",
           "date": "07.10 15:25",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Peptron says Lilly research remains on track as Mounjaro remarks send shares to lower limit",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32386",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.10 13:49",
           "new": false,
           "tag": "Pipeline"
         },
