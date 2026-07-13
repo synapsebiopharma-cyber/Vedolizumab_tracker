@@ -1,9 +1,63 @@
 {
-  "last_updated": "2026-07-13 04:11:51 IST",
+  "last_updated": "2026-07-13 10:43:37 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Novo Nordisk's Alhemo wins Korean approval for hemophilia A and B",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32413",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.13 16:28",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "RSV prevention market broadens as focus expands to high-risk children entering a 2nd season",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32410",
+          "category": "Pharma",
+          "author": "Hong Sook",
+          "date": "07.13 15:44",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "AriBio receives remaining $50 mil. payment from Fosun for oral Alzheimer’s drug",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32408",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.13 15:03",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "[Interview] 'Good cancer' can still recur decades later, making access to Verzenio a key issue",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32407",
+          "category": "Hospital",
+          "author": "Kim Yun-mi",
+          "date": "07.13 14:59",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Why Hanmi Pharm's Aptose acquisition could reshape AML treatment strategy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32405",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "07.13 13:20",
+          "new": false,
+          "tag": "Acquisition"
+        },
+        {
+          "title": "Only 1 in 8 women in their 30s have taken ovarian reserve test despite high awareness: Merck survey",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32401",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.13 11:31",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Daewoong's Nabota tops ₩1tri. in cumulative sales, fuels global aesthetics ambitions",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32400",
@@ -30,51 +84,6 @@
           "date": "07.10 16:59",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Hanmi Pharm's phase 2 melanoma trial advances as planned",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32394",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "07.10 16:05",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Oscotec outlines R&D expansion strategy with anti-resistance cancer platform",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32392",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "07.10 15:25",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Peptron says Lilly research remains on track as Mounjaro remarks send shares to lower limit",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32386",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.10 13:49",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "GC Biopharma, Korea Vaccine partner on prefilled syringe vaccine manufacturing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32385",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.10 11:19",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Celltrion’s high-margin biosimilars gain ground across Europe, strengthening H2 growth outlook",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32383",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.10 10:49",
-          "new": false,
-          "tag": "Financial"
         }
       ]
     }

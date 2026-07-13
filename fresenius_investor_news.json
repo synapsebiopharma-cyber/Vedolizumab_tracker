@@ -1,9 +1,18 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-07-13T04:12:59Z",
-  "total_runs": 152,
-  "new_on_last_run": 0,
+  "last_fetched": "2026-07-13T10:44:44Z",
+  "total_runs": 153,
+  "new_on_last_run": 1,
   "articles": [
+    {
+      "id": "gkv-stabilization-act-approved|july-13,-2026",
+      "title": "GKV Stabilization Act approved",
+      "url": "https://www.fresenius.com/node/7368",
+      "date": "July 13, 2026",
+      "source": "Fresenius",
+      "meta": "Brief News",
+      "new": true
+    },
     {
       "id": "fresenius-successfully-issues-€1-billion-in-bonds|july-1,-2026",
       "title": "Fresenius successfully issues €1 billion in bonds",
@@ -74,15 +83,6 @@
       "date": "March 25, 2026",
       "source": "Fresenius",
       "meta": "Brief News",
-      "new": false
-    },
-    {
-      "id": "#futurefresenius:-rejuvenate-in-action-–-delivering-accelerated-performance-for-long-term-value-creation;-2025-yet-another-year-of-strong-delivery|february-25,-2026",
-      "title": "#FutureFresenius: REJUVENATE in action – Delivering accelerated performance for long-term value creation; 2025 yet another year of strong delivery",
-      "url": "https://www.fresenius.com/FutureFresenius-REJUVENATE-in-action-Delivering-accelerated-performance-for%20long-term-value-creation-2025-yet-another-year-of%20strong-delivery",
-      "date": "February 25, 2026",
-      "source": "Fresenius",
-      "meta": "",
       "new": false
     }
   ]

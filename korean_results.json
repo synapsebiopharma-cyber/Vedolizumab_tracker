@@ -1,9 +1,113 @@
 {
-  "last_updated": "2026-07-13 04:11:51 IST",
+  "last_updated": "2026-07-13 10:43:37 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Deepnoid turns to AI that writes radiology reports to finally drive revenue",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32414",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "07.13 17:41",
+          "new": false
+        },
+        {
+          "title": "Novo Nordisk's Alhemo wins Korean approval for hemophilia A and B",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32413",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.13 16:28",
+          "new": false
+        },
+        {
+          "title": "One patient's journey shows why delaying kidney failure matters in IgA nephropathy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32412",
+          "category": "People",
+          "author": "Kim Kyoung-Won",
+          "date": "07.13 16:14",
+          "new": false
+        },
+        {
+          "title": "Why biopsy should not be performed recklessly when rare cancer 'sarcoma' is suspected",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32411",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "07.13 16:09",
+          "new": false
+        },
+        {
+          "title": "RSV prevention market broadens as focus expands to high-risk children entering a 2nd season",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32410",
+          "category": "Pharma",
+          "author": "Hong Sook",
+          "date": "07.13 15:44",
+          "new": false
+        },
+        {
+          "title": "HIRA opens big data service to help expectant mothers find delivery hospitals",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32409",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "07.13 15:39",
+          "new": false
+        },
+        {
+          "title": "AriBio receives remaining $50 mil. payment from Fosun for oral Alzheimer’s drug",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32408",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.13 15:03",
+          "new": false
+        },
+        {
+          "title": "[Interview] 'Good cancer' can still recur decades later, making access to Verzenio a key issue",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32407",
+          "category": "Hospital",
+          "author": "Kim Yun-mi",
+          "date": "07.13 14:59",
+          "new": false
+        },
+        {
+          "title": "Samsung Cancer Center launches senior care center to improve treatment outcomes",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32404",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "07.13 13:41",
+          "new": false
+        },
+        {
+          "title": "Government to track ambulances in real time via GPS to crack down on unauthorized operations",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32406",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "07.13 13:35",
+          "new": false
+        },
+        {
+          "title": "Why Hanmi Pharm's Aptose acquisition could reshape AML treatment strategy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32405",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "07.13 13:20",
+          "new": false
+        },
+        {
+          "title": "SNUH's Rare Disease Center partners with national drug agency to improve access to orphan medicines",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32403",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "07.13 13:20",
+          "new": false
+        },
+        {
+          "title": "BD Korea expands BD Aptra portfolio with launch of single-use digital flexible cystoscope in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32402",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "07.13 13:20",
+          "new": false
+        },
         {
           "title": "Only 1 in 8 women in their 30s have taken ovarian reserve test despite high awareness: Merck survey",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32401",
@@ -58,110 +162,6 @@
           "category": "Life science",
           "author": "Lee Han-soo",
           "date": "07.10 16:59",
-          "new": false
-        },
-        {
-          "title": "Hanmi Pharm's phase 2 melanoma trial advances as planned",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32394",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "07.10 16:05",
-          "new": false
-        },
-        {
-          "title": "KMA proposes a special law on data governing AI use in healthcare",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32393",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "07.10 15:29",
-          "new": false
-        },
-        {
-          "title": "Oscotec outlines R&D expansion strategy with anti-resistance cancer platform",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32392",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "07.10 15:25",
-          "new": false
-        },
-        {
-          "title": "Hand, foot, and mouth disease cases more than double among young children in 4 weeks: KDCA",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32391",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "07.10 15:22",
-          "new": false
-        },
-        {
-          "title": "[Interview] New KASL hepatitis B guideline shifts focus to HBV DNA, but reimbursement lags",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32390",
-          "category": "Hospital",
-          "author": "Kim Yun-mi",
-          "date": "07.10 15:03",
-          "new": false
-        },
-        {
-          "title": "Huons N completes Chuncheon plant expansion, boosting its competitiveness in health functional foods.",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32389",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "07.10 14:48",
-          "new": false
-        },
-        {
-          "title": "Waycen partners with Daewoong to expand AI endoscopy market",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32388",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.10 14:39",
-          "new": false
-        },
-        {
-          "title": "Study reveals how stressed cells choose between survival and death",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32387",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "07.10 14:16",
-          "new": false
-        },
-        {
-          "title": "Peptron says Lilly research remains on track as Mounjaro remarks send shares to lower limit",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32386",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.10 13:49",
-          "new": false
-        },
-        {
-          "title": "GC Biopharma, Korea Vaccine partner on prefilled syringe vaccine manufacturing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32385",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.10 11:19",
-          "new": false
-        },
-        {
-          "title": "Emocog highlights real-world evidence for digital MCI therapy, emphasizing early intervention to bridge treatment gap",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32384",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "07.10 10:56",
-          "new": false
-        },
-        {
-          "title": "Celltrion’s high-margin biosimilars gain ground across Europe, strengthening H2 growth outlook",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32383",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.10 10:49",
-          "new": false
-        },
-        {
-          "title": "Daewoong picks TA Associates as preferred bidder for CGBio after IMM talks collapse",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32382",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.10 10:19",
           "new": false
         }
       ]
