@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-07-12 09:31:08 IST",
+  "last_updated": "2026-07-13 04:11:51 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Daewoong's Nabota tops ₩1tri. in cumulative sales, fuels global aesthetics ambitions",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32400",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "07.13 10:52",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "[Analysis] FDA letters show manufacturing issue remains key hurdle for HLB liver cancer combo",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32397",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.13 10:23",
+          "new": false,
+          "tag": "Inspection"
+        },
         {
           "title": "Patients win 1st damages ruling against Kolon over Invossa gene therapy",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32395",
@@ -32,31 +50,13 @@
           "tag": "Pipeline"
         },
         {
-          "title": "Huons N completes Chuncheon plant expansion, boosting its competitiveness in health functional foods.",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32389",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "07.10 14:48",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Waycen partners with Daewoong to expand AI endoscopy market",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32388",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.10 14:39",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
           "title": "Peptron says Lilly research remains on track as Mounjaro remarks send shares to lower limit",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32386",
           "category": "Bio",
           "author": "Lee Han-soo",
           "date": "07.10 13:49",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Collaboration"
         },
         {
           "title": "GC Biopharma, Korea Vaccine partner on prefilled syringe vaccine manufacturing",
@@ -74,52 +74,7 @@
           "author": "Lee Han-soo",
           "date": "07.10 10:49",
           "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Daewoong picks TA Associates as preferred bidder for CGBio after IMM talks collapse",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32382",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.10 10:19",
-          "new": false,
-          "tag": "Acquisition"
-        },
-        {
-          "title": "Ybrain taps Korea Pharma to widen reach of psychiatric brain diagnostics, electroceutical",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32381",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "07.10 10:07",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "FDA decision on HLB liver cancer combo delayed, again, over Hengrui plant issues",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32380",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.10 08:45",
-          "new": false,
-          "tag": "Inspection"
-        },
-        {
-          "title": "Proteina shares surge 19% after AI antibody option deal with Samsung Bioepis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32379",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.09 17:27",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Keytruda expands indications to bladder and ovarian cancers, broadening treatment options",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32377",
-          "category": "Policy",
-          "author": "You Ji-young",
-          "date": "07.09 16:07",
-          "new": false,
-          "tag": "FDA Approval"
+          "tag": "Financial"
         }
       ]
     }
