@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-07-13 10:43:37 IST",
+  "last_updated": "2026-07-14 03:59:08 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Genome & Company's bispecific ADC candidate picked for national drug development program",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32418",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "07.14 11:29",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Celltrion licenses autoimmune disease antibody technology from Catholic University",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32416",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.14 10:36",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Novo Nordisk's Alhemo wins Korean approval for hemophilia A and B",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32413",
@@ -14,29 +32,20 @@
           "tag": "FDA Approval"
         },
         {
-          "title": "RSV prevention market broadens as focus expands to high-risk children entering a 2nd season",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32410",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "07.13 15:44",
-          "new": false,
-          "tag": "Other"
-        },
-        {
           "title": "AriBio receives remaining $50 mil. payment from Fosun for oral Alzheimer’s drug",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32408",
           "category": "Bio",
           "author": "Lee Han-soo",
           "date": "07.13 15:03",
           "new": false,
-          "tag": "Financial"
+          "tag": "Other"
         },
         {
-          "title": "[Interview] 'Good cancer' can still recur decades later, making access to Verzenio a key issue",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32407",
+          "title": "Samsung Cancer Center launches senior care center to improve treatment outcomes",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32404",
           "category": "Hospital",
-          "author": "Kim Yun-mi",
-          "date": "07.13 14:59",
+          "author": "Lee Han-soo",
+          "date": "07.13 13:41",
           "new": false,
           "tag": "Other"
         },
@@ -50,38 +59,11 @@
           "tag": "Acquisition"
         },
         {
-          "title": "Only 1 in 8 women in their 30s have taken ovarian reserve test despite high awareness: Merck survey",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32401",
-          "category": "Pharma",
+          "title": "SNUH's Rare Disease Center partners with national drug agency to improve access to orphan medicines",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32403",
+          "category": "Hospital",
           "author": "Lee Han-soo",
-          "date": "07.13 11:31",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Daewoong's Nabota tops ₩1tri. in cumulative sales, fuels global aesthetics ambitions",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32400",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "07.13 10:52",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "[Analysis] FDA letters show manufacturing issue remains key hurdle for HLB liver cancer combo",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32397",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.13 10:23",
-          "new": false,
-          "tag": "Inspection"
-        },
-        {
-          "title": "Patients win 1st damages ruling against Kolon over Invossa gene therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32395",
-          "category": "Life science",
-          "author": "Lee Han-soo",
-          "date": "07.10 16:59",
+          "date": "07.13 13:20",
           "new": false,
           "tag": "Other"
         }

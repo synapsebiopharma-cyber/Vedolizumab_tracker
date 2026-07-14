@@ -1,8 +1,8 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-07-13T10:44:44Z",
-  "total_runs": 153,
-  "new_on_last_run": 1,
+  "last_fetched": "2026-07-14T04:10:00Z",
+  "total_runs": 154,
+  "new_on_last_run": 0,
   "articles": [
     {
       "id": "gkv-stabilization-act-approved|july-13,-2026",
@@ -11,7 +11,7 @@
       "date": "July 13, 2026",
       "source": "Fresenius",
       "meta": "Brief News",
-      "new": true
+      "new": false
     },
     {
       "id": "fresenius-successfully-issues-€1-billion-in-bonds|july-1,-2026",
