@@ -1,9 +1,129 @@
 {
-  "last_updated": "2026-07-14 03:59:08 IST",
+  "last_updated": "2026-07-14 09:30:27 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Regulator eases biosimilar approval requirements, waiving some phase 3 trial data",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32434",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "07.14 17:24",
+          "new": false
+        },
+        {
+          "title": "Korea has only 15 emergency medicine fellows left in training",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32433",
+          "category": "Policy",
+          "author": "Kim Eun-young",
+          "date": "07.14 17:21",
+          "new": false
+        },
+        {
+          "title": "Merck to sell Korean firm Curiosis's cell imaging system under its own brand",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32432",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "07.14 16:49",
+          "new": false
+        },
+        {
+          "title": "National Cancer Center strengthens cancer control co-op with its Mongolian counterpart",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32431",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "07.14 16:10",
+          "new": false
+        },
+        {
+          "title": "Citizens would choose regional hospitals if they trusted the quality of care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32429",
+          "category": "Hospital",
+          "author": "Kwak Sung-sun",
+          "date": "07.14 16:08",
+          "new": false
+        },
+        {
+          "title": "[Editor’s Column] Mounjaro is not a punchline",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32430",
+          "category": "Opinion",
+          "author": "Kim Yoon-mi",
+          "date": "07.14 15:54",
+          "new": false
+        },
+        {
+          "title": "AstraZeneca signs Korea’s Azcuris for oral rival to antibody drugs for asthma and eczema",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32426",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "07.14 15:39",
+          "new": false
+        },
+        {
+          "title": "Health workers' union urges stronger safeguards for PA nurses",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32428",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "07.14 15:15",
+          "new": false
+        },
+        {
+          "title": "Ingenia seeks Kosdaq listing to expand Tie2 pipeline beyond eye disease",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32427",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.14 15:05",
+          "new": false
+        },
+        {
+          "title": "Ulcerative colitis treatment should reflect patients' lifestyles and medical history: expert",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32425",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "07.14 14:45",
+          "new": false
+        },
+        {
+          "title": "Why is breast cancer more strongly linked to genetics than other cancers?",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32424",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "07.14 14:33",
+          "new": false
+        },
+        {
+          "title": "Government eyes hospital evaluation reforms to curb workplace bullying",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32423",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "07.14 14:18",
+          "new": false
+        },
+        {
+          "title": "[Interview] 'Injectable cell therapy, speroQure, aims to offer a new treatment option for knee osteoarthritis'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32422",
+          "category": "Pharma",
+          "author": "Park Gi-taek",
+          "date": "07.14 14:06",
+          "new": false
+        },
+        {
+          "title": "AI detects behavioral changes to predict cerebrovascular disease risk in older adults living alone",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32421",
+          "category": "Hospital",
+          "author": "Lee Chang-ho",
+          "date": "07.14 13:50",
+          "new": false
+        },
+        {
+          "title": "AstraZeneca's new drug for polyneuropathy wins Korean approval",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32420",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "07.14 13:44",
+          "new": false
+        },
         {
           "title": "Sanofi highlights long-term management strategies for Fabry disease at F1 Symposium",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32419",
@@ -42,126 +162,6 @@
           "category": "Device/ICT",
           "author": "Kim Ji-hye",
           "date": "07.13 17:41",
-          "new": false
-        },
-        {
-          "title": "Novo Nordisk's Alhemo wins Korean approval for hemophilia A and B",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32413",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.13 16:28",
-          "new": false
-        },
-        {
-          "title": "One patient's journey shows why delaying kidney failure matters in IgA nephropathy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32412",
-          "category": "People",
-          "author": "Kim Kyoung-Won",
-          "date": "07.13 16:14",
-          "new": false
-        },
-        {
-          "title": "Why biopsy should not be performed recklessly when rare cancer 'sarcoma' is suspected",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32411",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "07.13 16:09",
-          "new": false
-        },
-        {
-          "title": "RSV prevention market broadens as focus expands to high-risk children entering a 2nd season",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32410",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "07.13 15:44",
-          "new": false
-        },
-        {
-          "title": "HIRA opens big data service to help expectant mothers find delivery hospitals",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32409",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "07.13 15:39",
-          "new": false
-        },
-        {
-          "title": "AriBio receives remaining $50 mil. payment from Fosun for oral Alzheimer’s drug",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32408",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.13 15:03",
-          "new": false
-        },
-        {
-          "title": "[Interview] 'Good cancer' can still recur decades later, making access to Verzenio a key issue",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32407",
-          "category": "Hospital",
-          "author": "Kim Yun-mi",
-          "date": "07.13 14:59",
-          "new": false
-        },
-        {
-          "title": "Samsung Cancer Center launches senior care center to improve treatment outcomes",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32404",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "07.13 13:41",
-          "new": false
-        },
-        {
-          "title": "Government to track ambulances in real time via GPS to crack down on unauthorized operations",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32406",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "07.13 13:35",
-          "new": false
-        },
-        {
-          "title": "Why Hanmi Pharm's Aptose acquisition could reshape AML treatment strategy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32405",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "07.13 13:20",
-          "new": false
-        },
-        {
-          "title": "SNUH's Rare Disease Center partners with national drug agency to improve access to orphan medicines",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32403",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "07.13 13:20",
-          "new": false
-        },
-        {
-          "title": "BD Korea expands BD Aptra portfolio with launch of single-use digital flexible cystoscope in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32402",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.13 13:20",
-          "new": false
-        },
-        {
-          "title": "Only 1 in 8 women in their 30s have taken ovarian reserve test despite high awareness: Merck survey",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32401",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.13 11:31",
-          "new": false
-        },
-        {
-          "title": "Merz Aesthetics Korea launches Ultherapy Mask for clinic channel",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32396",
-          "category": "K-Beauty",
-          "author": "Kim Yoon-mi",
-          "date": "07.13 11:05",
-          "new": false
-        },
-        {
-          "title": "Daewoong's Nabota tops ₩1tri. in cumulative sales, fuels global aesthetics ambitions",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32400",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "07.13 10:52",
           "new": false
         }
       ]
