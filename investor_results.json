@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15 03:47:47 IST",
+  "last_updated": "2026-07-15 09:35:19 IST",
   "companies": [
     {
       "company": "Alvotech",
@@ -1888,6 +1888,15 @@
       "company": "Fresenius",
       "investor_news": [
         {
+          "id": "q2-2026-aide-memoire-available|july-15,-2026",
+          "title": "Q2 2026 Aide Memoire available",
+          "url": "https://www.fresenius.com/node/7370",
+          "date": "July 15, 2026",
+          "source": "Fresenius",
+          "meta": "Brief News",
+          "new": false
+        },
+        {
           "id": "gkv-stabilization-act-approved|july-13,-2026",
           "title": "GKV Stabilization Act approved",
           "url": "https://www.fresenius.com/node/7368",
@@ -1957,15 +1966,6 @@
           "date": "April 8, 2026",
           "source": "Fresenius",
           "meta": "",
-          "new": false
-        },
-        {
-          "id": "fresenius-publishes-2025-annual-report-–-rejuvenate:-delivering-accelerated-performance-for-long-term-value-creation|march-25,-2026",
-          "title": "Fresenius publishes 2025 Annual Report – REJUVENATE: Delivering accelerated performance for long-term value creation",
-          "url": "https://www.fresenius.com/node/7324",
-          "date": "March 25, 2026",
-          "source": "Fresenius",
-          "meta": "Brief News",
           "new": false
         }
       ]

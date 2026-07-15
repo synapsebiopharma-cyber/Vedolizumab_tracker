@@ -1,9 +1,18 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-07-15T03:47:39Z",
-  "total_runs": 156,
-  "new_on_last_run": 0,
+  "last_fetched": "2026-07-15T09:35:11Z",
+  "total_runs": 157,
+  "new_on_last_run": 1,
   "articles": [
+    {
+      "id": "q2-2026-aide-memoire-available|july-15,-2026",
+      "title": "Q2 2026 Aide Memoire available",
+      "url": "https://www.fresenius.com/node/7370",
+      "date": "July 15, 2026",
+      "source": "Fresenius",
+      "meta": "Brief News",
+      "new": true
+    },
     {
       "id": "gkv-stabilization-act-approved|july-13,-2026",
       "title": "GKV Stabilization Act approved",
@@ -74,15 +83,6 @@
       "date": "April 8, 2026",
       "source": "Fresenius",
       "meta": "",
-      "new": false
-    },
-    {
-      "id": "fresenius-publishes-2025-annual-report-–-rejuvenate:-delivering-accelerated-performance-for-long-term-value-creation|march-25,-2026",
-      "title": "Fresenius publishes 2025 Annual Report – REJUVENATE: Delivering accelerated performance for long-term value creation",
-      "url": "https://www.fresenius.com/node/7324",
-      "date": "March 25, 2026",
-      "source": "Fresenius",
-      "meta": "Brief News",
       "new": false
     }
   ]
