@@ -1,9 +1,49 @@
 {
-  "last_updated": "2026-07-14 09:30:27 IST",
+  "last_updated": "2026-07-15 03:46:31 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Emocog teams up with HanshinMedipia to digitalize brain health screening",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32438",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "07.15 11:28",
+          "new": false
+        },
+        {
+          "title": "Daewoong acquires KRIBB liver organoid platform to bolster drug development",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32437",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "07.15 11:13",
+          "new": false
+        },
+        {
+          "title": "HLB shares surge after FDA closes rivoceranib API plant inspection with VAI classification",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32439",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.15 10:53",
+          "new": false
+        },
+        {
+          "title": "Study supports Onconic's Jaqbo co-use with common cardiovascular drugs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32435",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.15 10:49",
+          "new": false
+        },
+        {
+          "title": "Dong-A ST unveils preclinical Alzheimer's data for DA-7505, DA-7503 at AAIC",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32436",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "07.15 10:26",
+          "new": false
+        },
         {
           "title": "Regulator eases biosimilar approval requirements, waiving some phase 3 trial data",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32434",
@@ -122,46 +162,6 @@
           "category": "Policy",
           "author": "Kim Ji-hye",
           "date": "07.14 13:44",
-          "new": false
-        },
-        {
-          "title": "Sanofi highlights long-term management strategies for Fabry disease at F1 Symposium",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32419",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.14 11:32",
-          "new": false
-        },
-        {
-          "title": "Genome & Company's bispecific ADC candidate picked for national drug development program",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32418",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "07.14 11:29",
-          "new": false
-        },
-        {
-          "title": "Noul's miLab MAL highlighted as leading AI malaria diagnostic in Harvard-led international study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32417",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.14 11:26",
-          "new": false
-        },
-        {
-          "title": "Celltrion licenses autoimmune disease antibody technology from Catholic University",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32416",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.14 10:36",
-          "new": false
-        },
-        {
-          "title": "Deepnoid turns to AI that writes radiology reports to finally drive revenue",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32414",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "07.13 17:41",
           "new": false
         }
       ]
