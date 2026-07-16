@@ -1,8 +1,8 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-07-15T09:35:11Z",
-  "total_runs": 157,
-  "new_on_last_run": 1,
+  "last_fetched": "2026-07-16T03:51:00Z",
+  "total_runs": 158,
+  "new_on_last_run": 0,
   "articles": [
     {
       "id": "q2-2026-aide-memoire-available|july-15,-2026",
@@ -11,7 +11,7 @@
       "date": "July 15, 2026",
       "source": "Fresenius",
       "meta": "Brief News",
-      "new": true
+      "new": false
     },
     {
       "id": "gkv-stabilization-act-approved|july-13,-2026",

@@ -1,9 +1,17 @@
 {
-  "last_updated": "2026-07-15 09:33:59 IST",
+  "last_updated": "2026-07-16 03:49:54 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "AriBio’s AR1005 shows early efficacy signals in Lewy body dementia phase 2a trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32456",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.16 10:12",
+          "new": false
+        },
         {
           "title": "MSD Korea, KHIDI select 4 AI healthcare startups for global mentoring",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32455",
@@ -154,14 +162,6 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "07.15 10:49",
-          "new": false
-        },
-        {
-          "title": "Dong-A ST unveils preclinical Alzheimer's data for DA-7505, DA-7503 at AAIC",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32436",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "07.15 10:26",
           "new": false
         }
       ]
