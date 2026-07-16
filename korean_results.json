@@ -1,9 +1,97 @@
 {
-  "last_updated": "2026-07-16 03:49:54 IST",
+  "last_updated": "2026-07-16 09:39:33 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Top-five global pharma signs deal to test Kangstem’s hair follicle organoids for hair-loss drugs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32467",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "07.16 17:47",
+          "new": false
+        },
+        {
+          "title": "Praser Therapeutics raises ₩50 billion in pre-IPO funding",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32469",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "07.16 16:54",
+          "new": false
+        },
+        {
+          "title": "Meninblox partners with Estonia's Metrosert to validate AI running companion",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32468",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "07.16 16:19",
+          "new": false
+        },
+        {
+          "title": "MFDS expands Imdelltra use to second-line small cell lung cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32465",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.16 16:00",
+          "new": false
+        },
+        {
+          "title": "Why apple cider vinegar doesn't work the same for everyone",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32463",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "07.16 15:38",
+          "new": false
+        },
+        {
+          "title": "Samsung Bioepis, Organon expand biosimilar partnership in Australia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32462",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.16 15:32",
+          "new": false
+        },
+        {
+          "title": "SMC researchers uncover disease mechanism behind refractory interstitial cystitis",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32461",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "07.16 14:13",
+          "new": false
+        },
+        {
+          "title": "Humedix partners with Grenia to expand Elravie cosmetics in China",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32460",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "07.16 13:45",
+          "new": false
+        },
+        {
+          "title": "Obstetricians oppose Lee's abortion pill proposal, citing legal burden on doctors",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32459",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "07.16 13:40",
+          "new": false
+        },
+        {
+          "title": "GSK’s severe asthma drug depemokimab denied orphan drug designation in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32458",
+          "category": "Pharma",
+          "author": "Kim Yun-mi",
+          "date": "07.16 13:31",
+          "new": false
+        },
+        {
+          "title": "Daewoong, SNUBH, and 365mc join forces to expand V-OLET into new localized fat reduction indications",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32457",
+          "category": "K-Beauty",
+          "author": "Kim Ji-hye",
+          "date": "07.16 13:21",
+          "new": false
+        },
         {
           "title": "AriBio’s AR1005 shows early efficacy signals in Lewy body dementia phase 2a trial",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32456",
@@ -74,94 +162,6 @@
           "category": "Hospital",
           "author": "Lee Han-soo",
           "date": "07.15 14:47",
-          "new": false
-        },
-        {
-          "title": "Korean technology powers world's 1st humanoid robot surgery",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32446",
-          "category": "Device/ICT",
-          "author": "Kim Kyoung-Won",
-          "date": "07.15 14:03",
-          "new": false
-        },
-        {
-          "title": "Korea expands Regional Emergency Medical Centers to 53, adding Ewha, Asan",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32445",
-          "category": "Hospital",
-          "author": "Kwak Sung-sun",
-          "date": "07.15 13:54",
-          "new": false
-        },
-        {
-          "title": "Postherpetic neuralgia linked to reduced brain network efficiency, MRI analysis finds",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32444",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "07.15 13:44",
-          "new": false
-        },
-        {
-          "title": "Medical societies warn device makers over training for Korean medicine doctors, dentists",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32443",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "07.15 13:41",
-          "new": false
-        },
-        {
-          "title": "ST Pharm's HIV-1 drug candidate STP0404 shows antiviral activity in phase 2a trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32442",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "07.15 13:40",
-          "new": false
-        },
-        {
-          "title": "Seegene urges syndromic PCR testing for respiratory infections, launches global study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32441",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.15 13:22",
-          "new": false
-        },
-        {
-          "title": "Classys appoints former Samsung Electronics VP Juno Yoon as new CEO",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32440",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.15 13:13",
-          "new": false
-        },
-        {
-          "title": "Emocog teams up with HanshinMedipia to digitalize brain health screening",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32438",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.15 11:28",
-          "new": false
-        },
-        {
-          "title": "Daewoong acquires KRIBB liver organoid platform to bolster drug development",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32437",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "07.15 11:13",
-          "new": false
-        },
-        {
-          "title": "HLB shares surge after FDA closes rivoceranib API plant inspection with VAI classification",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32439",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.15 10:53",
-          "new": false
-        },
-        {
-          "title": "Study supports Onconic's Jaqbo co-use with common cardiovascular drugs",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32435",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.15 10:49",
           "new": false
         }
       ]

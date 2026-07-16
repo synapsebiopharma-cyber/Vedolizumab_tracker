@@ -1,9 +1,54 @@
 {
-  "last_updated": "2026-07-16 03:49:54 IST",
+  "last_updated": "2026-07-16 09:39:33 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Top-five global pharma signs deal to test Kangstem’s hair follicle organoids for hair-loss drugs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32467",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "07.16 17:47",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "MFDS expands Imdelltra use to second-line small cell lung cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32465",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.16 16:00",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Samsung Bioepis, Organon expand biosimilar partnership in Australia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32462",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.16 15:32",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "GSK’s severe asthma drug depemokimab denied orphan drug designation in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32458",
+          "category": "Pharma",
+          "author": "Kim Yun-mi",
+          "date": "07.16 13:31",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Daewoong, SNUBH, and 365mc join forces to expand V-OLET into new localized fat reduction indications",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32457",
+          "category": "K-Beauty",
+          "author": "Kim Ji-hye",
+          "date": "07.16 13:21",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "AriBio’s AR1005 shows early efficacy signals in Lewy body dementia phase 2a trial",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32456",
@@ -12,15 +57,6 @@
           "date": "07.16 10:12",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "MSD Korea, KHIDI select 4 AI healthcare startups for global mentoring",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32455",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.15 16:49",
-          "new": false,
-          "tag": "Collaboration"
         },
         {
           "title": "Proteina, Onconic Therapeutics partner on targeted protein degrader research",
@@ -37,69 +73,6 @@
           "category": "Bio",
           "author": "Lee Han-soo",
           "date": "07.15 15:47",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "ST Pharm's HIV-1 drug candidate STP0404 shows antiviral activity in phase 2a trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32442",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "07.15 13:40",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Seegene urges syndromic PCR testing for respiratory infections, launches global study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32441",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.15 13:22",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Classys appoints former Samsung Electronics VP Juno Yoon as new CEO",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32440",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.15 13:13",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Emocog teams up with HanshinMedipia to digitalize brain health screening",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32438",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.15 11:28",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Daewoong acquires KRIBB liver organoid platform to bolster drug development",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32437",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "07.15 11:13",
-          "new": false,
-          "tag": "Acquisition"
-        },
-        {
-          "title": "HLB shares surge after FDA closes rivoceranib API plant inspection with VAI classification",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32439",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.15 10:53",
-          "new": false,
-          "tag": "Inspection"
-        },
-        {
-          "title": "Study supports Onconic's Jaqbo co-use with common cardiovascular drugs",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32435",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.15 10:49",
           "new": false,
           "tag": "Clinical Trial"
         }
