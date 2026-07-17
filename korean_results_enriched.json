@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17 03:48:08 IST",
+  "last_updated": "2026-07-17 09:31:50 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
@@ -11,7 +11,16 @@
           "author": "Kim Ji-hye",
           "date": "07.16 17:47",
           "new": false,
-          "tag": "Other"
+          "tag": "Collaboration"
+        },
+        {
+          "title": "MFDS expands Imdelltra use to second-line small cell lung cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32465",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.16 16:00",
+          "new": false,
+          "tag": "FDA Approval"
         },
         {
           "title": "Samsung Bioepis, Organon expand biosimilar partnership in Australia",
@@ -29,7 +38,34 @@
           "author": "Kim Yun-mi",
           "date": "07.16 13:31",
           "new": false,
-          "tag": "Other"
+          "tag": "Pipeline"
+        },
+        {
+          "title": "AriBio’s AR1005 shows early efficacy signals in Lewy body dementia phase 2a trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32456",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.16 10:12",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "MSD Korea, KHIDI select 4 AI healthcare startups for global mentoring",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32455",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.15 16:49",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Proteina, Onconic Therapeutics partner on targeted protein degrader research",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32454",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "07.15 16:28",
+          "new": false,
+          "tag": "Collaboration"
         },
         {
           "title": "Celltrion wins Korea phase 1 approval for Tremfya biosimilar",
@@ -38,7 +74,7 @@
           "author": "Lee Han-soo",
           "date": "07.15 15:47",
           "new": false,
-          "tag": "FDA Approval"
+          "tag": "Clinical Trial"
         }
       ]
     }
