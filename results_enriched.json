@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18 03:41:49 IST",
+  "last_updated": "2026-07-18 09:11:23 IST",
   "companies": [
     {
       "company": "Polpharma",
@@ -784,7 +784,7 @@
           "title": "Novo, Alvotech face continued FDA scrutiny at plants tied to recent FDA rejections - Fierce Pharma",
           "source": "Fierce Pharma",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTBrVFFwT2g5YWpZVlJ1SjAzZ05RUjNsQkxYWHEwT0phT0U2RWRmcU15VlpEa2V6dGJtQ0NaeHNfdEF6ck12eUtnc3l0NWNWSGMydzN4MmFTTkJIX0lkUGxxRmhDSlNlMmhIU3BsUHNjZ19DX1RkaXlqNDdzMlhTanliLXhEMENucVNPcklPRXZmY0lKY1dOQjZsMUp1bFlOelZvelVveFg1eE9fQW0wbQ?oc=5",
-          "new": true,
+          "new": false,
           "tag": "Inspection"
         },
         {
@@ -794,6 +794,14 @@
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPemNiTnJIVE9TUVZrWGZPTnlKT3F4SGFGdmxnLVZIeF8yYnlqT1M4RTd6ZGZTeVFnY0tDN3p1QnoyYnotb01USFYySHFqMWFSdVQyM1pwYS11S0VBWVpSTUVXWE95bE8tbzlHUFZycDRqZTBpOTVSaWlFYzRtUUxLSy13OFhoWUUtcWh1QkJOelpBRGx3R3F5ck84WEVGaHlRYUNpSFJjNUhjMEVqSFZwYnBMUXZvRDRYcENpN3hpQTJMXzY0bFJPODZ6WFZYN3RJU3A1Z1R3VlZ4QdIB3wFBVV95cUxQWk56VWZ0eEd6bkROa014aVFoak84QnhoSUpDQ1hsRGNTUFlHSTdlMDFRR1BZTlYxVXE5TnFFYkxwYmNUR0poNFRPNjhIY1hzeHVmRmdjcW1xcWFFWjNBaDgtTzhidzNXbUVZU0NfckhhRm44cUg3cFpUTkVzT2VEdkx5Y0lMQUFtS2lKbENqajdzZkE5UXYxNUhxYXNmTW9vUkZwLUhRbHRQNXpCYks4ZzV6d1cxVDhhOXRjLVRqd09QaFd3ak9xTVVPY2I1VS1xMmo2ZEg3d0t2bHlGSEpv?oc=5",
           "new": false,
           "tag": "Financial"
+        },
+        {
+          "date": "2026-07-13 17:40",
+          "title": "Alvotech (ALVO) Barclays 27th Annual Global Healthcare Conference 2025 Summary - Quartr",
+          "source": "Quartr",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT3ltbUcyWWFNNUJMZm5uLU9TRU5fdEl3SXlsZkQzSTJ5Z25kSzh6SVBDZmZMWWk4dHRJZjR4LUZ2Q0c2QXhNWFdySE5VX3NhTEl3Rm1hWWp1SXJsS3p2aHVXSGdnSHJNb1U4WDU5QmZOZktqUWdLSWh5UHVIbVpJdEpBM2NJbHd6Vzd5VnhHeFl5dFZyNnJlVG5TMEhQUzdOVTNTb3NR?oc=5",
+          "new": false,
+          "tag": "Other"
         },
         {
           "date": "2026-06-22 07:00",
@@ -807,7 +815,15 @@
           "date": "2026-06-08 07:00",
           "title": "Alvotech announces FDA acceptance of Biologics License - GlobeNewswire",
           "source": "GlobeNewswire",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNb0dTSmlkTzNmSlNCUnVpSFNyWThkOVBJc01Da1FrRzRSTVhTY29Xam9NeEU1eXhHNkhfYXM5MGZZTS1DYzJpSGxWT2x4NmE4Sm9LVDZxUG5HMFVUTjE2SXc2X3RjOF9WeHhHTEoyay1NM0lKcUpGZDJydDdyekJsVUd2aHRyRFpPSjZ1ZlFadDdQVnJhY0VFTkVSZkIzRTRROG9jWEVqXzBRRWVqZVBfTVBMZU1wQ0ZqWW85NTRPTDZMZnd0Uld4amRzU0dVbGdqT3R4MnNsR3pibjJLRWdZcVUwU1ZULV9lSVhIRkYwaXFTSklWQzk1TzQ1eHZwYnZnQ2RyRWR6eVVYZ3pobEd6RU5wVEJZbHo2T085VmdHcVhvOEk?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNb0dTSmlkTzNmSlNCUnVpSFNyWThkOVBJc01Da1FrRzRSTVhTY29Xam9NeEU1eXhHNkhfYXM5MGZZTS1DYzJpSGxWT2x4NmE4Sm9LVDZxUG5HMFVUTjE2SXc2X3RjOF9WeHhHTEoyay1NM0lKcUpGZDJydDdyekJsVUd2aHRyRFpPSjZ1ZlFadDdQVnJhY0VFTkVSZkIzRTRROG9jWEVqXzBRRWVqZVBfTVBMZU1wQ0ZqWW85NTRPTDZMZnd0Uld4amRzU0dVbGdqT3R4MnNsR3pibjJLRWdZcVUwU1ZULV9lSVhIRkYwaXFTSklWQzk1TzQ1eHZuYnZzZ0NkemVkendYWWd6aGxHekVOUGxCWWx6Nk8wOVZnR3FYbzhJ?oc=5",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "date": "2026-07-07 10:30",
+          "title": "Alvotech Seeks Launch Momentum From Renewed FDA Push - insights.citeline.com",
+          "source": "insights.citeline.com",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa2NNaXJZUmUzZWlpQ3JjRXBOSThnVU9JckVKM3dQa3MzYkxjX0FPZWtkcTRJYWdRd0NsMGh5X2UxR2NZYkFoWWVaMUFSLW5QTENwdmpYNHNmX2dhRDZnU2s1WXBFOXFBdGZ1U1lBNVNSR1VhMkhURjBBbW01MW00di1WN0p6al9DNWNsVUJJRjExbV9tb0ZLZFpPTEdQYlVCMFdlQVFKZGo0M0ZEUFg2RWQ1ck5UeldKSVVjU25Bc0pMXzhDLWRXaURNWWFpZWdsYmQ4T2dBbVV4bmxjM1RubjJYcDE?oc=5",
           "new": false,
           "tag": "FDA Approval"
         }
@@ -1481,25 +1497,9 @@
           "date": "2026-07-07 00:00",
           "title": "Infusion Pump Correction: Fresenius Kabi Issues Correction for dropped or jarred Ivenix Large Volume Infusion Pumps - fda.gov",
           "source": "fda.gov",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQd3huRUdsSEE4QU54djZnOURwREdhd0JmbXFMMDNEclhFb0JqUVBjR0J3eUZWZnFaa1U4enVzck90UHNRZmgyZjlHQ3dsaE1GaVFCNWxFNHpFMDV1R0ZUUFVIMkMtZU5HckxYZjVkbndxZm4za2V5T0tOdEZqTzVtdWRra01ZTXpFZkZHcVZiT2JTQ3Vnd0pTclY4WW5MWEQ1akpWQVFIWHRtZXZuaEgzM2JqTlptVnNlWm4yWklsX28xM0hNcEZ4NkpxS1p1Ymt0U0RRSGhuU3NwZUx1TTFWTlk0bzFaLUdQX3pBbFFSR2hjX0dKamxGcklTdDZwVWZf?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQd3huRUdsSEE4QU54djZnOURwREdhd0JmbXFMM0NEclhFb0JqUVBjR0J3eUZWZnFaa1U4enVzck90UHNRZmgyZjlHQ3dsaE1GaVFCNWxFNHpFMDV1R0ZUUFVIMkMtZU5HckxYZjVkbndxZm4za2V5T0tOdEZqTzVtdWRra01ZTXpFZkZHcVZiT2JTQ3Vnd0pTclY4WW5MWEQ1akpWQVFIWHRtZXZuaEgzM2JqTlptVnNlWm4yWklsX28xM0hNcEZ4NkpxS1p1Ymt0U0RRSGhuU3NwZUx1TTFWTlk0bzFaLUdQX3pBbFFSR2hjX0dKamxGcklTdDZwVWZf?oc=5",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "date": "2026-07-17 12:10",
-          "title": "Fresenius Medical Care’s Big Dialysis Rollout Meets A Tough Road - Finimize",
-          "source": "Finimize",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSTJTNm0tT1cwcDhIMHFwRkdjMHpLUW5iV3pHRjgydmNGdDlPNnlWdkxzaDJPVWNzZVc5emp1V19xQ2J2R3lCSXhRUUN4M3VJeHFVQkRCT0o2REZOTkx4WGQ2VmdvTUdUbG9qXzdva3NqWWwxY0lkRDFYNTR1V3RMR2NzSk04Z1J0YVdpUnVfMGlpMEVRcS1v?oc=5",
-          "new": true,
-          "tag": "Other"
-        },
-        {
-          "date": "2026-07-13 08:03",
-          "title": "German health care group Fresenius reaffirms earnings outlook - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRTlRQzBuWTdpRFVsR05sb1lUb0NjSm9icVQydFVQY2FLSDVNcnFuamI4a3FvV3Jyd1BNa3l6SGd2NjVhTm45TW9uUXM0VTRNOVRtc2dnMTBDcU9aYkdpRUM2Snd2M1NUT0NYdHdqZHY2MlgyS0N0YURGVGVESW1XM1U5eXF1ekk5T1lUZXBCaFVTa2JOZXdobnp5UQ?oc=5",
-          "new": false,
-          "tag": "Financial"
         },
         {
           "date": "2026-05-20 07:00",
@@ -1510,12 +1510,36 @@
           "tag": "Other"
         },
         {
+          "date": "2026-07-13 08:03",
+          "title": "German health care group Fresenius reaffirms earnings outlook - Yahoo Finance",
+          "source": "Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRTlRQzBuWTdpRFZsR05sb1lUb0NjSm9icVQydFVQY2FLSDVNcnFuamI4a3FvV3Jyd1BNa3l6SGd2NjVhTm45TW9uUXM0VTRNOVRtc2dnMTBDcU9aYkdpRUM2Snd2M1NUT0NYdHdqZHY2MlgyS0N0YURGVGVESW1XM1U5eXF1ekk5T1lUZXBCaFVTa2JOZXdobnp5UQ?oc=5",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "date": "2026-07-17 12:10",
+          "title": "Fresenius Medical Care’s Big Dialysis Rollout Meets A Tough Road - Finimize",
+          "source": "Finimize",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSTJTNm0tT1cwcDhIMHFwRkdjMHpLUW5iV3pHRjgydmNGdDlPNnlWdkxzaDJPVWNzZVc5emp1V19xQ2J2R3lCSXhRUUN4M3VJeHFVQkRCT0o2REZOTkx4WGQ2VmdvTUdUbG9qXzdva3NqWWwxY0lkRDFYNTR1V3RMR2NzSk04Z1J0YVdpUnVfMGlpMEVRcS1v?oc=5",
+          "new": false,
+          "tag": "Other"
+        },
+        {
           "date": "2026-07-10 09:31",
           "title": "Fresenius Kabi opens Barcelona IT hub to support global operations - ICEX-Invest in Spain",
           "source": "ICEX-Invest in Spain",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vUTJzTnlPaGtKQzQzeFIycERkZnljTHZZbmxPNTgwYlhwYV9aZXQ3UDlSYWRVdzZEZmdGbWQ4SE9tTVEtZHB2WFRoVlFpazFrUUw4a0ROaktWYldOSERPRGpnQlJVUGNENzZObmdB?oc=5",
           "new": false,
           "tag": "Other"
+        },
+        {
+          "date": "2026-07-13 21:25",
+          "title": "Fresenius to sell 5M Humacyte (HUMA) shares under Rule 10b5-1 plan - Stock Titan",
+          "source": "Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTnhsYVlMVkM5MmdHNDdBeEJDdUs1THZ2NGc1UnZaWlpZYTVxcFRrcWZJcFVMTkY0bzZVcE1GMktSRWFycTQ1ZzkwQlE1UUI2bGdaT0VpdXNvTHh0X0MzeTBsQ2VSX0N3Q0w3RG83RVF3S2J6dlRfVGxqVkZZZUNUdnZiWnJadTMtSjE2eXZyeVJxNklqODJTSWcyYy1fSm9ZYm5xOTJiNXpKbUtWWDdYTHlMSF81ZXJXUUIxMDE1NA?oc=5",
+          "new": false,
+          "tag": "Financial"
         },
         {
           "date": "2026-05-05 07:00",
@@ -1567,36 +1591,645 @@
           "date": "2026-07-14 01:31",
           "title": "Dr Reddy’s runs into trouble with its weight-loss drug - Financial Times",
           "source": "Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmp0YnViaTZYMDNHTGlyR2NnSW9PZTdCZTREbHRCcFhNY2ZNb2tCTU1oaVVjMVRUSncyUUZ3eXcxUlJja1FLbkxDTk5nWktPSjg0MGtLa3R0OXZBUi01cDc4NGtPeWM2TWpEYVM4dndySlh6S3diMk5BWl9tVTdvUHNyYlI?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxMdmp0YnViaTZYMDNHTGlyR2NnSW9PZTdCZTREbHRCcFhNY2ZNb2tCTU1oaVVjMVRUSncyUUZ3eXcxUlJja1FLbkxDTk5nWktPSjg0MGtLa3R0OXZBUi01cDc4NGtPeWM2TWpEYVM4dndySlh6S3diMk5BWl9tVTdvUHNyYlI?oc=5",
           "new": false,
           "tag": "Pipeline"
         },
         {
           "date": "2026-07-09 07:00",
-          "title": "Dr. Reddy's presses pause on generic semaglutide supply after flagging API issue - Fierce Pharma",
-          "source": "Fierce Pharma",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVWh6V0oxbWlsMFA3UnYzQ2s0MHl1THFfVnM1NEF5b01iRXFkeXpQQWN3NkVDYlpKdG96Q3plWFIzSkxnZFpscDlIWmdIdUEwVEVVM1EweERrY3VkMk56UXdjeHI3YXE2aTlvYmh3bVZpU2hUelRIZFV6LXY2VVIzbE94WTlPOXhTWnduM2RmX2g2RTd2NVAwdlEwZHdvU09fR1VCU1ZfRlNKT0tyWDBGdTJQT205UTFCZ2c?oc=5",
+          "title": "India's Dr Reddy's says semaglutide shipping disruption to last until at least late October - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZFczcjJNbnlUcWoybjFNajg3bFVuYTU4TUxvZnhOV2lnOGNxdFJQZW9NeVZLN1hVdEJVM04zRHNzOTg5bVpzaEZVM2NHRGdqUXJEWUdnRkZPTV9Qd0xicWVBU2k1X0ppSG5zV3lRZmRlcjdNc0c1bUlLeHNTU2xHZlBXeDJibDFqN1V6ajdpR0Y3S1lFb09vQ0xrTmJKSmY4T3l1UEc4dDRCZ0dSaVp6MjhtRktsWUFZNC1Ib3gwZWRONDBaWjJ6a29nM2hHNU1j?oc=5",
           "new": false,
-          "tag": "Other"
+          "tag": "Pipeline"
         },
         {
-          "date": "2026-07-15 06:54",
-          "title": "Dr. Reddy's Laboratories (RDY) Projected to Release Quarterly Earnings on Wednesday - MarketBeat",
-          "source": "MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZXFuUllYVU5QWUpLWDRoOUVuUVN2YjdfVktXMThHemk4VlRlWVVnbm9aX21OUGtHcWl4Y19FNm1NWTFHWVZvMGdaTHZQMTVZMDFWVmtmeHYxUFlLUmpjc3hfaThEdm5tcnBjVnRQZGgweEt0NmtQRGdxOVdxaGlXX0l1SnU1aEJIM3RXbEoteVBwZGFoRmtyMlN0WXFsRGJfZ21KZ2N6LWQ1blh3Vks5REh0SGJfY3FBVUk2S0VMQ0VYcVBIbHFid1d5MXJIdw?oc=5",
+          "date": "2026-07-09 07:00",
+          "title": "India's Torrent Pharma recalls select semaglutide pens after Dr. Reddy's notice - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUFlzWnA1eUMwM0ROdGgwakVNQ3pRTWZOMnlIR2xHbm1sb1QtMUxJaTQ2azRxT18wUkYzODNXaHQ2bUhNS0ZjRTRtWE5ucGtQTFh5S3ZBMTltN3lnV2JrZkV2ekVZRlVhT1k2LXY0azN1OGZtOExZSTFlYjNyRmdXUWdaTUhlTHhqZXJoVTFvLWN6RDJ4NURIejdza3ZwZWtfSUltRFZPNXJEX28yYzRvclNRX09zSDJBT0pSLWxsMzV0cEZvNzFXZQ?oc=5",
           "new": false,
-          "tag": "Financial"
-        },
-        {
-          "date": "2026-07-16 00:48",
-          "title": "Bristol Myers Sues Generics Cos. Over Planned Cardiac Drug - Law360",
-          "source": "Law360",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMGNyQnYzTGVlanNoREZiclF2ZE5aWEtBa1UwbVI3VEFEbG42WFIwaGcyOFM2a05sZVh6TENmZVdqZDVDM3FvelowV0I3VjYwLWtGZndJU2NGRVQyaUxJNEtTR0VwOEN2dkw4NGxxOGFMVG1KZzY3b2h2R0dnSVd0NE9reWcxSUhleU5LdFAzSE9lTlBjRHMteVd6QXBnQdIBVkFVX3lxTFBIR0xRWE9HUUJ0MFpWQW83UnhQcEVibFQ0QnUzNF9hX1FCVlVDbDdsN3h3Y2lwQ05qOW5Wa3NLNU5xTDI3R2k4aGpmRkNoanRsM0R5Njh3?oc=5",
-          "new": false,
-          "tag": "Other"
+          "tag": "Pipeline"
         }
       ],
-      "pipeline": []
+      "pipeline": [
+        {
+          "name": "Denosumab*",
+          "details": {
+            "INN": null,
+            "Reference Drug": null,
+            "Originator": null,
+            "Therapeutic Area": "Oncology, Osteoporosis",
+            "Partner": null,
+            "Type": "Monoclonal Antibody"
+          },
+          "stages": [
+            {
+              "stage": "Early Development",
+              "text": "Completed",
+              "active": true
+            },
+            {
+              "stage": "Pre Clinical",
+              "text": "Completed",
+              "active": true
+            },
+            {
+              "stage": "Phase 1",
+              "text": "Completed",
+              "active": true
+            },
+            {
+              "stage": "Phase 3",
+              "text": "Completed",
+              "active": true
+            },
+            {
+              "stage": "Under Approval",
+              "text": "In Progress",
+              "active": true
+            }
+          ],
+          "clinical_info": {
+            "phase": null,
+            "link": null
+          },
+          "status_note": null,
+          "new": true
+        },
+        {
+          "name": "Abatacept",
+          "details": {
+            "INN": null,
+            "Reference Drug": null,
+            "Originator": null,
+            "Therapeutic Area": "Auto- immune, Rheumatoid  arthritis",
+            "Partner": null,
+            "Type": "Fc Fusion Protein"
+          },
+          "stages": [
+            {
+              "stage": "Early Development",
+              "text": "Completed",
+              "active": true
+            },
+            {
+              "stage": "Pre Clinical",
+              "text": "Completed",
+              "active": true
+            },
+            {
+              "stage": "Phase 1",
+              "text": "Completed",
+              "active": true
+            },
+            {
+              "stage": "Phase 3",
+              "text": "In Progress",
+              "active": true
+            },
+            {
+              "stage": "Under Approval",
+              "text": "Yet To Start",
+              "active": false
+            }
+          ],
+          "clinical_info": {
+            "phase": null,
+            "link": null
+          },
+          "status_note": null,
+          "new": true
+        },
+        {
+          "name": "Daratumumab*",
+          "details": {
+            "INN": null,
+            "Reference Drug": null,
+            "Originator": null,
+            "Therapeutic Area": "Oncology",
+            "Partner": null,
+            "Type": "Monoclonal Antibody"
+          },
+          "stages": [
+            {
+              "stage": "Early Development",
+              "text": "Completed",
+              "active": true
+            },
+            {
+              "stage": "Pre Clinical",
+              "text": "Completed",
+              "active": true
+            },
+            {
+              "stage": "Phase 1",
+              "text": "Completed",
+              "active": true
+            },
+            {
+              "stage": "Phase 3",
+              "text": "In Progress",
+              "active": true
+            },
+            {
+              "stage": "Under Approval",
+              "text": "Yet To Start",
+              "active": false
+            }
+          ],
+          "clinical_info": {
+            "phase": null,
+            "link": null
+          },
+          "status_note": null,
+          "new": true
+        },
+        {
+          "name": "Pembrolizumab**",
+          "details": {
+            "INN": null,
+            "Reference Drug": null,
+            "Originator": null,
+            "Therapeutic Area": "Immuno-oncology, Solid Tumors",
+            "Partner": null,
+            "Type": "Monoclonal Antibody"
+          },
+          "stages": [
+            {
+              "stage": "Early Development",
+              "text": "Completed",
+              "active": true
+            },
+            {
+              "stage": "Pre Clinical",
+              "text": "Completed",
+              "active": true
+            },
+            {
+              "stage": "Phase 1",
+              "text": "In Progress",
+              "active": true
+            },
+            {
+              "stage": "Phase 3",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Under Approval",
+              "text": "Yet To Start",
+              "active": false
+            }
+          ],
+          "clinical_info": {
+            "phase": null,
+            "link": null
+          },
+          "status_note": null,
+          "new": true
+        },
+        {
+          "name": "DRL-BIO-011",
+          "details": {
+            "INN": null,
+            "Reference Drug": null,
+            "Originator": null,
+            "Therapeutic Area": "Immuno-oncology, Solid Tumors",
+            "Partner": null,
+            "Type": "Monoclonal Antibody"
+          },
+          "stages": [
+            {
+              "stage": "Early Development",
+              "text": "Completed",
+              "active": true
+            },
+            {
+              "stage": "Pre Clinical",
+              "text": "In Progress",
+              "active": true
+            },
+            {
+              "stage": "Phase 1",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Phase 3",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Under Approval",
+              "text": "Yet To Start",
+              "active": false
+            }
+          ],
+          "clinical_info": {
+            "phase": null,
+            "link": null
+          },
+          "status_note": null,
+          "new": true
+        },
+        {
+          "name": "DRL-BIO-012",
+          "details": {
+            "INN": null,
+            "Reference Drug": null,
+            "Originator": null,
+            "Therapeutic Area": "Auto- immune, IBD",
+            "Partner": null,
+            "Type": "Monoclonal Antibody"
+          },
+          "stages": [
+            {
+              "stage": "Early Development",
+              "text": "Completed",
+              "active": true
+            },
+            {
+              "stage": "Pre Clinical",
+              "text": "Completed",
+              "active": true
+            },
+            {
+              "stage": "Phase 1",
+              "text": "In Progress",
+              "active": true
+            },
+            {
+              "stage": "Phase 3",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Under Approval",
+              "text": "Yet To Start",
+              "active": false
+            }
+          ],
+          "clinical_info": {
+            "phase": null,
+            "link": null
+          },
+          "status_note": null,
+          "new": true
+        },
+        {
+          "name": "DRL-BIO-013",
+          "details": {
+            "INN": null,
+            "Reference Drug": null,
+            "Originator": null,
+            "Therapeutic Area": "Immuno-oncology",
+            "Partner": null,
+            "Type": "Monoclonal Antibody"
+          },
+          "stages": [
+            {
+              "stage": "Early Development",
+              "text": "In Progress",
+              "active": true
+            },
+            {
+              "stage": "Pre Clinical",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Phase 1",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Phase 3",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Under Approval",
+              "text": "Yet To Start",
+              "active": false
+            }
+          ],
+          "clinical_info": {
+            "phase": null,
+            "link": null
+          },
+          "status_note": null,
+          "new": true
+        },
+        {
+          "name": "DRL-BIO-014",
+          "details": {
+            "INN": null,
+            "Reference Drug": null,
+            "Originator": null,
+            "Therapeutic Area": "Oncology",
+            "Partner": null,
+            "Type": "Antibody Drug Conjugate"
+          },
+          "stages": [
+            {
+              "stage": "Early Development",
+              "text": "In Progress",
+              "active": true
+            },
+            {
+              "stage": "Pre Clinical",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Phase 1",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Phase 3",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Under Approval",
+              "text": "Yet To Start",
+              "active": false
+            }
+          ],
+          "clinical_info": {
+            "phase": null,
+            "link": null
+          },
+          "status_note": null,
+          "new": true
+        },
+        {
+          "name": "DRL-BIO-015",
+          "details": {
+            "INN": null,
+            "Reference Drug": null,
+            "Originator": null,
+            "Therapeutic Area": "Oncology",
+            "Partner": null,
+            "Type": "Bispecific"
+          },
+          "stages": [
+            {
+              "stage": "Early Development",
+              "text": "In Progress",
+              "active": true
+            },
+            {
+              "stage": "Pre Clinical",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Phase 1",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Phase 3",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Under Approval",
+              "text": "Yet To Start",
+              "active": false
+            }
+          ],
+          "clinical_info": {
+            "phase": null,
+            "link": null
+          },
+          "status_note": null,
+          "new": true
+        },
+        {
+          "name": "DRL-BIO-016",
+          "details": {
+            "INN": null,
+            "Reference Drug": null,
+            "Originator": null,
+            "Therapeutic Area": "Haematology",
+            "Partner": null,
+            "Type": "Bispecific"
+          },
+          "stages": [
+            {
+              "stage": "Early Development",
+              "text": "In Progress",
+              "active": true
+            },
+            {
+              "stage": "Pre Clinical",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Phase 1",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Phase 3",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Under Approval",
+              "text": "Yet To Start",
+              "active": false
+            }
+          ],
+          "clinical_info": {
+            "phase": null,
+            "link": null
+          },
+          "status_note": null,
+          "new": true
+        },
+        {
+          "name": "DRL-BIO-017",
+          "details": {
+            "INN": null,
+            "Reference Drug": null,
+            "Originator": null,
+            "Therapeutic Area": "Oncology",
+            "Partner": null,
+            "Type": "Antibody Drug Conjugate"
+          },
+          "stages": [
+            {
+              "stage": "Early Development",
+              "text": "In Progress",
+              "active": true
+            },
+            {
+              "stage": "Pre Clinical",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Phase 1",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Phase 3",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Under Approval",
+              "text": "Yet To Start",
+              "active": false
+            }
+          ],
+          "clinical_info": {
+            "phase": null,
+            "link": null
+          },
+          "status_note": null,
+          "new": true
+        },
+        {
+          "name": "DRL-BIO-018",
+          "details": {
+            "INN": null,
+            "Reference Drug": null,
+            "Originator": null,
+            "Therapeutic Area": "Allergy",
+            "Partner": null,
+            "Type": "Monoclonal Antibody"
+          },
+          "stages": [
+            {
+              "stage": "Early Development",
+              "text": "In Progress",
+              "active": true
+            },
+            {
+              "stage": "Pre Clinical",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Phase 1",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Phase 3",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Under Approval",
+              "text": "Yet To Start",
+              "active": false
+            }
+          ],
+          "clinical_info": {
+            "phase": null,
+            "link": null
+          },
+          "status_note": null,
+          "new": true
+        },
+        {
+          "name": "DRL-BIO-019",
+          "details": {
+            "INN": null,
+            "Reference Drug": null,
+            "Originator": null,
+            "Therapeutic Area": "Oncology",
+            "Partner": null,
+            "Type": "Antibody Drug Conjugate"
+          },
+          "stages": [
+            {
+              "stage": "Early Development",
+              "text": "In Progress",
+              "active": true
+            },
+            {
+              "stage": "Pre Clinical",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Phase 1",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Phase 3",
+              "text": "Yet To Start",
+              "active": false
+            },
+            {
+              "stage": "Under Approval",
+              "text": "Yet To Start",
+              "active": false
+            }
+          ],
+          "clinical_info": {
+            "phase": null,
+            "link": null
+          },
+          "status_note": null,
+          "new": true
+        },
+        {
+          "name": "Coya 302**",
+          "details": {
+            "INN": null,
+            "Reference Drug": null,
+            "Originator": null,
+            "Therapeutic Area": "ALS",
+            "Partner": null,
+            "Type": "New Biological Entity"
+          },
+          "stages": [
+            {
+              "stage": "Early Development",
+              "text": "Completed",
+              "active": true
+            },
+            {
+              "stage": "Pre Clinical",
+              "text": "Completed",
+              "active": true
+            },
+            {
+              "stage": "Phase 1",
+              "text": "Completed",
+              "active": true
+            },
+            {
+              "stage": "Phase 3",
+              "text": "In Progress",
+              "active": true
+            },
+            {
+              "stage": "Under Approval",
+              "text": "Yet To Start",
+              "active": false
+            }
+          ],
+          "clinical_info": {
+            "phase": null,
+            "link": null
+          },
+          "status_note": null,
+          "new": true
+        }
+      ]
     },
     {
       "company": "Celltrion",
@@ -1667,7 +2300,7 @@
           "date": "2026-07-15 06:47",
           "title": "Celltrion wins Korea phase 1 approval for Tremfya biosimilar - koreabiomed.com",
           "source": "koreabiomed.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxTF9MNUsycHZXWkozUC0wUmlTV292d1g0YlVpSzdUdE5JWVozLVJ6V0NKSkNmYV96MTVvakRrQ09iZmJ5cFhqSEpaMXBwVEJLV1NwWm9xdUJ6ZDJKaTJDVTBUYzhZeHVlMFJoZllB0gFyQVVfeXFMUDgxR2p4Ul9mR3dhblFRbGJEeFBVNnlxeTVJNGpCQUhRSXZNdkhKcEVPaHBDZmgzWmxsZkprMmNqbFJreGViTVNQa2JCYURtbTFwYTcwS3B6NHZKLTNaSzhFWlFZSFVsVDFMeUIzeUJDRWtn?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxTF9MNUsycHZXWkozUC0wUmlTV292d1g0YlVpSzdUdE5JWVozLVJ6V0NKSkNmYV96MTVvakRrQ09iZmJ5cFhqSEpaMXBwVEJLV1NwWm9xdUJ6ZDJKaTJDVTBUYzhZeHVlMFRoZllB0gFyQVVfeXFMUDgxR2p4Ul9mR3dhblFRbGJEeFBVNnlxeTVJNGpCQUhRSXZNdkhKcEVPaHBDZmgzWmxsZkprMmNqbFJreGViTVNQa2JCYURtbTFwYTcwS3B6NHZKLTNaSzhFWlFZSFVsVDFMeUIzeUJDRWtn?oc=5",
           "new": false,
           "tag": "Clinical Trial"
         },
@@ -1683,7 +2316,7 @@
           "date": "2026-01-13 08:00",
           "title": "Celltrion presents innovative drug pipeline and U.S. manufacturing and R&D expansion strategy at the 44th Annual J.P. Morgan Healthcare Conference - PR Newswire",
           "source": "PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOaGVZSWo3VEVPYUxyQzRQR1N2SVZRNmduVFZ2dzFVWFFkLS1lU3MxZ3hsQnMweElLbXhhWDZaSjdvNEdycXFZUjJXV19wSlIzZkthQzZWYUQyWXdTZ2RtSFFYcnZ2QVVxclhDTmQwcWdmUE44ZFp0dEhIMGdSZmZJY3lBMnBmMTFtTUV1VUJMYXVmMG9xb3diNnBNZU11OVpNNUtwem51SE8wQ190WFdOMjRDODNBTUlCbVFvVmdOLTdsRFFFVDVzazRGT2UxVktSb25Yd0dsUWFLMnlVZk1LR3NOOE54clFOejd5Mlk1YllUY0xMLTNrMkxIOXl0eHEwRXMxM3Rpal9TX2tlYnBvY3lxdC0tRkRnUHFVcF9MRDNHc3M?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOaGVZSWo3VEVPYUxyQzRQR1N2SVZRNmduVFZ2dzFVWFFkLS1lU3MxZ3xlQnMweElLbXhhWDZaSjdvNEdycXFZUjJXV19wSlIzZkthQzZWYUQyWXdTZ2RtSFFYcnZ2QVVxclhDTmQwcWdmUE44ZFp0dEhIMGdSZmZJY3lBMnBmMTFtTUV1VUJMYXVmMG9xb3diNnBNZU11OVpNNUtwem51SE8wQ190WFdOMjRDODJBTUlCbVFvVmdOLTdsRFFFVDVzazRGT2UxVktSb25Yd0dsUWFLMnlVZk1LR3NOOE54clFOejd5Mlk1YllUY0xMLTNrMkxIOXl0eHEwRXMxM3Rpal9TX2tlYnBvY3lxdC0tRkRnUHFVcF9MRDNHc3M?oc=5",
           "new": false,
           "tag": "Pipeline"
         },
@@ -1694,6 +2327,22 @@
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY0dsaXV1cnRXVUZBYWs4TUh2WVdJSWdWYTZTeUZOWGx4a3FIVGgzZzg4NFFKUEgwNXloM2JuSG1kNG5fVEYydThqU1FDaGk0djI4cnZCekdJcTNYd3BIT1F2UFlmZHdiYkFGNTBMZld5dm9Fd2lPMTlLUVUwUU1hTHF2UXZQQdIBiwFBVV95cUxQSi1kY3VYRTJENzN6SnBJVEh2YXhfOVZDX0VmY3piUFZKNTZXc3c1TkVPcTRTQWViSUhWX0gwMW1BZ1M2cUwtZGw1dlpLZHlRZ2tWNnd4OXBTeGJlTTNaS0RjdEF6VTkydENmMTZic3NuRlp1NlNxTVJhdEF6TW80NFZ2ZU1KZmprUTZr?oc=5",
           "new": false,
           "tag": "Financial"
+        },
+        {
+          "date": "2026-07-07 00:23",
+          "title": "Foreign stake in Celltrion up in H1 on robust earnings, IR activities - The Korea Herald",
+          "source": "The Korea Herald",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zcGpoMUZDYzhqbGVxR3JrZjJla1MwMUNYNnBZdW5xaHRHMWFETThvdXZMckc2MzBmZG5Id1RSRnBqc01QNS0yRXlJSGV5dEtwcEJIRVVqdw?oc=5",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "date": "2026-04-21 07:00",
+          "title": "Celltrion to present seven abstracts in inflammatory bowel disease (IBD) at 2026 Digestive Disease Week® (DDW) - PR Newswire",
+          "source": "PR Newswire",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNT1dNZ0x5T094a3FrRTEzbWotTWk4OVdES1ZFU003dGhldGtoX3UxNEhZemVneXA3YURMWFd0OTJ3Q3FtMEZKcHRaQ2JWdFB1Um5MX0ZpRXVVSlNDOTB3aWg1Q1ZjVU0wLXVGYTk5SkRjQ2ZFOElDYVA0QnJUTTRIS0tYUHVVR09ocmExMk10aVVDWjNQMDZWTEQwVktET3BLTnpkMnVOMmdlOWlJSHlZcHhyWFAwLWdGNlBMRC1kSFoyUm1qMDlFaXdfSjFrMDZLWmFtNDFocUEwMFJfYnRxdXg5Rk1hNGZZNUVOMVB6ZFdmUFE?oc=5",
+          "new": false,
+          "tag": "Clinical Trial"
         }
       ],
       "pipeline": [
@@ -1879,7 +2528,7 @@
           "date": "2026-07-01 07:00",
           "title": "Samsung Biologics’ Kasper Øland Discusses Why Biopharma's Shift to Complex Molecules is Redefining What Biotech Companies Require From CDMO Partners - BioPharm International",
           "source": "BioPharm International",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnQ0Zm5neGdaMDZhbjZFYzlSTzRxemt0SFdrMWViN1NvMW5xVzdqVG5NWEdUUlhidHQ2aW40dGlnd2Qwa3V6UzE5eXZZazZLWU43NjZ3M1JJWmRtbklybWs3WmFMbmQtSFpMOTZqSEt1QUhRemhtWjJtaWR0bEpYTlVYRHBYaGRzRnp0bVIwSmVLYmNEeFBSaHVpYklCNkhRWFFXczhKWUFSNXdMOVdjTlAtQU5kRTgtZERWU0ozZw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnQ0Zm5neGdaMDZhbjZFYzlSTzRxemt0SFdrMWViN1NvMW5xVzdqVG5NWEdUUlhidHQ2aW40dGlnd2Qwa3V6UzE5eXZZazZLWU43NjZ3M1JJWmRtbklybWs3WmFMbmQtSFpMOTZqSEt1QUhRemhtWjJtaWR0cEpYTlVYRHBYaGRzRnp0bVIwSmVLYmNEeFBSaHVpYklCNkhRWFFXczhKWUFSNXdMOVdjTlAtQU5kRTgtZERWU0ozZw?oc=5",
           "new": false,
           "tag": "Other"
         },
@@ -1900,6 +2549,14 @@
           "tag": "Other"
         },
         {
+          "date": "2026-02-02 08:00",
+          "title": "CEPI and Samsung Biologics collaborate to strengthen outbreak-ready vaccine production and global access - CEPI",
+          "source": "CEPI",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSlM3OGo3NUNaUzNmSHkzakpMRFNmNkZKeGFlU1pyQWl6Q2ZLZzViaGdKNUY5S0VlMVRJNGZsRU43U2cxQVY3U010MUR6aXljSEowMzRaalZocE93X2JNbEZ2TG5rTTg5YURwQ1NReGctcFlRbmlxYmpQOHoySnlVMDduNG9wclRIZFd6T2NmTmhQV3h1SkppcE82Nmk1bXBIbDRzVHJtRUoxY2tyYkdHQQ?oc=5",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
           "date": "2026-07-16 05:12",
           "title": "Samsung Biologics union decries stalled talks, ramps up Korea outreach - CHOSUNBIZ - Chosunbiz",
           "source": "Chosunbiz",
@@ -1908,28 +2565,28 @@
           "tag": "Other"
         },
         {
-          "date": "2026-02-02 08:00",
-          "title": "CEPI and Samsung Biologics collaborate to strengthen outbreak-ready vaccine production and global access - CEPI",
-          "source": "CEPI",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSlM3OGo3NUNaUzNmSHkzakpMRFNmNkZLeGFlU1pyQWl6Q2ZLZzViaGdKNUY5S0VlMVRJNGZsRU43U2cxQVY3U010MUR6aXljSEowMzRaalZocE93X2JNbEZ2TG5rTTg5YURwQ1NReGctcFlRbmlxYmpQOHoySnlVMDduNG9wclRIZFd6T2NmTmhQV3h1SkppcE82Nmk1bXBIbDRzVHJtRUoxY2tyYkdHQQ?oc=5",
+          "date": "2026-06-25 05:31",
+          "title": "[Bio USA] Samsung Biologics steps up CDMO tech race - The Korea Herald",
+          "source": "The Korea Herald",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2QXJUZ0h5STlwaUtiMDFKZGxPQXFyd0V1eUVxdmhueTNvcktYOHBBWXdhMnB1SnpxR0xpRWI4MEJfU3gyVkVEdjJvOGNLRzVIRGJlc0ZUTQ?oc=5",
           "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "date": "2026-05-04 07:00",
-          "title": "CDMO Samsung Biologics estimates $102M impact stemming from ongoing union strike - Fierce Pharma",
-          "source": "Fierce Pharma",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR0dyYzNVcEN1VktwVFA3ZkU3NFl0d2l2SE1fLXdFcnRBRERSSnZaTWJWM2ZRNWF6STdTSFk0QWZwalBjZjd3Y2JRYWtfdXJjOWIzY1NxWTMzdW5BRjdYU3Y5MjczOE5zUFdIZGpsc0xtcjVPelE1dXphWVdTUVJVV2FhVVJqZDBGN1ZjYjVYQmhiSjQ5dXVibm5LX0JiaUJyR1lTWTJZYXdqN2xTN0FDQw?oc=5",
-          "new": false,
-          "tag": "Financial"
+          "tag": "Other"
         },
         {
           "date": "2026-06-25 07:00",
           "title": "[BIO USA 2026] Samsung Biologics expands Bio R&D Center beyond CDMO support - koreabiomed.com",
           "source": "koreabiomed.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93S2JId25Hbm1qNFAtZDUzdzNFQzRZUW1kcVJQamhUNTRrVnZDQlBNT0xDVTRITEtPSXRwcWJSUWZhZldLQzFPdmtDd2sya3VhUkhVR1hwSHhfMmx3djhFRXJERkE1amNDRVFUYm9R0gFyQVVfeXFMTjROLW1INGxtTnpITi1xYklDbGJvU1A3SXd1QUNGdWxfR1QyLWIzMTFBTHZkN3BGUzJtbmdkRnFfLWs3ZzJmbS1aQ3dnc0xxTm02NFBzNmg4OTdGVzRKNnYwSDJDdGRhejJiaEppUnlRQlBB?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvd0tiSHduR25tajRQLWQ1M3czRUM0WVFtZHFSUGpoVDU0a1Z2QkZQTU9MVTRITEtPSXRwcWJSUWZhZldLQzFPdmtDd2sya3VhUkhVR1hwSHhfMmx3djhFRXJERkE1amNDRVFUYm9R0gFyQVVfeXFMTjROLW1INGxtTnpITi1xYklDbGJvU1A3SXd1QUNGdWxfR1QyLWIzMTFBTHZkN3BGUzJtbmdkRnFfLWs3ZzJmbS1aQ3dnc0xxTm02NFBzNmg4OTdGVzRKNnYwSDJDdGRhejJiaEppUnlRQlBB?oc=5",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Other"
+        },
+        {
+          "date": "2026-05-04 07:00",
+          "title": "CDMO Samsung Biologics estimates $102M impact stemming from ongoing union strike - Fierce Pharma",
+          "source": "Fierce Pharma",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR0dyYzNVcEN1VktwVFA3ZkU3NFl0d2l2SE1fLXdFcnRBRERSSnpaTWJWM2ZRNWF6STdTSFk0QWZwalBjZjd3Y2JRYWtfdXJjOWIzY1NxWTMzdW5BRjdYU3Y5MjczOE5zUFdIZGpsc0xtcjVPelE1dXphWVdTUVJVV2FhVVJqZDBGN1ZjYjVYQmhiSjQ5dXVibm5LX0JiaUJyR1lTWTJZYXdqN2xTN0FDQw?oc=5",
+          "new": false,
+          "tag": "Financial"
         }
       ],
       "pipeline": [
@@ -2378,58 +3035,10 @@
       ],
       "google_news": [
         {
-          "date": "2026-07-16 13:17",
-          "title": "Teva, Samsung Bioepis ink agreement for Eylea biosimilar in Canada - Drug Store News",
-          "source": "Drug Store News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM3hzRWZjWmd4WWlMY1ZvQ254M2NVcGRDd3J5bzZQZXJFaWlQMzBZaElXQVhibEF2VllkY25jTmRSMWppUWFmNTV0NVdTZXZqc243WW94RDZ6MWdrRW1KbjVhbXYwYXVqRllUd2xIUWZpR2Y0NHN3ZUFuMjFESmRfWk9PS1VDT1hILWhiZg?oc=5",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "date": "2026-07-16 06:32",
-          "title": "Samsung Bioepis, Organon expand biosimilar partnership in Australia - koreabiomed.com",
-          "source": "koreabiomed.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96NnJPVjVERGJDRHNpd243Vkota1BFWUNkVkxfWVo2a0IzcklmNGtFRHNwUkxjZkdQNjhvWWtrLUpOcWlKYlgwVEM4ZlhYSGdTMEtVSzNfcjNOVkJLX0RuSEhVTFkzODE0c3dNSlln0gFyQVVfeXFMTmxtc0RHOFFUby1FY3dzM0tDQlRJYVZYRFJUS24wRlNqNU81ZnpCN2ttNEk2Q2s1NzNiYjROelBoUGZLLXNZUlVodVY3NU1wMHdaMkljZ2hvVnZhbjlCR0Z6X3o1ZnFBaS1EZVVzSmdBOUVn?oc=5",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "date": "2026-07-16 15:01",
-          "title": "Samsung Bioepis Grows Australia Biosimilar Portfolio to Four as PBS Default Reform Nears - Tech Times",
-          "source": "Tech Times",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYjhfZ0xzRThOV284bGlkdHR2bnkwUmlfc1RpY1BtckR3bHI5T21Fc3NmTjB2U0ZsdFFWWE12X3drUzNxTEhHcHRuOTB1MkxWNFdvTF9BNmpoaDFSRWZaak02V3FtY1VHTlNCMkVKdWpZNVNSUUV4dnhrZ2VnNzJ5RTVwcTNfSmd3YUdFd0hxOGJYZDFLNDZmaVFvc1pwWkVsaG1WYzdIVnBoUnBXLXZlTU1tTHlRM0xFWkZ6bUM0c2c3WG5CRERsWjhIb3kwLS1rdEd3?oc=5",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "date": "2026-03-18 07:00",
-          "title": "Sandoz announces partnership agreement with Samsung Bioepis - Sandoz",
-          "source": "Sandoz",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWZHSGpkSEsyYjd4WkdCdENZblJQTDZydUFGQUQxWlBYT3BDdGhkSjlpLTMxWU84U3dlR2l5czliY3NtLXVUUEhWX0toZm5vRVQ1V2FReFZmblcxRjBoOFlEc1h4UlQ3T3BSMWlMWEozOHlRWlQ4X184eHlxUjlWVi1XR19aX2tWajVWUTdhZVljN284cF9vU3NNbnE5ZlcyZGdyZFFudm90N1VZd1E?oc=5",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "date": "2026-07-15 09:33",
-          "title": "Genentech, Samsung Bioepis, Novartis, Biogen face key antitrust hearing July 28 - MLex",
-          "source": "MLex",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfZEhiRjRCVkVpMUZvMkphMlVwTWVpZ2hMS1l0M0RJSXRUVGtTLUlNRFZVb183UzNtQjVjdzZuYThsT2ZLTGFubGQyZF9EV1ZnRUV4OGlHelFEZ9IBWkFVX3lxTFBfZEhiRjRCVkVpMUZvMkphMlVwTWVpZ2hMS1l0M0RJSXRUVGtTLUlNRFZVb183UzNtQjVjdzZuYThsT2ZLTGFubGQyZF9EV1ZnRUV4OGlHelFEZw?oc=5",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "date": "2026-07-14 00:55",
-          "title": "Samsung Bioepis Secures PH20 SC Formulation Platform - Businesskorea",
-          "source": "Businesskorea",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SDZrLW9NVk40ZmY2Zm1lVGQySndNSVI0RUJzM211MjREQjBwakF3TV8zdkh6NmxBc1Z6NWgxbkFtbFpHdWhqQlpGWU5XdXBUOGxnZUtKWkFLdXJkS1ROLW5sQUZlNGg4dEFrODZyamtpZEJS?oc=5",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
           "date": "2026-04-29 13:18",
           "title": "Samsung Bioepis, ATLATL Partner on Open Innovation Program - Contract Pharma",
           "source": "Contract Pharma",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTNlQ1F2cjRsdmtHNFhPc3cwR0ZLQ1dfWHIzSXdPMVl0aWl0VVROVjdlcGJEMV92alBGSTIxV2ZUS0ttem5CVVIyUURWQTBiMVgxT3pVRWw5OUFTNTcweTlpUjhvazBheUxvdlhsX3IyWXFxanotWkpnNFFiNmQtUnNieUNNREZnb1B6NnI3eFJES3pvVE4xdV9BSUpLckluMUZZVkdR?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTNlQ1F2cjRsdmtHNFhPc3cwR0ZLQ1dfWHIzSXdPMVl0aWl0VVROVjdlcGJEMV92alBGSTIxV2ZUS0ttem5CVVIyUURWQTBiMVgxT3pVRWw5OUFTNTcweTlpUjhvazBheUxvdlxlX3IyWXFxanotWkpnNFFiNmQtUnNieUNNREZnb1B6NnI3eFJES3pvVE4xdV9BSUpLckluMUZZVkdR?oc=5",
           "new": false,
           "tag": "Collaboration"
         },
@@ -2437,17 +3046,25 @@
           "date": "2026-04-28 05:11",
           "title": "Samsung Bioepis Releases Second Quarter 2026 US Biosimilar Market Report - BioSpace",
           "source": "BioSpace",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObm04M09GWUZuN19HNVRpR3ZLZkRsZkRYeFBZVVVYb1NRa285b3c1OEd3UG84Q01xSnBMSkN1WnNQTmVrbWhVeXFlRC16bG5IR3QySlFGdEFvU1M0SzFvVUtQNjZYZzZjdm90VGUyYi0wWExKQUtHNlZwdU80MHJ6MVN3VnJOQ3NVTlh5WXVudl9rUHJIQWhtNDl0X2dySGFPSU1USUVzQ0NPYzk0TVFtSFFB?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObm04M09GWUZuN19HNVRpR3ZLZkRsZkRYeFBZVVVYb1NRa285b3c1OEd3UG84Q01xSnBMSkN1WnNQTmVrbWhVeXFlRC16bG5IR3QySlFGdEFvU1M0SjFvVUtQNjZYZzZjdm90VGUyYi0wWExKQUtHNlZwdU80MHJ6MVN3VnJOQ3NVTlh5WXVudl9rUHJIQWhtNDl0X2dySGFPSU1USUVzQ0NPYzk0TVFtSFFB?oc=5",
           "new": false,
-          "tag": "Other"
+          "tag": "Financial"
         },
         {
           "date": "2026-02-17 08:00",
           "title": "Samsung Bioepis reaches settlement agreement for Eylea (aflibercept) biosimilar - Ophthalmology Times",
           "source": "Ophthalmology Times",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVndVNWRGdEx4OGl6Z09zZC1WNlN1SWJVRWllN2lsTW03N1AzUzA5UTQ5UW1pelpTdXBZQl8xTnZZbGszeThSZlBQZDAwU01udXNsMFRUX1hScXBxV1RPX1JYNHluNTdPYUZiem5KVk1QSWtVSWRwQ3huYTVEX09odTl2b0czS21tRmZGb3V5Nnh6TU1nMW1kSE5hd1dpbUtsZHRSWXhoYUdPeXNNWUxmUjJQWV90c3hK?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVndVNWRGdEx4OGl6Z09zZC1WNlN1SWJVRWllN2lsTW03N1AzUzA5UTQ5UW1pelpTdXBZQl8xTnZZbGszeThSZlBQZDAwU01udXNsMFRUX1hScXBxV1RPX1JYNHluNTdPYUZiem5KVk1QSWtVSWRwQ3huYTVEX09odTl2b0czS21tRmZGb3V5Nnh6TU1nMW1kSE5hd1dpbUtsZHRSWXloYUdPeXNNWUxmUjJQWV90c3hK?oc=5",
           "new": false,
           "tag": "Other"
+        },
+        {
+          "date": "2026-03-18 07:00",
+          "title": "Sandoz expands biosim collab with Samsung Bioepis, sets sights on Takeda's Entyvio - Fierce Pharma",
+          "source": "Fierce Pharma",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY1Y2QUNyUDlOQXVkZk9Da05yVTFXU3pFRzBxUEZ4cE8yWHpiOVk3MmQ2MTVpb3RDY0RXZDFTanFMNXcta1d4VWx2RXFqeDh6QkZDdVl0Wlp3c20zZHlUdFBicFZVRl9HV1JkVEhnT0lSUGFTNGE0bnFHdkZhcmhydkM0Z0p6MVVnbThQUUpmeWJRaHJJSjRiOEJqVnZESGd4QkFQTmhB?oc=5",
+          "new": false,
+          "tag": "Collaboration"
         }
       ],
       "pipeline": [
@@ -4274,7 +4891,7 @@
           "date": "2026-07-13 14:09",
           "title": "Mylan to sell up to $363 million stake in India's Biocon, term sheet shows - Reuters",
           "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcHdtTnNzTThxejRmY25va0RfNmh5YTVRT3dCN1c4ZXdPNGRtUVZzcWdFd1VLeVRIdzdGZHZ3MTA1X3FBWWU1RkF2eFFqSHAwQ3loMUJRVDZTaTVxbmVaQ3V6OEhJYmJGZ3FqRHVROHgzbVVMaWtJNlJ4cXRhU29iN2JEcVBNMEdKZ0pnQWV2eUFHUjJwSWJfNFdOb3I5eVlucDlHMFdSZnlzNVBuM0R2bXJ3OGhHZVZXWnhGeElvYmg3WWt6OTJmYW4wLWRYRHM?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcHdtTnNzTThxejRmY25va0RfNmh5YTVRT3dCN1c4ZXdPNGRtUVZzcWdFd1VLeVRIdzdGZHZ3MTA1X3FBWWU1RkF2eFFqSHAwQ3loMUJRVDZTaTVxbmVaQ3V6OEhJYmJGZ3FqRHVROHgzbVVMaWtJNlJ4cXRhU29iN2JEcVBNMEdKZ0pnQWV2aUFHUjJwSWJfNFdOb3I5eVlucDlHMFdSZnlzNVBuM0R2bXJ3OGhHZVZXWnhGeElvYmg3WWt6OTJmYW4wLWRYRHM?oc=5",
           "new": false,
           "tag": "Financial"
         },
@@ -4287,18 +4904,10 @@
           "tag": "Other"
         },
         {
-          "date": "2026-06-16 07:00",
-          "title": "Watch Biocon's Mazumdar-Shaw Says Firm On Track To Be Top Insulin Maker - Bloomberg.com",
-          "source": "Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONk53S1F1NHk3U2VPQ25mdkpGX0Ryc0o2UEZEeHUtcHdMSERhNV96SGZWSUx4eUlXUlJWTlV0MU9GdVFMbWIydmRwVWdqcjYxS05GTm55ckNsZ0VFVEx5WTBfdjM4cl9aRXVTSUs1RTQzam9HWVFObmpDbm9zbENTT3ljTWFvTG5rSENFQlowT1QwS0hiRG0yQzFGb2wxNUVMSTNqT0Z4TQ?oc=5",
-          "new": false,
-          "tag": "Other"
-        },
-        {
           "date": "2026-07-09 11:35",
           "title": "Biocon Announces Publication of Pivotal Clinical Data Supporting Effectiveness of Yesafili - Business Wire",
           "source": "Business Wire",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUjR5aXRkM0xYU29aaFpqZEtBRm9yelRESFdDZDc1cFRUdXhVUWdkcUViRmFxdVljUmEwZWFidF9FVnFpb3NOaV9iOFZ0MWhJX2Qyd2VTbzh3b0JWU1dKZHQwSzhUVnNWZHBqcDFhMlJMeG5OdFpmS3REMG4zVE5SYWJvMEdlRnlYdzFXTF9JWVd1cnNmajFIVFZuVXlPUDkwNHhuMzFLVXB1aDh5WE9mR3hIa2Z3cGh3ZHJrcjlSLW5FMXFJaWxKUXNJdEtvRmlIazFGcDNMemR0a0g0a3NyV1dNc0JZSnRuLUpUZjVud2ZHRlVSb1pTblNDWWdXTExOMEdxVDh6UnM5bjFGVG9jWGc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUjR5aXRkM0xYU29aaFpqZEtBRm9yelRESFdDZDc1cFRUdXhVUWdkcUViRmFxdVljUmEwZWFidF9FVnFpb3NOaV9iOFZ0MWhJX2Qyd2VTbzh3b0JWU1dKZHQwSzhUVnNWZHBqcDFhMlJMeG5OdHpmS3REMG4zVE5SYm8wZ2VGeVh3MVdMX0lZV3Vyc2ZqSFFUVnVZcU1PNDZ4TnhzS1B1aDh5WE9mR3hIa2Z3cGh3ZHJrcjlSLW5FMXFJaWxKUXNJdEtvRmlIazFGcDNMemR0a0g0a3NyV1dNc0JZSnRuLUpUZjVud2ZHRlVSb1pTblNDWWdXTExOMEdxVDh6UnM5bjFGVG9jWGc?oc=5",
           "new": false,
           "tag": "Clinical Trial"
         }
@@ -4367,10 +4976,10 @@
       ],
       "google_news": [
         {
-          "date": "2026-01-09 08:00",
-          "title": "Regional Court Munich grants PI to Regeneron against generics in Eylea case - JUVE Patent",
-          "source": "JUVE Patent",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2w1WG9sRUtaZk9UVlpVZTdZSS1KUGYwVU51X3hGSXBid0dhblVtOWM1enRQU1Uyei13dG5jWnpSVjNOaTZTZkRhUWtjMWZMUlJKUnowMnRhenhrV1VzQV81WW1iTGQ1QXpISk1kWmFVeFVSUVZMZzdsM2h1NnVJTUdQX2owVDFJeVJLZmR5aVFha09mLUZ1Z3lwaGRqN0hGXzF5eGNjRmM4a3FJVjBN?oc=5",
+          "date": "2026-01-08 08:00",
+          "title": "German Court Grants PIs Preventing Marketing of Aflibercept Biosimilars by STADA, Hexal, Celltrion and Advanz Pharma - Pearce IP",
+          "source": "Pearce IP",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPckdaYlRJSHY5VDI2clQyQ0R5em9FT0o1NzJaU2hPeE9mTXNzaFctV0E2Nnp6aGliaGNNYmM2THRYSXR0TkpxQ2ZZQ3M2aEpQY0cxX2ZqS3VhXzFqYkJCWEs3eFBVMEVqYWxCNU5rbzZkNE4tLUdPbjVRem5OdXY4LU96VjJaS0ltZnV4SHVwcUg2a0czX01SNzRNdndHa2VvcWI0WF9xTHREeUpyS1o5LXFoSlduaWxUYldsSjlDekZDRmd1Y2xiM0lGOWpubHpNQ28yNkxaMzd3dGVTZXhCRDdGOXFxUQ?oc=5",
           "new": false,
           "tag": "Other"
         },
@@ -4378,33 +4987,17 @@
           "date": "2025-11-21 08:00",
           "title": "Alvotech and Advanz announce EC approval for Gobivaz biosimilar - Pharmaceutical Technology",
           "source": "Pharmaceutical Technology",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdk1pUHFNa3VPN2FqV0l3UU4wMWwwX010NXNMTlhkU25qd0NMenJvRmlFT0IzT0R0dklDZDRmd19YcHZ2NHlRaXBYSkZZT1dTTDZTRjZkSVozeEVCY1FfMDMyWWNIdjB6YXZmRjBPMWEyRnZKSWxiOU9KRHo3d3RfZw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdk1pUHFNa3VPN2FqV0l3UU4wMWwwX010NXNMTlhkU25qd0NMenJvSmlFT0IzT0R0dklDZDRmd19YcHZ2NHlRaXBYSkZZT1dTTDZTRjZkSVozeEVCY1FfMDMyWWNIdjB6YXZmRjBPMWEyRnZKSWxiOU9KRHo3d3RfZw?oc=5",
           "new": false,
           "tag": "FDA Approval"
-        },
-        {
-          "date": "2026-01-08 08:00",
-          "title": "German Court Grants PIs Preventing Marketing of Aflibercept Biosimilars by STADA, Hexal, Celltrion and Advanz Pharma - Pearce IP",
-          "source": "Pearce IP",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPckdaYlRJSHY5VDI2clQyQ0R5em9FT0o1NzJaU2hPeE9mTXNzaFctV0E2Nnp6aGliaGNNYmM2THRYSXR0TkpxQ2ZZQ3M2aEpQY0cxX2ZqS3VhXzFqYkJCWEs3eFBVMEVqYWxCNU5rbzZkNE4tLUdPbjVRem5OdXY4LU96VlZaS0ltZnV4SHVwcUg2a0czX01SNzRNdndHa2VvcWI0WF9xTHREeUpyS1o5LXFoSlduaWxUYldsSjlDekZDRmd1Y2xiM0lGOWpubHpNQ28yNkxaMzd3dGVTZXhCRDdGOXFxUQ?oc=5",
-          "new": false,
-          "tag": "Other"
         },
         {
           "date": "2026-04-07 07:00",
           "title": "Advanz Takes Aim At Rival's Bowel Disease Drug Patent - Law360",
           "source": "Law360",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWZ4SnBhLVBPSmgzOTcyQVBkcllqb2pDQnlfSUtVVkxHVmgtSElPeDRaOTRJbGZpRlZMS3UtR0NGWXZsT2V5aGNNbFYxQ3BObGprbjY5UlZCaUtndUt0YzZHUC1rejdHS3dNa1A4MHprRzNjSEV5UmdxdE55Qkcxc2Nna1I0Sm52dU5mZlNsQUU3UWlvdG5jetIBVkFVX3lxTE5ZcUF6eGFJdy0xbDFJd25NcU5lYUxCbVBKSHZzMUUxRC1KbGZfdTVZQlU0YVJMWXAtOXl1ZFkxUW45b0NtQ3JSV1dmQzNQaVdYS3RtaFVn?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWZ4SnBhLVBPSGkzOTcyQVBkcllqb2pDQnlfSUtVVkxHVmgtSElPeDRaOTRJbGZpRlZMS3UtR0NGWXZsT2V5aGNNbFYxQ3BObGprbjY5UlZCaUtndUt0YzZHUC1rejdHS3dNa1A4MHprRzNjSEV5UmdxdE55Qkcxc2Nna1I0Sm52dU5mZlNsQUU3UWlvdG5jetIBVkFVX3lxTExZcUF6eGFJdy0xbDFJd25NcU5lYUxCbVBKSHZzMUUxRC1KbGZfdTVZQlU0YVJMWXAtOXl1ZFkxUW45b0NtQ3JSV1dmQzNQaVdYS3RtaFVn?oc=5",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "date": "2025-11-20 08:00",
-          "title": "Alvotech and Advanz win EC approval for first Simponi biosimilar - The Pharma Letter",
-          "source": "The Pharma Letter",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaTJMYmRpRi1JaTIyOHJvX2RPbUJrNXFXaXJBdEJObTBQMUQxMzhVa2tZV1dtTDdrQ1hQMkp3TUVJN1R4OGw4X3RWMkg5RkJQTDBKckFSRU80T0I4Q3NEdHY5cllxTkF4UWpzN0ZUMmpXdjFWYTF2X0dfVTYwTjlCMFE4RDhickh6aGs4enI0QWFGXzFGbVc2RlhvNFVPTkZzZ2Z5WC1iNFREbWFackNVWkk2VQ?oc=5",
-          "new": false,
-          "tag": "FDA Approval"
         },
         {
           "date": "2025-08-25 07:00",
@@ -4415,10 +5008,10 @@
           "tag": "FDA Approval"
         },
         {
-          "date": "2024-06-28 10:06",
-          "title": "ADVANZ PHARMA Enables Field Medical Teams to Have Enhanced Scientific Engagements with Link Key People - Veeva",
-          "source": "Veeva",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXJ1Y2lYb3JuazNyTzVISkExYzFDeDRHNDBjaDZXRWNxOU5zVXB6Wnp2cVdUc1dxdUZNemlZRDV5SVZkYURCbmdrVTBUVDhlSnlLSkNWdlVXM0I0N25UZXJ1ZFl2R09XbkZhbjZhNnVDMFBSYTRkMlFERXM1SU1aeTFOOXltQkEzY2RBVE5wNkU5YThOSUlsSGJocFJGX0xDQjFNMVdyOUNJZmRqRHRVUGpXWm1CdHVMZVplTA?oc=5",
+          "date": "2025-10-30 07:00",
+          "title": "Top Cinven executives at risk of UK boardroom ban after drug price gouging - Financial Times",
+          "source": "Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejVzRllfYUh6QkwzNXMxNU1ybjBOUVpLSmRjZ1VDREhhZmtJYWk0S0I4b0FhQmQySnN5Unlhdm9laS1IME1tMldCVUhZdHpTYmNvaTFMZkhCN1pWb3J2b0VqWDh4a1JwMHRNNzhLSDNMd25YMk5zZVJ2VVdEd1lKbDN5WkM?oc=5",
           "new": false,
           "tag": "Other"
         }
@@ -4503,24 +5096,8 @@
           "title": "What Teva Pharmaceutical Industries (TEVA)'s TEV‑408 Vitiligo Data and Funding Deal Means For Shareholders - simplywall.st",
           "source": "simplywall.st",
           "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVjZrRFJuTV9yNjJqWk45b21ETzRmRlVaajdJVTdOQXN5MjFZOHd5NWZmbzVjVEpFeS0zUVZfWEphVm5JOUZKRUFmNjVieUV4MjR1bmxfMG9nQjRueVRKUXd4N1pad1FPWk9OYzJwQjFkUzlUNm1WUURKcFVGeFVHRzh4R256X2ZuZFpfZ21fcDRaNlpEMmlQVldNOWdUSUhVLUZVa0EzTUlGZ0k1UEtERFhBbnB6ZVZVSkNPdDVoZGswVUVna2hrVTlxeEh2YVpld2NtMHRFaWg5RFlETWxodDJQXzZYRWl3Y1lxeE1iSE5tQjBr0gH6AUFVX3lxTFBQZnRQTVFsWFZzakRwd3A2NEd4WVlSbTNOOWNYNFUyMDcwXzhWbVE0a3RWVmU1cHlVTUdOUlI0Tjdqc1NiR0xreUJ5VUxCc2FKSnRCcGNrV2F1ZUxmZmdvRk53WEh2Q3BIbDNfX1RJWWxDbW14ZHhSQTU4T20yYkR6My1RcVYxaWw1by1YdDI1cXl0a01DYkIyR0VlcHhLd3V4bU1OSmxYQl9yQzBJU0EzRWRGNnZhWW8yVVZEUGJUNnM4UEJqZlZVUGdhT1NZVEJ1ckFrdmxnVW51MW15OFNvaGctM1pnS2s3R0tfaV8zN19ZWHlOM1F4dFE?oc=5",
-          "new": true,
-          "tag": "Financial"
-        },
-        {
-          "date": "2026-07-15 17:33",
-          "title": "Pharmaceutical Method-of-Use Claims After Teva v. Eli Lilly and In re Xencor: Written Description, Enablement, and the Known-Compound Genus - Foley & Lardner LLP",
-          "source": "Foley & Lardner LLP",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNTTdJamo2SFc2djZZX19ReExfQ0tCbWRIcVI5Y0pQdGVSOTMyVWl4cG50SUJJelZVSF9pdXhUZjdDNnFTcnFCbTNQdHdmZ001c0FPNU02RU1vOUJ3OXBtdDZJUmJVQmhvQmZhcnRhUW9CM3hBSDMyX3l6bERnVGFmRVFoSnp3NGhEenBJOWNYTWx0MkJiUmQwWVR0V1BMWmFfRGpOVW1DU3dkSXZrQ1YyUVo2M0U5dmlBRl9XRXBSOUUyMHhjR2o0Rk1LdXBvQVpSTmhGOFNCRkRHR1dFYWo0MGh3amNrdUx3Nk9ja21aY2pQQUhrbUd5a1hqWVNVVzR5aldLakUtb2tWQVIxaXYzYVVpeXBEQUU?oc=5",
           "new": false,
-          "tag": "Other"
-        },
-        {
-          "date": "2026-07-08 10:49",
-          "title": "Teva draws up mid-stage study plans for vitiligo asset on Phase Ib success - Clinical Trials Arena",
-          "source": "Clinical Trials Arena",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVlh6a05zOFZnYm1jMDlCQTlJSnVEX25sM2xNRzFjQzdOWi04bTJzdW82RGFCa3ZHME5mNFBGUms2S2RUV2VlY0pRTGRwSTdua3hJcFpyd3o0YTZzMjRXN0k5eC1UVnlxQUpuTnJiS1RMekJIaERMaGdOc2psM2xYOWdYOGc4QXRyMFlkV2V3?oc=5",
-          "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Pipeline"
         }
       ],
       "pipeline": []
@@ -4564,7 +5141,7 @@
           "date": "2026-05-18 07:00",
           "title": "MS Pharma Announces Strategic Growth Investment from Olayan Financing Company - PR Newswire",
           "source": "PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT3E2dXZfNXFIQkx3RW5Zekx3QklhRlVJSzBiSmR6X0ZuamdhcXZJbndOOXBURU1aOWI2bXQ5bk5DWHJqZGhndmZ6a0RxTWh6LVFRRnV0UzY2UUt1UU1fODV5OFVJWGVEQXJsakNmazZtRUJGMldfenk2QnlZeEN0dHc0MHFxbkd2UURCd3hrM2EtUDFtY3pZMzE0Q0xhQU5zZmc5V2o3SFhBdG9CeXJxQTN3aWt1STg0RmtmYXUxOTY0ZzVUN2htWWxkbFRaZw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT3E2dXZfNXFIQkx3RW5Zekx3QklhRlVJSzBiSmR6X0ZuamdhcXZJbndOOXBURU1aOWI2bXQ5bk5DWHJqZGhndmZ6a0RxTWh6LVFRRnV0UzY2UUt1UU1fODV5OFVJWGVEQXJsakNmazZtRUJGMldfeny2QnlZeEN0dHc0MHFxbkd2UURCd3hrM2EtUDFtY3pZMzE0Q0xhQU5zZmc5V2o3SFhBdG9CeXJxQTN3aWt1STg0RmtmYXUxOTY0ZzVUN2htWWxkbFRaZw?oc=5",
           "new": false,
           "tag": "Financial"
         },
@@ -4572,7 +5149,7 @@
           "date": "2026-01-26 08:00",
           "title": "MS Pharma Group, Hetero Group Partner to Localize Biosimilars in MENA Region - Contract Pharma",
           "source": "Contract Pharma",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdG12LWpXUmo0QlNibHdIZjhpSzUwdF9oTkRWVlNCY0NSQ3V2Z2p6MGstRjBnTTFMRE9VZE9UUF92bmZiZW9uYV8zQ05Fa1Zkd0toMGhTcG1uQTN2VDNOc2JjRGI3dnh3WTdmcWdtTVlrSXJhaXNkbGFBaTNRdWQ2cU1WcXdLSV9KQzZhN1p5d09pX29SbmVFWnNVQ0xJLTVTZ084VFlOczBsejVab0Vaek5hYmlzSXdmNlZIbUdB?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdG12LWpXUmo0QlNibHdIZjhpSzUwdF9oTkRWVlNCY0NSQ3V2R2p6MGstRjBnTTFMRE9VZE9UUF92bmZiZW9uYV8zQ05Fa1Zkd0toMGhTcG1uQTN2VDNOc2JjRGI3dnh3WTdmcWdtTVlrSXJhaXNkbGFBaTNRdWQ2cU1WcXdLSV9KQzZhN1p5d09pX29SbmVFWnNVQ0xJLTVTZ084VFlOczBsejVab0Vaek5hYmlzSXdmNlZIbUdB?oc=5",
           "new": false,
           "tag": "Collaboration"
         },
@@ -4580,7 +5157,7 @@
           "date": "2025-12-04 08:00",
           "title": "Formycon and MS Pharma Ink Exclusive Deal for Biosimilar Pembrolizumab in MENA Region - Pearce IP",
           "source": "Pearce IP",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGU4MjlUNFR0cWxEclZPQUVVcU9KRGljLU1aUkgzdWFjNUh1MWliY0QwSUVnS3luWXhsOVFabUJQaURRd3lPQXRMRGNqb0cwNDBjY2RpTjJ6ZVRUdkstRDN1dkJsaXhFVWtmRnlzV0xGS3pnRGprdGRhdHZmamtvRUUtLURBNjZiTndIRngyZUt5QmZhVHRVMVowR2JZN201TVU0cDVDX3dRLUxOTExYMlRHRzk1QlVQbWxWMVd3TQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGU4MjlUNFR0cWxEclZPQUVVcU9KRGljLU1ZSUgzdWFjNUh1MWliY0QwSUVnS3luWXhsOVFabUJQaURRd3lPQXRMRGNqb0cwNDBjY2RpTjJ6ZVRUdkstRDN1dkJsaXhFVWtmRnlzV0xGS3pnRGprdGRhdHZmamtvRUUtLURBNjZiTndIRngyZUt5QmZhVHRVMVowR2JZN201TVU0cDVDX3dRLUxOTExYMlRHRzk1QlVQbWxWMVd3TQ?oc=5",
           "new": false,
           "tag": "Collaboration"
         },
@@ -4596,7 +5173,7 @@
           "date": "2025-08-26 07:00",
           "title": "Building A Biosimilar ‘Launch Machine’ For MENA – MS Pharma CEO Sets Out Strategy - insights.citeline.com",
           "source": "insights.citeline.com",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZzRqa01yYjdSWllxYXQ2U2tzRGVhMXYzUDZtM2ZTc0xtZmxxY2kwSTV0NnpfV3RoUVpsVkt1LVEtNkZCT0JrZ25wbjlIVFJxbHhQUDU0aTNnVTl3VFluNVQ5RkV4LXlxSW5ldG4zRkJORU9WLTlyR05RbGdYZnZaQk1oN2lLa0FZM0o2SUlUeF9YUFBzZkdZUGhZT0VVOWxXTEhyVVV1enpiXzVEZ2J5WktQb3JoOUdsSWx2R1NmVUxBZUdHT3h6QWxzaWpFMWVla2l2YWtWMzA2OUYyNWw0RFpRTW05SElxY3dscGtQTkNvX3FOWDdCV3BtSmFUaE5aRDRkMHBB?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZzRqa01yYjdSWllxYXQ2U2tzRGVhMXYzUDZtM2ZTc0xtZmxxY2kwSTV0NnpfV3RoUVpsVkt1LVEtNkZCT0JrZ25wbjlIVFJxbHhQUDU0aTNnVTl3VFluNVQ5RkV4LXlxSW5ldG4zRkJORU9WLTlyR05RbGdYZnZaQk1oN2lLa0FZM0o2SUlUeF9YUFBzZGdZUGhZT0VVOWxXTEhyVVV1enpiXzVEZ2J5WktQb3JoOUdsSWx2R1NmVUxBZUdHT3h6QWxzaWpFMWVla2l2YWtWMzA2OUYyNWw0RFpRTW05SElxY3dscGtQTkNvX3FOWDdCV3BtSmFUaE5aRDRkMHBB?oc=5",
           "new": false,
           "tag": "Other"
         }
@@ -4688,7 +5265,7 @@
           "date": "2025-09-19 07:00",
           "title": "Alvotech/Fuji Pharma’s JP Golimumab Biosimilar First Approved Worldwide; Aflibercept & Denosumab Biosimilars Also JP Approved - Pearce IP",
           "source": "Pearce IP",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeWoyNE1taWFWQkcxZXA2X2phLUM0WEpLOT1hQk42bU9PdzlMdl9lT2cxNUh5OThTcjRLbTVXSU9sck5GZVdEZEk4OG9JTllxMjcweEpHR1lIOV9tVjZtLWVpY3NMc1ZvSEkweUtzcXJNUXFJcmdYcUkwVjF6elY2ZU14NU1Kbjh1Z1V2MjUxZHdzUEJ2amVzaFlWWU92eXppcUJiX0Y3RlNWdGlLSm5DbUdMbEtmdUk2OXZjcVk5Z2wxanEtcHRBY29ucTc5cnBjaEtURkxJMFNJS2tkbVlNYTIyNVd0SFZVV2RxUzQxcWpTbmlxSQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeWoyNE1taWFWQkcxZXA2X2phLUM0WEpLOT1aa3RRb2dac3RQOXVxaEVHeW1YNFNORW9fbE5GZVdEZEk4OG9JTllxMjcweEpHR1lIOV9tVjZtLWVpY3NMc1ZvSEkweUtzcXJNUXFJcmdYcUkwVjF6elY2ZU14NU1Kbjh1Z1V2MjUxZHdzUEJ2amVzaFlWWU92eXppcUJiX0Y3RlNWVGlLSm5DbUdMbEtmdUk2OXZjcVk5Z2wxanEtcHRBY29ucTc5cnBjaEtURkxJMFNJS2tkbVlNYTIyNVd0SFZVV2RxUzQxcWpTbmlxSQ?oc=5",
           "new": false,
           "tag": "FDA Approval"
         },
@@ -4698,13 +5275,13 @@
           "source": "European Pharmaceutical Review",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQmxfSG1SYWlHZVhtU3VKQW1PTGF4cldheFdYMDN5UGR0UkRPUnNXZE1IZ2w0LWYzUXgzbFBEUlRwcnVMalJqbEN6Z2ZORG0yMWZVUmdsWmlaYXd5ZUdUaWZ1MmRybnVTemlkOHpQc1JXVDJ3VnliakpOb3BiUkdESGQ1bTRXNmZBNkU2NTdFU3hNeDJBcHo1S08zSlZJcGlPZVZ2d2NmeVRWOF9acW5QQnRzTnhLVWlFZEdNTDdIdXdRVjFkbXpldjA5aGJVRzNQdXdVMWpQVVJiN29jRUJQaA?oc=5",
           "new": false,
-          "tag": "Other"
+          "tag": "Financial"
         },
         {
           "date": "2025-09-24 07:00",
           "title": "Fujifilm Biotechnologies cuts ribbon on $3.2B antibody facility in NC - Fierce Pharma",
           "source": "Fierce Pharma",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWVAtVU1Zbm1SSHlUTlBZaXNZVlREQWg0cS1pcFc2X1Z5M2RJdjUzS1V2VndIQ0hNdHlESW9xSE5reGlYN2NVTTdhS1NDdlpDQVZVazNyMVZ4SF8wakxfdlFXeHQwUEhuMVRtRC1PTzI3UVd3NGpzTC1CcVBLOUhGZnRRejBJZmVsdzFJajJHMnMzd05ZemcyNGV5UG5nOUdNMUpPaXNoYw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWVAtVU1Zbm1SSHlUTlBZaXNZVlREQWg0cS1pcFc2X1Z5M2RJdjUzSjVVVndIQ0hNdHlESW9xSE5reGlYN2NVTTdhS1NDdlpDQVZVazNyMVZ4SF8wakxfdlFXeHQwUEhuMVRtRC1PTzI3UVd3NGpzTC1CcVBLOUhGZnRRejBJZmVsdzFJajJHMnMzd05ZemcyNGV5UG5nOUdNMUpPaXNoYw?oc=5",
           "new": false,
           "tag": "Other"
         },
@@ -4728,7 +5305,7 @@
           "date": "2022-02-23 08:00",
           "title": "Alvotech and Fuji Pharma Expand Partnership for Additional Biosimilar Candidate in Japan - Business Wire",
           "source": "Business Wire",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOellaYzFZY20zbDM5enNBZFY4blVqU2x1Rnc1Y2lfTnN4R3NndW9scUI4UEVwTlEwWkJlWktqVDJlcThqLWU0R0dRVkxZY0dWQ29ReEZZNTFlOUhLM1N2UmY5VEFKVmxBTkhxUGU2Tnd4N3J4cFdHejdCbVg2aXJ4N05WMXlubmU1LS1kYkxRYnBZSG55VjhBQjNkZVZhOU4tcGpleTdvZEZlTlo2YjlFYktoRXZ2dXJ5cmg1cjhSMkxLdUlFMGI1YVJsQlJYN00zeHNCVmRZY0h2RXgyZWc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOellaYzFZY20zbDM5enNBZFY4blVqU2x1Rnc1Y2lfTnN4R3NndW9scUI4UEVwTlEwWkJlWktqVDJlcThqLWU0ZUdRVkxZY0dWQ29ReEZZNTFlOUhLM1N2UmY5VEFKVmxBTkhxUGU2Tnd4N3J4cFdHejdCbVg2aXJ4N05WMXlubmU1LS1kYkxRYnBZSG55VjhBQjNkZVZhOU4tcGpleTdvZEZlTlo2YjlFYktoRXZ2dXJ5cmg1cjhSMkxLdUlFMGI1YVJsQlJYN00zeHNCVmRZY0h2RXgyZWc?oc=5",
           "new": false,
           "tag": "Collaboration"
         },
@@ -4736,7 +5313,7 @@
           "date": "2025-06-10 13:24",
           "title": "Fujifilm Rebrands Life Sciences Companies - Contract Pharma",
           "source": "Contract Pharma",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVBfeGNqbTU5Z3l0T2Npclh5Z1EzelhfSExueVVaZ1BjLWtTaTVaaTBtVkJ0UWJXamNmczZtOWVuM3F6enlGQnNSSDN6dkwxT1JqMFQ3YklRZVgyaXloLVVOMWI4TmE4S2cyZkZ3clNLdC1PeUpKQUtWdTNFRVljQ0V5ZmhMSHp1alJrRGJYYWtrTFE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVBfeGNqbTU5Z3l0T2Npclh5Z1EzelhfSExueVVaZ1BjLWtTaTVaaTBtVkJ0UWJXamNmczZtOWVuM3F6enlGQnNSSDN6dmwxT1JqMFQ3YklRZVgyaXloLVVOMWI4TmE4S2cyZkZ3clNLdC1PeUpKQUtWdTNFRVljQ0V5ZmhMSHp1alJrRGJYYWtrTFE?oc=5",
           "new": false,
           "tag": "Other"
         }
@@ -4785,58 +5362,10 @@
       ],
       "google_news": [
         {
-          "date": "2026-07-16 13:17",
-          "title": "Teva, Samsung Bioepis ink agreement for Eylea biosimilar in Canada - Drug Store News",
-          "source": "Drug Store News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM3hzRWZjWmd4WWlMY1ZvQ254M2NVcGRDd3J5bzZQZXJFaWlQMzBZaElXQVhibEF2VllkY25jTmRSMWppUWFmNTV0NVdTZXZqc243WW94RDZ6MWdrRW1KbjVhbXYwYXVqRllUd2xIUWZpR2Y0NHN3ZUFuMjFESmRfWk9PS1VDT1hILWhiZg?oc=5",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "date": "2026-07-16 06:32",
-          "title": "Samsung Bioepis, Organon expand biosimilar partnership in Australia - koreabiomed.com",
-          "source": "koreabiomed.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96NnJPVjVERGJDRHNpd243Vkota1BFWUNkVkxfWVo2a0IzcklmNGtFRHNwUkxjZkdQNjhvWWtrLUpOcWlKYlgwVEM4ZlhYSGdTMEtVSzNfcjNOVkJLX0RuSEhVTFkzODE0c3dNSlln0gFyQVVfeXFMTmxtc0RHOFFUby1FY3dzM0tDQlRJYVZYRFJUS24wRlNqNU81ZnpCN2ttNEk2Q2s1NzNiYjROelBoUGZLLXNZUlVodVY3NU1wMHdaMkljZ2hvVnZhbjlCR0Z6X3o1ZnFBaS1EZVVzSmdBOUVn?oc=5",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "date": "2026-07-16 15:01",
-          "title": "Samsung Bioepis Grows Australia Biosimilar Portfolio to Four as PBS Default Reform Nears - Tech Times",
-          "source": "Tech Times",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYjhfZ0xzRThOV284bGlkdHR2bnkwUmlfc1RpY1BtckR3bHI5T21Fc3NmTjB2U0ZsdFFWWE12X3drUzNxTEhHcHRuOTB1MkxWNFdvTF9BNmpoaDFSRWZaak02V3FtY1VHTlNCMkVKdWpZNVNSUUV4dnhrZ2VnNzJ5RTVwcTNfSmd3YUdFd0hxOGJYZDFLNDZmaVFvc1pwWkVsaG1WYzdIVnBoUnBXLXZlTU1tTHlRM0xFWkZ6bUM0c2c3WG5CRERsWjhIb3kwLS1rdEd3?oc=5",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "date": "2026-03-18 07:00",
-          "title": "Sandoz announces partnership agreement with Samsung Bioepis - Sandoz",
-          "source": "Sandoz",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWZHSGpkSEsyYjd4WkdCdENZblJQTDZydUFGQUQxWlBYT3BDdGhkSjlpLTMxWU84U3dlR2l5czliY3NtLXVUUEhWX0toZm5vRVQ1V2FReFZmblcxRjBoOFlEc1h4UlQ3T3BSMWlMWEozOHlRWlQ4X184eHlxUjlWVi1XR19aX2tWajVWUTdhZVljN284cF9vU3NNbnE5ZlcyZGdyZFFudm90N1VZd1E?oc=5",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "date": "2026-07-15 09:33",
-          "title": "Genentech, Samsung Bioepis, Novartis, Biogen face key antitrust hearing July 28 - MLex",
-          "source": "MLex",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfZEhiRjRCVkVpMUZvMkphMlVwTWVpZ2hMS1l0M0RJSXRUVGtTLUlNRFZVb183UzNtQjVjdzZuYThsT2ZLTGFubGQyZF9EV1ZnRUV4OGlHelFEZ9IBWkFVX3lxTFBfZEhiRjRCVkVpMUZvMkphMlVwTWVpZ2hMS1l0M0RJSXRUVGtTLUlNRFZVb183UzNtQjVjdzZuYThsT2ZLTGFubGQyZF9EV1ZnRUV4OGlHelFEZw?oc=5",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "date": "2026-07-14 00:55",
-          "title": "Samsung Bioepis Secures PH20 SC Formulation Platform - Businesskorea",
-          "source": "Businesskorea",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SDZrLW9NVk40ZmY2Zm1lVGQySndNSVI0RUJzM211MjREQjBwakF3TV8zdkh6NmxBc1Z6NWgxbkFtbFpHdWhqQlpGWU5XdXBUOGxnZUtKWkFLdXJkS1ROLW5sQUZlNGg4dEFrODZyamtpZEJS?oc=5",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
           "date": "2026-04-29 13:18",
           "title": "Samsung Bioepis, ATLATL Partner on Open Innovation Program - Contract Pharma",
           "source": "Contract Pharma",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTNlQ1F2cjRsdmtHNFhPc3cwR0ZLQ1dfWHIzSXdPMVl0aWl0VVROVjdlcGJEMV92alBGSTIxV2ZUS0ttem5CVVIyUURWQTBiMVgxT3pVRWw5OUFTNTcweTlpUjhvazBheUxvdlhsX3IyWXFxanotWkpnNFFiNmQtUnNieUNNREZnb1B6NnI3eFJES3pvVE4xdV9BSUpLckluMUZZVkdR?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTNlQ1F2cjRsdmtHNFhPc3cwR0ZLQ1dfWHIzSXdPMVl0aWl0VVROVjdlcGJEMV92alBGSTIxV2ZUS0ttem5CVVIyUURWQTBiMVgxT3pVRWw5OUFTNTcweTlpUjhvazBheUxvdlxlX3IyWXFxanotWkpnNFFiNmQtUnNieUNNREZnb1B6NnI3eFJES3pvVE4xdV9BSUpLckluMUZZVkdR?oc=5",
           "new": false,
           "tag": "Collaboration"
         },
@@ -4844,17 +5373,25 @@
           "date": "2026-04-28 05:11",
           "title": "Samsung Bioepis Releases Second Quarter 2026 US Biosimilar Market Report - BioSpace",
           "source": "BioSpace",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObm04M09GWUZuN19HNVRpR3ZLZkRsZkRYeFBZVVVYb1NRa285b3c1OEd3UG84Q01xSnBMSkN1WnNQTmVrbWhVeXFlRC16bG5IR3QySlFGdEFvU1M0SzFvVUtQNjZYZzZjdm90VGUyYi0wWExKQUtHNlZwdU80MHJ6MVN3VnJOQ3NVTlh5WXVudl9rUHJIQWhtNDl0X2dySGFPSU1USUVzQ0NPYzk0TVFtSFFB?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObm04M09GWUZuN19HNVRpR3ZLZkRsZkRYeFBZVVVYb1NRa285b3c1OEd3UG84Q01xSnBMSkN1WnNQTmVrbWhVeXFlRC16bG5IR3QySlFGdEFvU1M0SjFvVUtQNjZYZzZjdm90VGUyYi0wWExKQUtHNlZwdU80MHJ6MVN3VnJOQ3NVTlh5WXVudl9rUHJIQWhtNDl0X2dySGFPSU1USUVzQ0NPYzk0TVFtSFFB?oc=5",
           "new": false,
-          "tag": "Other"
+          "tag": "Financial"
         },
         {
           "date": "2026-02-17 08:00",
           "title": "Samsung Bioepis reaches settlement agreement for Eylea (aflibercept) biosimilar - Ophthalmology Times",
           "source": "Ophthalmology Times",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVndVNWRGdEx4OGl6Z09zZC1WNlN1SWJVRWllN2lsTW03N1AzUzA5UTQ5UW1pelpTdXBZQl8xTnZZbGszeThSZlBQZDAwU01udXNsMFRUX1hScXBxV1RPX1JYNHluNTdPYUZiem5KVk1QSWtVSWRwQ3huYTVEX09odTl2b0czS21tRmZGb3V5Nnh6TU1nMW1kSE5hd1dpbUtsZHRSWXhoYUdPeXNNWUxmUjJQWV90c3hK?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVndVNWRGdEx4OGl6Z09zZC1WNlN1SWJVRWllN2lsTW03N1AzUzA5UTQ5UW1pelpTdXBZQl8xTnZZbGszeThSZlBQZDAwU01udXNsMFRUX1hScXBxV1RPX1JYNHluNTdPYUZiem5KVk1QSWtVSWRwQ3huYTVEX09odTl2b0czS21tRmZGb3V5Nnh6TU1nMW1kSE5hd1dpbUtsZHRSWXloYUdPeXNNWUxmUjJQWV90c3hK?oc=5",
           "new": false,
           "tag": "Other"
+        },
+        {
+          "date": "2026-03-18 07:00",
+          "title": "Sandoz expands biosim collab with Samsung Bioepis, sets sights on Takeda's Entyvio - Fierce Pharma",
+          "source": "Fierce Pharma",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY1Y2QUNyUDlOQXVkZk9Da05yVTFXU3pFRzBxUEZ4cE8yWHpiOVk3MmQ2MTVpb3RDY0RXZDFTanFMNXcta1d4VWx2RXFqeDh6QkZDdVl0Wlp3c20zZHlUdFBicFZVRl9HV1JkVEhnT0lSUGFTNGE0bnFHdkZhcmhydkM0Z0p6MVVnbThQUUpmeWJRaHJJSjRiOEJqVnZESGd4QkFQTmhB?oc=5",
+          "new": false,
+          "tag": "Collaboration"
         }
       ],
       "pipeline": [
