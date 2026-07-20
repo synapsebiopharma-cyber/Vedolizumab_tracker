@@ -1,24 +1,51 @@
 {
-  "last_updated": "2026-07-20 04:18:17 IST",
+  "last_updated": "2026-07-20 10:29:50 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Kolon TissueGene’s knee osteoarthritis therapy misses both endpoints in US phase 3 trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32485",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "07.20 18:06",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "BreezeBio and LigaChem Bio launch joint research on mRNA cancer vaccine",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32481",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "07.20 16:10",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Biogen Korea names rare disease expert Kim Chul-woong as new GM",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32479",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.20 15:22",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Sam Chun Dang says FDA reviewed generic plan for SNAC-free oral semaglutide",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32475",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "07.20 13:38",
+          "new": false,
+          "tag": "FDA Approval"
+        },
         {
           "title": "Huons Group launches Hutox in China with medical symposium",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32473",
           "category": "K-Beauty",
           "author": "Lee Han-soo",
           "date": "07.20 11:20",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Hugel launches The Chaeum Signature HA fillers with reduced crosslinking agents",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32472",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "07.20 11:10",
           "new": false,
           "tag": "Other"
         },
@@ -50,83 +77,20 @@
           "tag": "Collaboration"
         },
         {
+          "title": "Praser Therapeutics raises ₩50 billion in pre-IPO funding",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32469",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "07.16 16:54",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
           "title": "MFDS expands Imdelltra use to second-line small cell lung cancer",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32465",
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "07.16 16:00",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Samsung Bioepis, Organon expand biosimilar partnership in Australia",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32462",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.16 15:32",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Humedix partners with Grenia to expand Elravie cosmetics in China",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32460",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "07.16 13:45",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "GSK’s severe asthma drug depemokimab denied orphan drug designation in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32458",
-          "category": "Pharma",
-          "author": "Kim Yun-mi",
-          "date": "07.16 13:31",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Daewoong, SNUBH, and 365mc join forces to expand V-OLET into new localized fat reduction indications",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32457",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "07.16 13:21",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "AriBio’s AR1005 shows early efficacy signals in Lewy body dementia phase 2a trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32456",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.16 10:12",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "MSD Korea, KHIDI select 4 AI healthcare startups for global mentoring",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32455",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.15 16:49",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Proteina, Onconic Therapeutics partner on targeted protein degrader research",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32454",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "07.15 16:28",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Celltrion wins Korea phase 1 approval for Tremfya biosimilar",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32448",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.15 15:47",
           "new": false,
           "tag": "FDA Approval"
         }
