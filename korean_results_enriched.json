@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-07-19 09:34:05 IST",
+  "last_updated": "2026-07-20 04:18:17 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Huons Group launches Hutox in China with medical symposium",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32473",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "07.20 11:20",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Hugel launches The Chaeum Signature HA fillers with reduced crosslinking agents",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32472",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "07.20 11:10",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Daewoong pilots AI-powered thynC with continuous blood pressure monitoring in SMC's smart ward",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32471",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.20 10:51",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Samsung Biologics to acquire PolyPeptide Group for ₩2.7 tril.",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32470",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.20 10:26",
+          "new": false,
+          "tag": "Acquisition"
+        },
         {
           "title": "Top-five global pharma signs deal to test Kangstem’s hair follicle organoids for hair-loss drugs",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32467",
@@ -28,6 +64,15 @@
           "category": "Bio",
           "author": "Lee Han-soo",
           "date": "07.16 15:32",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Humedix partners with Grenia to expand Elravie cosmetics in China",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32460",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "07.16 13:45",
           "new": false,
           "tag": "Collaboration"
         },
@@ -59,6 +104,15 @@
           "tag": "Clinical Trial"
         },
         {
+          "title": "MSD Korea, KHIDI select 4 AI healthcare startups for global mentoring",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32455",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.15 16:49",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
           "title": "Proteina, Onconic Therapeutics partner on targeted protein degrader research",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32454",
           "category": "Bio",
@@ -74,7 +128,7 @@
           "author": "Lee Han-soo",
           "date": "07.15 15:47",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "FDA Approval"
         }
       ]
     }
