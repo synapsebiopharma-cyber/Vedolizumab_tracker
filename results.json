@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21 03:55:17 IST",
+  "last_updated": "2026-07-21 10:05:15 IST",
   "companies": [
     {
       "company": "Polpharma",
@@ -1614,7 +1614,38 @@
     },
     {
       "company": "Dr Reddy",
-      "website": [],
+      "website": [
+        {
+          "date": "June 13, 2026",
+          "title": "Dr. Reddy’s announces the first-to-market launch of Bosutinib Tablets 400mg, a generic equivalent of Bosulif®, in the United States",
+          "link": "https://www.drreddys.com/cms/sites/default/files/2026-06/FinalPressRelease-DRL-%20Bosutinib_launch-13thJune2026.pdf",
+          "new": false
+        },
+        {
+          "date": "May 28, 2026",
+          "title": "Dr. Reddy's Laboratories to Ring the Closing Bell® at the New York Stock Exchange",
+          "link": "https://www.drreddys.com/cms/sites/default/files/2026-05/Dr.Reddy%27s25years-NYSE.pdf",
+          "new": false
+        },
+        {
+          "date": "May 20, 2026",
+          "title": "Dr. Reddy’s Laboratories Announces Launch of Oral Semaglutide Biosimilar ‘Obeda®’ (tablets) in India",
+          "link": "https://www.drreddys.com/cms/sites/default/files/2026-05/oral_semaglutide.pdf",
+          "new": false
+        },
+        {
+          "date": "May 15, 2026",
+          "title": "Dr. Reddy's Laboratories Launches its Generic Semaglutide Injection in Canada",
+          "link": "https://www.drreddys.com/cms/sites/default/files/2026-05/Semaglutide.pdf",
+          "new": false
+        },
+        {
+          "date": "May 12, 2026",
+          "title": "Dr. Reddy’s Q4 & Full Year FY26 Financial Results",
+          "link": "https://www.drreddys.com/cms/sites/default/files/2026-05/FINAL_EarningsRelease_Q4andFY26_120526.pdf",
+          "new": false
+        }
+      ],
       "google_news": [
         {
           "date": "2026-07-20 16:27",

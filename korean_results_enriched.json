@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-07-21 03:57:13 IST",
+  "last_updated": "2026-07-21 10:07:25 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[Interview] After amyloid clearance, Alzheimer's patients still need maintenance therapy as plaques reaccumulate",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32495",
+          "category": "Hospital",
+          "author": "Hong Sook",
+          "date": "07.21 15:17",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "LigaChem’s CLDN18.2 ADC reaches ESMO ahead of first patient dosing",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32491",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "07.21 13:35",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Padcev-Keytruda reimbursement talks stall, leaving bladder cancer patients paying out of pocket",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32492",
+          "category": "Pharma",
+          "author": "Hong Sook",
+          "date": "07.21 13:11",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Seegene USA wins FDA emergency authorization for syndromic PCR test",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32488",
@@ -20,7 +47,7 @@
           "author": "Lee Han-soo",
           "date": "07.21 10:51",
           "new": false,
-          "tag": "FDA Approval"
+          "tag": "Other"
         },
         {
           "title": "Kolon TissueGene’s knee osteoarthritis therapy misses both endpoints in US phase 3 trial",
@@ -37,69 +64,6 @@
           "category": "Bio",
           "author": "Hong Sook",
           "date": "07.20 16:10",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Biogen Korea names rare disease expert Kim Chul-woong as new GM",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32479",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.20 15:22",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Sam Chun Dang says FDA reviewed generic plan for SNAC-free oral semaglutide",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32475",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "07.20 13:38",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Huons Group launches Hutox in China with medical symposium",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32473",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "07.20 11:20",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Hugel launches The Chaeum Signature HA fillers with reduced crosslinking agents",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32472",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "07.20 11:10",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Daewoong pilots AI-powered thynC with continuous blood pressure monitoring in SMC's smart ward",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32471",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.20 10:51",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Samsung Biologics to acquire PolyPeptide Group for ₩2.7 tril.",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32470",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.20 10:26",
-          "new": false,
-          "tag": "Acquisition"
-        },
-        {
-          "title": "Top-five global pharma signs deal to test Kangstem’s hair follicle organoids for hair-loss drugs",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32467",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "07.16 17:47",
           "new": false,
           "tag": "Collaboration"
         }
