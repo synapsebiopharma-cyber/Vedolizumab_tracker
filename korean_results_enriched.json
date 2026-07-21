@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-07-20 10:29:50 IST",
+  "last_updated": "2026-07-21 03:57:13 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Seegene USA wins FDA emergency authorization for syndromic PCR test",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32488",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "07.21 11:13",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Neurophet's Alzheimer's imaging software wins Innovative Product designation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32487",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "07.21 10:51",
+          "new": false,
+          "tag": "FDA Approval"
+        },
         {
           "title": "Kolon TissueGene’s knee osteoarthritis therapy misses both endpoints in US phase 3 trial",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32485",
@@ -50,13 +68,22 @@
           "tag": "Other"
         },
         {
+          "title": "Hugel launches The Chaeum Signature HA fillers with reduced crosslinking agents",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32472",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "07.20 11:10",
+          "new": false,
+          "tag": "Other"
+        },
+        {
           "title": "Daewoong pilots AI-powered thynC with continuous blood pressure monitoring in SMC's smart ward",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32471",
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "07.20 10:51",
           "new": false,
-          "tag": "Other"
+          "tag": "Pipeline"
         },
         {
           "title": "Samsung Biologics to acquire PolyPeptide Group for ₩2.7 tril.",
@@ -75,24 +102,6 @@
           "date": "07.16 17:47",
           "new": false,
           "tag": "Collaboration"
-        },
-        {
-          "title": "Praser Therapeutics raises ₩50 billion in pre-IPO funding",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32469",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "07.16 16:54",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "MFDS expands Imdelltra use to second-line small cell lung cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32465",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.16 16:00",
-          "new": false,
-          "tag": "FDA Approval"
         }
       ]
     }

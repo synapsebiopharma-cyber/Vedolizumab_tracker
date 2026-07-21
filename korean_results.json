@@ -1,9 +1,41 @@
 {
-  "last_updated": "2026-07-20 10:29:50 IST",
+  "last_updated": "2026-07-21 03:57:13 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Breast cancer patients face 59% higher ischemic stroke risk in 1st year after diagnosis",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32490",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "07.21 11:45",
+          "new": false
+        },
+        {
+          "title": "Seegene USA wins FDA emergency authorization for syndromic PCR test",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32488",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "07.21 11:13",
+          "new": false
+        },
+        {
+          "title": "KAIST wins top European award for 3D egg and embryo imaging technology",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32489",
+          "category": "Life science",
+          "author": "Lee Han-soo",
+          "date": "07.21 11:07",
+          "new": false
+        },
+        {
+          "title": "Neurophet's Alzheimer's imaging software wins Innovative Product designation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32487",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "07.21 10:51",
+          "new": false
+        },
         {
           "title": "Kolon TissueGene’s knee osteoarthritis therapy misses both endpoints in US phase 3 trial",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32485",
@@ -130,38 +162,6 @@
           "category": "Pharma",
           "author": "Kim Ji-hye",
           "date": "07.16 17:47",
-          "new": false
-        },
-        {
-          "title": "Praser Therapeutics raises ₩50 billion in pre-IPO funding",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32469",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "07.16 16:54",
-          "new": false
-        },
-        {
-          "title": "Meninblox partners with Estonia's Metrosert to validate AI running companion",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32468",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "07.16 16:19",
-          "new": false
-        },
-        {
-          "title": "MFDS expands Imdelltra use to second-line small cell lung cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32465",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.16 16:00",
-          "new": false
-        },
-        {
-          "title": "Why apple cider vinegar doesn't work the same for everyone",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32463",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "07.16 15:38",
           "new": false
         }
       ]
