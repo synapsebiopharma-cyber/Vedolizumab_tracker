@@ -1,9 +1,73 @@
 {
-  "last_updated": "2026-07-21 10:07:25 IST",
+  "last_updated": "2026-07-22 03:59:57 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "HIRA chief adopts 'merchant's mindset' in push for evidence-based policy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32505",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "07.22 11:07",
+          "new": false
+        },
+        {
+          "title": "GCCL, GemPharmatech partner to expand global drug development services",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32504",
+          "category": "Life science",
+          "author": "Lee Han-soo",
+          "date": "07.22 10:50",
+          "new": false
+        },
+        {
+          "title": "Ewha Seoul Hospital administers Asia's 1st Elahere treatment for ovarian cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32503",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "07.22 10:40",
+          "new": false
+        },
+        {
+          "title": "Blood test developed to better predict colorectal cancer recurrence, metastasis",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32502",
+          "category": "Life science",
+          "author": "Lee Han-soo",
+          "date": "07.22 10:15",
+          "new": false
+        },
+        {
+          "title": "AimedBio's FGFR3-targeting ADC shows early responses in phase 1 trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32501",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "07.22 09:53",
+          "new": false
+        },
+        {
+          "title": "Red Cross union urges President Lee to withhold approval of Ihn Yohan appointment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32500",
+          "category": "Policy",
+          "author": "Kim Jung-hyun",
+          "date": "07.22 09:18",
+          "new": false
+        },
+        {
+          "title": "AriBio to present AR1001 phase 3 results at CTAD 2026 in Boston",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32499",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.22 09:05",
+          "new": false
+        },
+        {
+          "title": "Novartis to invest ₩140 bil. in Korea radioligand therapy ecosystem",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32497",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.21 22:30",
+          "new": false
+        },
         {
           "title": "Kolon TissueGene to continue knee therapy development as it reviews phase 3 data",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32498",
@@ -98,70 +162,6 @@
           "category": "Bio",
           "author": "Kim Ji-hye",
           "date": "07.20 18:06",
-          "new": false
-        },
-        {
-          "title": "Former NHIS executive Kang Chung-hee appointed NHIS president",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32484",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "07.20 16:50",
-          "new": false
-        },
-        {
-          "title": "3 Yonsei professors named among Korea's top 30 health R&D achievements for 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32483",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "07.20 16:45",
-          "new": false
-        },
-        {
-          "title": "Dankook University Hospital to lead emergency referral network for high-risk mothers and newborns in South Chungcheong region",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32482",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "07.20 16:17",
-          "new": false
-        },
-        {
-          "title": "BreezeBio and LigaChem Bio launch joint research on mRNA cancer vaccine",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32481",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "07.20 16:10",
-          "new": false
-        },
-        {
-          "title": "[Interview] 'The moment a patient’s hellish twisting stopped was why I should live as a physician'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32480",
-          "category": "Hospital",
-          "author": "Park Gi-taek",
-          "date": "07.20 16:08",
-          "new": false
-        },
-        {
-          "title": "Biogen Korea names rare disease expert Kim Chul-woong as new GM",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32479",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.20 15:22",
-          "new": false
-        },
-        {
-          "title": "President Lee grills MFDS chief over delay in hiring reviewing personnel",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32477",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "07.20 14:01",
-          "new": false
-        },
-        {
-          "title": "Korean hypertension guidelines add cuffless monitors, tighter targets for high-risk patients",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32476",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "07.20 13:49",
           "new": false
         }
       ]
