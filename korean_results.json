@@ -1,9 +1,73 @@
 {
-  "last_updated": "2026-07-22 03:59:57 IST",
+  "last_updated": "2026-07-22 10:05:30 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "6 in 10 new medical technologies reach clinical practice after evaluation over 5 years: NECA",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32514",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "07.22 16:49",
+          "new": false
+        },
+        {
+          "title": "Samsung Bioepis partners with Prazer Therapeutics, Bionsight on open innovation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32513",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.22 16:47",
+          "new": false
+        },
+        {
+          "title": "[Caring the Korean way] The deworming pill that marked spring and fall",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32512",
+          "category": "Life science",
+          "author": "Lee Han-soo",
+          "date": "07.22 16:25",
+          "new": false
+        },
+        {
+          "title": "Lilly provides additional research funding for Rznomics hearing loss collaboration",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32511",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "07.22 16:14",
+          "new": false
+        },
+        {
+          "title": "Early phase 2 data on D&D Pharmatech's MASH drug appear in The Lancet",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32510",
+          "category": "Pharma",
+          "author": "Hong Sook",
+          "date": "07.22 16:12",
+          "new": false
+        },
+        {
+          "title": "Korea expands advanced regenerative medicine to knee osteoarthritis under new 5-year plan",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32509",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "07.22 15:44",
+          "new": false
+        },
+        {
+          "title": "Healthcare workers' union urges hiring trained professionals for suicide prevention hotline",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32508",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "07.22 15:33",
+          "new": false
+        },
+        {
+          "title": "Hugel launches Letybo in India, targets 9% market share in 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32507",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "07.22 14:11",
+          "new": false
+        },
         {
           "title": "HIRA chief adopts 'merchant's mindset' in push for evidence-based policy",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32505",
@@ -98,70 +162,6 @@
           "category": "Opinion",
           "author": "Ana-Maria Boie",
           "date": "07.21 14:28",
-          "new": false
-        },
-        {
-          "title": "Persistent flu-like symptoms may signal rare autoimmune disease that can rapidly cause kidney failure",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32493",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "07.21 13:56",
-          "new": false
-        },
-        {
-          "title": "LigaChem’s CLDN18.2 ADC reaches ESMO ahead of first patient dosing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32491",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "07.21 13:35",
-          "new": false
-        },
-        {
-          "title": "Padcev-Keytruda reimbursement talks stall, leaving bladder cancer patients paying out of pocket",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32492",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "07.21 13:11",
-          "new": false
-        },
-        {
-          "title": "Breast cancer patients face 59% higher ischemic stroke risk in 1st year after diagnosis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32490",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "07.21 11:45",
-          "new": false
-        },
-        {
-          "title": "Seegene USA wins FDA emergency authorization for syndromic PCR test",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32488",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.21 11:13",
-          "new": false
-        },
-        {
-          "title": "KAIST wins top European award for 3D egg and embryo imaging technology",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32489",
-          "category": "Life science",
-          "author": "Lee Han-soo",
-          "date": "07.21 11:07",
-          "new": false
-        },
-        {
-          "title": "Neurophet's Alzheimer's imaging software wins Innovative Product designation",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32487",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.21 10:51",
-          "new": false
-        },
-        {
-          "title": "Kolon TissueGene’s knee osteoarthritis therapy misses both endpoints in US phase 3 trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32485",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "07.20 18:06",
           "new": false
         }
       ]

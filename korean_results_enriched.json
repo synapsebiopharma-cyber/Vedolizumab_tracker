@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-07-22 03:59:57 IST",
+  "last_updated": "2026-07-22 10:05:30 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Samsung Bioepis partners with Prazer Therapeutics, Bionsight on open innovation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32513",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.22 16:47",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Lilly provides additional research funding for Rznomics hearing loss collaboration",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32511",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "07.22 16:14",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Early phase 2 data on D&D Pharmatech's MASH drug appear in The Lancet",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32510",
+          "category": "Pharma",
+          "author": "Hong Sook",
+          "date": "07.22 16:12",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Hugel launches Letybo in India, targets 9% market share in 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32507",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "07.22 14:11",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "GCCL, GemPharmatech partner to expand global drug development services",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32504",
@@ -12,6 +48,15 @@
           "date": "07.22 10:50",
           "new": false,
           "tag": "Collaboration"
+        },
+        {
+          "title": "Ewha Seoul Hospital administers Asia's 1st Elahere treatment for ovarian cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32503",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "07.22 10:40",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "AimedBio's FGFR3-targeting ADC shows early responses in phase 1 trial",
@@ -38,7 +83,7 @@
           "author": "Lee Han-soo",
           "date": "07.21 22:30",
           "new": false,
-          "tag": "Financial"
+          "tag": "Other"
         },
         {
           "title": "Kolon TissueGene to continue knee therapy development as it reviews phase 3 data",
@@ -46,51 +91,6 @@
           "category": "Bio",
           "author": "Kim Ji-hye",
           "date": "07.21 17:11",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "LigaChem’s CLDN18.2 ADC reaches ESMO ahead of first patient dosing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32491",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "07.21 13:35",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Padcev-Keytruda reimbursement talks stall, leaving bladder cancer patients paying out of pocket",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32492",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "07.21 13:11",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Seegene USA wins FDA emergency authorization for syndromic PCR test",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32488",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.21 11:13",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Neurophet's Alzheimer's imaging software wins Innovative Product designation",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32487",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.21 10:51",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Kolon TissueGene’s knee osteoarthritis therapy misses both endpoints in US phase 3 trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32485",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "07.20 18:06",
           "new": false,
           "tag": "Clinical Trial"
         }
