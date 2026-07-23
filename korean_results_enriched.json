@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-07-22 10:05:30 IST",
+  "last_updated": "2026-07-23 03:56:09 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Samjin showcases decade-long clopidogrel data at cardiovascular symposium",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32518",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "07.23 11:31",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "SMC uncovers 'decoy' mechanism behind rituximab resistance in lymphoma",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32517",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "07.23 11:25",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Samsung Bioepis partners with Prazer Therapeutics, Bionsight on open innovation",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32513",
@@ -57,6 +75,15 @@
           "date": "07.22 10:40",
           "new": false,
           "tag": "Other"
+        },
+        {
+          "title": "Blood test developed to better predict colorectal cancer recurrence, metastasis",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32502",
+          "category": "Life science",
+          "author": "Lee Han-soo",
+          "date": "07.22 10:15",
+          "new": false,
+          "tag": "Pipeline"
         },
         {
           "title": "AimedBio's FGFR3-targeting ADC shows early responses in phase 1 trial",

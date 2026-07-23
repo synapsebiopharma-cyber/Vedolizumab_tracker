@@ -1,9 +1,33 @@
 {
-  "last_updated": "2026-07-22 10:05:30 IST",
+  "last_updated": "2026-07-23 03:56:09 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Samjin showcases decade-long clopidogrel data at cardiovascular symposium",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32518",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "07.23 11:31",
+          "new": false
+        },
+        {
+          "title": "SMC uncovers 'decoy' mechanism behind rituximab resistance in lymphoma",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32517",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "07.23 11:25",
+          "new": false
+        },
+        {
+          "title": "Samsung Biologics sustains Q2 growth on full plant operations, favorable FX",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32515",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.23 08:35",
+          "new": false
+        },
         {
           "title": "6 in 10 new medical technologies reach clinical practice after evaluation over 5 years: NECA",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32514",
@@ -138,30 +162,6 @@
           "category": "Bio",
           "author": "Kim Ji-hye",
           "date": "07.21 17:11",
-          "new": false
-        },
-        {
-          "title": "85% of new GP-run clinics register dermatology; 65% file no skin disease insurance claims",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32496",
-          "category": "Policy",
-          "author": "Kim Eun-young",
-          "date": "07.21 15:28",
-          "new": false
-        },
-        {
-          "title": "[Interview] After amyloid clearance, Alzheimer's patients still need maintenance therapy as plaques reaccumulate",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32495",
-          "category": "Hospital",
-          "author": "Hong Sook",
-          "date": "07.21 15:17",
-          "new": false
-        },
-        {
-          "title": "[Global Pharma Leadership Voices] Korea's next healthcare breakthrough depends on partnership, not speed alone",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32494",
-          "category": "Opinion",
-          "author": "Ana-Maria Boie",
-          "date": "07.21 14:28",
           "new": false
         }
       ]
