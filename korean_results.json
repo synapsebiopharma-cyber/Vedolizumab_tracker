@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-07-23 03:56:09 IST",
+  "last_updated": "2026-07-23 10:03:06 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea has OECD's second-fewest doctors but highest healthcare use, report finds",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32524",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "07.23 16:12",
+          "new": false
+        },
+        {
+          "title": "Smoking boosts fatty liver risk even in lean, light-drinking young adults: study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32523",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "07.23 15:32",
+          "new": false
+        },
+        {
+          "title": "GC Cell teams with Rappeler to develop AI predicting immune cell therapy outcomes",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32522",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.23 15:11",
+          "new": false
+        },
+        {
+          "title": "Coffee on an empty stomach? Doctor separates myths from facts",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32521",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "07.23 14:06",
+          "new": false
+        },
+        {
+          "title": "Expert calls for rapid expansion of newborn genome screening to curb market distortions",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32520",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "07.23 13:53",
+          "new": false
+        },
+        {
+          "title": "[Column] As Korea ages, medical litigation is shifting from malpractice to system failure",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32519",
+          "category": "Opinion",
+          "author": "Choi Soo-young",
+          "date": "07.23 13:18",
+          "new": false
+        },
+        {
+          "title": "Neurologists urge Korea to close gaps in brain disease care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32516",
+          "category": "Policy",
+          "author": "Lee Han-soo",
+          "date": "07.23 13:08",
+          "new": false
+        },
         {
           "title": "Samjin showcases decade-long clopidogrel data at cardiovascular symposium",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32518",
@@ -106,62 +162,6 @@
           "category": "Life science",
           "author": "Lee Han-soo",
           "date": "07.22 10:50",
-          "new": false
-        },
-        {
-          "title": "Ewha Seoul Hospital administers Asia's 1st Elahere treatment for ovarian cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32503",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "07.22 10:40",
-          "new": false
-        },
-        {
-          "title": "Blood test developed to better predict colorectal cancer recurrence, metastasis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32502",
-          "category": "Life science",
-          "author": "Lee Han-soo",
-          "date": "07.22 10:15",
-          "new": false
-        },
-        {
-          "title": "AimedBio's FGFR3-targeting ADC shows early responses in phase 1 trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32501",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "07.22 09:53",
-          "new": false
-        },
-        {
-          "title": "Red Cross union urges President Lee to withhold approval of Ihn Yohan appointment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32500",
-          "category": "Policy",
-          "author": "Kim Jung-hyun",
-          "date": "07.22 09:18",
-          "new": false
-        },
-        {
-          "title": "AriBio to present AR1001 phase 3 results at CTAD 2026 in Boston",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32499",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.22 09:05",
-          "new": false
-        },
-        {
-          "title": "Novartis to invest ₩140 bil. in Korea radioligand therapy ecosystem",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32497",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.21 22:30",
-          "new": false
-        },
-        {
-          "title": "Kolon TissueGene to continue knee therapy development as it reviews phase 3 data",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32498",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "07.21 17:11",
           "new": false
         }
       ]

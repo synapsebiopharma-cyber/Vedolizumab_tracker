@@ -1,9 +1,18 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-07-23T03:57:18Z",
-  "total_runs": 172,
-  "new_on_last_run": 0,
+  "last_fetched": "2026-07-23T10:04:09Z",
+  "total_runs": 173,
+  "new_on_last_run": 1,
   "articles": [
+    {
+      "id": "fresenius-establishes-venture-fund-of-more-than-€200-million-to-drive-healthcare-innovation|july-23,-2026",
+      "title": "Fresenius establishes venture fund of more than €200 million to drive healthcare innovation",
+      "url": "https://www.fresenius.com/node/7372",
+      "date": "July 23, 2026",
+      "source": "Fresenius",
+      "meta": "",
+      "new": true
+    },
     {
       "id": "q2-2026-aide-memoire-available|july-15,-2026",
       "title": "Q2 2026 Aide Memoire available",
@@ -74,15 +83,6 @@
       "date": "April 17, 2026",
       "source": "Fresenius",
       "meta": "Brief News",
-      "new": false
-    },
-    {
-      "id": "#futurefresenius-is-paying-off:-s&p-global-ratings-revises-outlook-for-fresenius-se-from-stable-to-positive|april-8,-2026",
-      "title": "#FutureFresenius is paying off: S&P Global Ratings revises outlook for Fresenius SE from stable to positive",
-      "url": "https://www.fresenius.com/node/7331",
-      "date": "April 8, 2026",
-      "source": "Fresenius",
-      "meta": "",
       "new": false
     }
   ]

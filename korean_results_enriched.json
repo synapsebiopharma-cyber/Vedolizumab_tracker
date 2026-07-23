@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-07-23 03:56:09 IST",
+  "last_updated": "2026-07-23 10:03:06 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "GC Cell teams with Rappeler to develop AI predicting immune cell therapy outcomes",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32522",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.23 15:11",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "Samjin showcases decade-long clopidogrel data at cardiovascular symposium",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32518",
@@ -14,13 +23,13 @@
           "tag": "Other"
         },
         {
-          "title": "SMC uncovers 'decoy' mechanism behind rituximab resistance in lymphoma",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32517",
-          "category": "Hospital",
+          "title": "Samsung Biologics sustains Q2 growth on full plant operations, favorable FX",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32515",
+          "category": "Bio",
           "author": "Lee Han-soo",
-          "date": "07.23 11:25",
+          "date": "07.23 08:35",
           "new": false,
-          "tag": "Other"
+          "tag": "Financial"
         },
         {
           "title": "Samsung Bioepis partners with Prazer Therapeutics, Bionsight on open innovation",
@@ -66,60 +75,6 @@
           "date": "07.22 10:50",
           "new": false,
           "tag": "Collaboration"
-        },
-        {
-          "title": "Ewha Seoul Hospital administers Asia's 1st Elahere treatment for ovarian cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32503",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "07.22 10:40",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Blood test developed to better predict colorectal cancer recurrence, metastasis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32502",
-          "category": "Life science",
-          "author": "Lee Han-soo",
-          "date": "07.22 10:15",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "AimedBio's FGFR3-targeting ADC shows early responses in phase 1 trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32501",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "07.22 09:53",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "AriBio to present AR1001 phase 3 results at CTAD 2026 in Boston",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32499",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.22 09:05",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Novartis to invest ₩140 bil. in Korea radioligand therapy ecosystem",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32497",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.21 22:30",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Kolon TissueGene to continue knee therapy development as it reviews phase 3 data",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32498",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "07.21 17:11",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23 03:57:24 IST",
+  "last_updated": "2026-07-23 10:04:17 IST",
   "companies": [
     {
       "company": "Alvotech",
@@ -1888,6 +1888,15 @@
       "company": "Fresenius",
       "investor_news": [
         {
+          "id": "fresenius-establishes-venture-fund-of-more-than-€200-million-to-drive-healthcare-innovation|july-23,-2026",
+          "title": "Fresenius establishes venture fund of more than €200 million to drive healthcare innovation",
+          "url": "https://www.fresenius.com/node/7372",
+          "date": "July 23, 2026",
+          "source": "Fresenius",
+          "meta": "",
+          "new": false
+        },
+        {
           "id": "q2-2026-aide-memoire-available|july-15,-2026",
           "title": "Q2 2026 Aide Memoire available",
           "url": "https://www.fresenius.com/node/7370",
@@ -1957,15 +1966,6 @@
           "date": "April 17, 2026",
           "source": "Fresenius",
           "meta": "Brief News",
-          "new": false
-        },
-        {
-          "id": "#futurefresenius-is-paying-off:-s&p-global-ratings-revises-outlook-for-fresenius-se-from-stable-to-positive|april-8,-2026",
-          "title": "#FutureFresenius is paying off: S&P Global Ratings revises outlook for Fresenius SE from stable to positive",
-          "url": "https://www.fresenius.com/node/7331",
-          "date": "April 8, 2026",
-          "source": "Fresenius",
-          "meta": "",
           "new": false
         }
       ]
