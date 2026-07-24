@@ -1,9 +1,72 @@
 {
-  "last_updated": "2026-07-24 03:56:22 IST",
+  "last_updated": "2026-07-24 09:59:25 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Advanced regenerative therapies to be tested for liver cancer and lymphoma in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32541",
+          "category": "Policy",
+          "author": "Kim Kyoung-Won",
+          "date": "07.24 16:47",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Severance Hospital to lead ₩2.9 bil. stem cell study for knee osteoarthritis",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32537",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "07.24 15:49",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "EuBiologics registers EcML vaccine adjuvant DMF with US FDA",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32536",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "07.24 15:34",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "GC Biopharma files phase 2 IND for Covid-19 mRNA vaccine candidate",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32533",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "07.24 15:14",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Celltrion files for European approval of Cosentyx biosimilar CT-P55, accelerating push into key global markets",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32532",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "07.24 14:56",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Hanmi showcases AI platform behind clinical-stage obesity drug at ISMB",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32528",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "07.24 13:59",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "[News Analysis] Kolon faces leadership test after TG-C's first US phase 3 setback",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32527",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "07.24 13:54",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "Dong-A Socio Holdings to absorb Dong-A Pharmaceutical, become operating holding company",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32526",
@@ -11,7 +74,7 @@
           "author": "Kim Yoon-mi",
           "date": "07.24 10:09",
           "new": false,
-          "tag": "Acquisition"
+          "tag": "Other"
         },
         {
           "title": "HLB says FDA review of bile duct cancer drug lirafugratinib enters final stage",
@@ -30,60 +93,6 @@
           "date": "07.23 15:11",
           "new": false,
           "tag": "Collaboration"
-        },
-        {
-          "title": "Samjin showcases decade-long clopidogrel data at cardiovascular symposium",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32518",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "07.23 11:31",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "SMC uncovers 'decoy' mechanism behind rituximab resistance in lymphoma",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32517",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "07.23 11:25",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Samsung Bioepis partners with Prazer Therapeutics, Bionsight on open innovation",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32513",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.22 16:47",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Lilly provides additional research funding for Rznomics hearing loss collaboration",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32511",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "07.22 16:14",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Early phase 2 data on D&D Pharmatech's MASH drug appear in The Lancet",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32510",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "07.22 16:12",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Hugel launches Letybo in India, targets 9% market share in 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32507",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "07.22 14:11",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }

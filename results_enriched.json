@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24 03:53:37 IST",
+  "last_updated": "2026-07-24 09:56:58 IST",
   "companies": [
     {
       "company": "Polpharma",
@@ -41,14 +41,14 @@
           "title": "Polpharma Group completes EUR 257 million acquisition of Biofarm - Business Review",
           "source": "Business Review",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcUhyR1M1SjNZUUpkX2lGWTRjLVVrLWhkLTFJTlhiUXMwTTQ3WTM2aHBNanQ5a2JkaUtTdThSTEllWUVuTEJjVHU4QmhDNll2c2N0UkRWRVZKcHd2bGRLQ2F4U1dKS1RfQzFrNzMzVVJOVzgwNlhDRklMYUUzN0h2NnUxNm1lVzI1cU1Jc2JDdUYxTXdhbDh3aHJ4T3IzbDBEMnBYTnJ4ZzJ4amJMblBSSldpMkZBMU83dE5IbXpQX28?oc=5",
-          "new": true,
+          "new": false,
           "tag": "Acquisition"
         },
         {
-          "date": "2026-07-10 16:23",
-          "title": "Teva Secures Global Rights to Polpharma's Ocrevus Biosimilar Candidate for Multiple Sclerosis - BioPharm International",
-          "source": "BioPharm International",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWnFMN1pKVnFOQWl4SV8ySUxucDZJVm5fbFBTOHp0YXlHTm50M25TZ04zQWxsVHRpNGJTc2oyMXBZSTloUVZ6bFZvRHVSUlg2VzhldU85RWFnT3k0T25JLVZHWkt2YjVnOERsRl9pQ3R6V2I4SF9aM0QxVlFpeU11ckY4ZmZERC1FV0pSWXBST0RHakxQUnIydWxnSjFteFNmVmhhazhSN2ZOVENGTGFkR0gzbDk3eXRmOVd3MlBabktkR1ZIWi11QzZPWmExMkRJRnc?oc=5",
+          "date": "2026-07-10 07:00",
+          "title": "Teva and Polpharma Biologics sign global deal for ocrelizumab biosimilar - Pharmaceutical Technology",
+          "source": "Pharmaceutical Technology",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS25MaFJ5OVNRSGNIMWFrdDRfZVZSbllQX1JxUFA4NW85NGVZVkdFaTFIemRzV2I3Nms3anFTaW1jbWJRakdLWU9qaGt6by1jMW1XdTBaODBRclotWURJUDIxaHlZNUJJZ0J5V2VvTHpuVUNZVFdsTGRodVkzQkFKZDJzaXZzS3V2SHdRSFhuZThSVGo3eHNYb2lRMG5rTXJ2eWc?oc=5",
           "new": false,
           "tag": "Collaboration"
         },
@@ -784,16 +784,8 @@
           "title": "Alvotech (ALVO) Q3 2023 Earnings Report - Results, Call & Slides - TipRanks",
           "source": "TipRanks",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6MWxHRVFFaXJzN0E5SWhpTzVkN2FYU1dERTJwR1BlNXlWUE8tbUVnUmpSVmJ1WjkxQ0puSXRXWFE5LTl5UzZzd28ySDVQc2FhSExvbHJOWUQ1MlAxQmF1SWpYWDF0YURVUGRUWA?oc=5",
-          "new": true,
-          "tag": "Financial"
-        },
-        {
-          "date": "2026-06-08 07:00",
-          "title": "Alvotech announces FDA acceptance of Biologics License - GlobeNewswire",
-          "source": "GlobeNewswire",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNb0dTSmlkTzNmSlNCUnVpSFNyWThkOVBJc01Da1FrRzRSTVhTY29Xam9NeEU1eXhHNkhfYXM5MGZZTS1DYzJpSGxWT2x4NmE4Sm9LVDZxUG5HMFVUTjE2SXc2X3RjOF9WeHhHTEoyay1NM0lKcUpGZDJydDdyekJsVUd2aHRyRFpPSjZ1ZlFadDdQVnJhY0VFTkVSZkIzRTRROG9jWEVqXzBRRWVqZVBfTVBMZU1wQ0ZqWW85NTRPTDZMZnd0Uld4amRzU0dVbGdqT3R4MnNsR3pibjJLRWdZcVUwU1ZULV9lSVhIRkYwaXFTSklWQzk1TzQ1dnhidlNnQ2RyRWR6eVVYZ3pobEd6RU5wVEJZbHo2T085VmdHcVhvOEk?oc=5",
           "new": false,
-          "tag": "FDA Approval"
+          "tag": "Financial"
         },
         {
           "date": "2026-07-02 06:33",
@@ -817,7 +809,7 @@
           "source": "Glance by Eyes On Eyecare",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSlo2N0lnSXFvV2ZPRURldEVZdEdvVHhsekhaT0FUYnhwQ0FpdVJUVnVWNFdBa2JxZkZMcnpGd1pybUhzcXJhblBvTFc4NEYydEhfUE1tQXpHS2hVU1pFWmR3NFJmc1JOUFVmZ19haGRnTHg0WENjdDg3dEloU3JmcEplR0UwaUczWV9qcGdCcFB3UFlsb0NVUGxOenlnWWJ2SU44aS1MMUs?oc=5",
           "new": false,
-          "tag": "FDA Approval"
+          "tag": "Pipeline"
         }
       ],
       "pipeline": [
@@ -1490,16 +1482,8 @@
           "title": "Fresenius launches €200M healthcare venture fund - European Biotechnology Magazine",
           "source": "European Biotechnology Magazine",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3hvQjljeWdBclRYVXBPNU1fRG1MUE5FcXVoeEx0aU9LQnpXVlRMZV8xb3V1YnA2NUpTUzVvQy1DUDZVVmp3QlE4VU1pV0hTLWZ0b1RGd01zcFZnaWRoNTNSbUZQUmhiMjJSeWJLcFpzTmhPVldaTDFwa3hYQm0xdUZpUTFwYlllUVd4aHZpcURsMWZDVXJjVk41YlA?oc=5",
-          "new": true,
-          "tag": "Financial"
-        },
-        {
-          "date": "2026-07-20 07:00",
-          "title": "Research in Brief: Why lean tissue index matters in HDF - Fresenius Medical Care",
-          "source": "Fresenius Medical Care",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjNYUTJ3blg0bWItVDdIZ0tTTF96MUd5VWtFaThzQjg0d29qTFM4dDhOemR2MEkwOWc0WWQyeTBvMDNmSW9vaTBvS2FZSHlvSjdjQmNYZ2RvbkJVam1uUFZjQjE3TmdWMW5qd2lqVWM4ZWk5aEk5VnoySUtESGtIb3ZOODBnVUl0OW1ZWnpjdFpwZ3ZjSXd3dHVFYzJsSnpXSlFaU3lXLUF4Y0xZelZkclUtcWk5QQ?oc=5",
           "new": false,
-          "tag": "Other"
+          "tag": "Financial"
         },
         {
           "date": "2026-07-20 12:00",
@@ -1507,21 +1491,37 @@
           "source": "PR Newswire",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVEpMbkZxZy02QmtzOU4xeXdLcEZZdWRLbWhWSUFTOHNjT0NXbE9wX3JrSEU0UFFHeUM2ODZXc25qV2RhRF9GR3RCcGZwbkpoVW9ZTTBOUGJLNFc0bDNGWU1maGdhRnhyMnUybVZJYlcybjAzUFlJWXVOTkpMYWRYUlp6cTdyTm02RU5wTFNtMEl1dEVzRWpjek5OMFRhdnZ4ZThxTUE1eGoyaUsxX2xJNUlHakJiUEJDekJNeE5YTmZOSVlibFp6aDgwdWl6OTNnRVhkUEVIUmhTUQ?oc=5",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Other"
         },
         {
           "date": "2026-07-23 13:17",
           "title": "Hikma and Fresenius best positioned from Trump's generic drug tariffs, says Citi - Proactive financial news",
           "source": "Proactive financial news",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeVhIcnkyV1l4aGR5UU4yS3BHSGgyMTlUeGRoQ2NmSU9LVFBfbWE4TzdxcjBXOWwxXzJJUzJtbWhWdG5vNXVkX1liX01kcEZ5U3FzSjl5WDc5ZXpaQzNDajVIRjk5Rk51TzU5YnpoSWFLbjE1bEVnY0RGVl94VzJHdzgzUlBPOXFCSmRTU2ZTZFNaa0w2RU1HX3RLU3kyTjhHOW1jVk1lZlRSX2M5LTVxQmZZRjFoZ3BnS3hFUGlNaGhDeWxpdzNKbUQ4ZkxPM0cyRUhqYVhCMmlSd0ROTEFySGtPX0o?oc=5",
-          "new": true,
+          "new": false,
           "tag": "Financial"
         },
         {
-          "date": "2026-07-23 04:40",
-          "title": "Fresenius (FRE) Q1 2025 earnings summary - Quartr",
+          "date": "2026-07-23 02:53",
+          "title": "Fresenius (FRE) Q4 2024 earnings summary - Quartr",
           "source": "Quartr",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94WGJjYXF3MHo2V0w1UEtyTUxrLU1URGxRMkFiTGphbmd0WWlJYzZDREZhMURFMTF3cFFiMTlHTmswT05ZNVI0MFhpdUI0eVl1LVpZZld0V3dFcUhJNVZrRzQ1b0xIcE5laWRua2VXd29Zd3BlZHc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IX29YZVVGN2tCQkhWa05kOXhYck4yaW5xTDdpUGxpcHpFX0hKWmtnTlhSS2xqZjlVYlJWekZQMzNpLU9Jc3FQOHJFQVMxdWZDTFl1cHFZT0NXRHUtZVhXMEZobkpkcGZBRzVtRks3dUN1NUxMalE?oc=5",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "date": "2026-07-07 00:00",
+          "title": "Infusion Pump Correction: Fresenius Kabi Issues Correction for dropped or jarred Ivenix Large Volume Infusion Pumps - fda.gov",
+          "source": "fda.gov",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQd3huRUdsSEE4QU54djZnOURwREdhd0JmbXFMMDNEclhFb0JqUVBjR0J3eUZWZnFaa1U4enVzck90UHNRZmgyZjlHQ3dsaE1GaVFCNWxFNHpFMDV1R0ZUUFVIMkMtZU5HckxYZjVkbndxZm4za2V5T0tOdEZqTzVtdWRra01ZTXpFZkZHcVZiT2JTQ3Vnd0pTclY4WW5MWEQ1akpWQVFIWHRtZXZuaEgzM2JqTlptVnNlWm4yWklsX28xM0hNcEZ4NkpxS1p1Ymt0U0RRSGhuU3NwZUx1TTFWTlk0bzFaLUdQX3pBbFFSR2hjX0dKamxGcklTdDZwVWZf?oc=5",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "date": "2026-07-21 13:32",
+          "title": "Fresenius Medical Care: More Favorable Patient Outcomes Will Drive Growth (NYSE:FMS) - Seeking Alpha",
+          "source": "Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEw4SmdkT0ttejVqWk1hUFYwcTdHdDFGODFlSWlBVEh6QWtqZWhxTEJrbk5oazZneVEtRkFGS1BPOHlTM0xqUzhxTFFaX2RZUFZWWEQySUQ3bm1MRmxJdjNOaTEzaVdvQjFkcmhPa0swSWsxYU1zX1I2bVFVcnBpZjU3NXo2WEg3ak85ZVE5V3o2UHRtUTBfa1NGQXZyUEZDdTM1UFZvT2lxV3dVXy1waDhhdw?oc=5",
           "new": false,
           "tag": "Financial"
         }
@@ -1567,15 +1567,15 @@
           "date": "2026-07-24 02:24",
           "title": "U.S. to see higher generic drug prices thanks to tariffs, CEO of leading India pharma firm warns - CNBC",
           "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ0cyeVNaYV9aMHZDNGxPWHo5aWxsdHZWTUFTTEMxTHg1NUdubFRrWjg0Umxab3lXWm14cFJ6dWJKbXd5WFBoeXdkRVpobDBsREV4Tk0tcE5uQTZXbGlzZWhzWWh3YU1BbWhEY1QyNW5IcUlyLUNTSDJwLTVtdDhfZU92a1ItRUoxeGNiV2VXeGd6WDktMnEweWFyVXA2aHRGeWlqctIBqgFBVV95cUxPTEtaMzlVeDVwNV84S3RfR2RabW5rR0hpdDlUbVp0VFFnLUtBRWh3VVZLNm1wcTdjbWZsb1FEQXFhbWtYc2QtcTh3YWVaMVF0NURaQldKM0Q3bkE0bjVSVlJQRmJrOE05Vkhad2RIX0JPbE1xOThJeU8jalgyNm85aXJfTGtKMWVpUGpKZDR5cUlDNnNuNF91dlFPRV9RTnoyX1VKNC1qam01Zw?oc=5",
-          "new": true,
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ0cyeVNaYV9aMHZDNGxPWHo5aWxsdHZWTUFTTEMxTHg1NUdubFRrWjg0Umxab3lXWm14cFJ6dWJKbXd5WFBoeXdkRVpobDBsREV4Tk0tcE5uQTZXbGlzZWhzWWh3YU1BbWhEY1QyNW5IcUlyLUNTSDJwLTVtdDhfZU92a1ItRUoxeGNiV2VXeGd6WDktMnEweWFyVXA2aHRGeWlqctIBqgFBVV95cUxPTEtaMzlVeDVwNV84S3RfR2RabW5rR0hpdDlUbVp0VFFnLUtBRWh3VVZLNm1wcTdjbWZsb1FEQXFhbWtYc2QtcTh3YWVaMVF0NURaQldKM0Q3bkE0bjVSVlJQRmJrOE05Vkhad2RIX0JPbE1xOThJeU8talgyNm85aXJfTGtKMWVpUGpKZDR5cUlDNnNuNF91dlFPRV9RTnoyX1VKNC1qam01Zw?oc=5",
+          "new": false,
           "tag": "Financial"
         },
         {
-          "date": "2026-07-23 09:49",
+          "date": "2026-07-23 03:55",
           "title": "Indian drugmaker Dr Reddy's slips on margin, semaglutide supply woes - Reuters",
           "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZWJLeXV4S21STG45SUhfVTlOM3BVT3NoQ1VUbzFFVkd0ekRlR1E0NnhDbUMyU1dJRUlrRGJCbi1adWxuTXdDX2lZRk10R3NLMlYyTjBFQkFHT19kZXFWQkhUdks5engyeW5FVGZBWVpyY2pSaUliYXNjcU1sUlplNC0xUTRXY3BRYWF0bUlyWVJ6QWRwb0lpTUJMc3hwWG5pVkIwVm1pNEw5amZOX2xjSUtJZTF2Rm9zM1l6LXZoODdBNUlUVG44OWQ0Y3ctX3ZG?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZWJLeXV4S21STG45SUhfVTlOM3BVT3NoQ1VUbzFFVkd0ekRlR1E0dnhDbUMyU1dJRUlrRGJCbi1adWxuTXdDX2lZRk10R3NLMlYyTjBFQkFHT19kZXFWQkhUdks5engyeW5FVGZBWVpyY2pSaUliYXNjcU1sUlplNC0xUTRXY3BRYWF0bUlyWVJ6QWRwb0lpTUJMc3hwWG5pVkIwVm1pNEw5amZOX2xjSUtJZTF2Rm9zM1l6LXZoODdBNUlUVG44OWQ0Y3ctX3ZG?oc=5",
           "new": false,
           "tag": "Financial"
         },
@@ -1583,33 +1583,33 @@
           "date": "2026-07-22 23:31",
           "title": "Dr Reddy’s says Semaglutide supply disruption may weigh on new market rollouts but remains bullish on dema.. - ETPharma.com",
           "source": "ETPharma.com",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZEZfcHhKdU1NdUI3X3ZnNEVwbkRBNGpONDJ6SWVfRzd1Z0Y1RUFnLTRfU3JFbzgyZENZTjRaeFdLTlVwMFZ0d2ZQZ1lDdWtqMTVyZmZIZWhYbzVyem85R3o3M1FnNHUyazdqSjJtVFdncVY4Mk4zUEgzZXZZaW5mREYyczVNTVJqY3N2TjJscFNPOUtsT09mOWhaRFFtRmlRWUl4WnF6LW41RXpudllDbFNvamoyMGJncFZ6Wkp0eDdpQXUxSVR1SmZ6X3VobU0yUXI4QjA3SWFIcENPTUxBRTlXZXpRem9tUHlQak95RjFGMmdZN0w0N3Q3bUpKTnlxUzMteXgzMWRKS28tZ2Y00gGUAkFVX3lxTE5uaG1JNFB1dEJJcTNHZC1YSlJtZEJVdGlrYkU1MXZObDRha0F2Rm5jX29yWFUxZ3ZZRHdKQ1FxT1BHbWtmaGRWYUg4aWJRVnhGcWk4ZTNCbFZ0cDdpWkdmdzJfNFVabEd2VXBZZkJGMEl4SjVIZmlEZGVsUGJZbTNVcGpsU2FuLVcwNEFjVjNhZGIzYkNUcHRpVXpkRHROMllYaDVDX2RHOEFYMG50ZXJsLU9xYzd5NFlXTk1XaGZIaFFJUTA3MWw2QlNsMWkzMC1lODN5bVhFN3JacjdGdVNMR0w1NHN4UDctSXMwcGs5QzRLSXd4ZW56NHQtbmxjeVEzVXRNRXVHRDQ0cFRNblNXRkM4eQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZEZfcHhKdU1NdUI3X3ZnNEVwbkRBNGpONDJ6SWVfRzd1Z0Y1RUFnLTRfU3JFbzgyZENZTjRaeFdLTlVwMFZ0d2ZQZ1lDdWtqMTVyZmZIZWhYbzVyem85R3o3M1FnNHUyazdqSjJtVFdncVY4Mk4zUEgzZXZZaW5mREYyczVNTVJqY3N2TjJscFNPOUtsT09mOWhaZVFtRmlRWUl4WnF6LW41RXpudllDbFNvamoyMGJncFZ6Wkp0eDdpQXUxSVR1SmZ6X3VobU0yUXI4QjA3SWFIcENPTUxBRTlXZXpRem9tUHlQajB5RjFGMmdZN0w0N3Q3bUpKTnlxUzMteXgzMWRKS28tZ2Y00gGUAkFVX3lxTE5uaG1JNFB1dEJJcTNHZC1YSlJtZEJVdGlrYkU1MXZObDRha0F2Rm5jX29yWFUxZ3ZZRHdKQ1FxT1BHbWtmaGRWYUg4aWJRVnhGcWk4ZTNCbFZ0cDdpWkdmdzJfNFVabEd2VXBZZkJGMEl4SjVIZmlEZGVsUGJZbTNVcGpsU2FuLVcwNEFjVjNhZGIzYkNUcHRpVXpkRHROMllYaDVDX2RHOEFYMG50ZXJsLU9xYzd5NFlXTk1XaGZIaFFJUTA3MWw2QlNsMWkzMC1lODN5bVhFN3JacjdGdVNMR0w1NHN4UDctSXMwcGs5QzRLSXd4ZW56NHQtbmxjeVEzVXRNRXVHRDQ0cFRNblNXRkM4eQ?oc=5",
           "new": false,
           "tag": "Financial"
         },
         {
-          "date": "2026-07-23 11:06",
-          "title": "Dr. Reddy’s posts audio of Q1 FY27 earnings call, files July Form 6-K - TipRanks",
+          "date": "2026-07-23 16:28",
+          "title": "Dr. Reddy’s Files Form 6-K on Publication of Q1 FY27 Unaudited Results - TipRanks",
           "source": "TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOTdNZ0JxX09XbjhHRXBjYlJfNlVVYmVkeUhOc2dBNFdHUG9BLVUycURWWWNqbFBXd3NKcUo1enA5Sjd3clU1bk45OWRLZTNtSXVoZUdmRldnRGVURUVpaVRDODJhRVVQaXN1RnJxRGNIbnBKWUhNQlk4aVgxY21pZlprQXctUTVQaEVjSEl0VnVrSm52NHFodVU4U1hnWFFFdnpTNFdBaFJ1YVdONnFQRzhuUlFnSWVCT2c?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY1hqYjA5RmVCQ0hSMGk4NVZJbFkzeU5DeGs0b1ZJOGJndEVFWHREN1JxYUhVZ1VpWm51Ujk2WlRoSC13TUo0MnNaeXM0eTRiOTVLUUd2b1lXZzNaMDJUaHJBRURTb1ZFblJ6ZGs2dnkwMy1kVGxSejRkeFhFVG1nUlZjY1hGMjZlZUVjWU9wT3JyS2YzbzN2bWJSS0JqSWd1dTc0eEpYQUZPWE1Tb2dCNTNGZTRoN19qM1dCNQ?oc=5",
           "new": true,
           "tag": "Financial"
         },
         {
-          "date": "2026-07-22 20:41",
-          "title": "Dr Reddy’s says Tariffs may push up Co’s US drug prices; shifting manufacturing not practical - ETPharma.com",
-          "source": "ETPharma.com",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdHROZ0hwYktnTHhBNml6b0xqS3JGU0dYaGoyT2tpRHlrM2pyWGY1Y3RpZ2RVU05EbmExOEgxU1IzdUQ2OUZ3ZFhXUE9kbEJOZHljcV9UX0JDZEk1RE9oUFoxRm5IR3RRejlXbHJ0QXRtUEpFS3VKdHdmd1g2b21SNkxqdmt4WkFEcDZOcmU5VjhWdGJ1aW1hcXZHcWNWb1pIZzBjazZ0U0twdGl1THVnRUZTaGtxbXE4MERaZDFjS0dfdFh3MHFvQXpTWGdTN3NYXzRaTkVrTllUX3gzRnRObjZuTzhXZ0ZQMHdmaDRWbUQwWDRvVUQ3T9IB_gFBVV95cUxNWHpYTDVLcThPZm1ITWxMMEJlWUpQSEJmMHVNVGlxRlY5ZDBxS3BCd1dSUmd4V0xRY1hTeTlEdV9RbkR2cGtxT1hBVEVuRElhUG8tZzhBcUFtcW5LU3pOUDExQWoyLWNEYTJsU0lPVjh5dW1HbnZrU0oyZGVBLWJWSFV2azhueEdSTlNRTllNVUZLeDVLMlFHaE15ZjlWMk1UYTFNNHgtY05pT2h6YUktNHBQdWhIX3hXbGxoMHFsczFDVUdMV2NqUVVadDE1ZjIzcFphUkxFMEs4amJndVk1bV85SWpyRFhZd0taTFd0Ums2bGw1NGxXR0dpZmdRUQ?oc=5",
+          "date": "2026-07-22 15:02",
+          "title": "Dr. Reddy's down after Q1 results amid tariff threat (RDY:NYSE) - Seeking Alpha",
+          "source": "Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbDUtcGx0SjZ2R0M1R1lSV19FaW4tWkhCV0ZNQlRpNkdNR3U3RjEtNXg2OXhpUHNSLXRRNVlRdV9WbllWY0wxOEZWMFR3UEwxZXhqaG1VZHU1ajU5MVdhaGNydWxHNFk0Zk5WZWp6dC1WczJMN0NfVWpnOE1UaDFVN25SU1h4cTZIV3c?oc=5",
           "new": false,
           "tag": "Financial"
         },
         {
-          "date": "2026-07-23 18:32",
-          "title": "Dr. Reddy’s Laboratories (NYSE: RDY) clears dividend, auditor and director moves at AGM - Stock Titan",
-          "source": "Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdjZseG9uVzF1Y0JmQ2lzbTVhV1MxY0taQ0tFeXV6ejZJdXQzSFpSZUZ5emNOa0VjQ2JEejlXaUtaRk1mSWdmSHZldzhFWDdpOEIxSVRhZWtFV3hMcVhfZ0ZTaUxyMHVKNy1fWEctdUpmSm9SQ2VNQTZZWm9wSGlKdXlCcy1oRkZNY0d2ZFpNWmRxaS1LSE5kM2tyWW9TdzIzNUhHeVpMVGFrcE5TaFlmcjVSSDU3RzV3aHhRZkVR?oc=5",
-          "new": true,
-          "tag": "Financial"
+          "date": "2026-07-13 07:00",
+          "title": "Dr Reddy’s runs into trouble with its weight-loss drug - Financial Times",
+          "source": "Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmp0YnViaTZYMDNHTGlyR2NnSW9PZTdCZTREbHRCcFhNY2ZNb2tCTU1oaVVjMVRUSncyUUZ3eXcxUlJja1FLbkxDTk5nWktPSjg0MGtLa3R0OXZBUi01cDc4NGtPeWM2TWpEYVM4dndySlh6S3diMk5BWl9tVTdvUHNyYlI?oc=5",
+          "new": false,
+          "tag": "Pipeline"
         }
       ],
       "pipeline": [
@@ -2297,20 +2297,36 @@
       ],
       "google_news": [
         {
+          "date": "2026-07-24 08:35",
+          "title": "Celltrion Seeks European Approval for CT-P55 - Businesskorea",
+          "source": "Businesskorea",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EZmtDMHI3T1RqYUl3czlDNS1DTFpIVWJNLVY0UDRZS0dieUtDUk9tdWpWNllqWThFMXFGQ3pJYW1DWUhKOEFRc2FxTUhYMXc4NDhQR2NkY3Q4X2RLaWtKTVY2ZFRiakd3ckNyNkRxVjFnTE44?oc=5",
+          "new": true,
+          "tag": "FDA Approval"
+        },
+        {
           "date": "2026-07-20 20:33",
           "title": "Celltrion (068270) Investor Presentation Summary - Quartr",
           "source": "Quartr",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhOEFXYlJ1dS1seDY3dThScHE4MlhsWDdhR2M5Q0I2d0swZ25rWllUUldobF9DVE1CTG14azY4bm9qWlVtR3ZGWnREVkNLX1pQOFRoall3S2FnenVNY29SN0l4SmVpZGRUWDBrQ2lfRjJTYWdVZ3FvcDZpZHpiUQ?oc=5",
           "new": false,
-          "tag": "Financial"
+          "tag": "Other"
         },
         {
           "date": "2026-07-23 22:26",
           "title": "Samsung, Celltrion Join Nectin-4 ADC Race, Challenging Pfizer's Padcev Dominance - finance.biggo.com",
           "source": "finance.biggo.com",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03Q3FQemtWM0FERDl4OUhjM3E1bWM5ZGZ3X2o2aWhwajBZNUJaQ1BiV0lMc21ZWGhBQ3ZGVEtnZXFsWUkxc1ptZlhrMW80emtKN1dzM2xzWWtJbUZ3S1dtby1rS3NLNWFzS21MWTBvaDA4NFF2bXc?oc=5",
-          "new": true,
+          "new": false,
           "tag": "Pipeline"
+        },
+        {
+          "date": "2026-07-24 07:03",
+          "title": "Celltrion Files for European Phase 3 Trial of Zymfentra for Rheumatoid Arthritis - Seoul Economic Daily",
+          "source": "Seoul Economic Daily",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWnZWSXVYQmVDN2FvRkx0eFVqN1lzQmt4U3hLRHV6RzNNWERPLUVGRWVEZEVxN2o1clRmNWJmRmpXWDk3bGYyNDUwZnBQNzN1UF9XcXNYQzV0ZUdQQ0lYWHFNYURZLXk1N0RFX2UwNVhfNjhUVmV1UnRUalZ1cmZvUnNibVhXbEFSczdnS3hxSHpPc3RHZm5RdjRGTlZsUVpXTTNiTWJYYw?oc=5",
+          "new": true,
+          "tag": "Clinical Trial"
         },
         {
           "date": "2026-01-13 08:00",
@@ -2319,6 +2335,14 @@
           "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOaGVZSWo3VEVPYUxyQzRQR1N2SVZRNmduVFZ2dzFVWFFkLS1lU3MxZ3hsQnMweElLbXhhWDZaSjdvNEdycXFZUjJXV19wSlIzZkthQzZWYUQyWXdTZ2RtSFFYcnZ2QVVxclhDTmQwcWdmUE44ZFp0dEhIMGdSZmZJY3lBMnBmMTFtTUV1VUJMYXVmMG9xb3diNnBNZU11OVpNNUtwem51SE8wQ190WFdOMjRDODNBTUlCbVFvVmdOLTdsRFFFVDVzazRGT2UxVktSb25Yd0dsUWFLMnlVZk1LR3NOOE54clFOejd5Mlk1YllUY0xMLTNrMkxIOXl0eHEwRXMxM3Rpal9TX2tlYnBvY3lxdC0tRkRnUHFVcF9MRDNHc3M?oc=5",
           "new": false,
           "tag": "Pipeline"
+        },
+        {
+          "date": "2026-07-24 05:17",
+          "title": "Celltrion seeks EU approval for Cosentyx biosimilar, eyes Korea rollout - CHOSUNBIZ - Chosunbiz",
+          "source": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZUZOQXhDdjJSbmtlalRBRGE0aldLR2szY1lQSGJLOT1hblFlN1hGT0k2b0Fjdjl0Mk81MTF6Vk82bmRWdVFVXzYzMDlFaVVtSXRtd3Q3MlJZVlBGc0NPRmRjQ2xvNEFFT1Mya1VNUzd2RWlzckhEc203TkZscklaRtIBlAFBVV95cUxQaWJsMTk4ODJPNU5xd0ptenpKaGZDcmkxQWVOxRraWE9YR1lsTWNseWZOUldLSHdSdEdxbEhTekZvSnFqODRyN1FFTVZMSFowT1I5dEh4STlCSi1YU29WV0lkNHlPR3RMaWo2SkFNaXE5Ti1VRE54V1RlMk55RnhqUHVvb1dyN25MTDhvWDgtbnZlc2pu?oc=5",
+          "new": true,
+          "tag": "FDA Approval"
         },
         {
           "date": "2026-05-29 07:00",
@@ -2334,31 +2358,7 @@
           "source": "koreabiomed.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxTF9MNUsycHZXWkozUC0wUmlTV292d1g0YlVpSzdUdE5JWVozLVJ6V0NKSkNmYV96MTVvakRrQ09iZmJ5cFhqSEpaMXBwVEJLV1NwWm9xdUJ6ZDJKaTJDVTBUYzhZeHVlMFJoZllB0gFyQVVfeXFMUDgxR2p4Ul9mR3dhblFRbGJEeFBVNnlxeTVJNGpCQUhRSXZNdkhKcEVPaHBDZmgzWmxsZkprMmNqbFJreGViTVNQa2JCYURtbTFwYTcwS3B6NHZKLTNaSzhFWlFZSFVsVDFMeUIzeUJDRWtn?oc=5",
           "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "date": "2026-07-21 01:42",
-          "title": "Celltrion tops U.S. Truxima market share four months, gains with FDA switchability - CHOSUNBIZ - Chosunbiz",
-          "source": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObThNYjV4cTlMTjNZYVY3U21acGhKZEgwVm8ySWVGaE0yMnNxTFRfYUdaVU1YN1lDUnQ3QW1HS2lvVE9sMTc2QXhrbXFBMzA3OTh0dFpiQWxSQ2tVaXNzd3ZNRW9QRnJueW5FU1FwMDhhTlR3dFl2SUZ1YjhxTFZYX9IBlAFBVV95cUxNNXpVbWpzZUdLenZtY1p0SEdjVnBHd2FwVEI3TTZ4bjFjM2NqVlZlbGgtcUJId3dJQ29IMXRtaFdYRy1NOWNBbWlKUlZZeGNOdlIzckxvSlU5MGFXM29KMmxYWEhWeF83VVNhQk9IRG5xU0xORUs3MUJGS1p5UWRmcVYwVXRJbC1xSkFKLTBqUzJQQm84?oc=5",
-          "new": false,
           "tag": "FDA Approval"
-        },
-        {
-          "date": "2026-07-14 08:56",
-          "title": "Celltrion Terminates, Withdraws EMA Trial Application for CT-P51 Biosimilar - Moomoo",
-          "source": "Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVExocXZSb2RqOS1lRXBoRkZIeGpnMThMSi1VZy1DUWI0Y1pRZEg4a2MyelNUMGx5NlVuWGMxbjg5YUVzQkdsUnNhYWNyVUxvQ1BkaGR6bUJCeGJYWmIyVHNzYmNraTBvR2M2aWdWTDJ0Vll1SWctZVgxZ09nMXd3RV9GZUM5dnhZUmRFczB3QUpoM20wQ0pyckcyTG5tVlpDdGFfSkFDMXRvMkFaNnNmSU1IZDRONVU?oc=5",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "date": "2026-07-23 08:05",
-          "title": "Samsung Biologics, Celltrion Post Surprise Q2 Earnings; Both Eye ₩5 Trillion Annual Revenue Milestone - finance.biggo.com",
-          "source": "finance.biggo.com",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKakVOMVc2YTBRcV9USGp6OUw3bkZYSXFuX2VENXNucS1XOEFRNHBfYVRPcmt2OHczUVh6RVNsRjBHdGJ6UTZwYk9iMjlBSV9WZV9kQTBhNC1VN0xHRlBzYUZrQzRVSmo1QTFXejd2cjdXVTFnLUE?oc=5",
-          "new": true,
-          "tag": "Financial"
         },
         {
           "date": "2026-04-21 07:00",
@@ -2560,7 +2560,7 @@
           "date": "2026-07-22 14:15",
           "title": "Samsung Biologics: geographic diversification is a sound business decision - Pharmaceutical Technology",
           "source": "Pharmaceutical Technology",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaGlfTmw1U2IxU195c2ZabnZwZ3ZaOGo3R0ZqLUdaemN5LXAwVTQwUHgyVVlqeTUtOTNqdDc2eEtBbG5Rbk4zM1g3WmJHemU5UnlxYVJqZ0RaeDhGWTdfWUsxZlNwQXdaZ04yTEl1U21BTzdmT0s3S1cwb2VzOFZFV2JBSGiyUG9OSUtwX09NaDVPTWhCOGxpdDZQMlE4eldvTTdoTmZ3?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaGlfTmw1U2IxU195c2ZabnZwZ3ZaOGo3R0ZqLUdaemN5LXAwVTQwUHgyVVlqeTUtOTNqdDc2eEtBbG5Rbk4zM1g3WmJHemU5UnlxYVJqZ0RaeDhGWTdfWUsxZlNwQXdaZ04yTEl1U21BTzdmT0s3S1cwb2VzOFZFV2JBSGIyUG9OSUtwX09NaDVPTWhCOGxpdDZQMlE4eldvTTdoTmZ3?oc=5",
           "new": false,
           "tag": "Other"
         },
@@ -2569,7 +2569,7 @@
           "title": "Samsung Biologics posts record $789 mn in H1 operating profit, Q2 profit up 23% on year - KED Global",
           "source": "KED Global",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LLWp0V2ZmRmFnTDVHZ19KT2trWjVDWHZmbGhEYzZjd1lsZFVNYXNydUVjM0t1dlNDR3NDcThwUk84UWdjVUNXQlhqQTB1dmZGZkJEekVnZGQ4WFZDQlJKWEJPNlNtWWREcUQ4?oc=5",
-          "new": true,
+          "new": false,
           "tag": "Financial"
         }
       ],
@@ -3019,50 +3019,10 @@
       ],
       "google_news": [
         {
-          "date": "2026-07-23 16:06",
-          "title": "3rd-qrt 2026 Biosimilar Market Report from Samsung Bioepis - The Pharma Letter",
-          "source": "The Pharma Letter",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGJ4aVJ6amlZNjdFSUZfRG0wWnhsQkc3V0RqN3Awa1dJVnB0Sld5YURDMWk1NlBYT29ka3pEazlHYW5fOWNZUmFtNmtHaVJ2THEyMElLQjFJbjZhSFNwRGIzWU9sYkJqODI4NTl2VXpWS2U2dmtZNmx5WTBQTTNkUU9RZGNUdWptNEVBUTRRQi1DZlAyd3J4RjAxSHhTbkQxZUNhcHpaVWpVRGs?oc=5",
-          "new": true,
-          "tag": "Financial"
-        },
-        {
-          "date": "2026-07-23 05:46",
-          "title": "Samsung Bioepis Secures Exclusive Commercial Rights to Nectin-4 ADC Candidate SBE303 - BioPharma APAC",
-          "source": "BioPharma APAC",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT0oyWnA5R3FTV2dNYnFqVEY2YU5XeHhiRU9pMkVJUjlhZG5LVHhjNlJtaklVS0JGVlBVcVh1bFN3RmM2b2lrRWZDaXFBMzZjSEN3UlFfZTNOWFBMa3B6ZG9FU2E3MWNINXo5a2EzcHBBaTc5WHdhN0tnLUsyWnc4dnFjQm1fUk9CN0E5SlNST0pNeTZTV2tDTTNGdEV5T1ZrQzNIcTYtTzNreHpnMUVDdFpYdG42eW1IT1ZTWEJ5Z2F6WUVfZ25tYWdkN1I?oc=5",
-          "new": true,
-          "tag": "Collaboration"
-        },
-        {
-          "date": "2026-07-22 07:47",
-          "title": "Samsung Bioepis partners with Prazer Therapeutics, Bionsight on open innovation - koreabiomed.com",
-          "source": "koreabiomed.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6T3ZsRU9WRHFmUDJJUEJORWZOb19vRG9GRGZtcTYxLTQ4WEttNGYyWm5sMy1zcU5JcDBWcFpidWZCMGRfQ3UyWTlEVzBJdkpTN1JSYWloQzNOR3ViSlRja3B1OFdoYzlTRjFYY1ln0gFyQVVfeXFMTWU5VHNuTnZCdmZVTVdiSEloTXZyd3J2cVNvYzVMQ183ekZDaFlfUF9Wc0dXdEdtVWxiRm1aN0VSN0FLVUoyXzlXYnVUcXU2QTNGSnR4WHhSZTF6Mm4zNXpIdG1TMUpNSHdUNTRVR0VmMnRn?oc=5",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "date": "2026-07-20 12:09",
-          "title": "Samsung Bioepis, Harrow present SB11 biosimilar study results - Investing.com",
-          "source": "Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNmVWd2RXZGpNck9ROUU1M0VwSnZiSmZOeVVsVElUY2VMNzVDQzVONU5tRTAyX3Z3X0NfUnU0aHJkVEFmQlBmelhHRkhrVTBhdzZCZlFuaVAxV0VsWUhxV2lBNS1OcVJXNFVRVTM0ZkFYd2lEZG9nSG8tT2JQR0R5dlBzblhzR3JPUWE0N2lqWDhfOVBXWjBlY0dZREg4Y2lsb0VnVENWN3laUDM1dTZnMDZIMmpjRl9V?oc=5",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "date": "2026-03-18 07:00",
-          "title": "Sandoz expands biosim collab with Samsung Bioepis, sets sights on Takeda's Entyvio - Fierce Pharma",
-          "source": "Fierce Pharma",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY1Y2QUNyUDlOQXVkZk9Da05yVTFXU3pFRzBxUEZ4cE8yWHpiOVk3MmQ2MTVpb3RDY0RXZDFTanFMNXcta1d4VWx2RXFqeDh6QkZDdVl0Wlp3c20zZHlUdFBicFZVRl9HV1JkVEhnT0lSUGFTNGE0bnFHdkZhcmhydkM0Z0p6MVVnbThQUUpmeWJRaHJJSjRiOEJqVnZESGd4QkFQTmhB?oc=5",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
           "date": "2026-04-29 13:18",
           "title": "Samsung Bioepis, ATLATL Partner on Open Innovation Program - Contract Pharma",
           "source": "Contract Pharma",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTNlQ1F2cjRsdmtHNFhPc3cwR0ZLQ1dfWHIzSXdPMVl0aWl0VVROVjdlcGJEMV92alBGSTIxV2ZUS0ttem5CVVIyUURWQTBiMVgxT3pVRWw5OUFTNTcweTlpUjhvazBheUxvdlxlX3IyWXFxanotWkpnNFFiNmQtUnNieUNNREZnb1B6NnI3eFJES3pvVE4xdV9BSUpLckluMUZZVkdR?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTNlQ1F2cjRsdmtHNFhPc3cwR0ZLQ1dfWHIzSXdPMVl0aWl0VVROVjdlcGJEMV92alBGSTIxV2ZUS0ttem5CVVIyUURWQTBiMVgxT3pVRWw5OUFTNTcweTlpUjhvazBheUxvdlhsX3IyWXFxanotWkpnNFFiNmQtUnNieUNNREZnb1B6NnI3eFJES3pvVE4xdV9BSUpLckluMUZZVkdR?oc=5",
           "new": false,
           "tag": "Collaboration"
         },
@@ -3072,13 +3032,21 @@
           "source": "BioSpace",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObm04M09GWUZuN19HNVRpR3ZLZkRsZkRYeFBZVVVYb1NRa285b3c1OEd3UG84Q01xSnBMSkN1WnNQTmVrbWhVeXFlRC16bG5IR3QySlFGdEFvU1M0SzFvVUtQNjZYZzZjdm90VGUyYi0wWExKQUtHNlZwdU80MHJ6MVN3VnJOQ3NVTlh5WXVudl9rUHJIQWhtNDl0X2dySGFPSU1USUVzQ0NPYzk0TVFtSFFB?oc=5",
           "new": false,
-          "tag": "Financial"
+          "tag": "Other"
+        },
+        {
+          "date": "2026-03-18 07:00",
+          "title": "Sandoz announces partnership agreement with Samsung Bioepis - Sandoz",
+          "source": "Sandoz",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWZHSGpkSEsyYjd4WkdCdENZblJQTDZydUFGQUQxWlBYT3BDdGhkSjlpLTMxWU84U3dlR2l5czliY3NtLXVUUEhWX0toZm5vRVQ1V2FReFZmblcxRjBoOFlEc1h4UlQ3T3BSMWlMWEozOHlRWlQ4X184eHlxUjlWVi1XR19aX2tWajVWUTdhZVljN284cF9vU3NNbnE5ZlcyZGdyZFFudm90N1VZd1E?oc=5",
+          "new": false,
+          "tag": "Collaboration"
         },
         {
           "date": "2026-02-17 08:00",
           "title": "Samsung Bioepis reaches settlement agreement for Eylea (aflibercept) biosimilar - Ophthalmology Times",
           "source": "Ophthalmology Times",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVndVNWRGdEx4OGl6Z09zZC1WNlN1SWJVRWllN2lsTW03N1AzUzA5UTQ5UW1pelpTdXBZQl_1TnZZbGszeThSZlBQZDAwU01udXNsMFRUX1hScXBxV1RPX1JYNHluNTdPYUZiem5KVk1QSWtVSWRwQ3huYTVEX09odTl2b0czS21tRmZGb3V5Nnh6TU1nMW1kSE5hd1dpbUtsZHRSWXloYUdPeXNNWUxmUjJQWV90c3hK?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVndVNWRGdEx4OGl6Z09zZC1WNlN1SWJVRWllN2lsTW03N1AzUzA5UTQ5UW1pelpTdXBZQl8xTnZZbGszeThSZlBQZDAwU01udXNsMFRUX1hScXBxV1RPX1JYNHluNTdPYUZiem5KVk1QSWtVSWRwQ3huYTVEX09odTl2b0czS21tRmZGb3V5Nnh6TU1nMW1kSE5hd1dpbUtsZHRSWXloYUdPeXNNWUxmUjJQWV90c3hK?oc=5",
           "new": false,
           "tag": "Other"
         }
@@ -3610,23 +3578,23 @@
           "date": "2026-07-22 13:46",
           "title": "Generic drugmaker Sandoz to engage with US after Trump tariff threat - Reuters",
           "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzZZTHZEd19KNFdCdDNJbW93RVVQT2R2Q3ZWd1V3Qi0zV0dwM1lHc04zZ0xleXVKSkhGb1czY1JpOEhjNV95MDJwcjVXREtwVkRzOEJSZ3JwVDlyamV6TjFibElycl8teGRNQ1dRV19ENkpZQXVKWUpGZXFJMzRkQjk4ai1FNHlYSElYd0lOUWw5MUFZU0dBZTUxb2VfTGcyZDU1S1Y0bzA4OVk5eXhudHNFTENTME1oZWc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzZZTHZEd19KNFdCdDNJbW93RVVQT2R2Q3ZWd1V3Qi0zV0dwM1lHc04zZ0xleXVKSkhGb1czY1JpOEhjNV95MDJwcjVXREtwVkRzOEJSZ3JwVDlyamV6TjFibElycl8teGRNQ1dRV19ENkpZQXVKWUpGZXFJMzRkQjk4ai1FNHlYSElYd0lOUWw5MUFZU0dBZTUxb2VfTGcyZDU1S1Y0bzA4OVY5eXhudHNFTENTME1oZWc?oc=5",
           "new": false,
           "tag": "Financial"
         },
         {
-          "date": "2026-07-15 05:27",
-          "title": "Sandoz announces key leadership changes - Sandoz",
+          "date": "2026-06-29 07:00",
+          "title": "US FDA accepts Sandoz applications for proposed in-house development of generic tirzepatide GLP-1s - Sandoz",
           "source": "Sandoz",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90bkJDc0RtM2NxN3IzUlRXRUJadVl1MVktTGFCempGMDNXYkl0OFNnZ29MZktwelZ4YVRzcWpfeFBYUWNiWWNFandmWEpsSjJrVFJXYkdRWXFxYnBaRVhWeDVZcTEwdC0xQWpBcFdlOXE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYkJBVmt3WWFkQk5NY1RnemJGZF9ZaU5PNUFYZnpJNHNNY3hxTkJCWDRVa3NnLXZkWWk5TlpPS09xLVV0S3dRYWgxYl95TDhENm45d2poXzNtM3FteVAtM1RTa2lxaGdQa1c3TVpJTEI1TjNFSC1XcHFqRnFVQlVjNU1BM1pVZ0ZJNUJWZ2RTWWNFOUZrTU12anhrck9VM3BqLVpoQTJHdFFfTFRfQ2FUc1dB?oc=5",
           "new": false,
-          "tag": "Other"
+          "tag": "Pipeline"
         },
         {
           "date": "2026-07-23 17:48",
           "title": "How Investors Are Reacting To Sandoz Group (SWX:SDZ) Leadership Overhaul In Generics Manufacturing And M&A - simplywall.st",
           "source": "simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYS1yamFlcnMwalVRSmRfTHZMUmEwYXVOMWlSTl9JYTZWMXQ0MFhNYUJlTkhNeUJ5WlVtVjNSMmVFSHVWLWdVX1huZHcxeE1UYm1YcUZSd0pzSHZVeVdsY2FjcGhqZnpPVE56M1RKaFF4dHlmUlphRlVrRXBqTzZYekNQYmNUVUNqOWFmYTVzTXltUUl0ajNzaVQ4RkdqRFEzMTV1Qnk5enNNZTdrdnZEZGVZYjRWWk5fTjlCYW1JU1dfa0tLdGZkSnQwbVRRVzB3a0Z2dGFDVjBfaWxTZVBtQmpLSdIB6AFBVV95cUxNN2xEYldtMU44bndLTGJtZ1A0dnJiZWY1N2R1U3k3NmxvT3NQdjFLRmw0Mnc0OE1MYjJpM3RFbTVSTDNaLXBJT1R0Z1JybklpWFdMVno3cXZySUJaV29TaFpZT09pX2xRS0RpZUlKTHg0M0RBZndodm9KaHA1NjRqVTZFREdJOVJoaVotN21zLVpEdU10V1BCVHJqZ040MTRlSUpCaEhnMXRob29SYWRGN2JmRFNqZUQyRWMwc2ZtUTQ1RW5lSTBDMG1IeFN6R2E4ZGllc25vblhmd2hqRm1EN2o0YnJKdXVK?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN2xEYldtMU44bndLTGJtZ1A0dnJiZWY1N2R1U3k3NmxvT3NQdjFLRmw0Mnc0OE1MYjJpM3RFbTVSTDNaLXBJT1R0Z1JybklpWFdMVno3cXZySUJaV29TaFpZT09pX2xRS0RpZUlKTHg0M0RBZndodm9KaHA1NjRqVTZFREdJOVJoaVotN21zLVpEdU10V1BCVHJqZ040MTRlSUpCaEhnMXRob29SYWRGN2JmRFNqZUQyRWMwc2ZtUTQ1RW5lSTBDMG1IeFN6R2E4ZGllc25vblhmd2hqRm1EN2o0YnJKdXVK0gHoAUFVX3lxTE03bERiV20xTjhud0tMYm1nUDR2cmJlZjU3ZHVTeTc2bG9Pc1B2MUtGbDQydzQ4TUxiMmkzdEVtNVJMM1otcElPVHRnUnJuSWlYV0xWejdxdnJJQlpXb1NoWllPT2lfbFFLRGllSUpMeDQzREFmd2h2b0pocDU2NGpVNkVER0k5UmhpWi03bXMtWkR1TXRXUEJUcmpnTjQxNGVJSkJoSGcxdGhvb1JhZFY3YmZEU2plRDJFYzBzZm1RNDVFbmVJMEMwbUh4U3pHYThkaWVzbm9uWGZ3aGpGbUQ3ajRickp1dUo?oc=5",
           "new": true,
           "tag": "Financial"
         }
@@ -4907,7 +4875,7 @@
           "date": "2026-07-13 07:00",
           "title": "Mylan to sell up to $363 million stake in India's Biocon, term sheet shows - Reuters",
           "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcHdtTnNzTThxejRmY25va0RfNmh5YTVRT3dCN1c4ZXdPNGRtUVZzcWdFd1VLeVRIdzdGZHZ3MTA1X3FBWWU1RkF2eFFqSHAwQ3loMUJRVDZTaTVxbmVaQ3V6OEhJYmJGZ3FqRHVROHgzbVVMaWtJNlJ4cXRhU29iN2JEcVBNMEdKZ0pnQWV2cUFHUjJwSWJfNFdOb3I5eVlucDlHMFdSZnlzNVBuM0R2bXJ3OGhHZVZXWnhGeElvYmg3WWt6OTJmYW4wLWRYRHM?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcHdtTnNzTThxejRmY25va0RfNmh5YTVRT3dCN1c4ZXdPNGRtUVZzcWdFd1VLeVRIdzdGZHZ3MTA1X3FBWWU1RkF2eFFqSHAwQ3loMUJRVDZTaTVxbmVaQ3V6OEhJYmJGZ3FqRHVROHgzbVVMaWtJNlJ4cXRhU29iN2JEcVBNMEdKZ0pnQWV2eUFHUjJwSWJfNFdOb3I5eVlucDlHMFdSZnlzNVBuM0R2bXJ3OGhHZVZXWnhGeElvYmg3WWt6OTJmYW4wLWRYRHM?oc=5",
           "new": false,
           "tag": "Financial"
         },
@@ -4917,23 +4885,23 @@
           "source": "markets.businessinsider.com",
           "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYkMtczM0alFGZHctelJsN1B1YjBreTJQS2g1US1PbWRiSzFHZWNucHR1NXNHTDBTR1ZqT1Bxd01KN1Q2WEV2ZkxIYkZkYjVtZTlZTEJSc3dTMXh2OHJDM0N5empLTExZdExIcFlhVWJGNDhoeEhfMENzaVlSXzB3ZlpxV3NVNENKaUJCb1dDekZDdkkyMExuSzB3bWFxWVRoSmthMUFoLXFZcGtWeHdWVllDQmFGWm5GTmJaSDU4ME9lQlc4emc3aER3RXJlRlZaR1JMXzdkZWgxT2NVeENvUGNrTlk4Y0JqTW9qenBWWDFDNFg3YzR3WWdXN09nQQ?oc=5",
           "new": false,
-          "tag": "Collaboration"
+          "tag": "Other"
+        },
+        {
+          "date": "2026-07-16 10:30",
+          "title": "Reports: Viatris To Exit Biocon As Biosimilars Competition Reopens Globally - insights.citeline.com",
+          "source": "insights.citeline.com",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTnJHQ2NoUnp4NjBsSlpzUHpxdXVKdkdSMWJKVHZBcDd3Y0JsZk8yVDM1cmpRN1A2SjllNXBkSjc1MmJMbF9tLVNSc1FuN0Y3SmZ4OUNNejVUak9jQjZnbnJqRTlUbG4wNWhzRE9pb2J5eGZvelVMOEl3YmdzSEJRNEktaUl1amhsTmc3ZFIyejRQelFjUWlveGk3bUJIdHpfWFJYdTlBd0RMMHNVNmRwQmpBN0h6VmRoM2xyblUtWnp5YXNGdzFhcmpSaDhXcUxjMk9yMFVuUy1VdVU0SXdFdXhob0lybU94Zkt6SHhsTHVUd0lwU2ZHMQ?oc=5",
+          "new": false,
+          "tag": "Financial"
         },
         {
           "date": "2026-07-09 11:35",
           "title": "Biocon Announces Publication of Pivotal Clinical Data Supporting Effectiveness of Yesafili - Business Wire",
           "source": "Business Wire",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUjR5aXRkM0xYU29aaFpqZEtBRm9yelRESFdDZDc1cFRUdXhVUWdkcUViRmFxdVljUmEwZWFidF9FVnFpb3NOaV9iOFZ0MWhJX2Qyd2VTbzh3b0JWU1dKZHQwSzhUVnNWZHBqcDFhMlJMeG5OdFpmS3REMG4zVE5SYm8wZ2VGeVh3MVdMX0lZV3Vyc2ZqSFFUVnVZcU1PNDZ4TngzS1B1aDh5WE9mR3hIa2Z3cGh3ZHJrcjlSLW5FMXFJaWxKUXNJdEtvRmlIazFGcDNMemR0a0g0a3NyV1dNc0JZSnRuLUpUZjVud2ZHRlVSb1pTblNDWWdXTExOMEdxVDh6UnM5bjFGVG9jWGc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUjR5aXRkM0xYU29aaFpqZEtBRm9yelRESFdDZDc1cFRUdXhVUWdkcUViRmFxdVljUmEwZWFidF9FVnFpb3NOaV9iOFZ0MWhJX2Qyd2VTbzh3b0JWU1dKZHQwSzhUVnNWZHBqcDFhMlJMeG5OdFpmS3REMG4zVE5SYm8wZ2VGeVh3MVdMX0lZV3Vyc2ZqSFFUVnVZcU1PNDZ4bngzS1B1Yjh5WE9mR3hIa2Z3cGh3ZHJrcjlSLW5FMXFJaWxKUXNJdEtvRmlIazFGcDNMemR0a0g0a3NyV1dNc0JZSnRuLUpUZjVud2ZHRlVSb1pTblNDWWdXTExOMEdxVDh6UnM5bjFGVG9jWGc?oc=5",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "date": "2026-07-23 15:59",
-          "title": "Biocon stock trades steady as biologics revenue grows and margins improve - Ad-hoc-news.de",
-          "source": "Ad-hoc-news.de",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOFotdTQ1TDZmcF91WlBpYUNEUENGakp2NlFBWEs1Z2VMcGQ0WlpCZ0ljWmF3UHVHTjlpVnV5Q0hqUl9YbldIY2IyQkdKUU9CLUphYlFORE5MZFJ5R2VxSXdOY0lQYkF0VjIwVzN5UkkxNGZvaFVUSUxBNDZLSlpUS0NkNk9PNGlqM3RNRXktR240bEhzS19xUmN0NlY5RjRNdDdNdzlSLWVLVHhqS2RQUmR3Q1hYZEFsaHJnY3AtVEpXeUdSQjVuMm5fVzQ?oc=5",
-          "new": true,
-          "tag": "Financial"
         },
         {
           "date": "2026-06-16 07:00",
@@ -4944,10 +4912,10 @@
           "tag": "Other"
         },
         {
-          "date": "2026-07-22 04:39",
-          "title": "Glenmark, Biocon, Aurobindo slip 3% on Trump's generic drug tariff plan - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWXJVVHplbkJMdll0ZWtUZFhfX2FmdU5ERGY4TmpfcVF2MEZ6WUJJUDdBQ0tKMFl3WGpoOUdTaFUzTXAzbHlUYm1pLWRwcUNrM3JOVkhHTko0OU5xLXpKVTI0ZzQzUV9BMGhJaE9hdy1tNDV2ejJKYTAxSzJuMmRna2daY0VjeG9FbXhGQlNvRHNkYUoxVXcwa3Fkb1BmbGJoSFFHOWZLdDNMYklUblp0LVhmamtEbWtNQnkxeVlKbmdicS10OUh1ZGhnRkJYdzY10gHWAUFVX3lxTE1wSVVxOGx0QVJwYVhTTUlCeFhHeXIwYzdFMlBMOVNENFhxQW5lMFlqMkdmUS1JU0RpYTBaXy0wNWlNUExGVTBjSmszVDcwMksxUlFsOWtDc0h0ekJKdU1XZlQzU2xCem5CNTMzNXo0ZnUxWVI5aXJqdVp5cHY5X3ptNjM5M0pkSVRONWVoSDVtN1MzRlVtZnBOMWFaRVlLVGJGS2lPc2k4S1JLajdtQU1xbmRGWlRxYnB0cjR1YzVfZXBUT0hwRWRzYUdrSjB1M2hLN2M4Qnc?oc=5",
+          "date": "2026-07-23 15:59",
+          "title": "Biocon stock trades steady as biologics revenue grows and margins improve - Ad-hoc-news.de",
+          "source": "Ad-hoc-news.de",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOFotdTQ1TDZmcF91WlBpYUNEUENGakp2NlFBWEs1Z2VMcGQ0WlpCZ0ljWmF3UHVHTjlpVnV5Q0hqUl9YbldIY2IyQkdKUU9CLUphYlFORE5MZFJ5R2VxSXdOY0lQYkF0VjIwVzN5UkkxNGZvaFVUSUxBNDZLSlpUS0NkNk9PNGlqM3RNRXktR240bEhzS19xUmN0NlY5RjRNdDdNdzlSLWVLVHhqS2RQUmR3Q1hYZEFsaHJnY3AtVEpXeUdSQjVuMm5fVzQ?oc=5",
           "new": false,
           "tag": "Financial"
         },
@@ -4958,6 +4926,14 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON0t1a2NZSlVYT0VRVVZTQTZxNjdfM3g5MEJUQ0ZQZTlGU3JpdXBkdHlRVG15RWdSaGZnc1V4aU9YdURSQ1hZU1ZxaDhiNWs1a2FNV0EyNjM5OVg2UGZyRkZmODdHTWpGcFY1NGVjQ05pYkVOV2p1T3NFWXUxMk9KX2hRQVJhT1dVYzNEbWhrNXlwVWo2U1YwMi15cw?oc=5",
           "new": false,
           "tag": "FDA Approval"
+        },
+        {
+          "date": "2026-07-22 04:39",
+          "title": "Glenmark, Biocon, Aurobindo slip 3% on Trump's generic drug tariff plan - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWXJVVHplbkJMdll0ZWtUZFhfX2FmdU5ERGY4TmpfcVF2MEZ6WUJJUDdBQ0tKMFl3WGpoOUdTaFUzTXAzbHlUYm1pLWRwcUNrM3JOVkhHTko0OU5xLXpKVTI0ZzQzUV9BMGhJaE9hdy1tNDV2ejJKYTAxSjJuMmRna2daY0VjeG9FbXhGQlNvRHNkYUoxVXcwa3Fkb1BmbGJoSFFHOWZLdDNMYklUblp0LVhmamtEbWtNQnkxeVlKbmdicS10OUh1ZGhnRkJYdzY10gHWAUFVX3lxTE1wSVVxOGx0QVJwYVhTTUlCeFhHeXIwYzdFMlBMOVNENFhxQW5lMFlqMkdmUS1JU0RpYTBaXy0wNWlNUExGVTBjSmszVDcwMksxUlFsOWtDc0h0ekJKdU1XZlQzU2xCem5CNTMzNXo0ZnUxWVI5aXJqdVp5cHY5X3ptNjM5M0pkSVRONWVoSDVtN1MzRlVtZnBOMWFaRVlLVGJGS2lPc2k4S1JLajdtQU1xbmRGWlRxYnB0cjR1YzNfZXBUT0hwRWRzYUdrSjB1M2hLN2M4Qnc?oc=5",
+          "new": false,
+          "tag": "Financial"
         }
       ],
       "pipeline": []
@@ -5027,7 +5003,7 @@
           "date": "2026-06-09 07:00",
           "title": "Advanz Expands Challenge To Rival's Bowel Disease Drug IP - Law360",
           "source": "Law360",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0lDLWRVb25CZXZxeFlpeWFmaWc4TEJMdWswdm9LMlEyMnM0WGllMHFxUzJDU2p0YlVTSDJGUy05alFmbmNvb1FuS2VVNTNLUG0yZVAxOVcwdDZ0bWxob0ZuYjAwRmlFb2JzZktsbXh1aVBjcnFOc1FvdDlSSG5ITDdZUkE1NWZzMEdqZ2d0dTRDWjY3NXRPX0FDY09kQdIBVkFVX3lxTE1IQ0wyajZPd2Z4MGhoREpGNDRadHM3VlgyYUlrMnU1UjBqNE5GeHQ1V25QQnJXNzlEaVZpS0FrUGZrY0JIVF9nZUZObU1CaGpNRkQ0SzRR?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0lDLWRVb25CZXZxeFlpeWFmaWc4TEJMdWswdm9LMlEyMnM0WGllMHFxUzJDU2p0YlVTSDJGUy05alFmbmNvb1FuS2VVNTNLUG0yZVAxOVcwdDZ0bWxob0ZuYjAwRmlFb2JzZktsbXh1aVBjcnFOc1FvdDlSSG5ITDdZUkE1NWZzMEdqZ2d0dTRDWjY3NXRPX0FDY09kQdIBVkFVX3lxTE1IQ0wyajZPd2Z4MGhoREpGNDRadHM3VlgyYUlrMnU1UjBqNE5GeHQ1V25QQnJXNzlEaVZpS0FrUGZrY0JIVF9nZUZObU1CaGpNRkQ0S3RR?oc=5",
           "new": false,
           "tag": "Other"
         },
@@ -5046,14 +5022,6 @@
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPckdaYlRJSHY5VDI2clQyQ0R5em9FT0o1NzJaU2hPeE9mTXNzaFctV0E2Nnp6aGliaGNNYmM2THRYSXR0TkpxQ2ZZQ3M2aEpQY0cxX2ZqS3VhXzFqYkJCWEs3eFBVMEVqYWxCNU5rbzZkNE4tLUdPbjVRem5OdXY4LU96YVZaa0ltZnV4SHVwcUg2a0czX01SNzRNdndHa2VvcWI0WF9xTHREeUpyS1o5LXFoSlduaWxUYldsSjlDekZDRmd1Y2xiM0lGOWpubHpNQ28yNkxaMzd3dGVTZXhCRDdGOXFxUQ?oc=5",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "date": "2025-11-20 08:00",
-          "title": "Alvotech and Advanz win EC approval for first Simponi biosimilar - The Pharma Letter",
-          "source": "The Pharma Letter",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaTJMYmRpRi1JaTIyOHJvX2RPbUJrNXFXaXJBdEJObTBQMUQxMzhVa2tZV1dtTDdrQ1hQMkp3TUVJN1R4OGw4X3RWMkg5RkJQTDBKckFSRU80T0I4Q3NEdHY5cllxTkF4UWpzN0ZUMmpXdjFWYTF2X0dfVTYwTjlCMFE4RDhickh6aGs4enI0QWFGXzFGbVc2RlhvNFVPTkZzZ2Z5WC1iNFREbWFackNVWkk2VQ?oc=5",
-          "new": false,
-          "tag": "FDA Approval"
         },
         {
           "date": "2025-08-25 07:00",
@@ -5136,6 +5104,14 @@
           "title": "Why Teva Pharmaceutical Stock Is a Buy Despite Trump Tariff Threat - Barron's",
           "source": "Barron's",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQblBhQVlUMTlGcE5hYnNNRXRnZUhmMWwwc0hxVFAyWUNBRFBiWEsybmdacC15Q1Y2anlONTNGOWJDXzd0SktlblN1cHdpcENnZHpyUF9OVnQ1cjhEaXMwLWNGWmJJR3hiRGFNeWdtVUdsSGdxYzVBRm9oQ18yZV8yQ2t3ZlBLcnpJ?oc=5",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "date": "2026-07-24 07:42",
+          "title": "Bank of New York Mellon Corp Decreases Stake in Teva Pharmaceutical Industries Ltd. $TEVA - MarketBeat",
+          "source": "MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOY3hvZ3NPeFF0WVlnWU9xeTFtbVk0LXBVNTBjV0xOajRJMERacjZrd3BwNEhlRXNYQW4wR1lWTXNMZlo1bEtvNVpvbkpkWldpc0pPUVFHb2hhSjFYOFpOMWNBZENsVGVHSzhITzFrN1RxLXZCS0ZSU2hrWmxia3o5ZDdURXBhYUhOMHo2ZVdFeHJXcENQcVI3SWx1dDVQSW05SjU0NF8xUXRqWDZOS0VsV2ktR0RkSldNOUNnQk9TbThBSFNDbGVIeWpuRGs4ejJoMUNZWE1aRVVZMHBwNjQ5aG5n?oc=5",
           "new": true,
           "tag": "Financial"
         },
@@ -5151,7 +5127,7 @@
           "date": "2026-07-20 15:54",
           "title": "Practical Guidance for Pharmaceutical Method-of-Use Patent Claims After Teva v. Eli Lilly and In re Xencor - The National Law Review",
           "source": "The National Law Review",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLWhqX1I2Uzl1eUxmd1pxQWN2ZVRob3NYU0dtRk1lR2NRNXRRWG1mdXE0dFRWWlVzZS03N3FnSll3X1REM1FHZkVLb01Fb3IwQ1pvQ243ZGN1Qmo3YXBuM0hXa2N5RHlPUHQyQ08zVEpqZHpaMF9TSU03eDd0S1NMQkxXYjhXUWUtLS0xd0M2RDlhUFJGTno0eFZpMWVyRV8wandhVlpmMUFPYXVDdV9Rc2NjOErSAboBQVVfeXFMT0hrNkhIR3M2ZjkyVTY0Q3ZMUTZ2NE9BenZKQURuaUJpYVNhMFlyOC1jaEptUEtEZ0RDc1V4aHhvT29kN2dTNGNzMDJKMDZ6QmtSZksyTXdkTXNTNUNpY2FaWJJcUxDVl84WkQ1Q2lpWjlQWFdubkRzWV9wMnE3NmdYMGxOQU1DMXdLWEZPZVRCMHd2X2hMWFN6NG1BTnpRTF96dmFUU1MwVXFaN0pCdHdWNmlaWUdoLVZ3?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLWhqX1I2Uzl1eUxmd1pxQWN2ZVRob3NYU0dtRk1lR2NRNXRRWG1mdXE0dFRWWlVzZS03N3FnSll3X1REM1FHZkVLb01Fb3IwQ1pvQ243ZGN1Qmo3YXpuM0hXa2N5RHlPUHQyQ08zVEpqZHpaMF9TSU03eDd0S1NMQkxXYjhXUWUtLS0xd0M2RDlhUFJGTno0eFZpMWVyRV8wandhVlpmMUFPYXVDdV9Rc2NjOErSAboBQVVfeXFMT0hrNkhIR3M2ZjkyVTY0Q3ZMUTZ2NE9BenZKQURuaUJpYVNhMFlyOC1jaEptUEtEZ0RDc1V4aHhvT29kN2dTNGNzMDJKMDZ6QmtSZksyTXdkTXNTNUNpY2FabGJJcUxDVl84WkQ1Q2lpWjlQWFdubkRzWV9wMnE3NmdYMGxOQU1DMXdLWEZPZVRCMHd2X2hMWFN6NG1BTnpRTF96dkFUU1MwVXFaN0pCdHdWNmlaWUdoLVZ3?oc=5",
           "new": false,
           "tag": "Other"
         },
@@ -5213,15 +5189,7 @@
           "date": "2026-01-26 08:00",
           "title": "MS Pharma Group, Hetero Group Partner to Localize Biosimilars in MENA Region - Contract Pharma",
           "source": "Contract Pharma",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdG12LWpXUmo0QlSibHdIZjhpSzUwdF9oTkRWVlNCY0NSQ3V2R2p6MGstRjBnTTFMRE9VZE9UUF92bmZiZW9uYV8zQ05Fa1Zkd0toMGhTcG1uQTN2VDNOc2JjRGI3dnh3WTdmcWdtTVlrSXJhaXNkbGFBaTNRdWQ2cU1WcXdLSV9KQzZhN1p5d09pX29SbmVFWnNVQ0xJLTVTZ084VFlOczBsejVab0Vaek5hYmlzSXdmNlZIbUdB?oc=5",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "date": "2025-12-04 08:00",
-          "title": "Formycon and MS Pharma Ink Exclusive Deal for Biosimilar Pembrolizumab in MENA Region - Pearce IP",
-          "source": "Pearce IP",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGU4MjlUNFR0cWxEclZPQUVVcU9KRGljLU1aUkgzdWFjNUh1MWliY0QwSUVnS3luWXhsOVFabUJQaURRd3lPQXRMRGNqb0cwNDBjY2RpTjJ6ZVRUdkstRDN1dkJsaXhFVWtmRnlzV0xGS3pnRGprdGRhdHZmamtvRUUtLURBNjZiTndIRngyZUt5QmZhVHRVMVowR2JZN201TVU0cDVDX3dRLUxOTExYMlRHRzk1QlVQbWxWMVd3TQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdG12LWpXUmo0QlSibHdIZjhpSzUwdF9oTkRWVlNCY0NSQ3V2R2p6MGstRjBnTTFMRE9VZE9UUF92bmZiZW9uYV_3Q05Fa1Zkd0toMGhTcG1uQTN2VDNOc2JjRGI3dnh3WTdmcWdtTVlrSXJhaXNkbGFBaTNRdWQ2cU1WcXdLSV9KQzZhN1p5d09pX29SbmVFWnNVQ0xJLTVTZ084VFlOczBsejVab0Vaek5hYmlzSXdmNlZIbUdB?oc=5",
           "new": false,
           "tag": "Collaboration"
         },
@@ -5232,14 +5200,6 @@
           "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQWGV4VGhXODNBSFQwU1NtcEhGcUVaNzV4QVAzdEUwRTRJS050dXNNc1lHcnFmQk5kUzVKSmRXTVkzYmVScUg2Y0pZQlJub21sMWt0Z21ReGhOclVvX2JPcmNQYW5ZMVEwT2dnY0h0X3g5dUpwVmhGVE1idkNOU01tMDUzODltTGJnUVFXWjV5cVB3cGhpZGxVWmpRMFZjOFg3MWJmbkVJUkY2cy1ZTU56YzJnS0lHX2lfWkZLZXlUZUh0Tm9RY004TUxoVXZibHB3Yml1NlRpaGoxcHI3YTBQTUhSQmxvQlNIOU9vUWI3cDlneTFtb0JhR3k5aXhvU0xVVFNmU09hQXRpRW12U042YUp4VHJBR19EWUxlOHM5bE9RVU5W?oc=5",
           "new": false,
           "tag": "Collaboration"
-        },
-        {
-          "date": "2025-08-26 07:00",
-          "title": "Building A Biosimilar ‘Launch Machine’ For MENA – MS Pharma CEO Sets Out Strategy - insights.citeline.com",
-          "source": "insights.citeline.com",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZzRqa01yYjdSWllxYXQ2U2tzRGVhMXYzUDZtM2ZTc0xtZmxxY2kwSTV0NnpfV3RoUVpsVkt1LVEtNkZCT0JrZ25wbjlIVFJxbHhQUDU0MydnVTl3VFluNVQ5RkV4LXlxSW5ldG4zRkJORU9WLTlyR05RbGdYZnZaQk1oN2lLa0FZM0o2SUlUeF9YUFBzZkdZUGhZT0VVOWxXTEhyVVV1enpiXzVEZ2J5WktQb3JoOUdsSWx2R1NmVUxBZUdHT3h6QWxzaWpFMWVla2l2YWtWMzA2OUYyNWw0RFpRTW05SElxY3dscGtQTkNvX3FOWDdCV3BtSmFUaE5aRDRkMHBB?oc=5",
-          "new": false,
-          "tag": "Other"
         }
       ],
       "pipeline": []
@@ -5310,28 +5270,12 @@
       ],
       "google_news": [
         {
-          "date": "2026-05-12 07:00",
-          "title": "FUJIFILM Biotechnologies Denmark: Addressing Evolving Patient Demand with Speed and Flexibility - PharmTech.com",
-          "source": "PharmTech.com",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTVAwZ05ZcHVrYTBfNUU3c3NBdmUxNXlDRU9rWXZ6UTc5QWkwZzE5dFdvdjhiUDNzRS1XeW51SDM5UzdJVEFsUmp3MGd6UGdBM3hRMVFnNVBZaDZvUGc4NkRmd1U1RTYtSUZTcEJfRHpDSFVwOFNWQjNDZTlpVGtRajJ3aS14a2tWaGd1a2ZHNFd2eTJIQWZxY096NzdOazUydTZVazc1VDBFRnBZc0hQaXhTak9fWGNHVC1FM0c3TzJ5WDQ?oc=5",
+          "date": "2026-02-04 11:24",
+          "title": "Innovative Cooperation between Gedeon Richter and Fuji Pharma To Be Expanded - Hungary Today",
+          "source": "Hungary Today",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdndaSkhEeG85WUdJeFoxVE51OU03aS0xdzMxendnWlhVMmZzWHo1SEtBN09zVTBVTHF3b1RfUVA2T00ySWZmRXFYb2MyRWdzQnczU21LbThTUWRocEFMbDFjZ1c5VmcxRl9XdUxTenZBLWp3TkhEOXdSUUF4bENaN3I3WmswWXZYcktKelpXMW9FREZGMk9lYkJlTF92cEU4dkJB?oc=5",
           "new": false,
-          "tag": "Other"
-        },
-        {
-          "date": "2025-08-22 07:00",
-          "title": "Johnson & Johnson builds on US manufacturing pledge with $2bn Fujifilm investment - European Pharmaceutical Review",
-          "source": "European Pharmaceutical Review",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQmxfSG1SYWlHZVhtU3VKQW1PTGF4cldheFdYMDN5UGR0UkRPUnNXZE1IZ2w0LWYzUXgzbFBEUlRwcnVMalJqbEN6Z2ZORG0yMWZVUmdsWmlaYXd5ZUdUaWZ1MmRybnVTemlkOHpQc1JXVDJ3VnliakpOb3BiUkdESGQ1bTRXNmZBNkU2NTdFU3hNeDJBcHo1S08zSlZJcGlPZVZ2d2NmeVRWOF9acW5QQnRzTnhLVWlFZEdNTDdIdXdRVjFkbXpldjA5aGJVRzNQdXdVMWpQVVJiN29jRUJQaA?oc=5",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "date": "2025-09-24 07:00",
-          "title": "Fujifilm Biotechnologies cuts ribbon on $3.2B antibody facility in NC - Fierce Pharma",
-          "source": "Fierce Pharma",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWVAtVU1Zbm1SSHlUTlBZaXNZVlREQWg0cS1pcFc2X1Z5M2RJdjUzSjVVVndIQ0hNdHlESW9xSE5reGlYN2NVTTdhS1NDdlpDQVZVazNyMVZ4SF_0akxfdlFXeHQwUEhuMVRtRC1PTzI3UVd3NGpzTC1CcVBLOUhGZnRRejBJZmVsdzFJajJHMnMzd05ZemcyNGV5UG5nOU9HMUpPaXNoYw?oc=5",
-          "new": false,
-          "tag": "Other"
+          "tag": "Collaboration"
         },
         {
           "date": "2018-11-24 08:00",
@@ -5348,22 +5292,6 @@
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcV9WaFdmZEVVN1M5MHZrUWJWUEZtUDVhcFR0M3J1X1M3MjhzQXBiSUhHN1ZQbjZpeW5WTENBeWZ5aDVaQXpNNFpncUJjQ2Zsa2pBTXQ1RGMxOUdwOUpOM2JjSVQ3V0JFOVhhRTBfLWJEcjl0WEE5M2lmcmVXNjE1eVF1c2o2Q3VjSVJ5VVNfckxTVlJR?oc=5",
           "new": false,
           "tag": "Financial"
-        },
-        {
-          "date": "2022-02-23 08:00",
-          "title": "Alvotech and Fuji Pharma Expand Partnership for Additional Biosimilar Candidate in Japan - Business Wire",
-          "source": "Business Wire",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOellaYzFZY20zbDM5enNBZFY4blVqU2x1Rnc1Y2lfTnN4R3NndW9scUI4UEVwTlEwWkJlWktqVDJlcThqLWU0RUlRVkxZY0dWQ29ReEZZNTFlOUhLM1N2UmY5VEFKVmxBTkhxUGU2Tnd4N3J4cFdHejdCbVg2aXJ4N05WMXlubmU1LS1kYkxRYnBZSG55VjhBQjNkZVZhOU4tcGpleTdvZEZlTlo2YjlFYktoRXZ2dXJ5cmg1cjhSMkxLdUlFMGI1YVJsQlJYN00zeHNCVmRZY0h2RXgyZWc?oc=5",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "date": "2025-06-10 13:24",
-          "title": "Fujifilm Rebrands Life Sciences Companies - Contract Pharma",
-          "source": "Contract Pharma",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVBfeGNqbTU5Z3l0T2Npclh5Z1EzelhfSExueVVaZ1BjLWtTaTVaaTBtVkJ0UWJXamNmczZtOWVuM3F6enlGQnNSSDN6dkwxT1JqMFQ3YklRZVgyaXloLVVOMWI4TmE4S2cyZkZ3clNLdC1PeUpKQUtWdTNFRVljQ0V5ZmhMSHp1alJrRGJYYWtrTFE?oc=5",
-          "new": false,
-          "tag": "Other"
         }
       ],
       "pipeline": []
@@ -5410,50 +5338,10 @@
       ],
       "google_news": [
         {
-          "date": "2026-07-23 16:06",
-          "title": "3rd-qrt 2026 Biosimilar Market Report from Samsung Bioepis - The Pharma Letter",
-          "source": "The Pharma Letter",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGJ4aVJ6amlZNjdFSUZfRG0wWnhsQkc3V0RqN3Awa1dJVnB0Sld5YURDMWk1NlBYT29ka3pEazlHYW5fOWNZUmFtNmtHaVJ2THEyMElLQjFJbjZhSFNwRGIzWU9sYkJqODI4NTl2VXpWS2U2dmtZNmx5WTBQTTNkUU9RZGNUdWptNEVBUTRRQi1DZlAyd3J4RjAxSHhTbkQxZUNhcHpaVWpVRGs?oc=5",
-          "new": true,
-          "tag": "Financial"
-        },
-        {
-          "date": "2026-07-23 05:46",
-          "title": "Samsung Bioepis Secures Exclusive Commercial Rights to Nectin-4 ADC Candidate SBE303 - BioPharma APAC",
-          "source": "BioPharma APAC",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT0oyWnA5R3FTV2dNYnFqVEY2YU5XeHhiRU9pMkVJUjlhZG5LVHhjNlJtaklVS0JGVlBVcVh1bFN3RmM2b2lrRWZDaXFBMzZjSEN3UlFfZTNOWFBMa3B6ZG9FU2E3MWNINXo5a2EzcHBBaTc5WHdhN0tnLUsyWnc4dnFjQm1fUk9CN0E5SlNST0pNeTZTV2tDTTNGdEV5T1ZrQzNIcTYtTzNreHpnMUVDdFpYdG42eW1IT1ZTWEJ5Z2F6WUVfZ25tYWdkN1I?oc=5",
-          "new": true,
-          "tag": "Collaboration"
-        },
-        {
-          "date": "2026-07-22 07:47",
-          "title": "Samsung Bioepis partners with Prazer Therapeutics, Bionsight on open innovation - koreabiomed.com",
-          "source": "koreabiomed.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6T3ZsRU9WRHFmUDJJUEJORWZOb19vRG9GRGZtcTYxLTQ4WEttNGYyWm5sMy1zcU5JcDBWcFpidWZCMGRfQ3UyWTlEVzBJdkpTN1JSYWloQzNOR3ViSlRja3B1OFdoYzlTRjFYY1ln0gFyQVVfeXFMTWU5VHNuTnZCdmZVTVdiSEloTXZyd3J2cVNvYzVMQ183ekZDaFlfUF9Wc0dXdEdtVWxiRm1aN0VSN0FLVUoyXzlXYnVUcXU2QTNGSnR4WHhSZTF6Mm4zNXpIdG1TMUpNSHdUNTRVR0VmMnRn?oc=5",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "date": "2026-07-20 12:09",
-          "title": "Samsung Bioepis, Harrow present SB11 biosimilar study results - Investing.com",
-          "source": "Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNmVWd2RXZGpNck9ROUU1M0VwSnZiSmZOeVVsVElUY2VMNzVDQzVONU5tRTAyX3Z3X0NfUnU0aHJkVEFmQlBmelhHRkhrVTBhdzZCZlFuaVAxV0VsWUhxV2lBNS1OcVJXNFVRVTM0ZkFYd2lEZG9nSG8tT2JQR0R5dlBzblhzR3JPUWE0N2lqWDhfOVBXWjBlY0dZREg4Y2lsb0VnVENWN3laUDM1dTZnMDZIMmpjRl9V?oc=5",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "date": "2026-03-18 07:00",
-          "title": "Sandoz expands biosim collab with Samsung Bioepis, sets sights on Takeda's Entyvio - Fierce Pharma",
-          "source": "Fierce Pharma",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY1Y2QUNyUDlOQXVkZk9Da05yVTFXU3pFRzBxUEZ4cE8yWHpiOVk3MmQ2MTVpb3RDY0RXZDFTanFMNXcta1d4VWx2RXFqeDh6QkZDdVl0Wlp3c20zZHlUdFBicFZVRl9HV1JkVEhnT0lSUGFTNGE0bnFHdkZhcmhydkM0Z0p6MVVnbThQUUpmeWJRaHJJSjRiOEJqVnZESGd4QkFQTmhB?oc=5",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
           "date": "2026-04-29 13:18",
           "title": "Samsung Bioepis, ATLATL Partner on Open Innovation Program - Contract Pharma",
           "source": "Contract Pharma",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTNlQ1F2cjRsdmtHNFhPc3cwR0ZLQ1dfWHIzSXdPMVl0aWl0VVROVjdlcGJEMV92alBGSTIxV2ZUS0ttem5CVVIyUURWQTBiMVgxT3pVRWw5OUFTNTcweTlpUjhvazBheUxvdlxlX3IyWXFxanotWkpnNFFiNmQtUnNieUNNREZnb1B6NnI3eFJES3pvVE4xdV9BSUpLckluMUZZVkdR?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTNlQ1F2cjRsdmtHNFhPc3cwR0ZLQ1dfWHIzSXdPMVl0aWl0VVROVjdlcGJEMV92alBGSTIxV2ZUS0ttem5CVVIyUURWQTBiMVgxT3pVRWw5OUFTNTcweTlpUjhvazBheUxvdlhsX3IyWXFxanotWkpnNFFiNmQtUnNieUNNREZnb1B6NnI3eFJES3pvVE4xdV9BSUpLckluMUZZVkdR?oc=5",
           "new": false,
           "tag": "Collaboration"
         },
@@ -5463,13 +5351,21 @@
           "source": "BioSpace",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObm04M09GWUZuN19HNVRpR3ZLZkRsZkRYeFBZVVVYb1NRa285b3c1OEd3UG84Q01xSnBMSkN1WnNQTmVrbWhVeXFlRC16bG5IR3QySlFGdEFvU1M0SzFvVUtQNjZYZzZjdm90VGUyYi0wWExKQUtHNlZwdU80MHJ6MVN3VnJOQ3NVTlh5WXVudl9rUHJIQWhtNDl0X2dySGFPSU1USUVzQ0NPYzk0TVFtSFFB?oc=5",
           "new": false,
-          "tag": "Financial"
+          "tag": "Other"
+        },
+        {
+          "date": "2026-03-18 07:00",
+          "title": "Sandoz announces partnership agreement with Samsung Bioepis - Sandoz",
+          "source": "Sandoz",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWZHSGpkSEsyYjd4WkdCdENZblJQTDZydUFGQUQxWlBYT3BDdGhkSjlpLTMxWU84U3dlR2l5czliY3NtLXVUUEhWX0toZm5vRVQ1V2FReFZmblcxRjBoOFlEc1h4UlQ3T3BSMWlMWEozOHlRWlQ4X184eHlxUjlWVi1XR19aX2tWajVWUTdhZVljN284cF9vU3NNbnE5ZlcyZGdyZFFudm90N1VZd1E?oc=5",
+          "new": false,
+          "tag": "Collaboration"
         },
         {
           "date": "2026-02-17 08:00",
           "title": "Samsung Bioepis reaches settlement agreement for Eylea (aflibercept) biosimilar - Ophthalmology Times",
           "source": "Ophthalmology Times",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVndVNWRGdEx4OGl6Z09zZC1WNlN1SWJVRWllN2lsTW03N1AzUzA5UTQ5UW1pelpTdXBZQl_1TnZZbGszeThSZlBQZDAwU01udXNsMFRUX1hScXBxV1RPX1JYNHluNTdPYUZiem5KVk1QSWtVSWRwQ3huYTVEX09odTl2b0czS21tRmZGb3V5Nnh6TU1nMW1kSE5hd1dpbUtsZHRSWXloYUdPeXNNWUxmUjJQWV90c3hK?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVndVNWRGdEx4OGl6Z09zZC1WNlN1SWJVRWllN2lsTW03N1AzUzA5UTQ5UW1pelpTdXBZQl8xTnZZbGszeThSZlBQZDAwU01udXNsMFRUX1hScXBxV1RPX1JYNHluNTdPYUZiem5KVk1QSWtVSWRwQ3huYTVEX09odTl2b0czS21tRmZGb3V5Nnh6TU1nMW1kSE5hd1dpbUtsZHRSWXloYUdPeXNNWUxmUjJQWV90c3hK?oc=5",
           "new": false,
           "tag": "Other"
         }
