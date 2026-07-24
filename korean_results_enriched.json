@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-07-23 10:03:06 IST",
+  "last_updated": "2026-07-24 03:56:22 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Dong-A Socio Holdings to absorb Dong-A Pharmaceutical, become operating holding company",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32526",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "07.24 10:09",
+          "new": false,
+          "tag": "Acquisition"
+        },
+        {
+          "title": "HLB says FDA review of bile duct cancer drug lirafugratinib enters final stage",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32525",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "07.24 09:37",
+          "new": false,
+          "tag": "FDA Approval"
+        },
         {
           "title": "GC Cell teams with Rappeler to develop AI predicting immune cell therapy outcomes",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32522",
@@ -20,16 +38,16 @@
           "author": "Kwon Min-seon",
           "date": "07.23 11:31",
           "new": false,
-          "tag": "Other"
+          "tag": "Clinical Trial"
         },
         {
-          "title": "Samsung Biologics sustains Q2 growth on full plant operations, favorable FX",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32515",
-          "category": "Bio",
+          "title": "SMC uncovers 'decoy' mechanism behind rituximab resistance in lymphoma",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32517",
+          "category": "Hospital",
           "author": "Lee Han-soo",
-          "date": "07.23 08:35",
+          "date": "07.23 11:25",
           "new": false,
-          "tag": "Financial"
+          "tag": "Pipeline"
         },
         {
           "title": "Samsung Bioepis partners with Prazer Therapeutics, Bionsight on open innovation",
@@ -66,15 +84,6 @@
           "date": "07.22 14:11",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "GCCL, GemPharmatech partner to expand global drug development services",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32504",
-          "category": "Life science",
-          "author": "Lee Han-soo",
-          "date": "07.22 10:50",
-          "new": false,
-          "tag": "Collaboration"
         }
       ]
     }

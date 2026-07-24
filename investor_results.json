@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23 10:04:17 IST",
+  "last_updated": "2026-07-24 03:57:35 IST",
   "companies": [
     {
       "company": "Alvotech",
@@ -1855,31 +1855,10 @@
       "company": "Dr Reddy",
       "investor_news": [
         {
-          "id": "press-presentation--q1-fy26",
-          "title": "Press Presentation- Q1 FY26",
-          "url": "https://www.drreddys.com/cms/sites/default/files/2025-07/Final-%20press%20presentation-%20Q1-%20FY26-%202307.pdf",
-          "approximate_date": "Jul 2025",
-          "new": false
-        },
-        {
-          "id": "press-presentation--q2-fy26",
-          "title": "Press Presentation- Q2 FY26",
-          "url": "https://www.drreddys.com/cms/sites/default/files/2025-10/Q2FY26PressPPT_24102025_forupload.pdf",
-          "approximate_date": "Oct 2025",
-          "new": false
-        },
-        {
-          "id": "press-presentation--q3-fy26",
-          "title": "Press Presentation- Q3 FY26",
-          "url": "https://www.drreddys.com/cms/sites/default/files/2026-01/Q3FY26Results.pdf",
-          "approximate_date": "Jan 2026",
-          "new": false
-        },
-        {
-          "id": "press-presentation---q4-fy26",
-          "title": "Press Presentation - Q4 FY26",
-          "url": "https://www.drreddys.com/cms/sites/default/files/2026-05/Q4FY26_Results_Update_120526.pdf",
-          "approximate_date": "May 2026",
+          "id": "q1-fy27-results-update",
+          "title": "Q1 FY27 Results Update",
+          "url": "https://www.drreddys.com/cms/sites/default/files/2026-07/FINAL_Q1FY27%20Results%20Update_220726.pdf",
+          "approximate_date": "Jul 2026",
           "new": false
         }
       ]

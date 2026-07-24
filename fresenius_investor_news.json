@@ -1,8 +1,8 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-07-23T10:04:09Z",
-  "total_runs": 173,
-  "new_on_last_run": 1,
+  "last_fetched": "2026-07-24T03:57:27Z",
+  "total_runs": 174,
+  "new_on_last_run": 0,
   "articles": [
     {
       "id": "fresenius-establishes-venture-fund-of-more-than-€200-million-to-drive-healthcare-innovation|july-23,-2026",
@@ -11,7 +11,7 @@
       "date": "July 23, 2026",
       "source": "Fresenius",
       "meta": "",
-      "new": true
+      "new": false
     },
     {
       "id": "q2-2026-aide-memoire-available|july-15,-2026",
