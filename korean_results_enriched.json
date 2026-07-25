@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25 03:49:21 IST",
+  "last_updated": "2026-07-25 09:22:21 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
@@ -12,6 +12,15 @@
           "date": "07.24 16:47",
           "new": false,
           "tag": "Clinical Trial"
+        },
+        {
+          "title": "Samsung Bioepis posts 6% growth in H1 revenue, operating profit",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32540",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "07.24 16:44",
+          "new": false,
+          "tag": "Financial"
         },
         {
           "title": "Severance Hospital to lead ₩2.9 bil. stem cell study for knee osteoarthritis",
@@ -29,7 +38,7 @@
           "author": "Kim Yoon-mi",
           "date": "07.24 15:34",
           "new": false,
-          "tag": "FDA Approval"
+          "tag": "Pipeline"
         },
         {
           "title": "GC Biopharma files phase 2 IND for Covid-19 mRNA vaccine candidate",
@@ -56,7 +65,7 @@
           "author": "Kim Yoon-mi",
           "date": "07.24 13:59",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Pipeline"
         },
         {
           "title": "[News Analysis] Kolon faces leadership test after TG-C's first US phase 3 setback",
@@ -66,6 +75,15 @@
           "date": "07.24 13:54",
           "new": false,
           "tag": "Clinical Trial"
+        },
+        {
+          "title": "Dong-A Socio Holdings to absorb Dong-A Pharmaceutical, become operating holding company",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32526",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "07.24 10:09",
+          "new": false,
+          "tag": "Acquisition"
         },
         {
           "title": "HLB says FDA review of bile duct cancer drug lirafugratinib enters final stage",
