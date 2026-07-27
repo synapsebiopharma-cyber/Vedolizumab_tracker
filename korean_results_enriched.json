@@ -1,17 +1,35 @@
 {
-  "last_updated": "2026-07-26 09:37:25 IST",
+  "last_updated": "2026-07-27 04:15:19 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Advanced regenerative therapies to be tested for liver cancer and lymphoma in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32541",
-          "category": "Policy",
-          "author": "Kim Kyoung-Won",
-          "date": "07.24 16:47",
+          "title": "HK inno.N's K-CAB wins sixth indication for NSAID-associated ulcer prevention",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32545",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.27 11:32",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Celltrion's Q2 profit jumps 86% on biosimilar growth, stronger margins",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32543",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.27 11:01",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "GSK Korea chief eyes growth through clinical research and adult vaccination",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32542",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.27 09:12",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "Samsung Bioepis posts 6% growth in H1 revenue, operating profit",
@@ -23,22 +41,13 @@
           "tag": "Financial"
         },
         {
-          "title": "Severance Hospital to lead ₩2.9 bil. stem cell study for knee osteoarthritis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32537",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "07.24 15:49",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
           "title": "EuBiologics registers EcML vaccine adjuvant DMF with US FDA",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32536",
           "category": "Bio",
           "author": "Kim Yoon-mi",
           "date": "07.24 15:34",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Other"
         },
         {
           "title": "GC Biopharma files phase 2 IND for Covid-19 mRNA vaccine candidate",
@@ -74,7 +83,7 @@
           "author": "Kim Yoon-mi",
           "date": "07.24 13:59",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Pipeline"
         },
         {
           "title": "[News Analysis] Kolon faces leadership test after TG-C's first US phase 3 setback",
@@ -93,24 +102,6 @@
           "date": "07.24 10:09",
           "new": false,
           "tag": "Acquisition"
-        },
-        {
-          "title": "HLB says FDA review of bile duct cancer drug lirafugratinib enters final stage",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32525",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "07.24 09:37",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "GC Cell teams with Rappeler to develop AI predicting immune cell therapy outcomes",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32522",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.23 15:11",
-          "new": false,
-          "tag": "Collaboration"
         }
       ]
     }
