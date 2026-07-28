@@ -1,9 +1,89 @@
 {
-  "last_updated": "2026-07-28 03:49:43 IST",
+  "last_updated": "2026-07-28 10:10:20 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[Interview] Lonza looks beyond manufacturing capacity as biologics grow more complex",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32576",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.28 17:13",
+          "new": false
+        },
+        {
+          "title": "Summer dizziness could be a stroke -- don't ignore the warning signs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32575",
+          "category": "Hospital",
+          "author": "Lee Chang-ho",
+          "date": "07.28 16:31",
+          "new": false
+        },
+        {
+          "title": "A child limping for 6 weeks? Normal tests don't rule out juvenile arthritis",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32574",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "07.28 16:15",
+          "new": false
+        },
+        {
+          "title": "[Contribution] Primary care reform cannot leave community clinics behind",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32573",
+          "category": "Opinion",
+          "author": "Hwang Kyu-seok",
+          "date": "07.28 15:57",
+          "new": false
+        },
+        {
+          "title": "Lunit's revenue soars, but can INSIGHT prove organic growth?",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32572",
+          "category": "Device/ICT",
+          "author": "Hong Sook",
+          "date": "07.28 15:26",
+          "new": false
+        },
+        {
+          "title": "MSD Korea launches Enflonsia as single-dose RSV prevention option for infants",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32570",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.28 14:39",
+          "new": false
+        },
+        {
+          "title": "DTx platform reaches 42% of Seoul-area tertiary hospitals, tops 3,300 prescriptions",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32571",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "07.28 14:35",
+          "new": false
+        },
+        {
+          "title": "President Lee raises concerns over military doctors' service as calls grow for 24-month term",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32569",
+          "category": "Policy",
+          "author": "Kim Jung-hyun",
+          "date": "07.28 14:10",
+          "new": false
+        },
+        {
+          "title": "Korea’s drug regulator hires 195 reviewers -- but not a single doctor",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32568",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "07.28 13:42",
+          "new": false
+        },
+        {
+          "title": "AbbVie Korea's Epkinly gains expanded approval in relapsed or refractory follicular lymphoma",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32567",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.28 13:14",
+          "new": false
+        },
         {
           "title": "AITRICS study proposes more practical way to evaluate AI for kidney injury prediction",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32566",
@@ -82,86 +162,6 @@
           "category": "Hospital",
           "author": "Kim Kyoung-Won",
           "date": "07.27 15:48",
-          "new": false
-        },
-        {
-          "title": "KHF 2026 to spotlight AI, digital pathology and hospital innovation",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32555",
-          "category": "Hospital",
-          "author": "You Ji-young",
-          "date": "07.27 15:28",
-          "new": false
-        },
-        {
-          "title": "Korea expands free vaccinations for hematopoietic stem cell transplant recipients to all ages",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32554",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "07.27 14:36",
-          "new": false
-        },
-        {
-          "title": "CHA Biotech wins $1.7 mil. government AI project for cell therapy documentation",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32553",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.27 14:23",
-          "new": false
-        },
-        {
-          "title": "Talos seeks to make brain aneurysm risk checks routine in health screenings",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32551",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.27 14:15",
-          "new": false
-        },
-        {
-          "title": "NEXT BIOMEDICAL completes FDA TAP pre-submission review for Nexsphere-F",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32552",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "07.27 13:58",
-          "new": false
-        },
-        {
-          "title": "GC Biopharma selected for Korea's mRNA vaccine program, submits phase 2 IND",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32549",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.27 13:46",
-          "new": false
-        },
-        {
-          "title": "Huonslab targets subcutaneous ADC market with new patent",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32550",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "07.27 13:31",
-          "new": false
-        },
-        {
-          "title": "KHIDI completes '2026 Medical Korea Academy' program for overseas healthcare professionals",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32548",
-          "category": "Policy",
-          "author": "Lee Han-soo",
-          "date": "07.27 13:21",
-          "new": false
-        },
-        {
-          "title": "HK inno.N's K-CAB wins sixth indication for NSAID-associated ulcer prevention",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32545",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.27 11:32",
-          "new": false
-        },
-        {
-          "title": "Bundang CHA study sheds light on nivolumab-ipilimumab outcomes in high-risk liver cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32544",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "07.27 11:12",
           "new": false
         }
       ]

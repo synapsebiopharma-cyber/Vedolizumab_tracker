@@ -1,17 +1,35 @@
 {
-  "last_updated": "2026-07-28 03:49:43 IST",
+  "last_updated": "2026-07-28 10:10:20 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Galux adopts co-CEO leadership to accelerate growth, IPO preparations",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32565",
+          "title": "[Interview] Lonza looks beyond manufacturing capacity as biologics grow more complex",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32576",
           "category": "Bio",
           "author": "Lee Han-soo",
-          "date": "07.28 10:58",
+          "date": "07.28 17:13",
           "new": false,
-          "tag": "Financial"
+          "tag": "Other"
+        },
+        {
+          "title": "MSD Korea launches Enflonsia as single-dose RSV prevention option for infants",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32570",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.28 14:39",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "AbbVie Korea's Epkinly gains expanded approval in relapsed or refractory follicular lymphoma",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32567",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.28 13:14",
+          "new": false,
+          "tag": "FDA Approval"
         },
         {
           "title": "EuBiologics reports positive phase 1 results for RSV vaccine, advances toward phase 2",
@@ -39,51 +57,6 @@
           "date": "07.28 10:01",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "CHA Biotech wins $1.7 mil. government AI project for cell therapy documentation",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32553",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.27 14:23",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "NEXT BIOMEDICAL completes FDA TAP pre-submission review for Nexsphere-F",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32552",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "07.27 13:58",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "GC Biopharma selected for Korea's mRNA vaccine program, submits phase 2 IND",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32549",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.27 13:46",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Huonslab targets subcutaneous ADC market with new patent",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32550",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "07.27 13:31",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "HK inno.N's K-CAB wins sixth indication for NSAID-associated ulcer prevention",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32545",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.27 11:32",
-          "new": false,
-          "tag": "FDA Approval"
         }
       ]
     }
