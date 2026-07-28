@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-07-27 10:57:25 IST",
+  "last_updated": "2026-07-28 03:49:43 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Galux adopts co-CEO leadership to accelerate growth, IPO preparations",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32565",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.28 10:58",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "EuBiologics reports positive phase 1 results for RSV vaccine, advances toward phase 2",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32564",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.28 10:43",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Bayer opens global innovation network to Korean biotech startups",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32563",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.28 10:31",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "AriBio wraps up global phase 3 trial of AR1001, sets stage for topline results",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32562",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.28 10:01",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "CHA Biotech wins $1.7 mil. government AI project for cell therapy documentation",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32553",
@@ -14,31 +50,40 @@
           "tag": "Other"
         },
         {
-          "title": "Celltrion's Q2 profit jumps 86% on biosimilar growth, stronger margins",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32543",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.27 11:01",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "GSK Korea chief eyes growth through clinical research and adult vaccination",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32542",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.27 09:12",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Samsung Bioepis posts 6% growth in H1 revenue, operating profit",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32540",
+          "title": "NEXT BIOMEDICAL completes FDA TAP pre-submission review for Nexsphere-F",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32552",
           "category": "Bio",
           "author": "Kim Yoon-mi",
-          "date": "07.24 16:44",
+          "date": "07.27 13:58",
           "new": false,
-          "tag": "Financial"
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "GC Biopharma selected for Korea's mRNA vaccine program, submits phase 2 IND",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32549",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.27 13:46",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Huonslab targets subcutaneous ADC market with new patent",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32550",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "07.27 13:31",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "HK inno.N's K-CAB wins sixth indication for NSAID-associated ulcer prevention",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32545",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.27 11:32",
+          "new": false,
+          "tag": "FDA Approval"
         }
       ]
     }
