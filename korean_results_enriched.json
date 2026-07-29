@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-07-29 03:54:13 IST",
+  "last_updated": "2026-07-29 10:12:34 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Koreans in their 20s and 30s account for over half of Mounjaro prescription checks",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32594",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.29 17:24",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "3billion identifies genetic causes in 1 in 4 neuromuscular disease patients",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32592",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "07.29 15:43",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "SK biopharmaceuticals, Eurofarma expand cenobamate partnership during President Lee’s Brazil visit",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32589",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.29 15:21",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Hanmi Pharm's Q2 operating profit doubles on Rosuzet growth, Eli Lilly licensing deal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32578",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.29 13:47",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Bacchus sales lift Dong-A Socio Holdings to record Q2 revenue",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32577",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.29 13:43",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Huons Meditech wins trademark lawsuit against Chinese counterfeit products of its DermaShine brand",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32587",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "07.29 13:33",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Merck Healthcare Korea expands fertility education program with regional symposium",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32582",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.29 13:09",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Greycoat Research signs exclusive India deal with Goodman Vetcare, expands into big cat kidney research",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32585",
+          "category": "Life science",
+          "author": "Park Gi-taek",
+          "date": "07.29 13:07",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "Sanofi Korea, postpartum care group renew MOU to strengthen infection prevention",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32581",
@@ -39,60 +111,6 @@
           "date": "07.28 17:13",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "MSD Korea launches Enflonsia as single-dose RSV prevention option for infants",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32570",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.28 14:39",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Korea’s drug regulator hires 195 reviewers -- but not a single doctor",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32568",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "07.28 13:42",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "AbbVie Korea's Epkinly gains expanded approval in relapsed or refractory follicular lymphoma",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32567",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.28 13:14",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "EuBiologics reports positive phase 1 results for RSV vaccine, advances toward phase 2",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32564",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.28 10:43",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Bayer opens global innovation network to Korean biotech startups",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32563",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.28 10:31",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "AriBio wraps up global phase 3 trial of AR1001, sets stage for topline results",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32562",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.28 10:01",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }
