@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-07-30 03:43:55 IST",
+  "last_updated": "2026-07-30 10:07:01 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Yuhan launches blood sugar probiotic DangQLac in Mexico",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32604",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "07.30 17:29",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Huinno, Yuhan expand AI telemetry deployment to Seongnam Central Hospital",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32600",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "07.30 15:56",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Daewoong’s Nabota enters Kuwait, expanding Middle East presence to 7 markets",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32596",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "07.30 15:05",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "HanAll Bio posts solid Q2 results on flagship drug growth, R&D progress",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32595",
@@ -29,7 +56,7 @@
           "author": "Hong Sook",
           "date": "07.29 15:43",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Other"
         },
         {
           "title": "SK biopharmaceuticals, Eurofarma expand cenobamate partnership during President Lee’s Brazil visit",
@@ -39,87 +66,6 @@
           "date": "07.29 15:21",
           "new": false,
           "tag": "Collaboration"
-        },
-        {
-          "title": "Hanmi Pharm's Q2 operating profit doubles on Rosuzet growth, Eli Lilly licensing deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32578",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.29 13:47",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Bacchus sales lift Dong-A Socio Holdings to record Q2 revenue",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32577",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.29 13:43",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Huons Meditech wins trademark lawsuit against Chinese counterfeit products of its DermaShine brand",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32587",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.29 13:33",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Merck Healthcare Korea expands fertility education program with regional symposium",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32582",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.29 13:09",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Greycoat Research signs exclusive India deal with Goodman Vetcare, expands into big cat kidney research",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32585",
-          "category": "Life science",
-          "author": "Park Gi-taek",
-          "date": "07.29 13:07",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Sanofi Korea, postpartum care group renew MOU to strengthen infection prevention",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32581",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.29 11:30",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Curocell partners with Türkiye's Biruni Group to co-develop, commercialize CAR-T therapy Rimqarto",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32580",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.29 11:09",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Celltrion to unveil obesity drug data this year, first ADC clinical readouts in 2027",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32584",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.29 10:32",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "[Interview] Lonza looks beyond manufacturing capacity as biologics grow more complex",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32576",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.28 17:13",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }

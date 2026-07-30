@@ -1,9 +1,105 @@
 {
-  "last_updated": "2026-07-30 03:43:55 IST",
+  "last_updated": "2026-07-30 10:07:01 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Mitral valve clip procedure to be covered by national health insurance, drastically cutting patient costs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32608",
+          "category": "Policy",
+          "author": "Lim Su-min",
+          "date": "07.30 18:50",
+          "new": false
+        },
+        {
+          "title": "Innovative pharma certification overhauled for 1st time in 14 years; R&D threshold raised by 2% points",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32607",
+          "category": "Policy",
+          "author": "Lim Su-min",
+          "date": "07.30 18:42",
+          "new": false
+        },
+        {
+          "title": "Can eating collagen make your skin firmer? Not necessarily, experts say.",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32606",
+          "category": "Life science",
+          "author": "Kim Kyoung-Won",
+          "date": "07.30 18:39",
+          "new": false
+        },
+        {
+          "title": "Active prophylaxis is now the standard of care for hemophilia: expert",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32605",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "07.30 18:34",
+          "new": false
+        },
+        {
+          "title": "Yuhan launches blood sugar probiotic DangQLac in Mexico",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32604",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "07.30 17:29",
+          "new": false
+        },
+        {
+          "title": "Doctors fined for posting false reviews targeting oriental medicine skin clinic",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32603",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "07.30 17:22",
+          "new": false
+        },
+        {
+          "title": "Fewer than 60% of hospitals provide definitive acute stroke treatment, revealing gaps in care capacity",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32602",
+          "category": "Policy",
+          "author": "Lim Su-min",
+          "date": "07.30 16:11",
+          "new": false
+        },
+        {
+          "title": "Medical academy moves to define guidelines for '12 major negligence' under revised medical dispute law",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32601",
+          "category": "Policy",
+          "author": "Song Soo-youn",
+          "date": "07.30 16:06",
+          "new": false
+        },
+        {
+          "title": "Huinno, Yuhan expand AI telemetry deployment to Seongnam Central Hospital",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32600",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "07.30 15:56",
+          "new": false
+        },
+        {
+          "title": "Samsung Medical Center's English website wins Red Dot Design Award 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32599",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "07.30 15:51",
+          "new": false
+        },
+        {
+          "title": "LG H&H diversifies global growth drivers as North America sales surpass China for 1st time",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32598",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "07.30 15:34",
+          "new": false
+        },
+        {
+          "title": "Daewoong’s Nabota enters Kuwait, expanding Middle East presence to 7 markets",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32596",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "07.30 15:05",
+          "new": false
+        },
         {
           "title": "HanAll Bio posts solid Q2 results on flagship drug growth, R&D progress",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32595",
@@ -66,102 +162,6 @@
           "category": "Hospital",
           "author": "Lee Han-soo",
           "date": "07.29 14:47",
-          "new": false
-        },
-        {
-          "title": "Ingenia Therapeutics sets IPO price at ₩12,000",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32579",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.29 14:39",
-          "new": false
-        },
-        {
-          "title": "Hanmi Pharm's Q2 operating profit doubles on Rosuzet growth, Eli Lilly licensing deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32578",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.29 13:47",
-          "new": false
-        },
-        {
-          "title": "Bacchus sales lift Dong-A Socio Holdings to record Q2 revenue",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32577",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.29 13:43",
-          "new": false
-        },
-        {
-          "title": "Huons Meditech wins trademark lawsuit against Chinese counterfeit products of its DermaShine brand",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32587",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.29 13:33",
-          "new": false
-        },
-        {
-          "title": "NCC leads Asian collaboration to shape global standards for rare brain tumor treatment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32586",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "07.29 13:13",
-          "new": false
-        },
-        {
-          "title": "Merck Healthcare Korea expands fertility education program with regional symposium",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32582",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.29 13:09",
-          "new": false
-        },
-        {
-          "title": "Greycoat Research signs exclusive India deal with Goodman Vetcare, expands into big cat kidney research",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32585",
-          "category": "Life science",
-          "author": "Park Gi-taek",
-          "date": "07.29 13:07",
-          "new": false
-        },
-        {
-          "title": "Sanofi Korea, postpartum care group renew MOU to strengthen infection prevention",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32581",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.29 11:30",
-          "new": false
-        },
-        {
-          "title": "Curocell partners with Türkiye's Biruni Group to co-develop, commercialize CAR-T therapy Rimqarto",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32580",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.29 11:09",
-          "new": false
-        },
-        {
-          "title": "Direct abdominal chemotherapy enables surgery in 41% of gastric cancer patients with peritoneal metastasis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32583",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "07.29 10:59",
-          "new": false
-        },
-        {
-          "title": "Celltrion to unveil obesity drug data this year, first ADC clinical readouts in 2027",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32584",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.29 10:32",
-          "new": false
-        },
-        {
-          "title": "[Interview] Lonza looks beyond manufacturing capacity as biologics grow more complex",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32576",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.28 17:13",
           "new": false
         }
       ]
