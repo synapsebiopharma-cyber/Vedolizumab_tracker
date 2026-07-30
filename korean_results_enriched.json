@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-07-29 10:12:34 IST",
+  "last_updated": "2026-07-30 03:43:55 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "HanAll Bio posts solid Q2 results on flagship drug growth, R&D progress",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32595",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.30 11:30",
+          "new": false,
+          "tag": "Financial"
+        },
         {
           "title": "Koreans in their 20s and 30s account for over half of Mounjaro prescription checks",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32594",
@@ -101,7 +110,7 @@
           "author": "Lee Han-soo",
           "date": "07.29 10:32",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Clinical Trial"
         },
         {
           "title": "[Interview] Lonza looks beyond manufacturing capacity as biologics grow more complex",
