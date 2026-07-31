@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-07-30 10:07:01 IST",
+  "last_updated": "2026-07-31 04:03:09 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "US FDA clears LigaChem-powered IKS04 for phase 1 GI cancer trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32614",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.31 12:31",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Lilly Korea marks expanded treatment access for dermatology and immunology patients",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32611",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.31 12:04",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Yuhan launches blood sugar probiotic DangQLac in Mexico",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32604",
@@ -12,15 +30,6 @@
           "date": "07.30 17:29",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Huinno, Yuhan expand AI telemetry deployment to Seongnam Central Hospital",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32600",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "07.30 15:56",
-          "new": false,
-          "tag": "Collaboration"
         },
         {
           "title": "Daewoong’s Nabota enters Kuwait, expanding Middle East presence to 7 markets",
@@ -39,33 +48,6 @@
           "date": "07.30 11:30",
           "new": false,
           "tag": "Financial"
-        },
-        {
-          "title": "Koreans in their 20s and 30s account for over half of Mounjaro prescription checks",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32594",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.29 17:24",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "3billion identifies genetic causes in 1 in 4 neuromuscular disease patients",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32592",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "07.29 15:43",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "SK biopharmaceuticals, Eurofarma expand cenobamate partnership during President Lee’s Brazil visit",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32589",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.29 15:21",
-          "new": false,
-          "tag": "Collaboration"
         }
       ]
     }

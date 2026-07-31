@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-07-30 10:07:01 IST",
+  "last_updated": "2026-07-31 04:03:09 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Cries for help ignored: Workplace bullying in healthcare sparks calls for systemic reform",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32615",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "07.31 12:43",
+          "new": false
+        },
+        {
+          "title": "US FDA clears LigaChem-powered IKS04 for phase 1 GI cancer trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32614",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.31 12:31",
+          "new": false
+        },
+        {
+          "title": "New certification criteria reshape race for Korea’s 'innovative pharma company' title",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32613",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "07.31 12:31",
+          "new": false
+        },
+        {
+          "title": "ezCaretech signs $6.9 million next-generation HIS deal with Saudi healthcare group Care Med",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32612",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "07.31 12:25",
+          "new": false
+        },
+        {
+          "title": "Lilly Korea marks expanded treatment access for dermatology and immunology patients",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32611",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "07.31 12:04",
+          "new": false
+        },
+        {
+          "title": "Kolmar Wuxi is 1st Korean-owned overseas cosmetics plant to gain MFDS’ quality recognition",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32610",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "07.31 10:35",
+          "new": false
+        },
+        {
+          "title": "‘SMC cancer center looks past rankings to remake patient care’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32609",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "07.31 10:11",
+          "new": false
+        },
         {
           "title": "Mitral valve clip procedure to be covered by national health insurance, drastically cutting patient costs",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32608",
@@ -106,62 +162,6 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "07.30 11:30",
-          "new": false
-        },
-        {
-          "title": "Koreans in their 20s and 30s account for over half of Mounjaro prescription checks",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32594",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.29 17:24",
-          "new": false
-        },
-        {
-          "title": "JKMS returns to top citation quartile on stronger research impact",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32593",
-          "category": "Hospital",
-          "author": "Song Soo-youn",
-          "date": "07.29 16:12",
-          "new": false
-        },
-        {
-          "title": "3billion identifies genetic causes in 1 in 4 neuromuscular disease patients",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32592",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "07.29 15:43",
-          "new": false
-        },
-        {
-          "title": "MSA patients caught under Parkinson's code seek recognition as rare disease",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32591",
-          "category": "People",
-          "author": "Kim Yun-mi",
-          "date": "07.29 15:41",
-          "new": false
-        },
-        {
-          "title": "7 in 10 CKD patients prefer medication over strict diet for hyperkalemia: survey",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32590",
-          "category": "People",
-          "author": "Kim Yoon-mi",
-          "date": "07.29 15:35",
-          "new": false
-        },
-        {
-          "title": "SK biopharmaceuticals, Eurofarma expand cenobamate partnership during President Lee’s Brazil visit",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32589",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.29 15:21",
-          "new": false
-        },
-        {
-          "title": "Asan performs Korea's 1st procedures with new brain aneurysm device",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32588",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "07.29 14:47",
           "new": false
         }
       ]
