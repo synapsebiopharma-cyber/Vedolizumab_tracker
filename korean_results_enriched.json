@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-07-31 04:03:09 IST",
+  "last_updated": "2026-07-31 10:14:30 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Celltrion widens Omlyclo contracts in Italy as new biosimilars gain traction",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32620",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "07.31 15:30",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "US FDA clears LigaChem-powered IKS04 for phase 1 GI cancer trial",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32614",
@@ -30,24 +39,6 @@
           "date": "07.30 17:29",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Daewoong’s Nabota enters Kuwait, expanding Middle East presence to 7 markets",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32596",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "07.30 15:05",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "HanAll Bio posts solid Q2 results on flagship drug growth, R&D progress",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32595",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.30 11:30",
-          "new": false,
-          "tag": "Financial"
         }
       ]
     }

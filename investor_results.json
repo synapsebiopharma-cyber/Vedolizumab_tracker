@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31 04:04:24 IST",
+  "last_updated": "2026-07-31 10:15:42 IST",
   "companies": [
     {
       "company": "Alvotech",
@@ -1875,6 +1875,15 @@
       "company": "Fresenius",
       "investor_news": [
         {
+          "id": "fresenius-announces-fda-and-ema-acceptance-for-review-of-vedolizumab-biosimilar-candidate|july-31,-2026",
+          "title": "Fresenius Announces FDA and EMA Acceptance for Review of Vedolizumab Biosimilar Candidate",
+          "url": "https://www.fresenius.com/node/7378",
+          "date": "July 31, 2026",
+          "source": "Fresenius Kabi",
+          "meta": "",
+          "new": false
+        },
+        {
           "id": "fresenius-establishes-venture-fund-of-more-than-€200-million-to-drive-healthcare-innovation|july-23,-2026",
           "title": "Fresenius establishes venture fund of more than €200 million to drive healthcare innovation",
           "url": "https://www.fresenius.com/node/7372",
@@ -1944,15 +1953,6 @@
           "date": "May 6, 2026",
           "source": "Fresenius",
           "meta": "",
-          "new": false
-        },
-        {
-          "id": "q1-2026-aide-memoire-available|april-17,-2026",
-          "title": "Q1 2026 Aide Memoire available",
-          "url": "https://www.fresenius.com/node/7336",
-          "date": "April 17, 2026",
-          "source": "Fresenius",
-          "meta": "Brief News",
           "new": false
         }
       ]
