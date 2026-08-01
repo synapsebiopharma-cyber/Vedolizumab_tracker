@@ -1,8 +1,8 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-07-31T10:15:34Z",
-  "total_runs": 189,
-  "new_on_last_run": 1,
+  "last_fetched": "2026-08-01T04:04:07Z",
+  "total_runs": 190,
+  "new_on_last_run": 0,
   "articles": [
     {
       "id": "fresenius-announces-fda-and-ema-acceptance-for-review-of-vedolizumab-biosimilar-candidate|july-31,-2026",
@@ -11,7 +11,7 @@
       "date": "July 31, 2026",
       "source": "Fresenius Kabi",
       "meta": "",
-      "new": true
+      "new": false
     },
     {
       "id": "fresenius-establishes-venture-fund-of-more-than-€200-million-to-drive-healthcare-innovation|july-23,-2026",
