@@ -1,9 +1,137 @@
 {
-  "last_updated": "2026-08-02 09:38:03 IST",
+  "last_updated": "2026-08-03 10:59:31 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Lunit adds major UK, US healthcare providers to breast screening customer base",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32649",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "08.03 17:11",
+          "new": false
+        },
+        {
+          "title": "2 standard regimens lead care for unresectable pancreatic cancer, as new treatment options emerge: expert",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32648",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "08.03 16:57",
+          "new": false
+        },
+        {
+          "title": "Seoul St. Mary’s Hospital shares robotic surgery expertise with Taipei Medical University Hospital",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32647",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "08.03 16:49",
+          "new": false
+        },
+        {
+          "title": "Over ￦360 billion in NHIS refunds remain unclaimed; ￦37 billion lost to statute of limitations",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32646",
+          "category": "Policy",
+          "author": "Lim Su-min",
+          "date": "08.03 16:46",
+          "new": false
+        },
+        {
+          "title": "Clinics opting out of national health insurance surge 43% in 5 years",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32645",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "08.03 16:39",
+          "new": false
+        },
+        {
+          "title": "Boston Scientific expands reimbursement for SpyGlass DS II in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32644",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "08.03 16:34",
+          "new": false
+        },
+        {
+          "title": "Trodelvy restores hope: ‘Even the best drug must be used at the right time’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32643",
+          "category": "Pharma",
+          "author": "Kim Yun-mi",
+          "date": "08.03 16:14",
+          "new": false
+        },
+        {
+          "title": "Humedix secures GMP certification for biopharmaceutical production line",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32637",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "08.03 15:26",
+          "new": false
+        },
+        {
+          "title": "Celltrion expands US PBM coverage for follow-on biosimilars",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32636",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "08.03 15:16",
+          "new": false
+        },
+        {
+          "title": "[KHF 2026] Major hospitals, wearable robots, Chinese humanoids to spotlight healthcare innovation at KHF 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32635",
+          "category": "Device/ICT",
+          "author": "You Ji-young",
+          "date": "08.03 13:06",
+          "new": false
+        },
+        {
+          "title": "Higher pay for medical residents is essential to improving training quality, new KIRA head says",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32634",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "08.03 12:57",
+          "new": false
+        },
+        {
+          "title": "GC Biopharma Q2 operating profit plunges 94% as flu vaccine revenue shifts to Q3",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32633",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "08.03 12:46",
+          "new": false
+        },
+        {
+          "title": "Medtronic launches Simplera Sync Sensor in Korea to simplify diabetes management",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32632",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "08.03 12:35",
+          "new": false
+        },
+        {
+          "title": "SK plasma launches Revolpaq for thrombocytopenia treatment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32631",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.03 12:26",
+          "new": false
+        },
+        {
+          "title": "Nurses urge lawmakers to back enforcement as Korea moves to legislate nurse-to-patient ratios",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32630",
+          "category": "Policy",
+          "author": "Kim Jung-hyun",
+          "date": "08.03 10:49",
+          "new": false
+        },
+        {
+          "title": "Despite concentration in Seoul, regional hospitals outshine 'Big Five' in 1st hospital-level patient experience rankings",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32628",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "08.03 10:41",
+          "new": false
+        },
         {
           "title": "Yonsei University picked for ‘Horizon Europe’ grant to develop high-resolution brain metabolic imaging",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32624",
@@ -34,134 +162,6 @@
           "category": "Policy",
           "author": "Lim Su-min",
           "date": "07.31 15:46",
-          "new": false
-        },
-        {
-          "title": "Celltrion widens Omlyclo contracts in Italy as new biosimilars gain traction",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32620",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.31 15:30",
-          "new": false
-        },
-        {
-          "title": "Patient satisfaction with inpatient care improves, but emotional support remains weakest, survey shows",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32619",
-          "category": "Hospital",
-          "author": "Lim Su-min",
-          "date": "07.31 15:24",
-          "new": false
-        },
-        {
-          "title": "Chronic hives can be effectively controlled even when the cause remains unknown: expert",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32618",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "07.31 15:07",
-          "new": false
-        },
-        {
-          "title": "New drug coverage delays cut myeloma patients’ survival in Korea and Taiwan from Japan’s: study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32616",
-          "category": "Hospital",
-          "author": "You Ji-young",
-          "date": "07.31 14:06",
-          "new": false
-        },
-        {
-          "title": "Cries for help ignored: Workplace bullying in healthcare sparks calls for systemic reform",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32615",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "07.31 12:43",
-          "new": false
-        },
-        {
-          "title": "US FDA clears LigaChem-powered IKS04 for phase 1 GI cancer trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32614",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "07.31 12:31",
-          "new": false
-        },
-        {
-          "title": "New certification criteria reshape race for Korea’s 'innovative pharma company' title",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32613",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "07.31 12:31",
-          "new": false
-        },
-        {
-          "title": "ezCaretech signs $6.9 million next-generation HIS deal with Saudi healthcare group Care Med",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32612",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "07.31 12:25",
-          "new": false
-        },
-        {
-          "title": "Lilly Korea marks expanded treatment access for dermatology and immunology patients",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32611",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "07.31 12:04",
-          "new": false
-        },
-        {
-          "title": "Kolmar Wuxi is 1st Korean-owned overseas cosmetics plant to gain MFDS’ quality recognition",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32610",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "07.31 10:35",
-          "new": false
-        },
-        {
-          "title": "[Interview] ‘SMC cancer center looks past rankings to remake patient care’",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32609",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "07.31 10:11",
-          "new": false
-        },
-        {
-          "title": "Mitral valve clip procedure to be covered by national health insurance, drastically cutting patient costs",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32608",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "07.30 18:50",
-          "new": false
-        },
-        {
-          "title": "Innovative pharma certification overhauled for 1st time in 14 years; R&D threshold raised by 2% points",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32607",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "07.30 18:42",
-          "new": false
-        },
-        {
-          "title": "Can eating collagen make your skin firmer? Not necessarily, experts say.",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32606",
-          "category": "Life science",
-          "author": "Kim Kyoung-Won",
-          "date": "07.30 18:39",
-          "new": false
-        },
-        {
-          "title": "Active prophylaxis is now the standard of care for hemophilia: expert",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32605",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "07.30 18:34",
-          "new": false
-        },
-        {
-          "title": "Yuhan launches blood sugar probiotic DangQLac in Mexico",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32604",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "07.30 17:29",
           "new": false
         }
       ]

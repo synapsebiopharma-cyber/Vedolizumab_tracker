@@ -1,9 +1,18 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-08-03T04:16:34Z",
-  "total_runs": 194,
-  "new_on_last_run": 0,
+  "last_fetched": "2026-08-03T11:00:36Z",
+  "total_runs": 195,
+  "new_on_last_run": 1,
   "articles": [
+    {
+      "id": "fresenius-announces-fda-approval-of-rituximab-biosimilar-for-the-u.s.-market|august-3,-2026",
+      "title": "Fresenius Announces FDA Approval of Rituximab Biosimilar for the U.S. Market",
+      "url": "https://www.fresenius.com/node/7379",
+      "date": "August 3, 2026",
+      "source": "Fresenius Kabi",
+      "meta": "",
+      "new": true
+    },
     {
       "id": "fresenius-announces-fda-and-ema-acceptance-for-review-of-vedolizumab-biosimilar-candidate|july-31,-2026",
       "title": "Fresenius Announces FDA and EMA Acceptance for Review of Vedolizumab Biosimilar Candidate",
@@ -74,15 +83,6 @@
       "date": "May 26, 2026",
       "source": "Fresenius",
       "meta": "Brief News",
-      "new": false
-    },
-    {
-      "id": "#futurefresenius:-rejuvenate-in-action-–-excellent-start-to-the-year---demonstrating-continued-strength-and-resilient-performance;-guidance-reconfirmed|may-6,-2026",
-      "title": "#FutureFresenius: REJUVENATE in action – Excellent start to the year - demonstrating continued strength and resilient performance; Guidance reconfirmed",
-      "url": "https://www.fresenius.com/FutureFresenius-REJUVENATE-in-action-Excellent-start-to-the-year-demonstrating-continued-strength-and-resilient-performance-Guidance-reconfirmed",
-      "date": "May 6, 2026",
-      "source": "Fresenius",
-      "meta": "",
       "new": false
     }
   ]

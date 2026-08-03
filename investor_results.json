@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03 04:16:43 IST",
+  "last_updated": "2026-08-03 11:00:43 IST",
   "companies": [
     {
       "company": "Alvotech",
@@ -1875,6 +1875,15 @@
       "company": "Fresenius",
       "investor_news": [
         {
+          "id": "fresenius-announces-fda-approval-of-rituximab-biosimilar-for-the-u.s.-market|august-3,-2026",
+          "title": "Fresenius Announces FDA Approval of Rituximab Biosimilar for the U.S. Market",
+          "url": "https://www.fresenius.com/node/7379",
+          "date": "August 3, 2026",
+          "source": "Fresenius Kabi",
+          "meta": "",
+          "new": false
+        },
+        {
           "id": "fresenius-announces-fda-and-ema-acceptance-for-review-of-vedolizumab-biosimilar-candidate|july-31,-2026",
           "title": "Fresenius Announces FDA and EMA Acceptance for Review of Vedolizumab Biosimilar Candidate",
           "url": "https://www.fresenius.com/node/7378",
@@ -1944,15 +1953,6 @@
           "date": "May 26, 2026",
           "source": "Fresenius",
           "meta": "Brief News",
-          "new": false
-        },
-        {
-          "id": "#futurefresenius:-rejuvenate-in-action-–-excellent-start-to-the-year---demonstrating-continued-strength-and-resilient-performance;-guidance-reconfirmed|may-6,-2026",
-          "title": "#FutureFresenius: REJUVENATE in action – Excellent start to the year - demonstrating continued strength and resilient performance; Guidance reconfirmed",
-          "url": "https://www.fresenius.com/FutureFresenius-REJUVENATE-in-action-Excellent-start-to-the-year-demonstrating-continued-strength-and-resilient-performance-Guidance-reconfirmed",
-          "date": "May 6, 2026",
-          "source": "Fresenius",
-          "meta": "",
           "new": false
         }
       ]
