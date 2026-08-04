@@ -1,9 +1,54 @@
 {
-  "last_updated": "2026-08-03 10:59:31 IST",
+  "last_updated": "2026-08-04 03:49:22 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[News Analysis] Can VUNO Med-DeepCARS clear new health technology assessment and reimbursement hurdles?",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32654",
+          "category": "Device/ICT",
+          "author": "Hong Sook",
+          "date": "08.04 12:00",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Yonsei researchers to develop AI platform to accelerate therapies and vaccines for new infectious diseases",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32652",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "08.04 10:58",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Romiplate gains 1st-line reimbursement for severe aplastic anemia in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32650",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.04 10:58",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Lunit adds major UK, US healthcare providers to breast screening customer base",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32649",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "08.03 17:11",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Boston Scientific expands reimbursement for SpyGlass DS II in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32644",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "08.03 16:34",
+          "new": false,
+          "tag": "Financial"
+        },
         {
           "title": "Trodelvy restores hope: ‘Even the best drug must be used at the right time’",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32643",
@@ -29,7 +74,7 @@
           "author": "Lee Han-soo",
           "date": "08.03 15:16",
           "new": false,
-          "tag": "Other"
+          "tag": "Financial"
         },
         {
           "title": "GC Biopharma Q2 operating profit plunges 94% as flu vaccine revenue shifts to Q3",
@@ -41,11 +86,11 @@
           "tag": "Financial"
         },
         {
-          "title": "SK plasma launches Revolpaq for thrombocytopenia treatment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32631",
-          "category": "Pharma",
+          "title": "Medtronic launches Simplera Sync Sensor in Korea to simplify diabetes management",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32632",
+          "category": "Device/ICT",
           "author": "Lee Han-soo",
-          "date": "08.03 12:26",
+          "date": "08.03 12:35",
           "new": false,
           "tag": "Other"
         }

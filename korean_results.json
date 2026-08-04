@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-08-03 10:59:31 IST",
+  "last_updated": "2026-08-04 03:49:22 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "KDA partners with Miler to promote prediabetes prevention",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32656",
+          "category": "Life science",
+          "author": "Kim Jung-hyun",
+          "date": "08.04 12:44",
+          "new": false
+        },
+        {
+          "title": "Patients challenge managed-care benefit rules at Constitutional Court over blocked access to rehabilitation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32655",
+          "category": "Policy",
+          "author": "Koh Jung Min",
+          "date": "08.04 12:34",
+          "new": false
+        },
+        {
+          "title": "[News Analysis] Can VUNO Med-DeepCARS clear new health technology assessment and reimbursement hurdles?",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32654",
+          "category": "Device/ICT",
+          "author": "Hong Sook",
+          "date": "08.04 12:00",
+          "new": false
+        },
+        {
+          "title": "Pediatric cardiac surgery access is shaped by surgical infrastructure, not distance, study finds",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32653",
+          "category": "Pharma",
+          "author": "Lim Su-min",
+          "date": "08.04 11:11",
+          "new": false
+        },
+        {
+          "title": "Yonsei researchers to develop AI platform to accelerate therapies and vaccines for new infectious diseases",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32652",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "08.04 10:58",
+          "new": false
+        },
+        {
+          "title": "Exercise-induced muscle protein linked to Alzheimer's disease risk, study finds",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32651",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "08.04 10:58",
+          "new": false
+        },
+        {
+          "title": "Romiplate gains 1st-line reimbursement for severe aplastic anemia in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32650",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.04 10:58",
+          "new": false
+        },
         {
           "title": "Lunit adds major UK, US healthcare providers to breast screening customer base",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32649",
@@ -106,62 +162,6 @@
           "category": "Device/ICT",
           "author": "Lee Han-soo",
           "date": "08.03 12:35",
-          "new": false
-        },
-        {
-          "title": "SK plasma launches Revolpaq for thrombocytopenia treatment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32631",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.03 12:26",
-          "new": false
-        },
-        {
-          "title": "Nurses urge lawmakers to back enforcement as Korea moves to legislate nurse-to-patient ratios",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32630",
-          "category": "Policy",
-          "author": "Kim Jung-hyun",
-          "date": "08.03 10:49",
-          "new": false
-        },
-        {
-          "title": "Despite concentration in Seoul, regional hospitals outshine 'Big Five' in 1st hospital-level patient experience rankings",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32628",
-          "category": "Hospital",
-          "author": "Lim Su-min",
-          "date": "08.03 10:41",
-          "new": false
-        },
-        {
-          "title": "Yonsei University picked for ‘Horizon Europe’ grant to develop high-resolution brain metabolic imaging",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32624",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "07.31 16:38",
-          "new": false
-        },
-        {
-          "title": "KDCA releases human biospecimens from more than 100,000 Koreans, bringing total to over 300,000",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32623",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "07.31 15:57",
-          "new": false
-        },
-        {
-          "title": "Four-day workweek pilot at National Medical Center cuts nurses' turnover intentions from 60% to zero",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32622",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "07.31 15:53",
-          "new": false
-        },
-        {
-          "title": "Dementia primary physician pilot expanded nationwide, as coverage more than doubles",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32621",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "07.31 15:46",
           "new": false
         }
       ]
