@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-08-04 03:49:22 IST",
+  "last_updated": "2026-08-04 10:14:11 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Vaxcellbio launches global co-development program for NRC-based NK cell therapy for multiple myeloma",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32660",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "08.04 15:22",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "[News Analysis] Can VUNO Med-DeepCARS clear new health technology assessment and reimbursement hurdles?",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32654",
@@ -11,7 +20,7 @@
           "author": "Hong Sook",
           "date": "08.04 12:00",
           "new": false,
-          "tag": "Financial"
+          "tag": "Other"
         },
         {
           "title": "Yonsei researchers to develop AI platform to accelerate therapies and vaccines for new infectious diseases",
@@ -29,7 +38,7 @@
           "author": "Lee Han-soo",
           "date": "08.04 10:58",
           "new": false,
-          "tag": "Financial"
+          "tag": "Other"
         },
         {
           "title": "Lunit adds major UK, US healthcare providers to breast screening customer base",
@@ -37,60 +46,6 @@
           "category": "Device/ICT",
           "author": "Lee Han-soo",
           "date": "08.03 17:11",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Boston Scientific expands reimbursement for SpyGlass DS II in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32644",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "08.03 16:34",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Trodelvy restores hope: ‘Even the best drug must be used at the right time’",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32643",
-          "category": "Pharma",
-          "author": "Kim Yun-mi",
-          "date": "08.03 16:14",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Humedix secures GMP certification for biopharmaceutical production line",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32637",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "08.03 15:26",
-          "new": false,
-          "tag": "Inspection"
-        },
-        {
-          "title": "Celltrion expands US PBM coverage for follow-on biosimilars",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32636",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "08.03 15:16",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "GC Biopharma Q2 operating profit plunges 94% as flu vaccine revenue shifts to Q3",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32633",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "08.03 12:46",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Medtronic launches Simplera Sync Sensor in Korea to simplify diabetes management",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32632",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "08.03 12:35",
           "new": false,
           "tag": "Other"
         }
