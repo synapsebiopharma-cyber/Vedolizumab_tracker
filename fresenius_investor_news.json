@@ -1,8 +1,8 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-08-05T03:47:18Z",
-  "total_runs": 198,
-  "new_on_last_run": 1,
+  "last_fetched": "2026-08-05T10:13:05Z",
+  "total_runs": 199,
+  "new_on_last_run": 0,
   "articles": [
     {
       "id": "#futurefresenius:-excellent-q2-performance-demonstrates-structural-step-up-–-guidance-raised|august-4,-2026",
@@ -11,7 +11,7 @@
       "date": "August 4, 2026",
       "source": "Fresenius",
       "meta": "",
-      "new": true
+      "new": false
     },
     {
       "id": "fresenius-announces-fda-approval-of-rituximab-biosimilar-for-the-u.s.-market|august-3,-2026",
