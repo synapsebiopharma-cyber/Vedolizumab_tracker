@@ -1,7 +1,7 @@
 {
   "source": "https://investors.alvotech.com/news-events/events",
-  "last_fetched": "2026-08-04T10:14:30Z",
-  "total_runs": 199,
+  "last_fetched": "2026-08-05T03:46:31Z",
+  "total_runs": 200,
   "new_on_last_run": 0,
   "events": [
     {
@@ -50,7 +50,10 @@
       "url": "https://investors.alvotech.com/events/event-details/q2-2026-earnings-call",
       "date": "August 20, 2026",
       "time": "at 8:00 AM EDT",
-      "webcast": null,
+      "webcast": {
+        "text": "Link to registration form for webcast (live or replay)",
+        "url": "https://edge.media-server.com/mmc/p/2qwpypd4"
+      },
       "docs": [],
       "new": false
     },

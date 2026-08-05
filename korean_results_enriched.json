@@ -1,9 +1,54 @@
 {
-  "last_updated": "2026-08-04 10:14:11 IST",
+  "last_updated": "2026-08-05 03:46:11 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Phase 3 Korean trial backs carboplatin in early triple-negative breast cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32672",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "08.05 11:43",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Korea targets OECD adoption of world's 1st liver organoid toxicity test by 2028",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32669",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "08.05 10:36",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Alteogen inks up to $365 mil. licensing deal with global pharma for SC biologic",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32666",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "08.05 09:45",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Broad genetic testing essential in lung cancer as rare mutations shape treatment and outcomes: expert",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32665",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "08.04 17:06",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Don't stop immunosuppressants or steroids just because your child seems better, doctors warn",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32662",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "08.04 15:45",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Vaxcellbio launches global co-development program for NRC-based NK cell therapy for multiple myeloma",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32660",
@@ -11,7 +56,7 @@
           "author": "Lee Han-soo",
           "date": "08.04 15:22",
           "new": false,
-          "tag": "Collaboration"
+          "tag": "Pipeline"
         },
         {
           "title": "[News Analysis] Can VUNO Med-DeepCARS clear new health technology assessment and reimbursement hurdles?",
@@ -19,33 +64,6 @@
           "category": "Device/ICT",
           "author": "Hong Sook",
           "date": "08.04 12:00",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Yonsei researchers to develop AI platform to accelerate therapies and vaccines for new infectious diseases",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32652",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "08.04 10:58",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Romiplate gains 1st-line reimbursement for severe aplastic anemia in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32650",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.04 10:58",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Lunit adds major UK, US healthcare providers to breast screening customer base",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32649",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "08.03 17:11",
           "new": false,
           "tag": "Other"
         }

@@ -1,9 +1,18 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-08-04T10:15:17Z",
-  "total_runs": 197,
-  "new_on_last_run": 0,
+  "last_fetched": "2026-08-05T03:47:18Z",
+  "total_runs": 198,
+  "new_on_last_run": 1,
   "articles": [
+    {
+      "id": "#futurefresenius:-excellent-q2-performance-demonstrates-structural-step-up-–-guidance-raised|august-4,-2026",
+      "title": "#FutureFresenius: Excellent Q2 performance demonstrates structural step-up – Guidance raised",
+      "url": "https://www.fresenius.com/FutureFresenius-excellent-Q2-performance-demonstrates-structural-step-up-guidance-raised",
+      "date": "August 4, 2026",
+      "source": "Fresenius",
+      "meta": "",
+      "new": true
+    },
     {
       "id": "fresenius-announces-fda-approval-of-rituximab-biosimilar-for-the-u.s.-market|august-3,-2026",
       "title": "Fresenius Announces FDA Approval of Rituximab Biosimilar for the U.S. Market",
@@ -74,15 +83,6 @@
       "date": "June 2, 2026",
       "source": "Fresenius Kabi",
       "meta": "",
-      "new": false
-    },
-    {
-      "id": "ai-assistant-enhances-access-to-investor-relations-information|may-26,-2026",
-      "title": "AI assistant enhances access to Investor Relations information",
-      "url": "https://www.fresenius.com/node/7351",
-      "date": "May 26, 2026",
-      "source": "Fresenius",
-      "meta": "Brief News",
       "new": false
     }
   ]

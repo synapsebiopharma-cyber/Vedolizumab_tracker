@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-08-04 10:14:11 IST",
+  "last_updated": "2026-08-05 03:46:11 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Phase 3 Korean trial backs carboplatin in early triple-negative breast cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32672",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "08.05 11:43",
+          "new": false
+        },
+        {
+          "title": "APR posts record Q2 sales, lifting H1 revenue to ₩1.36 tri. on global growth",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32671",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "08.05 11:21",
+          "new": false
+        },
+        {
+          "title": "SNUBH leads national AI project linking care across entire patient journey",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32670",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "08.05 11:04",
+          "new": false
+        },
+        {
+          "title": "Korea targets OECD adoption of world's 1st liver organoid toxicity test by 2028",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32669",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "08.05 10:36",
+          "new": false
+        },
+        {
+          "title": "SEERS reorganizes thynC operations to support platform expansion",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32668",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "08.05 10:23",
+          "new": false
+        },
+        {
+          "title": "Angel Robotics wins Vietnam approval for ANGEL SUIT H10 rehabilitation robot",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32667",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "08.05 10:00",
+          "new": false
+        },
+        {
+          "title": "Alteogen inks up to $365 mil. licensing deal with global pharma for SC biologic",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32666",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "08.05 09:45",
+          "new": false
+        },
         {
           "title": "Broad genetic testing essential in lung cancer as rare mutations shape treatment and outcomes: expert",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32665",
@@ -106,62 +162,6 @@
           "category": "Pharma",
           "author": "Lim Su-min",
           "date": "08.04 11:11",
-          "new": false
-        },
-        {
-          "title": "Yonsei researchers to develop AI platform to accelerate therapies and vaccines for new infectious diseases",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32652",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "08.04 10:58",
-          "new": false
-        },
-        {
-          "title": "Exercise-induced muscle protein linked to Alzheimer's disease risk, study finds",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32651",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "08.04 10:58",
-          "new": false
-        },
-        {
-          "title": "Romiplate gains 1st-line reimbursement for severe aplastic anemia in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32650",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.04 10:58",
-          "new": false
-        },
-        {
-          "title": "Lunit adds major UK, US healthcare providers to breast screening customer base",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32649",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "08.03 17:11",
-          "new": false
-        },
-        {
-          "title": "2 standard regimens lead care for unresectable pancreatic cancer, as new treatment options emerge: expert",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32648",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "08.03 16:57",
-          "new": false
-        },
-        {
-          "title": "Seoul St. Mary’s Hospital shares robotic surgery expertise with Taipei Medical University Hospital",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32647",
-          "category": "Hospital",
-          "author": "Lim Su-min",
-          "date": "08.03 16:49",
-          "new": false
-        },
-        {
-          "title": "Over ￦360 billion in NHIS refunds remain unclaimed; ￦37 billion lost to statute of limitations",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32646",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "08.03 16:46",
           "new": false
         }
       ]

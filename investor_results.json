@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04 10:15:25 IST",
+  "last_updated": "2026-08-05 03:47:24 IST",
   "companies": [
     {
       "company": "Alvotech",
@@ -50,7 +50,10 @@
           "url": "https://investors.alvotech.com/events/event-details/q2-2026-earnings-call",
           "date": "August 20, 2026",
           "time": "at 8:00 AM EDT",
-          "webcast": null,
+          "webcast": {
+            "text": "Link to registration form for webcast (live or replay)",
+            "url": "https://edge.media-server.com/mmc/p/2qwpypd4"
+          },
           "docs": [],
           "new": false
         },
@@ -1875,6 +1878,15 @@
       "company": "Fresenius",
       "investor_news": [
         {
+          "id": "#futurefresenius:-excellent-q2-performance-demonstrates-structural-step-up-–-guidance-raised|august-4,-2026",
+          "title": "#FutureFresenius: Excellent Q2 performance demonstrates structural step-up – Guidance raised",
+          "url": "https://www.fresenius.com/FutureFresenius-excellent-Q2-performance-demonstrates-structural-step-up-guidance-raised",
+          "date": "August 4, 2026",
+          "source": "Fresenius",
+          "meta": "",
+          "new": false
+        },
+        {
           "id": "fresenius-announces-fda-approval-of-rituximab-biosimilar-for-the-u.s.-market|august-3,-2026",
           "title": "Fresenius Announces FDA Approval of Rituximab Biosimilar for the U.S. Market",
           "url": "https://www.fresenius.com/node/7379",
@@ -1944,15 +1956,6 @@
           "date": "June 2, 2026",
           "source": "Fresenius Kabi",
           "meta": "",
-          "new": false
-        },
-        {
-          "id": "ai-assistant-enhances-access-to-investor-relations-information|may-26,-2026",
-          "title": "AI assistant enhances access to Investor Relations information",
-          "url": "https://www.fresenius.com/node/7351",
-          "date": "May 26, 2026",
-          "source": "Fresenius",
-          "meta": "Brief News",
           "new": false
         }
       ]
