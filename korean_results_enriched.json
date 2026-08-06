@@ -1,15 +1,51 @@
 {
-  "last_updated": "2026-08-06 03:51:25 IST",
+  "last_updated": "2026-08-06 10:14:09 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Deepnoid wins MFDS approval for AxonFlow remote radiology workflow platform",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32685",
-          "category": "Device/ICT",
+          "title": "Opdivo gains Korean approval for perioperative treatment of resectable NSCLC",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32695",
+          "category": "Pharma",
           "author": "Lee Han-soo",
-          "date": "08.06 11:02",
+          "date": "08.06 15:08",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Boehringer Ingelheim's Metalyse gains Korean reimbursement for acute ischemic stroke",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32693",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.06 14:24",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Moderna wins Korea approval for updated Covid-19 vaccine targeting latest variants",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32692",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.06 14:15",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Tecentriq's 6-year reign faces challenges as price competition looms in Korea's small cell lung cancer market",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32691",
+          "category": "Pharma",
+          "author": "Kim Yun-mi",
+          "date": "08.06 13:53",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Onconic’s GERD drug Jaqbo wins first overseas approval in India",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32687",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.06 13:24",
           "new": false,
           "tag": "FDA Approval"
         },
@@ -20,70 +56,7 @@
           "author": "Kim Yoon-mi",
           "date": "08.06 10:28",
           "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "From licensing deals to patients: LigaChem and ABL Bio shift focus to clinical proof",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32678",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "08.05 16:12",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "SK biopharmaceuticals' Q2 operating profit hits record high on epilepsy drug Xcopri sales growth",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32679",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.05 16:09",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Olumiant reimbursement opens 1st targeted treatment pathway for severe alopecia areata",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32675",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.05 14:29",
-          "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Samsung broadens medical device strategy with Accuray collaboration",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32673",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "08.05 13:29",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Phase 3 Korean trial backs carboplatin in early triple-negative breast cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32672",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "08.05 11:43",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "SEERS reorganizes thynC operations to support platform expansion",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32668",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "08.05 10:23",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Angel Robotics wins Vietnam approval for ANGEL SUIT H10 rehabilitation robot",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32667",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "08.05 10:00",
-          "new": false,
-          "tag": "FDA Approval"
         }
       ]
     }
