@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-08-05 10:12:01 IST",
+  "last_updated": "2026-08-06 03:51:25 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Deepnoid wins MFDS approval for AxonFlow remote radiology workflow platform",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32685",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "08.06 11:02",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Noul signs 1st African supply deal for AI cervical cancer diagnostic solution",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32682",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "08.06 10:28",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "From licensing deals to patients: LigaChem and ABL Bio shift focus to clinical proof",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32678",
@@ -11,7 +29,7 @@
           "author": "Hong Sook",
           "date": "08.05 16:12",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Pipeline"
         },
         {
           "title": "SK biopharmaceuticals' Q2 operating profit hits record high on epilepsy drug Xcopri sales growth",
@@ -32,6 +50,15 @@
           "tag": "Other"
         },
         {
+          "title": "Samsung broadens medical device strategy with Accuray collaboration",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32673",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "08.05 13:29",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
           "title": "Phase 3 Korean trial backs carboplatin in early triple-negative breast cancer",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32672",
           "category": "Hospital",
@@ -41,13 +68,22 @@
           "tag": "Clinical Trial"
         },
         {
-          "title": "Alteogen inks up to $365 mil. licensing deal with global pharma for SC biologic",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32666",
-          "category": "Bio",
+          "title": "SEERS reorganizes thynC operations to support platform expansion",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32668",
+          "category": "Device/ICT",
           "author": "Lee Han-soo",
-          "date": "08.05 09:45",
+          "date": "08.05 10:23",
           "new": false,
-          "tag": "Collaboration"
+          "tag": "Other"
+        },
+        {
+          "title": "Angel Robotics wins Vietnam approval for ANGEL SUIT H10 rehabilitation robot",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32667",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "08.05 10:00",
+          "new": false,
+          "tag": "FDA Approval"
         }
       ]
     }
