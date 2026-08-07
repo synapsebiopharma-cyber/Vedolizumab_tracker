@@ -1,9 +1,89 @@
 {
-  "last_updated": "2026-08-07 03:28:07 IST",
+  "last_updated": "2026-08-07 08:39:41 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "ARPI wins KHF 2026 Grand Innovation Award; 9 healthtech firms receive Innovation Awards",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32718",
+          "category": "Hospital",
+          "author": "Kwak Sung-sun",
+          "date": "08.07 16:18",
+          "new": false
+        },
+        {
+          "title": "Can spicy food make cancer more aggressive? -- separating myth from fact",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32717",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "08.07 16:14",
+          "new": false
+        },
+        {
+          "title": "Regular checkups, stage 4 lung cancer: Why chest X-rays aren't enough",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32716",
+          "category": "People",
+          "author": "Kim Kyoung-Won",
+          "date": "08.07 16:12",
+          "new": false
+        },
+        {
+          "title": "[News Analysis] Kosdaq delisting overhaul puts 8 healthcare stocks at risk",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32715",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "08.07 15:58",
+          "new": false
+        },
+        {
+          "title": "Pilot dementia primary physician program shows benefits, but long-term participation remains low: HIRA",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32713",
+          "category": "Policy",
+          "author": "Lim Su-min",
+          "date": "08.07 15:11",
+          "new": false
+        },
+        {
+          "title": "Seoul St. Mary's neurosurgeon co-edits official SMISS-AP textbook",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32712",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "08.07 14:32",
+          "new": false
+        },
+        {
+          "title": "Kyung Hee University Hospital Expands NICU, builds one-stop care system for high-risk mothers and newborns",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32711",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "08.07 14:11",
+          "new": false
+        },
+        {
+          "title": "AI should underpin national cancer control, lawmaker says",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32710",
+          "category": "Policy",
+          "author": "Kim Jung-hyun",
+          "date": "08.07 14:09",
+          "new": false
+        },
+        {
+          "title": "Hanyang psychiatrist elected president of Asia-Pacific addiction society",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32709",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "08.07 13:36",
+          "new": false
+        },
+        {
+          "title": "Subway Line 9's Shinmokdong Station adds Ewha Mokdong Hospital as secondary name",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32708",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "08.07 13:14",
+          "new": false
+        },
         {
           "title": "Keytruda royalties mark Alteogen's next chapter. Can obesity drugs and ADCs follow?",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32707",
@@ -82,86 +162,6 @@
           "category": "Opinion",
           "author": "Kim Sin-gon",
           "date": "08.06 16:00",
-          "new": false
-        },
-        {
-          "title": "Miryang's last maternity hospital to close after nearly 40 years amid mounting losses",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32696",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "08.06 15:21",
-          "new": false
-        },
-        {
-          "title": "Opdivo gains Korean approval for perioperative treatment of resectable NSCLC",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32695",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.06 15:08",
-          "new": false
-        },
-        {
-          "title": "Childbirth before menopause linked to lower pancreatic cancer risk, Korean study finds",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32694",
-          "category": "Hospital",
-          "author": "Lim Su-min",
-          "date": "08.06 14:29",
-          "new": false
-        },
-        {
-          "title": "Boehringer Ingelheim's Metalyse gains Korean reimbursement for acute ischemic stroke",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32693",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.06 14:24",
-          "new": false
-        },
-        {
-          "title": "AESTURA named Korea’s top-selling dermocosmetic skincare brand",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32688",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "08.06 14:17",
-          "new": false
-        },
-        {
-          "title": "Moderna wins Korea approval for updated Covid-19 vaccine targeting latest variants",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32692",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.06 14:15",
-          "new": false
-        },
-        {
-          "title": "Tecentriq's 6-year reign faces challenges as price competition looms in Korea's small cell lung cancer market",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32691",
-          "category": "Pharma",
-          "author": "Kim Yun-mi",
-          "date": "08.06 13:53",
-          "new": false
-        },
-        {
-          "title": "Kolmar Korea pioneers coral reef-safe sunscreen verification system",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32690",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "08.06 13:43",
-          "new": false
-        },
-        {
-          "title": "GC MediAI launches AI platform to streamline clinical workflows",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32689",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "08.06 13:37",
-          "new": false
-        },
-        {
-          "title": "Onconic’s GERD drug Jaqbo wins first overseas approval in India",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32687",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.06 13:24",
           "new": false
         }
       ]

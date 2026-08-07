@@ -1,8 +1,8 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-08-07T03:29:23Z",
-  "total_runs": 202,
-  "new_on_last_run": 1,
+  "last_fetched": "2026-08-07T08:40:43Z",
+  "total_runs": 203,
+  "new_on_last_run": 0,
   "articles": [
     {
       "id": "fresenius-transitions-to-registered-shares-–-automatic-conversion-for-shareholders|august-6,-2026",
@@ -11,7 +11,7 @@
       "date": "August 6, 2026",
       "source": "Fresenius",
       "meta": "",
-      "new": true
+      "new": false
     },
     {
       "id": "#futurefresenius:-excellent-q2-performance-demonstrates-structural-step-up-–-guidance-raised|august-4,-2026",

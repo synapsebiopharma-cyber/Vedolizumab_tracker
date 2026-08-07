@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07 03:28:07 IST",
+  "last_updated": "2026-08-07 08:39:41 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
@@ -12,6 +12,15 @@
           "date": "08.07 11:38",
           "new": false,
           "tag": "Pipeline"
+        },
+        {
+          "title": "Coreline signs 10-year deal with Canon Medical Systems for German lung cancer screening",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32705",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "08.07 10:16",
+          "new": false,
+          "tag": "Collaboration"
         },
         {
           "title": "GC Biopharma unveils mRNA vaccine quality-control platform in international journal",
@@ -57,51 +66,6 @@
           "date": "08.06 17:12",
           "new": false,
           "tag": "Financial"
-        },
-        {
-          "title": "Opdivo gains Korean approval for perioperative treatment of resectable NSCLC",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32695",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.06 15:08",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Boehringer Ingelheim's Metalyse gains Korean reimbursement for acute ischemic stroke",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32693",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.06 14:24",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Moderna wins Korea approval for updated Covid-19 vaccine targeting latest variants",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32692",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.06 14:15",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Tecentriq's 6-year reign faces challenges as price competition looms in Korea's small cell lung cancer market",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32691",
-          "category": "Pharma",
-          "author": "Kim Yun-mi",
-          "date": "08.06 13:53",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Onconic’s GERD drug Jaqbo wins first overseas approval in India",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32687",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.06 13:24",
-          "new": false,
-          "tag": "FDA Approval"
         }
       ]
     }
