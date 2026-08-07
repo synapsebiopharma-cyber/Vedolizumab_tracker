@@ -1,9 +1,63 @@
 {
-  "last_updated": "2026-08-06 10:14:09 IST",
+  "last_updated": "2026-08-07 03:28:07 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Keytruda royalties mark Alteogen's next chapter. Can obesity drugs and ADCs follow?",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32707",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "08.07 11:38",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "GC Biopharma unveils mRNA vaccine quality-control platform in international journal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32704",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.07 10:03",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Vaxcellbio wins Taiwan patent for autologous NK cell-based liver cancer therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32703",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "08.07 09:59",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Pfizer's hemophilia drug Hympavzi nears Korean reimbursement, challenges Hemlibra",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32702",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.07 09:45",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Hugel posts record H1 earnings on global botulinum toxin growth",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32699",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "08.06 17:16",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Boryung posts record H1 earnings as Taxotere sales begin",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32700",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.06 17:12",
+          "new": false,
+          "tag": "Financial"
+        },
         {
           "title": "Opdivo gains Korean approval for perioperative treatment of resectable NSCLC",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32695",
@@ -20,7 +74,7 @@
           "author": "Lee Han-soo",
           "date": "08.06 14:24",
           "new": false,
-          "tag": "FDA Approval"
+          "tag": "Other"
         },
         {
           "title": "Moderna wins Korea approval for updated Covid-19 vaccine targeting latest variants",
@@ -48,15 +102,6 @@
           "date": "08.06 13:24",
           "new": false,
           "tag": "FDA Approval"
-        },
-        {
-          "title": "Noul signs 1st African supply deal for AI cervical cancer diagnostic solution",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32682",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "08.06 10:28",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }

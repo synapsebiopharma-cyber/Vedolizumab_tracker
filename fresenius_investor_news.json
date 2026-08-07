@@ -1,9 +1,18 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-08-06T10:15:51Z",
-  "total_runs": 201,
-  "new_on_last_run": 0,
+  "last_fetched": "2026-08-07T03:29:23Z",
+  "total_runs": 202,
+  "new_on_last_run": 1,
   "articles": [
+    {
+      "id": "fresenius-transitions-to-registered-shares-–-automatic-conversion-for-shareholders|august-6,-2026",
+      "title": "Fresenius transitions to registered shares – automatic conversion for shareholders",
+      "url": "https://www.fresenius.com/node/7386",
+      "date": "August 6, 2026",
+      "source": "Fresenius",
+      "meta": "",
+      "new": true
+    },
     {
       "id": "#futurefresenius:-excellent-q2-performance-demonstrates-structural-step-up-–-guidance-raised|august-4,-2026",
       "title": "#FutureFresenius: Excellent Q2 performance demonstrates structural step-up – Guidance raised",
@@ -72,15 +81,6 @@
       "title": "Fresenius announces European launch of Pedismof® range",
       "url": "https://www.fresenius.com/node/7360",
       "date": "June 8, 2026",
-      "source": "Fresenius Kabi",
-      "meta": "",
-      "new": false
-    },
-    {
-      "id": "fresenius-opens-innovation-center-for-medical-nutrition-in-bad-homburg|june-2,-2026",
-      "title": "Fresenius Opens Innovation Center for Medical Nutrition in Bad Homburg",
-      "url": "https://www.fresenius.com/node/7361",
-      "date": "June 2, 2026",
       "source": "Fresenius Kabi",
       "meta": "",
       "new": false
