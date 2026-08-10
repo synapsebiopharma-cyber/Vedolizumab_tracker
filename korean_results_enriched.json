@@ -1,9 +1,63 @@
 {
-  "last_updated": "2026-08-10 02:43:46 IST",
+  "last_updated": "2026-08-10 09:03:24 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Patients slam Padcev-Keytruda pricing delays, warn treatment becoming unaffordable",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32733",
+          "category": "People",
+          "author": "You Ji-young",
+          "date": "08.10 16:55",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "SK bioscience cuts Q2 operating loss by 58% as IDT performance improves",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32732",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "08.10 16:27",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "NECA finds insufficient evidence intralipid injections improve infertility outcomes",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32730",
+          "category": "Policy",
+          "author": "Lim Su-min",
+          "date": "08.10 15:28",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "LivsMed seeks Korean approval for STARK surgical robot by year-end",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32726",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "08.10 14:03",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Insomnia emerges as key factor in long-term HIV treatment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32725",
+          "category": "Pharma",
+          "author": "Hong Sook",
+          "date": "08.10 13:35",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "OliX names RNAi drug development veteran Min Ji-young as chief development officer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32722",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "08.10 13:07",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Roche Korea spotlights Evrysdi access after expanded SMA reimbursement",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32721",
@@ -23,58 +77,13 @@
           "tag": "Other"
         },
         {
-          "title": "Keytruda royalties mark Alteogen's next chapter. Can obesity drugs and ADCs follow?",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32707",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "08.07 11:38",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Coreline signs 10-year deal with Canon Medical Systems for German lung cancer screening",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32705",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "08.07 10:16",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "GC Biopharma unveils mRNA vaccine quality-control platform in international journal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32704",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.07 10:03",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Vaxcellbio wins Taiwan patent for autologous NK cell-based liver cancer therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32703",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "08.07 09:59",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Pfizer's hemophilia drug Hympavzi nears Korean reimbursement, challenges Hemlibra",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32702",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.07 09:45",
+          "title": "ARPI wins KHF 2026 Grand Innovation Award; 9 healthtech firms receive Innovation Awards",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32718",
+          "category": "Hospital",
+          "author": "Kwak Sung-sun",
+          "date": "08.07 16:18",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Hugel posts record H1 earnings on global botulinum toxin growth",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32699",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "08.06 17:16",
-          "new": false,
-          "tag": "Financial"
         }
       ]
     }
