@@ -1,60 +1,42 @@
 {
-  "last_updated": "2026-08-10 09:03:24 IST",
+  "last_updated": "2026-08-11 08:35:36 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Patients slam Padcev-Keytruda pricing delays, warn treatment becoming unaffordable",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32733",
-          "category": "People",
-          "author": "You Ji-young",
-          "date": "08.10 16:55",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "SK bioscience cuts Q2 operating loss by 58% as IDT performance improves",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32732",
+          "title": "Merck expands Singapore BioReliance lab to strengthen APAC biosafety testing",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32752",
           "category": "Bio",
           "author": "Lee Han-soo",
-          "date": "08.10 16:27",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "LivsMed seeks Korean approval for STARK surgical robot by year-end",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32726",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "08.10 14:03",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "OliX names RNAi drug development veteran Min Ji-young as chief development officer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32722",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "08.10 13:07",
+          "date": "08.11 16:08",
           "new": false,
           "tag": "Other"
         },
         {
-          "title": "Roche Korea spotlights Evrysdi access after expanded SMA reimbursement",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32721",
+          "title": "Kolon Pharma spins off drug R&D unit to launch TonX BIO",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32744",
           "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.10 11:30",
+          "author": "Hong Sook",
+          "date": "08.11 13:29",
           "new": false,
-          "tag": "Financial"
+          "tag": "Pipeline"
         },
         {
-          "title": "Korean urology group recommends BPH fixed-dose combinations for first time",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32720",
+          "title": "Samsung Bioepis seeks Korean approval for Keytruda biosimilar SB27",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32737",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "08.11 09:49",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Maternal vaccination joins Korea’s 3-way race to protect infants from RSV",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32734",
           "category": "Pharma",
           "author": "Lee Han-soo",
-          "date": "08.10 11:10",
+          "date": "08.11 09:07",
           "new": false,
           "tag": "Other"
         }
