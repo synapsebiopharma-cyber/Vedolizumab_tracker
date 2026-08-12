@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-08-12 03:06:13 IST",
+  "last_updated": "2026-08-12 08:52:24 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[Interview] ‘Multiple myeloma is nearing the era of cure -- but Korea needs better drugs earlier’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32764",
+          "category": "Pharma",
+          "author": "Hong Sook",
+          "date": "08.12 14:14",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Shaperon faces Kosdaq watchlist despite 5-for-1 share consolidation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32762",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "08.12 13:56",
+          "new": false,
+          "tag": "Financial"
+        },
         {
           "title": "Celltrion’s Xolair biosimilar grabs over 90% of Spain’s omalizumab market",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32757",
@@ -37,33 +55,6 @@
           "category": "Bio",
           "author": "Lee Han-soo",
           "date": "08.11 16:08",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Kolon Pharma spins off drug R&D unit to launch TonX BIO",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32744",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "08.11 13:29",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Takeda Korea appoints Kim Mi-seung as new representative director",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32742",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.11 11:36",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "GC Cell taps Lotte Biologics veteran to drive global partnerships, new business",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32740",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.11 11:16",
           "new": false,
           "tag": "Other"
         }
