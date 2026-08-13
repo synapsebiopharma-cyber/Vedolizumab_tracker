@@ -1,9 +1,105 @@
 {
-  "last_updated": "2026-08-13 03:08:41 IST",
+  "last_updated": "2026-08-13 08:59:51 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "SK chemicals posts record quarterly sales in Q2 on green chemicals, pharma growth",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32789",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.13 17:18",
+          "new": false
+        },
+        {
+          "title": "PanGen Biotech Q2 sales rise 13.5% on EPO exports, but costs push it into loss",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32787",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "08.13 16:26",
+          "new": false
+        },
+        {
+          "title": "EuBiologics H1 sales, profit fall from high base after 2025 cholera vaccine surge",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32788",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.13 16:12",
+          "new": false
+        },
+        {
+          "title": "Handok wins Korean approval for Vonjo in myelofibrosis with severe thrombocytopenia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32786",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "08.13 16:02",
+          "new": false
+        },
+        {
+          "title": "Ophthalmologists urge video consultation standards before telemedicine law takes effect",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32785",
+          "category": "Policy",
+          "author": "Kim Eun-young",
+          "date": "08.13 15:54",
+          "new": false
+        },
+        {
+          "title": "Covid-19 patients with allergic, upper airway diseases face 66% higher asthma risk",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32784",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "08.13 15:26",
+          "new": false
+        },
+        {
+          "title": "Sudden severe vertigo may signal vestibular neuritis — or stroke",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32783",
+          "category": "Hospital",
+          "author": "Lee Chang-ho",
+          "date": "08.13 13:56",
+          "new": false
+        },
+        {
+          "title": "Yongin Severance Hospital launches heavy-ion therapy consultation service",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32781",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "08.13 13:52",
+          "new": false
+        },
+        {
+          "title": "'Digital cognitive training finds bigger role as Alzheimer’s treatment shifts earlier'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32772",
+          "category": "Hospital",
+          "author": "Hong Sook",
+          "date": "08.13 13:38",
+          "new": false
+        },
+        {
+          "title": "Kidney transplant possible despite donor-specific HLA-DQ antibodies, but long-term monitoring crucial, study finds",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32780",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "08.13 13:31",
+          "new": false
+        },
+        {
+          "title": "Romiplate gains 1st-line SAA coverage in Korea, expanding options beyond transplant",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32779",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "08.13 13:28",
+          "new": false
+        },
+        {
+          "title": "Korean hospitals expand medical outreach in Mongolia, shift focus to local capacity",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32778",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "08.13 13:16",
+          "new": false
+        },
         {
           "title": "J&J MedTech launches DUALTO combining 4 surgical energy modes in Korea",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32775",
@@ -66,102 +162,6 @@
           "category": "Policy",
           "author": "Kwak Sung-sun",
           "date": "08.12 15:26",
-          "new": false
-        },
-        {
-          "title": "GE HealthCare brings latest AI-powered CT to Busan St. Mary’s Hospital",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32767",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "08.12 14:53",
-          "new": false
-        },
-        {
-          "title": "Causes of liver cancer in Korea shifting from viral hepatitis to fatty liver disease",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32766",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "08.12 14:44",
-          "new": false
-        },
-        {
-          "title": "MFDS launches ‘Sherlock Holmes’ team to sharpen food, drug crime investigations",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32765",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "08.12 14:32",
-          "new": false
-        },
-        {
-          "title": "[Interview] ‘Multiple myeloma is nearing the era of cure -- but Korea needs better drugs earlier’",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32764",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "08.12 14:14",
-          "new": false
-        },
-        {
-          "title": "Korea toughens sentencing guidelines for attacks on emergency medical staff",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32763",
-          "category": "Policy",
-          "author": "Kim Eun-young",
-          "date": "08.12 14:08",
-          "new": false
-        },
-        {
-          "title": "Shaperon faces Kosdaq watchlist despite 5-for-1 share consolidation",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32762",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "08.12 13:56",
-          "new": false
-        },
-        {
-          "title": "Korea to compensate severe maternal disability from unavoidable childbirth accidents",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32761",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "08.12 13:19",
-          "new": false
-        },
-        {
-          "title": "Amorepacific launches PDRN-collagen supplement targeting post-treatment beauty care",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32760",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "08.12 13:14",
-          "new": false
-        },
-        {
-          "title": "SMC maps rare ampullary cancer, links PB-KRAS subtype to poor survival",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32759",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "08.12 11:23",
-          "new": false
-        },
-        {
-          "title": "Celltrion’s Xolair biosimilar grabs over 90% of Spain’s omalizumab market",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32757",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "08.12 10:56",
-          "new": false
-        },
-        {
-          "title": "CGBio’s Novosis helps restore bone union in patient after multiple failed femur surgeries",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32754",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "08.12 10:36",
-          "new": false
-        },
-        {
-          "title": "JW Pharma’s epaminurad 6 mg outperforms febuxostat 40 mg in phase 3 gout trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32756",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.12 10:24",
           "new": false
         }
       ]

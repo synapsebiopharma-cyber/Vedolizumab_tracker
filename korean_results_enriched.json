@@ -1,15 +1,51 @@
 {
-  "last_updated": "2026-08-13 03:08:41 IST",
+  "last_updated": "2026-08-13 08:59:51 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "J&J MedTech launches DUALTO combining 4 surgical energy modes in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32775",
-          "category": "Device/ICT",
+          "title": "SK chemicals posts record quarterly sales in Q2 on green chemicals, pharma growth",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32789",
+          "category": "Pharma",
           "author": "Lee Han-soo",
-          "date": "08.13 11:07",
+          "date": "08.13 17:18",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "PanGen Biotech Q2 sales rise 13.5% on EPO exports, but costs push it into loss",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32787",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "08.13 16:26",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "EuBiologics H1 sales, profit fall from high base after 2025 cholera vaccine surge",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32788",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.13 16:12",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Handok wins Korean approval for Vonjo in myelofibrosis with severe thrombocytopenia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32786",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "08.13 16:02",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Romiplate gains 1st-line SAA coverage in Korea, expanding options beyond transplant",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32779",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "08.13 13:28",
           "new": false,
           "tag": "Other"
         },
@@ -20,7 +56,7 @@
           "author": "Lee Han-soo",
           "date": "08.13 10:15",
           "new": false,
-          "tag": "FDA Approval"
+          "tag": "Pipeline"
         },
         {
           "title": "PAH experts, patients urge fast-track reimbursement of Winrevair after 550-day wait",
@@ -30,51 +66,6 @@
           "date": "08.13 09:45",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "GE HealthCare brings latest AI-powered CT to Busan St. Mary’s Hospital",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32767",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "08.12 14:53",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "[Interview] ‘Multiple myeloma is nearing the era of cure -- but Korea needs better drugs earlier’",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32764",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "08.12 14:14",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Celltrion’s Xolair biosimilar grabs over 90% of Spain’s omalizumab market",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32757",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "08.12 10:56",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "CGBio’s Novosis helps restore bone union in patient after multiple failed femur surgeries",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32754",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "08.12 10:36",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "JW Pharma’s epaminurad 6 mg outperforms febuxostat 40 mg in phase 3 gout trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32756",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.12 10:24",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }
