@@ -1,9 +1,25 @@
 {
-  "last_updated": "2026-08-13 08:59:51 IST",
+  "last_updated": "2026-08-14 03:08:16 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "SK bioscience takes Gates-backed RSV antibody into infant trial in South Africa",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32790",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "08.14 11:31",
+          "new": false
+        },
+        {
+          "title": "Noul gets state backing to accelerate IVDR transition in Europe",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32791",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "08.14 11:30",
+          "new": false
+        },
         {
           "title": "SK chemicals posts record quarterly sales in Q2 on green chemicals, pharma growth",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32789",
@@ -146,22 +162,6 @@
           "category": "Hospital",
           "author": "Lee Han-soo",
           "date": "08.12 17:05",
-          "new": false
-        },
-        {
-          "title": "Court rejects ₩200 million lawsuit over newborn brain injury during induced labor",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32769",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "08.12 15:46",
-          "new": false
-        },
-        {
-          "title": "Korea opens first National Fire Hospital for firefighters",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32768",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "08.12 15:26",
           "new": false
         }
       ]
