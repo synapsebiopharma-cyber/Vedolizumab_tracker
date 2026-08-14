@@ -1,9 +1,54 @@
 {
-  "last_updated": "2026-08-14 03:08:16 IST",
+  "last_updated": "2026-08-14 08:49:27 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Former Bridge Biotherapeutics CEO Lee resurfaces in biotech after BBT-877 fallout",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32805",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "08.14 16:42",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Enhertu, Datroway push DXd ADCs across breast cancer treatment landscape",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32802",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.14 15:37",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Pfizer's Abrysvo wins Korean approval for maternal and adult RSV prevention",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32801",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.14 15:28",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "AbTis prevails in US patent challenge over ADC platform",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32797",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "08.14 14:24",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Celltrion's Vegzelma tops 10% US market share as new analysis backs comparability",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32793",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.14 13:02",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "SK bioscience takes Gates-backed RSV antibody into infant trial in South Africa",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32790",
@@ -12,69 +57,6 @@
           "date": "08.14 11:31",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "SK chemicals posts record quarterly sales in Q2 on green chemicals, pharma growth",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32789",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.13 17:18",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "PanGen Biotech Q2 sales rise 13.5% on EPO exports, but costs push it into loss",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32787",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "08.13 16:26",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "EuBiologics H1 sales, profit fall from high base after 2025 cholera vaccine surge",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32788",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.13 16:12",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Handok wins Korean approval for Vonjo in myelofibrosis with severe thrombocytopenia",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32786",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "08.13 16:02",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Romiplate gains 1st-line SAA coverage in Korea, expanding options beyond transplant",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32779",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "08.13 13:28",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Celltrion’s CT-P73 wins FDA Fast Track status for cervical cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32774",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.13 10:15",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "PAH experts, patients urge fast-track reimbursement of Winrevair after 550-day wait",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32773",
-          "category": "People",
-          "author": "Kim Yoon-mi",
-          "date": "08.13 09:45",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }
