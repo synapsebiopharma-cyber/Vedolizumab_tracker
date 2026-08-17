@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-08-16 07:58:51 IST",
+  "last_updated": "2026-08-17 02:04:13 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Humedix posts record Q2 sales on Re2O growth, ophthalmic solution orders",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32807",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "08.14 17:32",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Coreline Soft posts record H1 sales as overseas revenue jumps 123%",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32806",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "08.14 16:58",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Former Bridge Biotherapeutics CEO Lee resurfaces in biotech after BBT-877 fallout",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32805",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "08.14 16:42",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Yuyu Pharma posts 109% jump in Q2 operating profit on sales growth, cost cuts",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32796",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.14 16:30",
+          "new": false,
+          "tag": "Financial"
+        },
         {
           "title": "Enhertu, Datroway push DXd ADCs across breast cancer treatment landscape",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32802",
@@ -21,6 +57,15 @@
           "date": "08.14 15:28",
           "new": false,
           "tag": "FDA Approval"
+        },
+        {
+          "title": "GC Genome's operating profit jumps 120% as core diagnostics grow",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32800",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "08.14 14:58",
+          "new": false,
+          "tag": "Financial"
         },
         {
           "title": "AbTis prevails in US patent challenge over ADC platform",
@@ -48,6 +93,42 @@
           "date": "08.14 11:31",
           "new": false,
           "tag": "Clinical Trial"
+        },
+        {
+          "title": "Noul gets state backing to accelerate IVDR transition in Europe",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32791",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "08.14 11:30",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "SK chemicals posts record quarterly sales in Q2 on green chemicals, pharma growth",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32789",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.13 17:18",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "PanGen Biotech Q2 sales rise 13.5% on EPO exports, but costs push it into loss",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32787",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "08.13 16:26",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "EuBiologics H1 sales, profit fall from high base after 2025 cholera vaccine surge",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32788",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.13 16:12",
+          "new": false,
+          "tag": "Financial"
         }
       ]
     }
