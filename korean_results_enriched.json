@@ -1,9 +1,63 @@
 {
-  "last_updated": "2026-08-18 01:59:47 IST",
+  "last_updated": "2026-08-18 08:08:02 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "DuChemBio posts record Q2 as diagnostic portfolio expands",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32826",
+          "category": "Bio",
+          "author": "You Ji-young",
+          "date": "08.18 16:28",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "SciGen Korea names ex-CSL Behring Korea CEO to lead specialty drug push",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32822",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.18 16:04",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Lotte Biologics consolidates Korea operations in Songdo ahead of 2027 production",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32818",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "08.18 13:43",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Retevmo price talks run past deadline, putting September coverage in doubt",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32817",
+          "category": "Pharma",
+          "author": "Kim Yun-mi",
+          "date": "08.18 13:39",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "JW Pharmaceutical files phase 3 IND for biweekly obesity drug bofanglutide",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32816",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.18 13:31",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "MEPSGEN gets up to ₩5bil. to scale drug delivery manufacturing platform",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32813",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "08.18 11:35",
+          "new": false,
+          "tag": "Financial"
+        },
         {
           "title": "BioSolution begins CartiLife commercialization in China with 1st patient treatments",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32808",
@@ -11,7 +65,16 @@
           "author": "Kwon Min-seon",
           "date": "08.18 10:37",
           "new": false,
-          "tag": "Other"
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Humedix posts record Q2 sales on Re2O growth, ophthalmic solution orders",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32807",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "08.14 17:32",
+          "new": false,
+          "tag": "Financial"
         },
         {
           "title": "Former Bridge Biotherapeutics CEO Lee resurfaces in biotech after BBT-877 fallout",
@@ -21,51 +84,6 @@
           "date": "08.14 16:42",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Enhertu, Datroway push DXd ADCs across breast cancer treatment landscape",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32802",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.14 15:37",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Pfizer's Abrysvo wins Korean approval for maternal and adult RSV prevention",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32801",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.14 15:28",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "AbTis prevails in US patent challenge over ADC platform",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32797",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "08.14 14:24",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Celltrion's Vegzelma tops 10% US market share as new analysis backs comparability",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32793",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.14 13:02",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "SK bioscience takes Gates-backed RSV antibody into infant trial in South Africa",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32790",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "08.14 11:31",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }
