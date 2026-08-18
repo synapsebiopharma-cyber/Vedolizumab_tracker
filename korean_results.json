@@ -1,9 +1,17 @@
 {
-  "last_updated": "2026-08-17 08:12:01 IST",
+  "last_updated": "2026-08-18 01:59:47 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "BioSolution begins CartiLife commercialization in China with 1st patient treatments",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32808",
+          "category": "Bio",
+          "author": "Kwon Min-seon",
+          "date": "08.18 10:37",
+          "new": false
+        },
         {
           "title": "Humedix posts record Q2 sales on Re2O growth, ophthalmic solution orders",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32807",
@@ -154,14 +162,6 @@
           "category": "Bio",
           "author": "Kim Yoon-mi",
           "date": "08.13 16:26",
-          "new": false
-        },
-        {
-          "title": "EuBiologics H1 sales, profit fall from high base after 2025 cholera vaccine surge",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32788",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.13 16:12",
           "new": false
         }
       ]
