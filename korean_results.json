@@ -1,9 +1,105 @@
 {
-  "last_updated": "2026-08-19 02:03:15 IST",
+  "last_updated": "2026-08-19 08:07:41 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "China’s ADC surge pushes IntoCell toward pipeline-focused licensing strategy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32844",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "08.19 16:34",
+          "new": false
+        },
+        {
+          "title": "'Despite slogan to save essential care, front-line health workers fear burnout and departures'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32843",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "08.19 16:30",
+          "new": false
+        },
+        {
+          "title": "Olfactory dysfunction linked to 19% higher risk of migraine, study finds",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32842",
+          "category": "Hospital",
+          "author": "Song Soo-youn",
+          "date": "08.19 16:28",
+          "new": false
+        },
+        {
+          "title": "AI takes center stage in hospital transformation as KHF 2026 opens",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32841",
+          "category": "Hospital",
+          "author": "Kwon Min-seon",
+          "date": "08.19 16:25",
+          "new": false
+        },
+        {
+          "title": "Yonsei expands heavy ion therapy to head and neck cancer, sarcoma, recurrent rectal cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32828",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "08.19 15:30",
+          "new": false
+        },
+        {
+          "title": "Sam Chun Dang clears Eylea patent disputes as SCD411 exports grow",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32840",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.19 15:09",
+          "new": false
+        },
+        {
+          "title": "Hemophilia care moves beyond bleed reduction toward near-zero bleeding: expert",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32838",
+          "category": "Hospital",
+          "author": "Kim Yun-mi",
+          "date": "08.19 14:30",
+          "new": false
+        },
+        {
+          "title": "Korea’s dermatology paradox: More clinics, fewer doctors treating skin disease",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32837",
+          "category": "Hospital",
+          "author": "Song Soo-youn",
+          "date": "08.19 13:56",
+          "new": false
+        },
+        {
+          "title": "South Sudan gets 1st neurologist, inspired by late Korean priest Lee Tae-seok",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32836",
+          "category": "People",
+          "author": "Kim Jung-hyun",
+          "date": "08.19 13:32",
+          "new": false
+        },
+        {
+          "title": "Regulator says no causal link confirmed in reported Mounjaro pancreatitis cases",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32835",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "08.19 11:39",
+          "new": false
+        },
+        {
+          "title": "SK biopharmaceuticals settles US Xcopri patent dispute with generic maker MSN",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32832",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "08.19 11:34",
+          "new": false
+        },
+        {
+          "title": "EuBiologics seeks phase 1 trial of dual-target Alzheimer’s vaccine PADIVAX",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32831",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "08.19 11:16",
+          "new": false
+        },
         {
           "title": "Proton therapy shows promise in early-stage lung cancer patients with IPF: SMC study",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32830",
@@ -66,102 +162,6 @@
           "category": "Policy",
           "author": "Lim Su-min",
           "date": "08.18 16:08",
-          "new": false
-        },
-        {
-          "title": "SciGen Korea names ex-CSL Behring Korea CEO to lead specialty drug push",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32822",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.18 16:04",
-          "new": false
-        },
-        {
-          "title": "Seegene Medical Foundation expands Kazakhstan healthcare ties with diagnostic testing deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32821",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "08.18 14:38",
-          "new": false
-        },
-        {
-          "title": "[Interview] Kidney care shifts to long-term quality of life as treatment outcomes improve",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32820",
-          "category": "Hospital",
-          "author": "Hong Sook",
-          "date": "08.18 13:56",
-          "new": false
-        },
-        {
-          "title": "Lotte Biologics consolidates Korea operations in Songdo ahead of 2027 production",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32818",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "08.18 13:43",
-          "new": false
-        },
-        {
-          "title": "Retevmo price talks run past deadline, putting September coverage in doubt",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32817",
-          "category": "Pharma",
-          "author": "Kim Yun-mi",
-          "date": "08.18 13:39",
-          "new": false
-        },
-        {
-          "title": "JW Pharmaceutical files phase 3 IND for biweekly obesity drug bofanglutide",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32816",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.18 13:31",
-          "new": false
-        },
-        {
-          "title": "Noul gets Canadian approval for malaria cartridge as miLab review nears completion",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32815",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "08.18 13:29",
-          "new": false
-        },
-        {
-          "title": "Amorepacific takes Mamonde to India with exclusive Nykaa launch",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32814",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "08.18 13:27",
-          "new": false
-        },
-        {
-          "title": "KSMO 2026 looks beyond networking to build Asia-led oncology research",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32812",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "08.18 11:42",
-          "new": false
-        },
-        {
-          "title": "MEPSGEN gets up to ₩5bil. to scale drug delivery manufacturing platform",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32813",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "08.18 11:35",
-          "new": false
-        },
-        {
-          "title": "Neurophet takes brain AI into corporate health checkup market with Neomark",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32811",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "08.18 11:25",
-          "new": false
-        },
-        {
-          "title": "Hugel’s Wellage draws 11,000 visitors at Olive Young Festa LA",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32810",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "08.18 11:22",
           "new": false
         }
       ]
