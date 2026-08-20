@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-08-19 08:07:41 IST",
+  "last_updated": "2026-08-20 02:00:15 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[Reporter's Notebook] In Korea, medical AI approval outpaces reimbursement",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32845",
+          "category": "Opinion",
+          "author": "Kim Ji-hye",
+          "date": "08.19 17:29",
+          "new": false,
+          "tag": "FDA Approval"
+        },
         {
           "title": "China’s ADC surge pushes IntoCell toward pipeline-focused licensing strategy",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32844",
@@ -14,20 +23,11 @@
           "tag": "Collaboration"
         },
         {
-          "title": "Sam Chun Dang clears Eylea patent disputes as SCD411 exports grow",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32840",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.19 15:09",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Regulator says no causal link confirmed in reported Mounjaro pancreatitis cases",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32835",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "08.19 11:39",
+          "title": "Yonsei expands heavy ion therapy to head and neck cancer, sarcoma, recurrent rectal cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32828",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "08.19 15:30",
           "new": false,
           "tag": "Other"
         },
@@ -38,14 +38,14 @@
           "author": "Lee Han-soo",
           "date": "08.19 11:34",
           "new": false,
-          "tag": "Other"
+          "tag": "Pipeline"
         },
         {
-          "title": "EuBiologics seeks phase 1 trial of dual-target Alzheimer’s vaccine PADIVAX",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32831",
+          "title": "Proton therapy shows promise in early-stage lung cancer patients with IPF: SMC study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32830",
           "category": "Hospital",
           "author": "Lee Han-soo",
-          "date": "08.19 11:16",
+          "date": "08.19 10:57",
           "new": false,
           "tag": "Clinical Trial"
         },
@@ -59,31 +59,13 @@
           "tag": "Other"
         },
         {
-          "title": "LG Chem begins preclinical studies of Genuv-licensed GNV205 for solid tumors",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32833",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.19 10:31",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
           "title": "Celltrion eyes Europe-wide pharmacy sales after integrating France’s Gifrer",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32827",
           "category": "Bio",
           "author": "Lee Han-soo",
           "date": "08.18 17:13",
           "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Losing 10kg a month on obesity drugs signals high gallstone risk, doctor says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32824",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "08.18 16:11",
-          "new": false,
-          "tag": "Other"
+          "tag": "Financial"
         }
       ]
     }

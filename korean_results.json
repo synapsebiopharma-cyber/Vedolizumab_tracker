@@ -1,9 +1,33 @@
 {
-  "last_updated": "2026-08-19 08:07:41 IST",
+  "last_updated": "2026-08-20 02:00:15 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Huinno expands AI-powered ECG monitoring to health screenings at Severance Hospital",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32847",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "08.20 10:35",
+          "new": false
+        },
+        {
+          "title": "[Caring the Korean way] Why Koreans reach for pear and balloon flower when a cough starts",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32846",
+          "category": "Life science",
+          "author": "Lee Han-soo",
+          "date": "08.20 10:18",
+          "new": false
+        },
+        {
+          "title": "[Reporter's Notebook] In Korea, medical AI approval outpaces reimbursement",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32845",
+          "category": "Opinion",
+          "author": "Kim Ji-hye",
+          "date": "08.19 17:29",
+          "new": false
+        },
         {
           "title": "China’s ADC surge pushes IntoCell toward pipeline-focused licensing strategy",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32844",
@@ -138,30 +162,6 @@
           "category": "Bio",
           "author": "You Ji-young",
           "date": "08.18 16:28",
-          "new": false
-        },
-        {
-          "title": "Korean hospital begins offering scalp cooling to reduce breast cancer chemo hair loss",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32825",
-          "category": "Hospital",
-          "author": "You Ji-young",
-          "date": "08.18 16:14",
-          "new": false
-        },
-        {
-          "title": "Losing 10kg a month on obesity drugs signals high gallstone risk, doctor says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32824",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "08.18 16:11",
-          "new": false
-        },
-        {
-          "title": "Korea faces health insurance crunch as government pushes hair-loss coverage",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32823",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "08.18 16:08",
           "new": false
         }
       ]
