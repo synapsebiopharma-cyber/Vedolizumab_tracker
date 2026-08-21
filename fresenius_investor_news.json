@@ -1,9 +1,18 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-08-20T08:10:53Z",
-  "total_runs": 229,
-  "new_on_last_run": 0,
+  "last_fetched": "2026-08-21T02:08:52Z",
+  "total_runs": 230,
+  "new_on_last_run": 1,
   "articles": [
+    {
+      "id": "fresenius-raises-approximately-€300-million-through-sale-of-7.8-million-fresenius-medical-care-shares|august-20,-2026",
+      "title": "Fresenius raises approximately €300 million through sale of 7.8 million Fresenius Medical Care shares",
+      "url": "https://www.fresenius.com/node/7395",
+      "date": "August 20, 2026",
+      "source": "Fresenius",
+      "meta": "",
+      "new": true
+    },
     {
       "id": "fitch-ratings-upgrades-outlook-for-fresenius-se-from-stable-to-positive|august-10,-2026",
       "title": "Fitch Ratings upgrades outlook for Fresenius SE from stable to positive",
@@ -74,15 +83,6 @@
       "date": "July 13, 2026",
       "source": "Fresenius",
       "meta": "Brief News",
-      "new": false
-    },
-    {
-      "id": "fresenius-successfully-issues-€1-billion-in-bonds|july-1,-2026",
-      "title": "Fresenius successfully issues €1 billion in bonds",
-      "url": "https://www.fresenius.com/node/7364",
-      "date": "July 1, 2026",
-      "source": "Fresenius",
-      "meta": "",
       "new": false
     }
   ]

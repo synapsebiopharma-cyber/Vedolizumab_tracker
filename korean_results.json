@@ -1,9 +1,41 @@
 {
-  "last_updated": "2026-08-20 08:09:46 IST",
+  "last_updated": "2026-08-21 02:07:45 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "CG MedTech’s H1 sales grow, but consolidated operating profit tumbles",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32867",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "08.21 10:38",
+          "new": false
+        },
+        {
+          "title": "d'Alba, Clio, Able C&C see profits surge as K-beauty expands abroad",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32866",
+          "category": "K-Beauty",
+          "author": "KBR, BeautyNury",
+          "date": "08.21 10:15",
+          "new": false
+        },
+        {
+          "title": "[Interview] Japan cut its suicide rate. Can Korea do the same?",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32865",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "08.20 17:47",
+          "new": false
+        },
+        {
+          "title": "Amgen launches Tepezza in Korea, bringing 1st targeted therapy for thyroid eye disease",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32864",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.20 17:13",
+          "new": false
+        },
         {
           "title": "EverTri, EtG to share booth at Malaysia medical device show",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32863",
@@ -130,38 +162,6 @@
           "category": "Life science",
           "author": "Lee Han-soo",
           "date": "08.20 10:18",
-          "new": false
-        },
-        {
-          "title": "[Reporter's Notebook] In Korea, medical AI approval outpaces reimbursement",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32845",
-          "category": "Opinion",
-          "author": "Kim Ji-hye",
-          "date": "08.19 17:29",
-          "new": false
-        },
-        {
-          "title": "China’s ADC surge pushes IntoCell toward pipeline-focused licensing strategy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32844",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "08.19 16:34",
-          "new": false
-        },
-        {
-          "title": "'Despite slogan to save essential care, front-line health workers fear burnout and departures'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32843",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "08.19 16:30",
-          "new": false
-        },
-        {
-          "title": "Olfactory dysfunction linked to 19% higher risk of migraine, study finds",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32842",
-          "category": "Hospital",
-          "author": "Song Soo-youn",
-          "date": "08.19 16:28",
           "new": false
         }
       ]
