@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-08-21 02:07:45 IST",
+  "last_updated": "2026-08-21 08:10:39 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Asan Medical Center, US universities target treatment-resistant solid tumors",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32879",
+          "category": "Hospital",
+          "author": "Kim Ji-hye",
+          "date": "08.21 16:11",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Sky Labs eyes September Kosdaq debut as cuffless BP ring gains traction",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32876",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "08.21 15:18",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Telemedicine platform Doctornow forced out of drug wholesaling under new law",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32872",
+          "category": "Policy",
+          "author": "Lim Su-min",
+          "date": "08.21 13:13",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "EuBiologics wins WHO PQ for typhoid vaccine, expands public vaccine portfolio",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32871",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.21 13:10",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Celltrion launches Steqeyma IV in Japan, adds Crohn’s disease indication",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32870",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "08.21 11:41",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Handok to distribute sleep-tracking device ChronoTrack in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32869",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "08.21 11:30",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "NGeneBio to develop genetic tests for GLP-1 weight-loss drugs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32868",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "08.21 11:12",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "CG MedTech’s H1 sales grow, but consolidated operating profit tumbles",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32867",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "08.21 10:38",
+          "new": false,
+          "tag": "Financial"
+        },
         {
           "title": "Amgen launches Tepezza in Korea, bringing 1st targeted therapy for thyroid eye disease",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32864",
@@ -14,65 +86,11 @@
           "tag": "Other"
         },
         {
-          "title": "EverTri, EtG to share booth at Malaysia medical device show",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32863",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "08.20 16:30",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
           "title": "Dongwha Pharm to launch Whal Myung Su digestive tonic in US",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32850",
           "category": "Pharma",
           "author": "Kim Ji-hye",
           "date": "08.20 16:29",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Blenrep clears 1st reimbursement hurdle in Korea for relapsed multiple myeloma",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32856",
-          "category": "Policy",
-          "author": "Kim Yun-mi",
-          "date": "08.20 13:56",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Noul launches Brazil study to validate AI malaria diagnostic in Amazon settings",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32853",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "08.20 13:34",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "'Blood biomarker may predict response to Alzheimer’s drug Leqembi'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32851",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "08.20 13:02",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Yuyu expands US pet business with new Mervyn's Petcare cat supplement",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32848",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.20 11:41",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Huinno expands AI-powered ECG monitoring to health screenings at Severance Hospital",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32847",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "08.20 10:35",
           "new": false,
           "tag": "Other"
         }

@@ -1,8 +1,8 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-08-21T02:08:52Z",
-  "total_runs": 230,
-  "new_on_last_run": 1,
+  "last_fetched": "2026-08-21T08:11:48Z",
+  "total_runs": 231,
+  "new_on_last_run": 0,
   "articles": [
     {
       "id": "fresenius-raises-approximately-€300-million-through-sale-of-7.8-million-fresenius-medical-care-shares|august-20,-2026",
@@ -11,7 +11,7 @@
       "date": "August 20, 2026",
       "source": "Fresenius",
       "meta": "",
-      "new": true
+      "new": false
     },
     {
       "id": "fitch-ratings-upgrades-outlook-for-fresenius-se-from-stable-to-positive|august-10,-2026",
