@@ -1,17 +1,26 @@
 {
-  "last_updated": "2026-08-23 08:01:14 IST",
+  "last_updated": "2026-08-24 02:08:37 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Asan Medical Center, US universities target treatment-resistant solid tumors",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32879",
-          "category": "Hospital",
-          "author": "Kim Ji-hye",
-          "date": "08.21 16:11",
+          "title": "PR Bom wins top APAC SABRE award for MSD Korea's gender-neutral HPV awareness campaign",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32882",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.24 10:34",
           "new": false,
-          "tag": "Collaboration"
+          "tag": "Other"
+        },
+        {
+          "title": "Telemedicine platform Doctornow forced out of drug wholesaling under new law",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32872",
+          "category": "Policy",
+          "author": "Lim Su-min",
+          "date": "08.21 13:13",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "EuBiologics wins WHO PQ for typhoid vaccine, expands public vaccine portfolio",
@@ -29,7 +38,16 @@
           "author": "Lee Han-soo",
           "date": "08.21 11:41",
           "new": false,
-          "tag": "Other"
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Handok to distribute sleep-tracking device ChronoTrack in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32869",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "08.21 11:30",
+          "new": false,
+          "tag": "Collaboration"
         },
         {
           "title": "NGeneBio to develop genetic tests for GLP-1 weight-loss drugs",
@@ -39,24 +57,6 @@
           "date": "08.21 11:12",
           "new": false,
           "tag": "Pipeline"
-        },
-        {
-          "title": "Amgen launches Tepezza in Korea, bringing 1st targeted therapy for thyroid eye disease",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32864",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.20 17:13",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Dongwha Pharm to launch Whal Myung Su digestive tonic in US",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32850",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "08.20 16:29",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }
