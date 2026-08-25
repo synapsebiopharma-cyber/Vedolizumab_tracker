@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-08-24 08:17:44 IST",
+  "last_updated": "2026-08-25 02:02:57 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Opdivo moves toward MSI-H gastric cancer reimbursement while Keytruda waits",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32905",
+          "category": "Policy",
+          "author": "Kim Yun-mi",
+          "date": "08.25 11:00",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "[Interview] ‘Don’t save CAR-T for later’: ZUMA-7 investigator urges earlier use in DLBCL",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32902",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.25 09:20",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "Novo Nordisk to test zenagamtide against its own semaglutide in Korea",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32900",
@@ -32,22 +50,13 @@
           "tag": "Collaboration"
         },
         {
-          "title": "Samjin Pharm seeks government dementia-friendly certification",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32893",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "08.24 14:41",
-          "new": false,
-          "tag": "Other"
-        },
-        {
           "title": "PBC patients see disease markers rebound after trial as Korea reimbursement lags",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32891",
           "category": "Hospital",
           "author": "Kim Kyoung-Won",
           "date": "08.24 14:09",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Other"
         },
         {
           "title": "Celltrion files Keytruda biosimilar in Korea, eyes US, Europe next",
@@ -56,7 +65,7 @@
           "author": "Lee Han-soo",
           "date": "08.24 14:05",
           "new": false,
-          "tag": "FDA Approval"
+          "tag": "Other"
         },
         {
           "title": "Hanmi highlights clopidogrel's long-term edge over aspirin after PCI",
@@ -65,7 +74,7 @@
           "author": "Kwon Min-seon",
           "date": "08.24 11:32",
           "new": false,
-          "tag": "Other"
+          "tag": "Clinical Trial"
         },
         {
           "title": "GC Biopharma wins approval for Hunter syndrome drug in India, Taiwan",
@@ -75,15 +84,6 @@
           "date": "08.24 11:10",
           "new": false,
           "tag": "FDA Approval"
-        },
-        {
-          "title": "Asan Medical Center, US universities target treatment-resistant solid tumors",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32879",
-          "category": "Hospital",
-          "author": "Kim Ji-hye",
-          "date": "08.21 16:11",
-          "new": false,
-          "tag": "Collaboration"
         }
       ]
     }

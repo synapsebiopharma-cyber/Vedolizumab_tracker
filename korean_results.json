@@ -1,9 +1,41 @@
 {
-  "last_updated": "2026-08-24 08:17:44 IST",
+  "last_updated": "2026-08-25 02:02:57 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "SNUBH named HIMSS global research partner for healthcare AI",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32904",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "08.25 11:01",
+          "new": false
+        },
+        {
+          "title": "Opdivo moves toward MSI-H gastric cancer reimbursement while Keytruda waits",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32905",
+          "category": "Policy",
+          "author": "Kim Yun-mi",
+          "date": "08.25 11:00",
+          "new": false
+        },
+        {
+          "title": "Clean driving record may hide crash risk in older drivers, study finds",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32901",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "08.25 10:07",
+          "new": false
+        },
+        {
+          "title": "[Interview] ‘Don’t save CAR-T for later’: ZUMA-7 investigator urges earlier use in DLBCL",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32902",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "08.25 09:20",
+          "new": false
+        },
         {
           "title": "Novo Nordisk to test zenagamtide against its own semaglutide in Korea",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32900",
@@ -130,38 +162,6 @@
           "category": "Hospital",
           "author": "Lee Han-soo",
           "date": "08.24 10:59",
-          "new": false
-        },
-        {
-          "title": "Greycoat Research's cat kidney care products win SUPERZOO award in US",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32883",
-          "category": "Life science",
-          "author": "Park Gi-taek",
-          "date": "08.24 10:44",
-          "new": false
-        },
-        {
-          "title": "PR Bom wins top APAC SABRE award for MSD Korea's gender-neutral HPV awareness campaign",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32882",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.24 10:34",
-          "new": false
-        },
-        {
-          "title": "Healthy lifestyle habits linked to 29% lower likelihood of fatty liver disease",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32881",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "08.21 16:14",
-          "new": false
-        },
-        {
-          "title": "Asan Medical Center, US universities target treatment-resistant solid tumors",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32879",
-          "category": "Hospital",
-          "author": "Kim Ji-hye",
-          "date": "08.21 16:11",
           "new": false
         }
       ]
