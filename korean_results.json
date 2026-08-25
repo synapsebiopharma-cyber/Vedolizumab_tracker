@@ -1,9 +1,121 @@
 {
-  "last_updated": "2026-08-25 02:02:57 IST",
+  "last_updated": "2026-08-25 08:12:09 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Oscotec builds AI platform to fight cancer drug resistance",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32923",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "08.25 16:11",
+          "new": false
+        },
+        {
+          "title": "After 32-month-old dies of septic shock, mother asks: ‘What if we had a pediatric ER?’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32920",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "08.25 15:46",
+          "new": false
+        },
+        {
+          "title": "FutureChem to develop AI tool for brain-disease scans with Brightonix",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32918",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "08.25 15:11",
+          "new": false
+        },
+        {
+          "title": "Seoul St. Mary’s Hospital turns to quantum computing to advance cardiovascular blood flow analysis",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32917",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "08.25 14:05",
+          "new": false
+        },
+        {
+          "title": "Tecentriq set to gain Korea reimbursement for early-stage NSCLC",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32915",
+          "category": "Pharma",
+          "author": "Koh Jung Min",
+          "date": "08.25 13:44",
+          "new": false
+        },
+        {
+          "title": "Severance marks 200th catheter-based pulmonary valve replacement for congenital heart disease",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32914",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "08.25 13:36",
+          "new": false
+        },
+        {
+          "title": "Daewoong Pharma prepares for Indonesia halal rules ahead of October rollout",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32913",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "08.25 13:30",
+          "new": false
+        },
+        {
+          "title": "Rznomics to join Eli Lilly's San Diego biotech incubator",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32912",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "08.25 13:27",
+          "new": false
+        },
+        {
+          "title": "Korea's EyeGene, partners get government funding for mRNA Covid vaccine",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32903",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "08.25 13:23",
+          "new": false
+        },
+        {
+          "title": "Why do some rheumatic diseases resist treatment? Mathematical model offers clues",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32911",
+          "category": "Hospital",
+          "author": "Kwak Sung-sun",
+          "date": "08.25 13:20",
+          "new": false
+        },
+        {
+          "title": "[Contribution] How hypertension treatment during pregnancy has changed",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32909",
+          "category": "Opinion",
+          "author": "Ryu Jae-choon",
+          "date": "08.25 13:13",
+          "new": false
+        },
+        {
+          "title": "Speculation over health minister replacement resurfaces ahead of Chuseok",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32908",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "08.25 13:10",
+          "new": false
+        },
+        {
+          "title": "'AR training cuts nurses' emergency transfusion prep time by 62%'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32907",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "08.25 11:36",
+          "new": false
+        },
+        {
+          "title": "Novelty Nobility clears China trial hurdle for CSU drug NN2802",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32906",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "08.25 11:13",
+          "new": false
+        },
         {
           "title": "SNUBH named HIMSS global research partner for healthcare AI",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32904",
@@ -50,118 +162,6 @@
           "category": "Hospital",
           "author": "Kwak Sung-sun",
           "date": "08.24 16:54",
-          "new": false
-        },
-        {
-          "title": "[Interview] ‘Good healthcare technology doesn't guarantee a good business’",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32898",
-          "category": "Device/ICT",
-          "author": "Hong Sook",
-          "date": "08.24 16:41",
-          "new": false
-        },
-        {
-          "title": "Yonsei team identifies potential therapy for drug-resistant metastatic colorectal cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32897",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "08.24 16:14",
-          "new": false
-        },
-        {
-          "title": "Hanmi Pharm shares surge 30% after $2.3 bil. Genentech obesity drug deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32896",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "08.24 15:58",
-          "new": false
-        },
-        {
-          "title": "Kolmar Korea puts cosmetics R&D on display at Seoul Beauty Week",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32895",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "08.24 15:38",
-          "new": false
-        },
-        {
-          "title": "Samjin Pharm seeks government dementia-friendly certification",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32893",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "08.24 14:41",
-          "new": false
-        },
-        {
-          "title": "Oral care may help slow cognitive decline in dementia patients: expert",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32892",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "08.24 14:13",
-          "new": false
-        },
-        {
-          "title": "PBC patients see disease markers rebound after trial as Korea reimbursement lags",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32891",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "08.24 14:09",
-          "new": false
-        },
-        {
-          "title": "Celltrion files Keytruda biosimilar in Korea, eyes US, Europe next",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32890",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "08.24 14:05",
-          "new": false
-        },
-        {
-          "title": "[Contribution] Time for Korea to lead in global health once again",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32889",
-          "category": "Opinion",
-          "author": "Kwon Jun-wook",
-          "date": "08.24 13:52",
-          "new": false
-        },
-        {
-          "title": "Digital pathology reshapes medical technologists' role from slides to data",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32888",
-          "category": "Hospital",
-          "author": "Kwon Min-seon",
-          "date": "08.24 13:40",
-          "new": false
-        },
-        {
-          "title": "Hanmi highlights clopidogrel's long-term edge over aspirin after PCI",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32887",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "08.24 11:32",
-          "new": false
-        },
-        {
-          "title": "GC Biopharma wins approval for Hunter syndrome drug in India, Taiwan",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32886",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "08.24 11:10",
-          "new": false
-        },
-        {
-          "title": "Amorepacific’s HERA launches Sensual Shine Tint with vivid color, crystal-like shine",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32885",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "08.24 11:01",
-          "new": false
-        },
-        {
-          "title": "Myongji Hospital performs Korea’s 1st robotic TECAB for multivessel coronary disease",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32884",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "08.24 10:59",
           "new": false
         }
       ]

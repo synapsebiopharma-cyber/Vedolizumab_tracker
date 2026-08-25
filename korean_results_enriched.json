@@ -1,9 +1,72 @@
 {
-  "last_updated": "2026-08-25 02:02:57 IST",
+  "last_updated": "2026-08-25 08:12:09 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Oscotec builds AI platform to fight cancer drug resistance",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32923",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "08.25 16:11",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "FutureChem to develop AI tool for brain-disease scans with Brightonix",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32918",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "08.25 15:11",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Tecentriq set to gain Korea reimbursement for early-stage NSCLC",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32915",
+          "category": "Pharma",
+          "author": "Koh Jung Min",
+          "date": "08.25 13:44",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Daewoong Pharma prepares for Indonesia halal rules ahead of October rollout",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32913",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "08.25 13:30",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Rznomics to join Eli Lilly's San Diego biotech incubator",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32912",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "08.25 13:27",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Korea's EyeGene, partners get government funding for mRNA Covid vaccine",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32903",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "08.25 13:23",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Novelty Nobility clears China trial hurdle for CSU drug NN2802",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32906",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "08.25 11:13",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "Opdivo moves toward MSI-H gastric cancer reimbursement while Keytruda waits",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32905",
@@ -20,7 +83,7 @@
           "author": "Lee Han-soo",
           "date": "08.25 09:20",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Other"
         },
         {
           "title": "Novo Nordisk to test zenagamtide against its own semaglutide in Korea",
@@ -30,60 +93,6 @@
           "date": "08.24 17:09",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "Yonsei team identifies potential therapy for drug-resistant metastatic colorectal cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32897",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "08.24 16:14",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Hanmi Pharm shares surge 30% after $2.3 bil. Genentech obesity drug deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32896",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "08.24 15:58",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "PBC patients see disease markers rebound after trial as Korea reimbursement lags",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32891",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "08.24 14:09",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Celltrion files Keytruda biosimilar in Korea, eyes US, Europe next",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32890",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "08.24 14:05",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Hanmi highlights clopidogrel's long-term edge over aspirin after PCI",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32887",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "08.24 11:32",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "GC Biopharma wins approval for Hunter syndrome drug in India, Taiwan",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32886",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "08.24 11:10",
-          "new": false,
-          "tag": "FDA Approval"
         }
       ]
     }
