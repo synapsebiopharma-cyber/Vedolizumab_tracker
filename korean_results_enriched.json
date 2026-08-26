@@ -1,9 +1,54 @@
 {
-  "last_updated": "2026-08-25 08:12:09 IST",
+  "last_updated": "2026-08-26 08:14:29 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "VAXDIGM joins $2 mil. project to develop antivirals for future Disease X threats",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32935",
+          "category": "Bio",
+          "author": "Park Gi-taek",
+          "date": "08.26 15:46",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "LYV Sciences takes YVOIRE filler campaign across major Chinese cities",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32927",
+          "category": "K-Beauty",
+          "author": "Kwon Min-seon",
+          "date": "08.26 11:04",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "SNUBH leads Korea-US project to develop light-activated pancreatic cancer therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32926",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "08.26 10:52",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Daewoong to supply Abbott Libre CGM at 45% discount in Seoul prediabetes program",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32925",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "08.26 10:21",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "CHA Biotech wins $2.3 mil. grant for lung disease cell therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32924",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "08.25 17:18",
+          "new": false,
+          "tag": "Pipeline"
+        },
         {
           "title": "Oscotec builds AI platform to fight cancer drug resistance",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32923",
@@ -12,87 +57,6 @@
           "date": "08.25 16:11",
           "new": false,
           "tag": "Pipeline"
-        },
-        {
-          "title": "FutureChem to develop AI tool for brain-disease scans with Brightonix",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32918",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "08.25 15:11",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Tecentriq set to gain Korea reimbursement for early-stage NSCLC",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32915",
-          "category": "Pharma",
-          "author": "Koh Jung Min",
-          "date": "08.25 13:44",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Daewoong Pharma prepares for Indonesia halal rules ahead of October rollout",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32913",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "08.25 13:30",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Rznomics to join Eli Lilly's San Diego biotech incubator",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32912",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "08.25 13:27",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Korea's EyeGene, partners get government funding for mRNA Covid vaccine",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32903",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "08.25 13:23",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Novelty Nobility clears China trial hurdle for CSU drug NN2802",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32906",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "08.25 11:13",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Opdivo moves toward MSI-H gastric cancer reimbursement while Keytruda waits",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32905",
-          "category": "Policy",
-          "author": "Kim Yun-mi",
-          "date": "08.25 11:00",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "[Interview] ‘Don’t save CAR-T for later’: ZUMA-7 investigator urges earlier use in DLBCL",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32902",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.25 09:20",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Novo Nordisk to test zenagamtide against its own semaglutide in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32900",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "08.24 17:09",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }

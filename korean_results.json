@@ -1,9 +1,145 @@
 {
-  "last_updated": "2026-08-25 08:12:09 IST",
+  "last_updated": "2026-08-26 08:14:29 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Lee calls for ‘quiet’ healthcare reform as government shifts focus to regional care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32938",
+          "category": "Policy",
+          "author": "Lim Su-min",
+          "date": "08.26 16:09",
+          "new": false
+        },
+        {
+          "title": "Hanyang professor wins LG Chem Future Medical Scientist Award for research on intractable ear diseases",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32937",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "08.26 16:01",
+          "new": false
+        },
+        {
+          "title": "Hanyang University Cancer Hospital to open Sept. 4 with 15 specialized centers",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32936",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "08.26 15:50",
+          "new": false
+        },
+        {
+          "title": "VAXDIGM joins $2 mil. project to develop antivirals for future Disease X threats",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32935",
+          "category": "Bio",
+          "author": "Park Gi-taek",
+          "date": "08.26 15:46",
+          "new": false
+        },
+        {
+          "title": "Lunit puts new medical AI model to the test in 48-hour hackathon",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32933",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "08.26 15:39",
+          "new": false
+        },
+        {
+          "title": "Korea widens free flu vaccination to children through age 14, starting Sept. 21",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32934",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "08.26 14:58",
+          "new": false
+        },
+        {
+          "title": "[Special] From Baengnyeong Island to a hospital ship, Inha takes medical education into the community",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32932",
+          "category": "Hospital",
+          "author": "Song Soo-youn",
+          "date": "08.26 13:52",
+          "new": false
+        },
+        {
+          "title": "Korea recognizes pancreatic disability, but gaps remain in CGM, insulin pump support",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32931",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "08.26 13:41",
+          "new": false
+        },
+        {
+          "title": "Ilsan Paik Hospital Professor Suh named to lead orthopedic pain society",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32930",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "08.26 13:33",
+          "new": false
+        },
+        {
+          "title": "Veterans’ hospital seeks to build more integrated care system for better care of older patients",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32929",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "08.26 13:13",
+          "new": false
+        },
+        {
+          "title": "Pediatric palliative care unavailable in 10 of Korea's 16 regions",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32928",
+          "category": "Policy",
+          "author": "Kim Yoon-mi",
+          "date": "08.26 13:01",
+          "new": false
+        },
+        {
+          "title": "LYV Sciences takes YVOIRE filler campaign across major Chinese cities",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32927",
+          "category": "K-Beauty",
+          "author": "Kwon Min-seon",
+          "date": "08.26 11:04",
+          "new": false
+        },
+        {
+          "title": "SNUBH leads Korea-US project to develop light-activated pancreatic cancer therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32926",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "08.26 10:52",
+          "new": false
+        },
+        {
+          "title": "Daewoong to supply Abbott Libre CGM at 45% discount in Seoul prediabetes program",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32925",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "08.26 10:21",
+          "new": false
+        },
+        {
+          "title": "Abdominal ultrasound may identify fatty liver patients at high risk of liver cancer and complications early",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32922",
+          "category": "Hospital",
+          "author": "You Ji-young",
+          "date": "08.26 09:10",
+          "new": false
+        },
+        {
+          "title": "Innovative treatments transform lymphoma care: CAR-T vs. bispecific antibodies",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32921",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "08.26 09:05",
+          "new": false
+        },
+        {
+          "title": "CHA Biotech wins $2.3 mil. grant for lung disease cell therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32924",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "08.25 17:18",
+          "new": false
+        },
         {
           "title": "Oscotec builds AI platform to fight cancer drug resistance",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32923",
@@ -26,142 +162,6 @@
           "category": "Bio",
           "author": "Kim Ji-hye",
           "date": "08.25 15:11",
-          "new": false
-        },
-        {
-          "title": "Seoul St. Mary’s Hospital turns to quantum computing to advance cardiovascular blood flow analysis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32917",
-          "category": "Hospital",
-          "author": "Lim Su-min",
-          "date": "08.25 14:05",
-          "new": false
-        },
-        {
-          "title": "Tecentriq set to gain Korea reimbursement for early-stage NSCLC",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32915",
-          "category": "Pharma",
-          "author": "Koh Jung Min",
-          "date": "08.25 13:44",
-          "new": false
-        },
-        {
-          "title": "Severance marks 200th catheter-based pulmonary valve replacement for congenital heart disease",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32914",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "08.25 13:36",
-          "new": false
-        },
-        {
-          "title": "Daewoong Pharma prepares for Indonesia halal rules ahead of October rollout",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32913",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "08.25 13:30",
-          "new": false
-        },
-        {
-          "title": "Rznomics to join Eli Lilly's San Diego biotech incubator",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32912",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "08.25 13:27",
-          "new": false
-        },
-        {
-          "title": "Korea's EyeGene, partners get government funding for mRNA Covid vaccine",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32903",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "08.25 13:23",
-          "new": false
-        },
-        {
-          "title": "Why do some rheumatic diseases resist treatment? Mathematical model offers clues",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32911",
-          "category": "Hospital",
-          "author": "Kwak Sung-sun",
-          "date": "08.25 13:20",
-          "new": false
-        },
-        {
-          "title": "[Contribution] How hypertension treatment during pregnancy has changed",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32909",
-          "category": "Opinion",
-          "author": "Ryu Jae-choon",
-          "date": "08.25 13:13",
-          "new": false
-        },
-        {
-          "title": "Speculation over health minister replacement resurfaces ahead of Chuseok",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32908",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "08.25 13:10",
-          "new": false
-        },
-        {
-          "title": "'AR training cuts nurses' emergency transfusion prep time by 62%'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32907",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "08.25 11:36",
-          "new": false
-        },
-        {
-          "title": "Novelty Nobility clears China trial hurdle for CSU drug NN2802",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32906",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "08.25 11:13",
-          "new": false
-        },
-        {
-          "title": "SNUBH named HIMSS global research partner for healthcare AI",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32904",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "08.25 11:01",
-          "new": false
-        },
-        {
-          "title": "Opdivo moves toward MSI-H gastric cancer reimbursement while Keytruda waits",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32905",
-          "category": "Policy",
-          "author": "Kim Yun-mi",
-          "date": "08.25 11:00",
-          "new": false
-        },
-        {
-          "title": "Clean driving record may hide crash risk in older drivers, study finds",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32901",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "08.25 10:07",
-          "new": false
-        },
-        {
-          "title": "[Interview] ‘Don’t save CAR-T for later’: ZUMA-7 investigator urges earlier use in DLBCL",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32902",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "08.25 09:20",
-          "new": false
-        },
-        {
-          "title": "Novo Nordisk to test zenagamtide against its own semaglutide in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32900",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "08.24 17:09",
-          "new": false
-        },
-        {
-          "title": "Beyond profit and loss: How Hongseong Medical Center keeps essential care alive",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32899",
-          "category": "Hospital",
-          "author": "Kwak Sung-sun",
-          "date": "08.24 16:54",
           "new": false
         }
       ]
