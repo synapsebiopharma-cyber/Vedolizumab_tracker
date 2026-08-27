@@ -1,60 +1,87 @@
 {
-  "last_updated": "2026-08-26 08:14:29 IST",
+  "last_updated": "2026-08-27 10:07:14 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "VAXDIGM joins $2 mil. project to develop antivirals for future Disease X threats",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32935",
-          "category": "Bio",
-          "author": "Park Gi-taek",
-          "date": "08.26 15:46",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "LYV Sciences takes YVOIRE filler campaign across major Chinese cities",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32927",
-          "category": "K-Beauty",
-          "author": "Kwon Min-seon",
-          "date": "08.26 11:04",
+          "title": "Neurophet to supply brain-imaging software to US clinic Elevate",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32955",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "08.27 17:40",
           "new": false,
           "tag": "Other"
         },
         {
-          "title": "SNUBH leads Korea-US project to develop light-activated pancreatic cancer therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32926",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "08.26 10:52",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Daewoong to supply Abbott Libre CGM at 45% discount in Seoul prediabetes program",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32925",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "08.26 10:21",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "CHA Biotech wins $2.3 mil. grant for lung disease cell therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32924",
+          "title": "FDA grants fast track to SOTIO, LigaChem's soft tissue sarcoma drug",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32954",
           "category": "Bio",
           "author": "Kim Ji-hye",
-          "date": "08.25 17:18",
+          "date": "08.27 17:01",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "GC MediAI targets 'medical OS' platform built on clinic network",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32953",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "08.27 16:30",
           "new": false,
           "tag": "Pipeline"
         },
         {
-          "title": "Oscotec builds AI platform to fight cancer drug resistance",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32923",
+          "title": "IMBdx targets 30-cancer detection with single blood test by 2030",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32947",
+          "category": "Device/ICT",
+          "author": "You Ji-young",
+          "date": "08.27 13:27",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "EuBiologics invests $10 mil. in US vaccine JV, raises stake to 80%",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32944",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "08.27 11:16",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "HLB Innovation acquires HLB Cell to build Asian base for Verismo’s cell therapies",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32943",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "08.27 10:55",
+          "new": false,
+          "tag": "Acquisition"
+        },
+        {
+          "title": "Celltrion’s SC infliximab franchise nears halfway mark toward ₩1tri. won sales target",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32942",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "08.27 10:51",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Huons, Huonslab scrap merger as share price falls, shareholder opposition grows",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32940",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "08.27 09:41",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "SK biopharmaceuticals builds toward a two-drug US epilepsy franchise",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32939",
           "category": "Bio",
           "author": "Kim Ji-hye",
-          "date": "08.25 16:11",
+          "date": "08.26 17:48",
           "new": false,
           "tag": "Pipeline"
         }
