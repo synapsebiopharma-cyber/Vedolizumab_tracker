@@ -1,18 +1,9 @@
 {
-  "last_updated": "2026-08-27 10:07:14 IST",
+  "last_updated": "2026-08-27 18:27:45 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
-        {
-          "title": "Neurophet to supply brain-imaging software to US clinic Elevate",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32955",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "08.27 17:40",
-          "new": false,
-          "tag": "Other"
-        },
         {
           "title": "FDA grants fast track to SOTIO, LigaChem's soft tissue sarcoma drug",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32954",
@@ -21,24 +12,6 @@
           "date": "08.27 17:01",
           "new": false,
           "tag": "FDA Approval"
-        },
-        {
-          "title": "GC MediAI targets 'medical OS' platform built on clinic network",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32953",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "08.27 16:30",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "IMBdx targets 30-cancer detection with single blood test by 2030",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32947",
-          "category": "Device/ICT",
-          "author": "You Ji-young",
-          "date": "08.27 13:27",
-          "new": false,
-          "tag": "Pipeline"
         },
         {
           "title": "EuBiologics invests $10 mil. in US vaccine JV, raises stake to 80%",
@@ -74,7 +47,7 @@
           "author": "Kwon Min-seon",
           "date": "08.27 09:41",
           "new": false,
-          "tag": "Financial"
+          "tag": "Acquisition"
         },
         {
           "title": "SK biopharmaceuticals builds toward a two-drug US epilepsy franchise",
