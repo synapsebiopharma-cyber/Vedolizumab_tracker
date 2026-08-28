@@ -1,9 +1,16 @@
 {
   "source": "https://samsungbiologics.com/ir/resource/notice?tab=5",
-  "last_fetched": "2026-08-27T18:29:27Z",
-  "total_runs": 243,
-  "new_on_last_run": 0,
+  "last_fetched": "2026-08-28T11:40:16Z",
+  "total_runs": 244,
+  "new_on_last_run": 1,
   "notices": [
+    {
+      "id": "boardseq-3716",
+      "title": "CEO IR Newsletter : Rights Offering",
+      "url": "https://samsungbiologics.com/ir/resource/notice-view?boardseq=3716&schboardctgryccd=5&schstring=&schboardyear=&boarddtm=1787882400000&page=1&tab=5",
+      "date": "August 28, 2026",
+      "new": true
+    },
     {
       "id": "boardseq-3699",
       "title": "2026 2Q CEO IR Newsletter",
@@ -65,13 +72,6 @@
       "title": "2024 FY CEO IR Newsletter",
       "url": "https://samsungbiologics.com/ir/resource/notice-view?boardseq=3088&schboardctgryccd=5&schstring=&schboardyear=&boarddtm=1737536400000&page=1&tab=5",
       "date": "January 22, 2025",
-      "new": false
-    },
-    {
-      "id": "boardseq-2980",
-      "title": "2024 3Q CEO IR Newsletter",
-      "url": "https://samsungbiologics.com/ir/resource/notice-view?boardseq=2980&schboardctgryccd=5&schstring=&schboardyear=&boarddtm=1729609200000&page=1&tab=5",
-      "date": "October 23, 2024",
       "new": false
     }
   ]

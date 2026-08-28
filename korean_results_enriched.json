@@ -1,60 +1,69 @@
 {
-  "last_updated": "2026-08-27 18:27:45 IST",
+  "last_updated": "2026-08-28 11:38:32 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea’s GC Biopharma, France’s Osivax partner on combination flu vaccine",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32973",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "08.28 18:08",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Amgen’s Blincyto wins expanded reimbursement for B-ALL consolidation therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32969",
+          "category": "Pharma",
+          "author": "Koh Jung Min",
+          "date": "08.28 15:41",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "LigaChem-ABL Bio’s ROR1 ADC posts 100% response rate in 31 first-line DLBCL patients",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32968",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "08.28 15:37",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Bavencio changed the map of 1st-line bladder cancer care in Korea: experts",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32966",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "08.28 14:54",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Pin Therapeutics outlines molecular glue development strategy at China TPD forum",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32963",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "08.28 13:31",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Vivozon signs deal to supply Unafra painkiller to China’s Hainan medical zone",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32959",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "08.28 10:48",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "FDA grants fast track to SOTIO, LigaChem's soft tissue sarcoma drug",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32954",
           "category": "Bio",
           "author": "Kim Ji-hye",
           "date": "08.27 17:01",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "EuBiologics invests $10 mil. in US vaccine JV, raises stake to 80%",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32944",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "08.27 11:16",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "HLB Innovation acquires HLB Cell to build Asian base for Verismo’s cell therapies",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32943",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "08.27 10:55",
-          "new": false,
-          "tag": "Acquisition"
-        },
-        {
-          "title": "Celltrion’s SC infliximab franchise nears halfway mark toward ₩1tri. won sales target",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32942",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "08.27 10:51",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Huons, Huonslab scrap merger as share price falls, shareholder opposition grows",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32940",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "08.27 09:41",
-          "new": false,
-          "tag": "Acquisition"
-        },
-        {
-          "title": "SK biopharmaceuticals builds toward a two-drug US epilepsy franchise",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32939",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "08.26 17:48",
           "new": false,
           "tag": "Pipeline"
         }
