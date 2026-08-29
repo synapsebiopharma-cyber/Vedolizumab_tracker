@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28 19:36:55 IST",
+  "last_updated": "2026-08-29 07:16:33 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
@@ -20,7 +20,7 @@
           "author": "Koh Jung Min",
           "date": "08.28 15:41",
           "new": false,
-          "tag": "FDA Approval"
+          "tag": "Other"
         },
         {
           "title": "LigaChem-ABL Bio’s ROR1 ADC posts 100% response rate in 31 first-line DLBCL patients",
@@ -50,6 +50,24 @@
           "tag": "Pipeline"
         },
         {
+          "title": "CGBio’s Novosis achieves bone union in all 7 patients in preliminary scaphoid nonunion study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32962",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "08.28 13:09",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Samsung Biologics to raise ₩3 tril. for PolyPeptide deal, expansion",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32957",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "08.28 10:55",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
           "title": "Vivozon signs deal to supply Unafra painkiller to China’s Hainan medical zone",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32959",
           "category": "Pharma",
@@ -65,7 +83,7 @@
           "author": "Kim Ji-hye",
           "date": "08.27 17:01",
           "new": false,
-          "tag": "FDA Approval"
+          "tag": "Pipeline"
         }
       ]
     }
