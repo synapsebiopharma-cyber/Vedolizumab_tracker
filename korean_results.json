@@ -1,9 +1,49 @@
 {
-  "last_updated": "2026-08-31 05:54:01 IST",
+  "last_updated": "2026-08-31 15:21:48 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Samsung Biologics launches $1.9 bil. tender offer for PolyPeptide Group",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32992",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "08.31 17:27",
+          "new": false
+        },
+        {
+          "title": "What AI can’t translate: 'Vento' helps foreign patients navigate Korean healthcare",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32990",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "08.31 16:14",
+          "new": false
+        },
+        {
+          "title": "Pfizer says Paxlovid supply stable as Covid-19 rises again in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32991",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "08.31 16:03",
+          "new": false
+        },
+        {
+          "title": "Korea’s focus on top hospitals risks weakening local emergency care, doctors warn",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32989",
+          "category": "Hospital",
+          "author": "Song Soo-youn",
+          "date": "08.31 15:31",
+          "new": false
+        },
+        {
+          "title": "Regional medical schools to reserve 7 in 10 seats for local students in 2027",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32987",
+          "category": "Policy",
+          "author": "Kim Eun-young",
+          "date": "08.31 15:22",
+          "new": false
+        },
         {
           "title": "Merck’s Pergoveris fertility pen gets Korean insurance coverage, upgraded needle",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32988",
@@ -122,46 +162,6 @@
           "category": "Bio",
           "author": "Kim Ji-hye",
           "date": "08.28 17:37",
-          "new": false
-        },
-        {
-          "title": "KDDF conference explores how scientific discoveries translate into new drugs",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32971",
-          "category": "Policy",
-          "author": "Hong Sook",
-          "date": "08.28 15:59",
-          "new": false
-        },
-        {
-          "title": "Regulator to consider patient input in fast-track reviews for innovative drugs",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32970",
-          "category": "Policy",
-          "author": "Kim Kyoung-Won",
-          "date": "08.28 15:45",
-          "new": false
-        },
-        {
-          "title": "Amgen’s Blincyto wins expanded reimbursement for B-ALL consolidation therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32969",
-          "category": "Pharma",
-          "author": "Koh Jung Min",
-          "date": "08.28 15:41",
-          "new": false
-        },
-        {
-          "title": "LigaChem-ABL Bio’s ROR1 ADC posts 100% response rate in 31 first-line DLBCL patients",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32968",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "08.28 15:37",
-          "new": false
-        },
-        {
-          "title": "AI model uses retinal images to detect dementia and predict future risk",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32967",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "08.28 14:59",
           "new": false
         }
       ]
