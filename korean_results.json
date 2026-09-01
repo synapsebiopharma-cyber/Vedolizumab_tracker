@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-09-01 05:27:05 IST",
+  "last_updated": "2026-09-01 12:45:43 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "ViGenCell begins 1st treatment under Korea's regenerative medicine framework",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33010",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.01 16:58",
+          "new": false
+        },
+        {
+          "title": "Korea to expand HPV shots, infectious disease defenses in 2027 budget",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33009",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "09.01 16:49",
+          "new": false
+        },
+        {
+          "title": "Pfizer launches Korea’s 1st oral CGRP drug for both migraine treatment, prevention",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33008",
+          "category": "Pharma",
+          "author": "Koh Jung Min",
+          "date": "09.01 16:22",
+          "new": false
+        },
+        {
+          "title": "Kangstem lands 2nd global pharma organoid deal in 2 months",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33004",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.01 16:20",
+          "new": false
+        },
+        {
+          "title": "Hanmi Science taps Megazone to expand AI use across group",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33007",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "09.01 16:16",
+          "new": false
+        },
+        {
+          "title": "After 550-day wait, Winrevair seeks Korea’s 100-day reimbursement fast track",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33006",
+          "category": "Pharma",
+          "author": "Koh Jung Min",
+          "date": "09.01 16:14",
+          "new": false
+        },
+        {
+          "title": "Hospitals balk at reopening psychiatric wards as losses, staff shortages bite",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33005",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "09.01 16:10",
+          "new": false
+        },
+        {
+          "title": "Korea puts AI to work reviewing medical images for insurance claims",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33003",
+          "category": "Policy",
+          "author": "Lim Su-min",
+          "date": "09.01 15:39",
+          "new": false
+        },
+        {
+          "title": "Korean ADC pioneers look beyond antibodies, cytotoxic payloads",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33002",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.01 15:05",
+          "new": false
+        },
         {
           "title": "Dravet drug Fintepla gets Korean coverage, cutting annual patient cost by 90%",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33001",
@@ -90,78 +162,6 @@
           "category": "Bio",
           "author": "Kim Ji-hye",
           "date": "08.31 17:27",
-          "new": false
-        },
-        {
-          "title": "What AI can’t translate: 'Vento' helps foreign patients navigate Korean healthcare",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32990",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "08.31 16:14",
-          "new": false
-        },
-        {
-          "title": "Pfizer says Paxlovid supply stable as Covid-19 rises again in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32991",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "08.31 16:03",
-          "new": false
-        },
-        {
-          "title": "Korea’s focus on top hospitals risks weakening local emergency care, doctors warn",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32989",
-          "category": "Hospital",
-          "author": "Song Soo-youn",
-          "date": "08.31 15:31",
-          "new": false
-        },
-        {
-          "title": "Regional medical schools to reserve 7 in 10 seats for local students in 2027",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32987",
-          "category": "Policy",
-          "author": "Kim Eun-young",
-          "date": "08.31 15:22",
-          "new": false
-        },
-        {
-          "title": "Merck’s Pergoveris fertility pen gets Korean insurance coverage, upgraded needle",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32988",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "08.31 14:37",
-          "new": false
-        },
-        {
-          "title": "Cataract surgery tops Korea’s major procedures, C-sections rise fast",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32986",
-          "category": "Hospital",
-          "author": "Lim Su-min",
-          "date": "08.31 13:47",
-          "new": false
-        },
-        {
-          "title": "New organ failure after admission signals worse prognosis in chronic liver disease",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32985",
-          "category": "Hospital",
-          "author": "Kwak Sung-sun",
-          "date": "08.31 13:43",
-          "new": false
-        },
-        {
-          "title": "Radiologists fear clinic closures as imaging reimbursement cuts loom",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32984",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "08.31 13:38",
-          "new": false
-        },
-        {
-          "title": "Goodoc joins SKT-led AI consortium to connect searches with healthcare services",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32983",
-          "category": "Device/ICT",
-          "author": "Hong Sook",
-          "date": "08.31 13:34",
           "new": false
         }
       ]

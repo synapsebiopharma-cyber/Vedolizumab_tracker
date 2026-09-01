@@ -1,9 +1,63 @@
 {
-  "last_updated": "2026-09-01 05:27:05 IST",
+  "last_updated": "2026-09-01 12:45:43 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "ViGenCell begins 1st treatment under Korea's regenerative medicine framework",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33010",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.01 16:58",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Pfizer launches Korea’s 1st oral CGRP drug for both migraine treatment, prevention",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33008",
+          "category": "Pharma",
+          "author": "Koh Jung Min",
+          "date": "09.01 16:22",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Kangstem lands 2nd global pharma organoid deal in 2 months",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33004",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.01 16:20",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Hanmi Science taps Megazone to expand AI use across group",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33007",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "09.01 16:16",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "After 550-day wait, Winrevair seeks Korea’s 100-day reimbursement fast track",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33006",
+          "category": "Pharma",
+          "author": "Koh Jung Min",
+          "date": "09.01 16:14",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Korean ADC pioneers look beyond antibodies, cytotoxic payloads",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33002",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.01 15:05",
+          "new": false,
+          "tag": "Pipeline"
+        },
         {
           "title": "Dravet drug Fintepla gets Korean coverage, cutting annual patient cost by 90%",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33001",
@@ -20,7 +74,7 @@
           "author": "Kim Yoon-mi",
           "date": "09.01 11:16",
           "new": false,
-          "tag": "Other"
+          "tag": "FDA Approval"
         },
         {
           "title": "[ESC 2026] SEERS’ 72-hour mobiCARE strategy fails to beat standard care in CANDLE-AF",
@@ -48,24 +102,6 @@
           "date": "08.31 17:27",
           "new": false,
           "tag": "Acquisition"
-        },
-        {
-          "title": "Pfizer says Paxlovid supply stable as Covid-19 rises again in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32991",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "08.31 16:03",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Merck’s Pergoveris fertility pen gets Korean insurance coverage, upgraded needle",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32988",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "08.31 14:37",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }
