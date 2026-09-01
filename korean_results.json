@@ -1,9 +1,89 @@
 {
-  "last_updated": "2026-08-31 15:21:48 IST",
+  "last_updated": "2026-09-01 05:27:05 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Dravet drug Fintepla gets Korean coverage, cutting annual patient cost by 90%",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33001",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "09.01 14:22",
+          "new": false
+        },
+        {
+          "title": "Regular exercise linked to lower graft failure, death risk after kidney transplant",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33000",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "09.01 14:12",
+          "new": false
+        },
+        {
+          "title": "Roen Surgical’s Zamenix gets MFDS nod for robotic kidney stone suction",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32999",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "09.01 13:25",
+          "new": false
+        },
+        {
+          "title": "KSMO 2026 to draw 2,300 cancer experts to Seoul, push Asia-led precision oncology",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32998",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "09.01 13:06",
+          "new": false
+        },
+        {
+          "title": "SK plasma launches Korea’s first 75-mg eltrombopag tablet, cutting pill burden",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32997",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "09.01 11:16",
+          "new": false
+        },
+        {
+          "title": "IVI marks 25th vaccinology course with training across Seoul, Kigali, Stockholm",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32996",
+          "category": "Policy",
+          "author": "Kim Yoon-mi",
+          "date": "09.01 10:49",
+          "new": false
+        },
+        {
+          "title": "[ESC 2026] SEERS’ 72-hour mobiCARE strategy fails to beat standard care in CANDLE-AF",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32995",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "09.01 10:25",
+          "new": false
+        },
+        {
+          "title": "[ESC 2026] Sky Labs CEO sees global uptake accelerating for cuffless BP monitoring",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32993",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "09.01 10:16",
+          "new": false
+        },
+        {
+          "title": "[ESC 2026] Vascepa's new REDUCE-IT data highlight residual CV risk beyond LDL-C",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32994",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "09.01 09:22",
+          "new": false
+        },
+        {
+          "title": "[ESC 2026] AI-guided selection cuts AF ablations without sacrificing rhythm control",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32976",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "09.01 09:00",
+          "new": false
+        },
         {
           "title": "Samsung Biologics launches $1.9 bil. tender offer for PolyPeptide Group",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32992",
@@ -82,86 +162,6 @@
           "category": "Device/ICT",
           "author": "Hong Sook",
           "date": "08.31 13:34",
-          "new": false
-        },
-        {
-          "title": "Forcing ER doors open won’t fix Korea’s emergency care crisis, physicians warn",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32982",
-          "category": "Hospital",
-          "author": "Song Soo-youn",
-          "date": "08.31 13:32",
-          "new": false
-        },
-        {
-          "title": "Watching puppy videos lowers blood pressure, stress in office workers: Korean study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32981",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "08.31 13:07",
-          "new": false
-        },
-        {
-          "title": "Huonslab patents HyDIFFUZE SC formulation technology for 11 antibody drugs",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32980",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "08.31 11:32",
-          "new": false
-        },
-        {
-          "title": "Sanofi symposium challenges ‘last resort’ view of insulin therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32978",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "08.31 11:01",
-          "new": false
-        },
-        {
-          "title": "Sky Labs signs deal with Germany's IEM to bring ring BPM to Europe",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32979",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "08.31 10:59",
-          "new": false
-        },
-        {
-          "title": "[ESC 2026] SINGLE-AF study closes evidence gap on DOACs in intermediate-risk AF",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32977",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "08.31 10:24",
-          "new": false
-        },
-        {
-          "title": "[Interview] Emocog bets on Germany’s DiGA pathway as gateway to Europe",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32974",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "08.31 09:46",
-          "new": false
-        },
-        {
-          "title": "[ESC 2026] Cuffless BP rings could replace 24-hour monitoring, Cambridge expert says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32975",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "08.31 09:29",
-          "new": false
-        },
-        {
-          "title": "Korea’s GC Biopharma, France’s Osivax partner on combination flu vaccine",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32973",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "08.28 18:08",
-          "new": false
-        },
-        {
-          "title": "China’s ADC rise creates opportunities, lessons for Korean biotechs: experts",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32972",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "08.28 17:37",
           "new": false
         }
       ]

@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-08-31 15:21:48 IST",
+  "last_updated": "2026-09-01 05:27:05 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Dravet drug Fintepla gets Korean coverage, cutting annual patient cost by 90%",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33001",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "09.01 14:22",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "SK plasma launches Korea’s first 75-mg eltrombopag tablet, cutting pill burden",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32997",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "09.01 11:16",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "[ESC 2026] SEERS’ 72-hour mobiCARE strategy fails to beat standard care in CANDLE-AF",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32995",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "09.01 10:25",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "[ESC 2026] Vascepa's new REDUCE-IT data highlight residual CV risk beyond LDL-C",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32994",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "09.01 09:22",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "Samsung Biologics launches $1.9 bil. tender offer for PolyPeptide Group",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32992",
@@ -28,51 +64,6 @@
           "category": "Pharma",
           "author": "Kim Ji-hye",
           "date": "08.31 14:37",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Huonslab patents HyDIFFUZE SC formulation technology for 11 antibody drugs",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32980",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "08.31 11:32",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Sanofi symposium challenges ‘last resort’ view of insulin therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32978",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "08.31 11:01",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "[ESC 2026] SINGLE-AF study closes evidence gap on DOACs in intermediate-risk AF",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32977",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "08.31 10:24",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Korea’s GC Biopharma, France’s Osivax partner on combination flu vaccine",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32973",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "08.28 18:08",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "China’s ADC rise creates opportunities, lessons for Korean biotechs: experts",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32972",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "08.28 17:37",
           "new": false,
           "tag": "Other"
         }
