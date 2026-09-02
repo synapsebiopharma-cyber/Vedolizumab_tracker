@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02 04:55:25 IST",
+  "last_updated": "2026-09-02 12:20:39 IST",
   "companies": [
     {
       "company": "Alvotech",
@@ -2038,6 +2038,20 @@
     {
       "company": "Teva",
       "investor_news": [
+        {
+          "id": "il-15-celiac-disease-phase-2a-topline-results---conference-call|september-02,-2026",
+          "title": "IL-15 Celiac Disease Phase 2a Topline Results - Conference Call",
+          "date": "September 02, 2026",
+          "url": "https://ir.tevapharm.com/Events-and-Presentations/events-and-presentations/event-details/2026/IL-15-Celiac-Disease-Phase-2a-Topline-Results---Conference-Call/default.aspx",
+          "webcast": "https://events.q4inc.com/attendee/877261455",
+          "docs": [
+            {
+              "title": "Presentation(opens in new window)",
+              "url": "https://s24.q4cdn.com/720828402/files/content_files/Presentation-of-Phase-2a-TLR-in-Celiac-for-TEV-408-Anti-IL-15-For-Website.pdf"
+            }
+          ],
+          "new": false
+        },
         {
           "id": "morgan-stanley-24th-annual-global-healthcare-conference|september-14,-2026",
           "title": "Morgan Stanley 24th Annual Global Healthcare Conference",

@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-09-02 04:53:00 IST",
+  "last_updated": "2026-09-02 12:18:52 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Ex-Samsung Biologics executive to co-lead Korea's MEDIPOST",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33030",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.02 17:17",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "SK biopharmaceuticals loads up on Nvidia B200s for AI drug research",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33023",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.02 14:56",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "KDCA says flu vaccine supply sufficient despite Sanofi delivery delays",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33021",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "09.02 14:23",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Pharos iBio, Kolon partner to develop lung cancer drug candidate",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33020",
@@ -66,51 +93,6 @@
           "date": "09.01 16:58",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "Pfizer launches Korea’s 1st oral CGRP drug for both migraine treatment, prevention",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33008",
-          "category": "Pharma",
-          "author": "Koh Jung Min",
-          "date": "09.01 16:22",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Kangstem lands 2nd global pharma organoid deal in 2 months",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33004",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.01 16:20",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "After 550-day wait, Winrevair seeks Korea’s 100-day reimbursement fast track",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33006",
-          "category": "Pharma",
-          "author": "Koh Jung Min",
-          "date": "09.01 16:14",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Korean ADC pioneers look beyond antibodies, cytotoxic payloads",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33002",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.01 15:05",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Dravet drug Fintepla gets Korean coverage, cutting annual patient cost by 90%",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33001",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "09.01 14:22",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }

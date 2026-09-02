@@ -1,9 +1,89 @@
 {
-  "last_updated": "2026-09-02 04:53:00 IST",
+  "last_updated": "2026-09-02 12:18:52 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Ex-Samsung Biologics executive to co-lead Korea's MEDIPOST",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33030",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.02 17:17",
+          "new": false
+        },
+        {
+          "title": "Fine dust exposure linked to higher LDL cholesterol in Korean adults",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33029",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "09.02 16:32",
+          "new": false
+        },
+        {
+          "title": "Korean dermatologist elected 1st Asian officer of global hair research body",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33028",
+          "category": "Hospital",
+          "author": "Kim Ji-hye",
+          "date": "09.02 16:18",
+          "new": false
+        },
+        {
+          "title": "NMC, Samsung Medical Center team up on severe trauma care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33027",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "09.02 16:02",
+          "new": false
+        },
+        {
+          "title": "AI cuts multiple myeloma trial screening from 2 weeks to seconds",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33026",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "09.02 15:49",
+          "new": false
+        },
+        {
+          "title": "Hugel’s WELLAGE ranked No. 1 dermocosmetics label in Korea for 8th year",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33025",
+          "category": "K-Beauty",
+          "author": "Kim Ji-hye",
+          "date": "09.02 15:38",
+          "new": false
+        },
+        {
+          "title": "[Global Pharma Leadership Voices] From sick care to prevention: why adult vaccination matters in super-aged Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33024",
+          "category": "Opinion",
+          "author": "Gunnar Riediger",
+          "date": "09.02 15:28",
+          "new": false
+        },
+        {
+          "title": "SK biopharmaceuticals loads up on Nvidia B200s for AI drug research",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33023",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.02 14:56",
+          "new": false
+        },
+        {
+          "title": "[Contribution] Personalized cancer vaccines are moving from science fiction to reality",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33022",
+          "category": "Opinion",
+          "author": "Song Kyo-young",
+          "date": "09.02 14:46",
+          "new": false
+        },
+        {
+          "title": "KDCA says flu vaccine supply sufficient despite Sanofi delivery delays",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33021",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "09.02 14:23",
+          "new": false
+        },
         {
           "title": "Pharos iBio, Kolon partner to develop lung cancer drug candidate",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33020",
@@ -82,86 +162,6 @@
           "category": "Policy",
           "author": "Kwak Sung-sun",
           "date": "09.01 16:49",
-          "new": false
-        },
-        {
-          "title": "Pfizer launches Korea’s 1st oral CGRP drug for both migraine treatment, prevention",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33008",
-          "category": "Pharma",
-          "author": "Koh Jung Min",
-          "date": "09.01 16:22",
-          "new": false
-        },
-        {
-          "title": "Kangstem lands 2nd global pharma organoid deal in 2 months",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33004",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.01 16:20",
-          "new": false
-        },
-        {
-          "title": "Hanmi Science taps Megazone to expand AI use across group",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33007",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "09.01 16:16",
-          "new": false
-        },
-        {
-          "title": "After 550-day wait, Winrevair seeks Korea’s 100-day reimbursement fast track",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33006",
-          "category": "Pharma",
-          "author": "Koh Jung Min",
-          "date": "09.01 16:14",
-          "new": false
-        },
-        {
-          "title": "Hospitals balk at reopening psychiatric wards as losses, staff shortages bite",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33005",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "09.01 16:10",
-          "new": false
-        },
-        {
-          "title": "Korea puts AI to work reviewing medical images for insurance claims",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33003",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "09.01 15:39",
-          "new": false
-        },
-        {
-          "title": "Korean ADC pioneers look beyond antibodies, cytotoxic payloads",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33002",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.01 15:05",
-          "new": false
-        },
-        {
-          "title": "Dravet drug Fintepla gets Korean coverage, cutting annual patient cost by 90%",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33001",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "09.01 14:22",
-          "new": false
-        },
-        {
-          "title": "Regular exercise linked to lower graft failure, death risk after kidney transplant",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33000",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "09.01 14:12",
-          "new": false
-        },
-        {
-          "title": "Roen Surgical’s Zamenix gets MFDS nod for robotic kidney stone suction",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32999",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "09.01 13:25",
           "new": false
         }
       ]
