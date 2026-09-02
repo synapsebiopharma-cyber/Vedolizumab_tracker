@@ -1,9 +1,73 @@
 {
-  "last_updated": "2026-09-01 12:45:43 IST",
+  "last_updated": "2026-09-02 04:53:00 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Pharos iBio, Kolon partner to develop lung cancer drug candidate",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33020",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.02 13:38",
+          "new": false
+        },
+        {
+          "title": "HuM&C, ATEC team up to expand global cosmetics business",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33019",
+          "category": "K-Beauty",
+          "author": "Kim Yoon-mi",
+          "date": "09.02 13:36",
+          "new": false
+        },
+        {
+          "title": "Psychiatric emergencies set for essential care talks as doctors demand funding, staff",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33015",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "09.02 13:22",
+          "new": false
+        },
+        {
+          "title": "Samsung bio architect Ko Han-sung helps shape group’s next growth chapter",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33014",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "09.02 12:58",
+          "new": false
+        },
+        {
+          "title": "Drug regulator to deploy up to 15 reviewers per drug under new 240-day system",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33013",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "09.02 11:12",
+          "new": false
+        },
+        {
+          "title": "Yuhan’s disclosed API deals jump 54% to nearly ₩400 bil.",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33012",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "09.02 10:48",
+          "new": false
+        },
+        {
+          "title": "DuChemBio’s prostate cancer PET scan wins insurance coverage",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33016",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.02 10:31",
+          "new": false
+        },
+        {
+          "title": "Onconic's Jaqbo improves reflux symptoms in real-world study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33011",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "09.02 09:04",
+          "new": false
+        },
         {
           "title": "ViGenCell begins 1st treatment under Korea's regenerative medicine framework",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33010",
@@ -98,70 +162,6 @@
           "category": "Device/ICT",
           "author": "Kim Yoon-mi",
           "date": "09.01 13:25",
-          "new": false
-        },
-        {
-          "title": "KSMO 2026 to draw 2,300 cancer experts to Seoul, push Asia-led precision oncology",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32998",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "09.01 13:06",
-          "new": false
-        },
-        {
-          "title": "SK plasma launches Korea’s first 75-mg eltrombopag tablet, cutting pill burden",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32997",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "09.01 11:16",
-          "new": false
-        },
-        {
-          "title": "IVI marks 25th vaccinology course with training across Seoul, Kigali, Stockholm",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32996",
-          "category": "Policy",
-          "author": "Kim Yoon-mi",
-          "date": "09.01 10:49",
-          "new": false
-        },
-        {
-          "title": "[ESC 2026] SEERS’ 72-hour mobiCARE strategy fails to beat standard care in CANDLE-AF",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32995",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "09.01 10:25",
-          "new": false
-        },
-        {
-          "title": "[ESC 2026] Sky Labs CEO sees global uptake accelerating for cuffless BP monitoring",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32993",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "09.01 10:16",
-          "new": false
-        },
-        {
-          "title": "[ESC 2026] Vascepa's new REDUCE-IT data highlight residual CV risk beyond LDL-C",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32994",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "09.01 09:22",
-          "new": false
-        },
-        {
-          "title": "[ESC 2026] AI-guided selection cuts AF ablations without sacrificing rhythm control",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32976",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "09.01 09:00",
-          "new": false
-        },
-        {
-          "title": "Samsung Biologics launches $1.9 bil. tender offer for PolyPeptide Group",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=32992",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "08.31 17:27",
           "new": false
         }
       ]
