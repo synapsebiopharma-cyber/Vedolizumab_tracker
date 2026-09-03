@@ -1,15 +1,42 @@
 {
-  "last_updated": "2026-09-02 12:18:52 IST",
+  "last_updated": "2026-09-03 04:52:08 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Ex-Samsung Biologics executive to co-lead Korea's MEDIPOST",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33030",
+          "title": "Novartis deal caps Alteogen’s banner year as ALT-B4 moves into commercial era",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33036",
           "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.03 11:05",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Celltrion’s Steqeyma reaches 16.2% share of US ustekinumab market: IQVIA",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33033",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "09.03 09:33",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Medytox wins Colombian approval for 3 Atière fillers",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33031",
+          "category": "K-Beauty",
           "author": "Kim Ji-hye",
-          "date": "09.02 17:17",
+          "date": "09.03 09:17",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Daewoong trains global Nabota partners as botulinum toxin business expands",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33032",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.03 09:10",
           "new": false,
           "tag": "Other"
         },
@@ -23,15 +50,6 @@
           "tag": "Pipeline"
         },
         {
-          "title": "KDCA says flu vaccine supply sufficient despite Sanofi delivery delays",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33021",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "09.02 14:23",
-          "new": false,
-          "tag": "Other"
-        },
-        {
           "title": "Pharos iBio, Kolon partner to develop lung cancer drug candidate",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33020",
           "category": "Bio",
@@ -39,60 +57,6 @@
           "date": "09.02 13:38",
           "new": false,
           "tag": "Collaboration"
-        },
-        {
-          "title": "Samsung bio architect Ko Han-sung helps shape group’s next growth chapter",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33014",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "09.02 12:58",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Drug regulator to deploy up to 15 reviewers per drug under new 240-day system",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33013",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "09.02 11:12",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Yuhan’s disclosed API deals jump 54% to nearly ₩400 bil.",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33012",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "09.02 10:48",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "DuChemBio’s prostate cancer PET scan wins insurance coverage",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33016",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.02 10:31",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Onconic's Jaqbo improves reflux symptoms in real-world study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33011",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "09.02 09:04",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "ViGenCell begins 1st treatment under Korea's regenerative medicine framework",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33010",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.01 16:58",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }
