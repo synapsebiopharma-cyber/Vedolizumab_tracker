@@ -1,9 +1,72 @@
 {
-  "last_updated": "2026-09-03 04:52:08 IST",
+  "last_updated": "2026-09-03 12:22:05 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[ESC 2026] Novo Nordisk sees organ protection redefining diabetes, cardiovascular care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33044",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "09.03 17:09",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Korean obesity experts call for insurance coverage of GLP-1 drugs to curb misuse",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33043",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "09.03 16:30",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Korea approves Sephience for phenylketonuria treatment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33042",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "09.03 15:55",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Peptron begins construction of second Osong plant, targets 2028 completion",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33041",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "09.03 15:38",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "GC Wellbeing partner's fat-reduction injection meets endpoints in China phase 3 trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33040",
+          "category": "K-Beauty",
+          "author": "Kwon Min-seon",
+          "date": "09.03 15:08",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Can a one-shot gene therapy change the lifetime cost of hemophilia B?",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33039",
+          "category": "Hospital",
+          "author": "Kim Yun-mi",
+          "date": "09.03 14:29",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Doctors urge health ministry to address Mounjaro price gap as illegal imports surge",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33038",
+          "category": "Policy",
+          "author": "Kim Eun-young, Kim Yoon-mi",
+          "date": "09.03 13:50",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Novartis deal caps Alteogen’s banner year as ALT-B4 moves into commercial era",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33036",
@@ -12,6 +75,15 @@
           "date": "09.03 11:05",
           "new": false,
           "tag": "Collaboration"
+        },
+        {
+          "title": "Korea tightens growth hormone oversight as industry pushes back on ‘misuse’ label",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33035",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "09.03 10:42",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "Celltrion’s Steqeyma reaches 16.2% share of US ustekinumab market: IQVIA",
@@ -41,22 +113,31 @@
           "tag": "Other"
         },
         {
-          "title": "SK biopharmaceuticals loads up on Nvidia B200s for AI drug research",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33023",
+          "title": "Ex-Samsung Biologics executive to co-lead Korea's MEDIPOST",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33030",
           "category": "Bio",
           "author": "Kim Ji-hye",
-          "date": "09.02 14:56",
+          "date": "09.02 17:17",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Other"
         },
         {
-          "title": "Pharos iBio, Kolon partner to develop lung cancer drug candidate",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33020",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.02 13:38",
+          "title": "AI cuts multiple myeloma trial screening from 2 weeks to seconds",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33026",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "09.02 15:49",
           "new": false,
-          "tag": "Collaboration"
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Hugel’s WELLAGE ranked No. 1 dermocosmetics label in Korea for 8th year",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33025",
+          "category": "K-Beauty",
+          "author": "Kim Ji-hye",
+          "date": "09.02 15:38",
+          "new": false,
+          "tag": "Other"
         }
       ]
     }

@@ -1,9 +1,57 @@
 {
-  "last_updated": "2026-09-03 04:52:08 IST",
+  "last_updated": "2026-09-03 12:22:05 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[ESC 2026] Novo Nordisk sees organ protection redefining diabetes, cardiovascular care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33044",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "09.03 17:09",
+          "new": false
+        },
+        {
+          "title": "Korean obesity experts call for insurance coverage of GLP-1 drugs to curb misuse",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33043",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "09.03 16:30",
+          "new": false
+        },
+        {
+          "title": "Korea approves Sephience for phenylketonuria treatment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33042",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "09.03 15:55",
+          "new": false
+        },
+        {
+          "title": "Peptron begins construction of second Osong plant, targets 2028 completion",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33041",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "09.03 15:38",
+          "new": false
+        },
+        {
+          "title": "GC Wellbeing partner's fat-reduction injection meets endpoints in China phase 3 trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33040",
+          "category": "K-Beauty",
+          "author": "Kwon Min-seon",
+          "date": "09.03 15:08",
+          "new": false
+        },
+        {
+          "title": "Can a one-shot gene therapy change the lifetime cost of hemophilia B?",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33039",
+          "category": "Hospital",
+          "author": "Kim Yun-mi",
+          "date": "09.03 14:29",
+          "new": false
+        },
         {
           "title": "Doctors urge health ministry to address Mounjaro price gap as illegal imports surge",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33038",
@@ -114,54 +162,6 @@
           "category": "K-Beauty",
           "author": "Kim Ji-hye",
           "date": "09.02 15:38",
-          "new": false
-        },
-        {
-          "title": "[Global Pharma Leadership Voices] From sick care to prevention: why adult vaccination matters in super-aged Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33024",
-          "category": "Opinion",
-          "author": "Gunnar Riediger",
-          "date": "09.02 15:28",
-          "new": false
-        },
-        {
-          "title": "SK biopharmaceuticals loads up on Nvidia B200s for AI drug research",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33023",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.02 14:56",
-          "new": false
-        },
-        {
-          "title": "[Contribution] Personalized cancer vaccines are moving from science fiction to reality",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33022",
-          "category": "Opinion",
-          "author": "Song Kyo-young",
-          "date": "09.02 14:46",
-          "new": false
-        },
-        {
-          "title": "KDCA says flu vaccine supply sufficient despite Sanofi delivery delays",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33021",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "09.02 14:23",
-          "new": false
-        },
-        {
-          "title": "Pharos iBio, Kolon partner to develop lung cancer drug candidate",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33020",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.02 13:38",
-          "new": false
-        },
-        {
-          "title": "HuM&C, ATEC team up to expand global cosmetics business",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33019",
-          "category": "K-Beauty",
-          "author": "Kim Yoon-mi",
-          "date": "09.02 13:36",
           "new": false
         }
       ]
