@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-09-04 04:53:03 IST",
+  "last_updated": "2026-09-04 12:21:27 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Hanmi’s once-weekly hyperinsulinism drug advances in global phase 2",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33053",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.04 14:26",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Opdivo moves closer to Korea coverage in esophageal, liver cancers, setting up price battle",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33052",
+          "category": "Policy",
+          "author": "Kim Yun-mi",
+          "date": "09.04 14:01",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Curocell’s CAR-T therapy Rimqarto clears key reimbursement hurdle",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33051",
@@ -47,7 +65,7 @@
           "author": "Lee Han-soo",
           "date": "09.03 17:09",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Other"
         },
         {
           "title": "Korean obesity experts call for insurance coverage of GLP-1 drugs to curb misuse",
@@ -86,47 +104,11 @@
           "tag": "Clinical Trial"
         },
         {
-          "title": "Can a one-shot gene therapy change the lifetime cost of hemophilia B?",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33039",
-          "category": "Hospital",
-          "author": "Kim Yun-mi",
-          "date": "09.03 14:29",
-          "new": false,
-          "tag": "Other"
-        },
-        {
           "title": "Doctors urge health ministry to address Mounjaro price gap as illegal imports surge",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33038",
           "category": "Policy",
           "author": "Kim Eun-young, Kim Yoon-mi",
           "date": "09.03 13:50",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Novartis deal caps Alteogen’s banner year as ALT-B4 moves into commercial era",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33036",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "09.03 11:05",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Korea tightens growth hormone oversight as industry pushes back on ‘misuse’ label",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33035",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "09.03 10:42",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Celltrion’s Steqeyma reaches 16.2% share of US ustekinumab market: IQVIA",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33033",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "09.03 09:33",
           "new": false,
           "tag": "Other"
         }
