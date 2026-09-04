@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-09-03 12:22:05 IST",
+  "last_updated": "2026-09-04 04:53:03 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Curocell’s CAR-T therapy Rimqarto clears key reimbursement hurdle",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33051",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.04 13:52",
+          "new": false
+        },
+        {
+          "title": "GC Biopharma pushes into senior flu vaccine market with phase 2/3 trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33050",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "09.04 13:26",
+          "new": false
+        },
+        {
+          "title": "Kakao Healthcare earns EcoVadis silver rating for sustainability",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33049",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "09.04 11:29",
+          "new": false
+        },
+        {
+          "title": "Kolmar Korea becomes 1st K-beauty firm invited to Première Vision Paris",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33048",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "09.04 11:07",
+          "new": false
+        },
+        {
+          "title": "Samsung Bioepis gets Japan nod for Stelara biosimilar",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33046",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.04 10:52",
+          "new": false
+        },
+        {
+          "title": "Sky Labs soars 171% in Kosdaq debut, eyes global expansion",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33047",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.04 10:46",
+          "new": false
+        },
+        {
+          "title": "Pfizer's Enbrel gains Korean reimbursement for non-radiographic axial spondyloarthritis",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33045",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.04 09:53",
+          "new": false
+        },
         {
           "title": "[ESC 2026] Novo Nordisk sees organ protection redefining diabetes, cardiovascular care",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33044",
@@ -106,62 +162,6 @@
           "category": "K-Beauty",
           "author": "Kim Ji-hye",
           "date": "09.03 09:17",
-          "new": false
-        },
-        {
-          "title": "Daewoong trains global Nabota partners as botulinum toxin business expands",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33032",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.03 09:10",
-          "new": false
-        },
-        {
-          "title": "Ex-Samsung Biologics executive to co-lead Korea's MEDIPOST",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33030",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.02 17:17",
-          "new": false
-        },
-        {
-          "title": "Fine dust exposure linked to higher LDL cholesterol in Korean adults",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33029",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "09.02 16:32",
-          "new": false
-        },
-        {
-          "title": "Korean dermatologist elected 1st Asian officer of global hair research body",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33028",
-          "category": "Hospital",
-          "author": "Kim Ji-hye",
-          "date": "09.02 16:18",
-          "new": false
-        },
-        {
-          "title": "NMC, Samsung Medical Center team up on severe trauma care",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33027",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "09.02 16:02",
-          "new": false
-        },
-        {
-          "title": "AI cuts multiple myeloma trial screening from 2 weeks to seconds",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33026",
-          "category": "Hospital",
-          "author": "Lim Su-min",
-          "date": "09.02 15:49",
-          "new": false
-        },
-        {
-          "title": "Hugel’s WELLAGE ranked No. 1 dermocosmetics label in Korea for 8th year",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33025",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "09.02 15:38",
           "new": false
         }
       ]

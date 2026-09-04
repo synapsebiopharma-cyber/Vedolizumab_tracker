@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-09-03 12:22:05 IST",
+  "last_updated": "2026-09-04 04:53:03 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Curocell’s CAR-T therapy Rimqarto clears key reimbursement hurdle",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33051",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.04 13:52",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "GC Biopharma pushes into senior flu vaccine market with phase 2/3 trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33050",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "09.04 13:26",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Samsung Bioepis gets Japan nod for Stelara biosimilar",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33046",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.04 10:52",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Pfizer's Enbrel gains Korean reimbursement for non-radiographic axial spondyloarthritis",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33045",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.04 09:53",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "[ESC 2026] Novo Nordisk sees organ protection redefining diabetes, cardiovascular care",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33044",
@@ -56,7 +92,7 @@
           "author": "Kim Yun-mi",
           "date": "09.03 14:29",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Other"
         },
         {
           "title": "Doctors urge health ministry to address Mounjaro price gap as illegal imports surge",
@@ -91,51 +127,6 @@
           "category": "Pharma",
           "author": "Kim Yoon-mi",
           "date": "09.03 09:33",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Medytox wins Colombian approval for 3 Atière fillers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33031",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "09.03 09:17",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Daewoong trains global Nabota partners as botulinum toxin business expands",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33032",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.03 09:10",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Ex-Samsung Biologics executive to co-lead Korea's MEDIPOST",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33030",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.02 17:17",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "AI cuts multiple myeloma trial screening from 2 weeks to seconds",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33026",
-          "category": "Hospital",
-          "author": "Lim Su-min",
-          "date": "09.02 15:49",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Hugel’s WELLAGE ranked No. 1 dermocosmetics label in Korea for 8th year",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33025",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "09.02 15:38",
           "new": false,
           "tag": "Other"
         }
