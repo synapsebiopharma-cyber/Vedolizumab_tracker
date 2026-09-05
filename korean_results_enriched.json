@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05 04:47:02 IST",
+  "last_updated": "2026-09-05 11:26:19 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
@@ -20,7 +20,7 @@
           "author": "Kim Yun-mi",
           "date": "09.04 14:01",
           "new": false,
-          "tag": "Other"
+          "tag": "Financial"
         },
         {
           "title": "Curocell’s CAR-T therapy Rimqarto clears key reimbursement hurdle",
@@ -29,7 +29,7 @@
           "author": "Lee Han-soo",
           "date": "09.04 13:52",
           "new": false,
-          "tag": "Other"
+          "tag": "Financial"
         },
         {
           "title": "GC Biopharma pushes into senior flu vaccine market with phase 2/3 trial",
@@ -55,6 +55,15 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "09.04 09:53",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "[ESC 2026] Novo Nordisk sees organ protection redefining diabetes, cardiovascular care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33044",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "09.03 17:09",
           "new": false,
           "tag": "Other"
         },
