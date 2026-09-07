@@ -1,17 +1,44 @@
 {
-  "last_updated": "2026-09-07 05:02:48 IST",
+  "last_updated": "2026-09-07 13:50:17 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Daewoong sees Nabota toxin sales reaching ₩300 bil. this year",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33065",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "09.07 13:52",
+          "title": "CSL Seqirus' adjuvanted flu vaccine wins Korean nod for adults aged 50 and older",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33072",
+          "category": "Pharma",
+          "author": "Koh Jung Min",
+          "date": "09.07 16:10",
           "new": false,
-          "tag": "Financial"
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Roche Korea recognized by KSMO for advancing cancer precision medicine",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33071",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.07 15:51",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Novartis Korea partners with Yuhan to expand Rhapsido reach in chronic urticaria",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33067",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.07 14:47",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "DuChemBio to build Korea's 1st radiopharmaceutical CDMO plant",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33066",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.07 14:35",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "Lilly Korea’s atopic dermatitis drug Ebglyss lands nod for 8-week maintenance dosing",
@@ -37,51 +64,6 @@
           "category": "Policy",
           "author": "Kim Yun-mi",
           "date": "09.04 14:01",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Curocell’s CAR-T therapy Rimqarto clears key reimbursement hurdle",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33051",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "09.04 13:52",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "GC Biopharma pushes into senior flu vaccine market with phase 2/3 trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33050",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "09.04 13:26",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Samsung Bioepis gets Japan nod for Stelara biosimilar",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33046",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.04 10:52",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Pfizer's Enbrel gains Korean reimbursement for non-radiographic axial spondyloarthritis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33045",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.04 09:53",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "[ESC 2026] Novo Nordisk sees organ protection redefining diabetes, cardiovascular care",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33044",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "09.03 17:09",
           "new": false,
           "tag": "Other"
         }

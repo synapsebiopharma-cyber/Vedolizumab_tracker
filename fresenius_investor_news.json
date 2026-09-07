@@ -1,9 +1,18 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-09-07T05:04:27Z",
-  "total_runs": 264,
-  "new_on_last_run": 0,
+  "last_fetched": "2026-09-07T13:59:12Z",
+  "total_runs": 265,
+  "new_on_last_run": 1,
   "articles": [
+    {
+      "id": "fresenius-expands-medical-nutrition-portfolio-with-new-real-food-based-enteral-nutrition-concept|september-7,-2026",
+      "title": "Fresenius expands Medical Nutrition Portfolio with new real-food-based enteral nutrition concept",
+      "url": "https://www.fresenius.com/node/7411",
+      "date": "September 7, 2026",
+      "source": "Fresenius Kabi",
+      "meta": "",
+      "new": true
+    },
     {
       "id": "fresenius-raises-approximately-€300-million-through-sale-of-7.8-million-fresenius-medical-care-shares|august-20,-2026",
       "title": "Fresenius raises approximately €300 million through sale of 7.8 million Fresenius Medical Care shares",
@@ -72,15 +81,6 @@
       "title": "Q2 2026 Aide Memoire available",
       "url": "https://www.fresenius.com/node/7370",
       "date": "July 15, 2026",
-      "source": "Fresenius",
-      "meta": "Brief News",
-      "new": false
-    },
-    {
-      "id": "gkv-stabilization-act-approved|july-13,-2026",
-      "title": "GKV Stabilization Act approved",
-      "url": "https://www.fresenius.com/node/7368",
-      "date": "July 13, 2026",
       "source": "Fresenius",
       "meta": "Brief News",
       "new": false
