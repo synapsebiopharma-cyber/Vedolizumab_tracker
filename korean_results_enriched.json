@@ -1,9 +1,63 @@
 {
-  "last_updated": "2026-09-08 04:57:52 IST",
+  "last_updated": "2026-09-08 12:24:03 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea clears 1st homegrown dry eye drug from AJU Pharm, GL Pharm Tech",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33090",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "09.08 17:40",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Hanmi puts AI to work on 4,000 SOPs in quality assurance overhaul",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33086",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "09.08 16:26",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Abortion pill nears Korea debut, but doctors warn law isn’t ready",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33085",
+          "category": "Policy",
+          "author": "Lim Su-min",
+          "date": "09.08 16:08",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Drug delivery divides Korea as telemedicine heads for December rollout",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33084",
+          "category": "Pharma",
+          "author": "Kim Jung-hyun",
+          "date": "09.08 15:40",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Cellbion, Ahn-gook Pharm to co-develop cancer radiopharmaceuticals",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33083",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.08 15:11",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Pfizer taps Ildong to distribute, co-promote migraine drug Nurtec in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33082",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.08 14:02",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "Chasing 13 new drugs, Celltrion takes startup hunt to 3 continents",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33077",
@@ -23,6 +77,24 @@
           "tag": "Pipeline"
         },
         {
+          "title": "AriBio wins Indonesia approval for 4 Bidan HA fillers",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33074",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.08 11:04",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Is Korea slipping down global pharma's drug launch priority list?",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33073",
+          "category": "Policy",
+          "author": "Kim Yun-mi",
+          "date": "09.07 16:41",
+          "new": false,
+          "tag": "Other"
+        },
+        {
           "title": "CSL Seqirus' adjuvanted flu vaccine wins Korean nod for adults aged 50 and older",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33072",
           "category": "Pharma",
@@ -39,33 +111,6 @@
           "date": "09.07 15:51",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Novartis Korea partners with Yuhan to expand Rhapsido reach in chronic urticaria",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33067",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.07 14:47",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "DuChemBio to build Korea's 1st radiopharmaceutical CDMO plant",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33066",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.07 14:35",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Lilly Korea’s atopic dermatitis drug Ebglyss lands nod for 8-week maintenance dosing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33060",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.07 11:00",
-          "new": false,
-          "tag": "FDA Approval"
         }
       ]
     }
