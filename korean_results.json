@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-09-07 13:50:17 IST",
+  "last_updated": "2026-09-08 04:57:52 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea’s unusual summer flu wave could drag into winter, pushing cases 40% higher",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33081",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "09.08 13:46",
+          "new": false
+        },
+        {
+          "title": "Korea’s 365mc takes body-contouring treatments to Thai reality TV",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33080",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "09.08 13:41",
+          "new": false
+        },
+        {
+          "title": "LivsMed rolls out 39-model ArtiSential PRO surgical tool lineup in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33079",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.08 13:21",
+          "new": false
+        },
+        {
+          "title": "Lunit AI links lung cancer tumor environment to mutations, treatment response",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33078",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.08 13:17",
+          "new": false
+        },
+        {
+          "title": "Chasing 13 new drugs, Celltrion takes startup hunt to 3 continents",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33077",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.08 13:05",
+          "new": false
+        },
+        {
+          "title": "SK biopharmaceuticals puts physicians at center of global drug development",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33076",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.08 11:43",
+          "new": false
+        },
+        {
+          "title": "AriBio wins Indonesia approval for 4 Bidan HA fillers",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33074",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.08 11:04",
+          "new": false
+        },
         {
           "title": "Is Korea slipping down global pharma's drug launch priority list?",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33073",
@@ -106,62 +162,6 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "09.07 11:00",
-          "new": false
-        },
-        {
-          "title": "[Global Pharma Leadership Voices] Leadership as a catalyst",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33057",
-          "category": "Opinion",
-          "author": "Christoph Hamann",
-          "date": "09.07 08:00",
-          "new": false
-        },
-        {
-          "title": "[KSMO 2026] ESMO president sees Korea taking bigger role in global cancer research",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33059",
-          "category": "Special",
-          "author": "Kim Ji-hye",
-          "date": "09.04 18:42",
-          "new": false
-        },
-        {
-          "title": "SNUBH studies point to ways to reduce diabetes, fatty liver after pancreatic surgery",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33056",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "09.04 15:42",
-          "new": false
-        },
-        {
-          "title": "[KSMO 2026] Cancer’s ‘undruggable’ RAS target finally cracks after 40 years, expert says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33054",
-          "category": "Special",
-          "author": "Kim Ji-hye",
-          "date": "09.04 15:37",
-          "new": false
-        },
-        {
-          "title": "Team-based diabetic foot care could slash major amputations, Myongji doctors say",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33055",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "09.04 15:18",
-          "new": false
-        },
-        {
-          "title": "Hanmi’s once-weekly hyperinsulinism drug advances in global phase 2",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33053",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.04 14:26",
-          "new": false
-        },
-        {
-          "title": "Opdivo moves closer to Korea coverage in esophageal, liver cancers, setting up price battle",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33052",
-          "category": "Policy",
-          "author": "Kim Yun-mi",
-          "date": "09.04 14:01",
           "new": false
         }
       ]

@@ -1,8 +1,8 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-09-07T13:59:12Z",
-  "total_runs": 265,
-  "new_on_last_run": 1,
+  "last_fetched": "2026-09-08T04:59:29Z",
+  "total_runs": 266,
+  "new_on_last_run": 0,
   "articles": [
     {
       "id": "fresenius-expands-medical-nutrition-portfolio-with-new-real-food-based-enteral-nutrition-concept|september-7,-2026",
@@ -11,7 +11,7 @@
       "date": "September 7, 2026",
       "source": "Fresenius Kabi",
       "meta": "",
-      "new": true
+      "new": false
     },
     {
       "id": "fresenius-raises-approximately-€300-million-through-sale-of-7.8-million-fresenius-medical-care-shares|august-20,-2026",

@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-09-07 13:50:17 IST",
+  "last_updated": "2026-09-08 04:57:52 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Chasing 13 new drugs, Celltrion takes startup hunt to 3 continents",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33077",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.08 13:05",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "SK biopharmaceuticals puts physicians at center of global drug development",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33076",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.08 11:43",
+          "new": false,
+          "tag": "Pipeline"
+        },
         {
           "title": "CSL Seqirus' adjuvanted flu vaccine wins Korean nod for adults aged 50 and older",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33072",
@@ -48,24 +66,6 @@
           "date": "09.07 11:00",
           "new": false,
           "tag": "FDA Approval"
-        },
-        {
-          "title": "Hanmi’s once-weekly hyperinsulinism drug advances in global phase 2",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33053",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.04 14:26",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Opdivo moves closer to Korea coverage in esophageal, liver cancers, setting up price battle",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33052",
-          "category": "Policy",
-          "author": "Kim Yun-mi",
-          "date": "09.04 14:01",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }
