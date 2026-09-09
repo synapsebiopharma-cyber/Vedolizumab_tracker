@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-09-09 04:59:46 IST",
+  "last_updated": "2026-09-09 12:30:33 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Gaining weight during chemotherapy? Don’t rush to Mounjaro or Wegovy, oncologist says",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33107",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "09.09 15:59",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Macrogen to offer 10x Genomics spatial biology platform in Asia first",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33098",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "09.09 15:24",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "UAE drug regulator visits Biosolution, Helixmith to discuss CGT cooperation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33103",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.09 14:59",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "From next-gen EGFR drugs to AI, Korean firms gear up for WCLC Seoul",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33100",
@@ -39,42 +66,6 @@
           "date": "09.08 17:40",
           "new": false,
           "tag": "FDA Approval"
-        },
-        {
-          "title": "Hanmi puts AI to work on 4,000 SOPs in quality assurance overhaul",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33086",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "09.08 16:26",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Cellbion, Ahn-gook Pharm to co-develop cancer radiopharmaceuticals",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33083",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.08 15:11",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Pfizer taps Ildong to distribute, co-promote migraine drug Nurtec in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33082",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.08 14:02",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Lunit AI links lung cancer tumor environment to mutations, treatment response",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33078",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.08 13:17",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }

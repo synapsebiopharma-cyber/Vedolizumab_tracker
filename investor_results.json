@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09 05:01:32 IST",
+  "last_updated": "2026-09-09 12:32:21 IST",
   "companies": [
     {
       "company": "Alvotech",
@@ -1878,6 +1878,15 @@
       "company": "Fresenius",
       "investor_news": [
         {
+          "id": "fresenius-reorganizes-its-hospital-services-business|september-9,-2026",
+          "title": "Fresenius reorganizes its hospital services business",
+          "url": "https://www.fresenius.com/node/7413",
+          "date": "September 9, 2026",
+          "source": "Fresenius",
+          "meta": "Brief News",
+          "new": false
+        },
+        {
           "id": "fresenius-expands-medical-nutrition-portfolio-with-new-real-food-based-enteral-nutrition-concept|september-7,-2026",
           "title": "Fresenius expands Medical Nutrition Portfolio with new real-food-based enteral nutrition concept",
           "url": "https://www.fresenius.com/node/7411",
@@ -1947,15 +1956,6 @@
           "date": "July 23, 2026",
           "source": "Fresenius",
           "meta": "",
-          "new": false
-        },
-        {
-          "id": "q2-2026-aide-memoire-available|july-15,-2026",
-          "title": "Q2 2026 Aide Memoire available",
-          "url": "https://www.fresenius.com/node/7370",
-          "date": "July 15, 2026",
-          "source": "Fresenius",
-          "meta": "Brief News",
           "new": false
         }
       ]

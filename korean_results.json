@@ -1,9 +1,97 @@
 {
-  "last_updated": "2026-09-09 04:59:46 IST",
+  "last_updated": "2026-09-09 12:30:33 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Surgeons use fluorescent dye to predict parathyroid problems during thyroid surgery",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33110",
+          "category": "Hospital",
+          "author": "Kim Ji-hye",
+          "date": "09.09 18:06",
+          "new": false
+        },
+        {
+          "title": "Korean surgeons operate on 99-year-old with torn aorta despite 30% survival odds",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33109",
+          "category": "Hospital",
+          "author": "Kim Ji-hye",
+          "date": "09.09 16:19",
+          "new": false
+        },
+        {
+          "title": "Blood in the stool in your 30s? Don’t assume it’s hemorrhoids",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33108",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "09.09 16:11",
+          "new": false
+        },
+        {
+          "title": "Gaining weight during chemotherapy? Don’t rush to Mounjaro or Wegovy, oncologist says",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33107",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "09.09 15:59",
+          "new": false
+        },
+        {
+          "title": "Yonsei pathologist leads WHO update of liver cancer classification",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33106",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "09.09 15:55",
+          "new": false
+        },
+        {
+          "title": "BIT Computer teams with AWS to build LLM for Korean healthcare",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33105",
+          "category": "Device/ICT",
+          "author": "Park Gi-taek",
+          "date": "09.09 15:34",
+          "new": false
+        },
+        {
+          "title": "Macrogen to offer 10x Genomics spatial biology platform in Asia first",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33098",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "09.09 15:24",
+          "new": false
+        },
+        {
+          "title": "SNUBH leads $11.6 mil. AI project for early cancer detection, recurrence prediction",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33104",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "09.09 15:07",
+          "new": false
+        },
+        {
+          "title": "UAE drug regulator visits Biosolution, Helixmith to discuss CGT cooperation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33103",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.09 14:59",
+          "new": false
+        },
+        {
+          "title": "Closure of Korea’s only public highway clinic draws political backlash",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33102",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "09.09 14:33",
+          "new": false
+        },
+        {
+          "title": "NHIS union warns premium freeze could accelerate health insurance deficits",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33101",
+          "category": "Policy",
+          "author": "Lim Su-min",
+          "date": "09.09 14:04",
+          "new": false
+        },
         {
           "title": "From next-gen EGFR drugs to AI, Korean firms gear up for WCLC Seoul",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33100",
@@ -74,94 +162,6 @@
           "category": "Life science",
           "author": "Lee Han-soo",
           "date": "09.08 17:09",
-          "new": false
-        },
-        {
-          "title": "Korea to halve copayments for rare, severe intractable diseases by 2028",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33088",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "09.08 16:50",
-          "new": false
-        },
-        {
-          "title": "Korea freezes 2027 health insurance premium at 7.19%",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33087",
-          "category": "Policy",
-          "author": "Kwak Sung-sun, Kim Yoon-mi",
-          "date": "09.08 16:44",
-          "new": false
-        },
-        {
-          "title": "Hanmi puts AI to work on 4,000 SOPs in quality assurance overhaul",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33086",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "09.08 16:26",
-          "new": false
-        },
-        {
-          "title": "Abortion pill nears Korea debut, but doctors warn law isn’t ready",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33085",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "09.08 16:08",
-          "new": false
-        },
-        {
-          "title": "Drug delivery divides Korea as telemedicine heads for December rollout",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33084",
-          "category": "Pharma",
-          "author": "Kim Jung-hyun",
-          "date": "09.08 15:40",
-          "new": false
-        },
-        {
-          "title": "Cellbion, Ahn-gook Pharm to co-develop cancer radiopharmaceuticals",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33083",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.08 15:11",
-          "new": false
-        },
-        {
-          "title": "Pfizer taps Ildong to distribute, co-promote migraine drug Nurtec in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33082",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.08 14:02",
-          "new": false
-        },
-        {
-          "title": "Korea’s unusual summer flu wave could drag into winter, pushing cases 40% higher",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33081",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "09.08 13:46",
-          "new": false
-        },
-        {
-          "title": "Korea’s 365mc takes body-contouring treatments to Thai reality TV",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33080",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "09.08 13:41",
-          "new": false
-        },
-        {
-          "title": "LivsMed rolls out 39-model ArtiSential PRO surgical tool lineup in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33079",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.08 13:21",
-          "new": false
-        },
-        {
-          "title": "Lunit AI links lung cancer tumor environment to mutations, treatment response",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33078",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.08 13:17",
           "new": false
         }
       ]
