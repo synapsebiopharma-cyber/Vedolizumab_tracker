@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-09-08 12:24:03 IST",
+  "last_updated": "2026-09-09 04:59:46 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "From next-gen EGFR drugs to AI, Korean firms gear up for WCLC Seoul",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33100",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "09.09 13:43",
+          "new": false
+        },
+        {
+          "title": "MSD Korea launches one-dose RSV antibody Enflonsia for infants",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33094",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.09 13:25",
+          "new": false
+        },
+        {
+          "title": "How low can bipolar medication go?",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33096",
+          "category": "Hospital",
+          "author": "Kim Ji-hye",
+          "date": "09.09 11:47",
+          "new": false
+        },
+        {
+          "title": "Amorepacific finds microbiome strain may help fade post-acne pigmentation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33093",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "09.09 11:28",
+          "new": false
+        },
+        {
+          "title": "Kakao Healthcare offers free Dexcom G7 receivers to CSAT takers with type 1 diabetes",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33092",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.09 11:11",
+          "new": false
+        },
+        {
+          "title": "Novartis’ Rhapsido adds oral option for chronic hives, but cost remains hurdle",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33095",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.09 11:05",
+          "new": false
+        },
+        {
+          "title": "Cosmax, L’Oréal deepen 20-year alliance with global beauty R&D push",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33091",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "09.09 10:53",
+          "new": false
+        },
         {
           "title": "Korea clears 1st homegrown dry eye drug from AJU Pharm, GL Pharm Tech",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33090",
@@ -106,62 +162,6 @@
           "category": "Device/ICT",
           "author": "Lee Han-soo",
           "date": "09.08 13:17",
-          "new": false
-        },
-        {
-          "title": "Chasing 13 new drugs, Celltrion takes startup hunt to 3 continents",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33077",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.08 13:05",
-          "new": false
-        },
-        {
-          "title": "SK biopharmaceuticals puts physicians at center of global drug development",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33076",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "09.08 11:43",
-          "new": false
-        },
-        {
-          "title": "AriBio wins Indonesia approval for 4 Bidan HA fillers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33074",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "09.08 11:04",
-          "new": false
-        },
-        {
-          "title": "Is Korea slipping down global pharma's drug launch priority list?",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33073",
-          "category": "Policy",
-          "author": "Kim Yun-mi",
-          "date": "09.07 16:41",
-          "new": false
-        },
-        {
-          "title": "CSL Seqirus' adjuvanted flu vaccine wins Korean nod for adults aged 50 and older",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33072",
-          "category": "Pharma",
-          "author": "Koh Jung Min",
-          "date": "09.07 16:10",
-          "new": false
-        },
-        {
-          "title": "Roche Korea recognized by KSMO for advancing cancer precision medicine",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33071",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.07 15:51",
-          "new": false
-        },
-        {
-          "title": "Dong-A ST signs deal to supply wearable patient monitor HiCardi in 6 Asia-Pacific markets",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33069",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "09.07 15:30",
           "new": false
         }
       ]
