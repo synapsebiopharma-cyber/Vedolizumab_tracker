@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-09-09 12:30:33 IST",
+  "last_updated": "2026-09-10 05:02:52 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea’s rare-disease drug market grows nearly fivefold in decade: IQVIA",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33119",
+          "category": "Life science",
+          "author": "Lee Han-soo",
+          "date": "09.10 13:46",
+          "new": false
+        },
+        {
+          "title": "Amorepacific's Ryo names actress Gong Seung-yeon global ambassador",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33118",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "09.10 10:53",
+          "new": false
+        },
+        {
+          "title": "Samsung Medical Center renews HIMSS Stage 7 ratings for electronic records, digital imaging",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33117",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "09.10 10:46",
+          "new": false
+        },
+        {
+          "title": "Yuyu Pharma CEO launches podcast on pet health, Korean culture",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33115",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.10 10:16",
+          "new": false
+        },
+        {
+          "title": "Sky Labs’ CART BP Pro used to track nighttime blood pressure in sleep apnea care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33112",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.10 10:08",
+          "new": false
+        },
+        {
+          "title": "Radiologists support Korea’s scan crackdown but urge a careful hand",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33111",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "09.10 09:16",
+          "new": false
+        },
+        {
+          "title": "[Global Pharma Leadership Voices] Innovation can’t wait: getting new medicines to patients faster",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33075",
+          "category": "Opinion",
+          "author": "Christian Rodseth",
+          "date": "09.10 09:00",
+          "new": false
+        },
         {
           "title": "Surgeons use fluorescent dye to predict parathyroid problems during thyroid surgery",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33110",
@@ -106,62 +162,6 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "09.09 13:25",
-          "new": false
-        },
-        {
-          "title": "How low can bipolar medication go?",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33096",
-          "category": "Hospital",
-          "author": "Kim Ji-hye",
-          "date": "09.09 11:47",
-          "new": false
-        },
-        {
-          "title": "Amorepacific finds microbiome strain may help fade post-acne pigmentation",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33093",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "09.09 11:28",
-          "new": false
-        },
-        {
-          "title": "Kakao Healthcare offers free Dexcom G7 receivers to CSAT takers with type 1 diabetes",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33092",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.09 11:11",
-          "new": false
-        },
-        {
-          "title": "Novartis’ Rhapsido adds oral option for chronic hives, but cost remains hurdle",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33095",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.09 11:05",
-          "new": false
-        },
-        {
-          "title": "Cosmax, L’Oréal deepen 20-year alliance with global beauty R&D push",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33091",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "09.09 10:53",
-          "new": false
-        },
-        {
-          "title": "Korea clears 1st homegrown dry eye drug from AJU Pharm, GL Pharm Tech",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33090",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "09.08 17:40",
-          "new": false
-        },
-        {
-          "title": "[Caring the Korean Way] Feeling sick? Koreans know where to press",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33089",
-          "category": "Life science",
-          "author": "Lee Han-soo",
-          "date": "09.08 17:09",
           "new": false
         }
       ]
