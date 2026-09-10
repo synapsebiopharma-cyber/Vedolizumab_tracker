@@ -1,9 +1,113 @@
 {
-  "last_updated": "2026-09-10 05:02:52 IST",
+  "last_updated": "2026-09-10 12:24:07 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Imaging companies bring AI into scan capture at KCR 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33133",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "09.10 19:08",
+          "new": false
+        },
+        {
+          "title": "Dong-A Socio Holdings to rename itself Dong-A Pharmaceutical after OTC merger",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33130",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "09.10 17:46",
+          "new": false
+        },
+        {
+          "title": "Samsung Biologics discloses $261 mil. contract manufacturing agreement",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33132",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.10 17:38",
+          "new": false
+        },
+        {
+          "title": "[Column] Immunotherapy brings new hope to platinum-resistant ovarian cancer amid dearth of treatment options",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33129",
+          "category": "Opinion",
+          "author": "Lee Eun-ju",
+          "date": "09.10 16:29",
+          "new": false
+        },
+        {
+          "title": "Gil Medical Center to use AI to quantify ‘invisible’ itching in older adults",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33128",
+          "category": "Hospital",
+          "author": "Song Soo-youn",
+          "date": "09.10 16:15",
+          "new": false
+        },
+        {
+          "title": "HEM Pharma doubles down on microbiome, expands business beyond drug development",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33127",
+          "category": "Pharma",
+          "author": "Hong Sook",
+          "date": "09.10 15:45",
+          "new": false
+        },
+        {
+          "title": "Korea reports 1st Japanese encephalitis case of 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33126",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "09.10 15:40",
+          "new": false
+        },
+        {
+          "title": "Korea's only RET inhibitor Retevmo clears price talks, eyes October reimbursement",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33125",
+          "category": "Pharma",
+          "author": "Kim Yun-mi",
+          "date": "09.10 15:31",
+          "new": false
+        },
+        {
+          "title": "Celltrion targets wider European growth for Omlyclo after gains in Spain, Italy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33124",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.10 15:22",
+          "new": false
+        },
+        {
+          "title": "COSMECCA KOREA plans $150 mil. AI-based skincare factory in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33122",
+          "category": "K-Beauty",
+          "author": "Kim Ji-hye",
+          "date": "09.10 15:20",
+          "new": false
+        },
+        {
+          "title": "Handok builds continuous insomnia care model around AI, digital therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33123",
+          "category": "Device/ICT",
+          "author": "Kwon Min-seon",
+          "date": "09.10 15:11",
+          "new": false
+        },
+        {
+          "title": "Tonymoly expands Australia reach to 1,220 Coles, Kmart, Target stores",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33121",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "09.10 14:11",
+          "new": false
+        },
+        {
+          "title": "ROKIT Healthcare enters Hainan Lecheng, targets 1st skin regeneration procedure within 4 months",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33120",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.10 14:05",
+          "new": false
+        },
         {
           "title": "Korea’s rare-disease drug market grows nearly fivefold in decade: IQVIA",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33119",
@@ -58,110 +162,6 @@
           "category": "Opinion",
           "author": "Christian Rodseth",
           "date": "09.10 09:00",
-          "new": false
-        },
-        {
-          "title": "Surgeons use fluorescent dye to predict parathyroid problems during thyroid surgery",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33110",
-          "category": "Hospital",
-          "author": "Kim Ji-hye",
-          "date": "09.09 18:06",
-          "new": false
-        },
-        {
-          "title": "Korean surgeons operate on 99-year-old with torn aorta despite 30% survival odds",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33109",
-          "category": "Hospital",
-          "author": "Kim Ji-hye",
-          "date": "09.09 16:19",
-          "new": false
-        },
-        {
-          "title": "Blood in the stool in your 30s? Don’t assume it’s hemorrhoids",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33108",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "09.09 16:11",
-          "new": false
-        },
-        {
-          "title": "Gaining weight during chemotherapy? Don’t rush to Mounjaro or Wegovy, oncologist says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33107",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "09.09 15:59",
-          "new": false
-        },
-        {
-          "title": "Yonsei pathologist leads WHO update of liver cancer classification",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33106",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "09.09 15:55",
-          "new": false
-        },
-        {
-          "title": "BIT Computer teams with AWS to build LLM for Korean healthcare",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33105",
-          "category": "Device/ICT",
-          "author": "Park Gi-taek",
-          "date": "09.09 15:34",
-          "new": false
-        },
-        {
-          "title": "Macrogen to offer 10x Genomics spatial biology platform in Asia first",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33098",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "09.09 15:24",
-          "new": false
-        },
-        {
-          "title": "SNUBH leads $11.6 mil. AI project for early cancer detection, recurrence prediction",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33104",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "09.09 15:07",
-          "new": false
-        },
-        {
-          "title": "UAE drug regulator visits Biosolution, Helixmith to discuss CGT cooperation",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33103",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "09.09 14:59",
-          "new": false
-        },
-        {
-          "title": "Closure of Korea’s only public highway clinic draws political backlash",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33102",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "09.09 14:33",
-          "new": false
-        },
-        {
-          "title": "NHIS union warns premium freeze could accelerate health insurance deficits",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33101",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "09.09 14:04",
-          "new": false
-        },
-        {
-          "title": "From next-gen EGFR drugs to AI, Korean firms gear up for WCLC Seoul",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33100",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "09.09 13:43",
-          "new": false
-        },
-        {
-          "title": "MSD Korea launches one-dose RSV antibody Enflonsia for infants",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33094",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.09 13:25",
           "new": false
         }
       ]

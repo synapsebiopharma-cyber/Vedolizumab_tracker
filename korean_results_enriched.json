@@ -1,42 +1,60 @@
 {
-  "last_updated": "2026-09-10 05:02:52 IST",
+  "last_updated": "2026-09-10 12:24:07 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Gaining weight during chemotherapy? Don’t rush to Mounjaro or Wegovy, oncologist says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33107",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "09.09 15:59",
+          "title": "Dong-A Socio Holdings to rename itself Dong-A Pharmaceutical after OTC merger",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33130",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "09.10 17:46",
           "new": false,
-          "tag": "Other"
+          "tag": "Acquisition"
         },
         {
-          "title": "UAE drug regulator visits Biosolution, Helixmith to discuss CGT cooperation",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33103",
+          "title": "Samsung Biologics discloses $261 mil. contract manufacturing agreement",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33132",
           "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "09.09 14:59",
+          "author": "Kim Ji-hye",
+          "date": "09.10 17:38",
           "new": false,
           "tag": "Collaboration"
         },
         {
-          "title": "From next-gen EGFR drugs to AI, Korean firms gear up for WCLC Seoul",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33100",
-          "category": "Bio",
+          "title": "HEM Pharma doubles down on microbiome, expands business beyond drug development",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33127",
+          "category": "Pharma",
           "author": "Hong Sook",
-          "date": "09.09 13:43",
+          "date": "09.10 15:45",
           "new": false,
           "tag": "Pipeline"
         },
         {
-          "title": "MSD Korea launches one-dose RSV antibody Enflonsia for infants",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33094",
+          "title": "Korea's only RET inhibitor Retevmo clears price talks, eyes October reimbursement",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33125",
           "category": "Pharma",
+          "author": "Kim Yun-mi",
+          "date": "09.10 15:31",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Celltrion targets wider European growth for Omlyclo after gains in Spain, Italy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33124",
+          "category": "Bio",
           "author": "Lee Han-soo",
-          "date": "09.09 13:25",
+          "date": "09.10 15:22",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "ROKIT Healthcare enters Hainan Lecheng, targets 1st skin regeneration procedure within 4 months",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33120",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.10 14:05",
           "new": false,
           "tag": "Other"
         }
