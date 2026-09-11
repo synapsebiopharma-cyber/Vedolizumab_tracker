@@ -1,17 +1,44 @@
 {
-  "last_updated": "2026-09-11 04:58:09 IST",
+  "last_updated": "2026-09-11 12:24:56 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Lunit, 10x Genomics integrate AI pathology, spatial data for cancer biomarker research",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33138",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.11 11:13",
+          "title": "SyntekaBio signs ₩530 mil. AI antibody deal with Geovista for pet drugs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33149",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.11 16:22",
           "new": false,
           "tag": "Collaboration"
+        },
+        {
+          "title": "GC Cell’s Immuncell-LC linked to lower recurrence after liver transplant in high-risk liver cancer patients",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33148",
+          "category": "Bio",
+          "author": "Park Gi-taek",
+          "date": "09.11 16:00",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Oscotec, Yuhan win Prix Galien Korea award for lazertinib",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33145",
+          "category": "Pharma",
+          "author": "Hong Sook",
+          "date": "09.11 15:22",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "GC Biopharma wins approval for phase 2 Covid-19 mRNA vaccine trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33141",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "09.11 14:09",
+          "new": false,
+          "tag": "Clinical Trial"
         },
         {
           "title": "Sanofi begins nationwide supply of high-dose flu vaccine Efluelda for adults 65 and older",
@@ -37,42 +64,6 @@
           "category": "Pharma",
           "author": "Kim Ji-hye",
           "date": "09.10 17:46",
-          "new": false,
-          "tag": "Acquisition"
-        },
-        {
-          "title": "Samsung Biologics discloses $261 mil. contract manufacturing agreement",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33132",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.10 17:38",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "HEM Pharma doubles down on microbiome, expands business beyond drug development",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33127",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "09.10 15:45",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Korea's only RET inhibitor Retevmo clears price talks, eyes October reimbursement",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33125",
-          "category": "Pharma",
-          "author": "Kim Yun-mi",
-          "date": "09.10 15:31",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Celltrion targets wider European growth for Omlyclo after gains in Spain, Italy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33124",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "09.10 15:22",
           "new": false,
           "tag": "Other"
         }
