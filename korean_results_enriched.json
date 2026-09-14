@@ -1,9 +1,109 @@
 {
-  "last_updated": "2026-09-14 05:17:08 IST",
+  "last_updated": "2026-09-14 14:25:30 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
-      "articles": []
+      "articles": [
+        {
+          "title": "KMA proposes 240 mg propofol total cap, surgeons warn against blanket limit",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33168",
+          "category": "Hospital",
+          "author": "Song Soo-youn",
+          "date": "09.14 15:57",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Nobel laureate Craig Mello discusses RNAi at ST Pharm symposium",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33165",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.14 15:31",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "[WCLC 2026] Tagrisso survival benefit persists at 8 years, but treatment duration remains open question",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33161",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.14 14:11",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Statin misinformation threatens cardiovascular health, Korean lipid experts warn",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33160",
+          "category": "Hospital",
+          "author": "You Ji-young",
+          "date": "09.14 13:56",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "[Interview] Pediatric Crohn’s disease needs broader treatment options, specialist says",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33157",
+          "category": "Hospital",
+          "author": "Hong Sook",
+          "date": "09.14 13:23",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Viatris names Kim Sun-A head of Japan-Korea cluster",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33156",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.14 13:17",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "GeneMatrix gets government funding for phase 1 trial of hepatitis A vaccine",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33155",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.14 11:30",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Merck, reproductive medicine society partner on infertility patient education",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33154",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.14 11:14",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Adult pneumococcal strategy moves from serotype count to serotype fit, specialist says",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33151",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "09.11 18:05",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "[Reporter’s Notebook] K-biopharma licensing deals are getting better, not just bigger",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33150",
+          "category": "Reporter’s Notebook",
+          "author": "Lee Han-soo",
+          "date": "09.11 17:02",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "SyntekaBio signs ₩530 mil. AI antibody deal with Geovista for pet drugs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33149",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.11 16:22",
+          "new": false,
+          "tag": "Collaboration"
+        }
+      ]
     }
   ]
 }

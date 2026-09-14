@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14 05:18:40 IST",
+  "last_updated": "2026-09-14 14:27:21 IST",
   "companies": [
     {
       "company": "Alvotech",
@@ -2039,15 +2039,6 @@
       "company": "Teva",
       "investor_news": [
         {
-          "id": "morgan-stanley-24th-annual-global-healthcare-conference|september-14,-2026",
-          "title": "Morgan Stanley 24th Annual Global Healthcare Conference",
-          "date": "September 14, 2026",
-          "url": "https://ir.tevapharm.com/Events-and-Presentations/events-and-presentations/event-details/2026/Morgan-Stanley-24th-Annual-Global-Healthcare-Conference-2026-0AvazV4nbF/default.aspx",
-          "webcast": "https://event.webcasts.com/starthere.jsp?ei=1773849&tp_key=285b2c93da&tp_special=8",
-          "docs": [],
-          "new": false
-        },
-        {
           "id": "jpm-u.s.-all-stars-conference|september-22,-2026",
           "title": "JPM U.S. All Stars Conference",
           "date": "September 22, 2026",
@@ -2062,6 +2053,15 @@
           "date": "September 23, 2026",
           "url": "https://ir.tevapharm.com/Events-and-Presentations/events-and-presentations/event-details/2026/BofA-Global-Healthcare-Conference-2026--2026-E4MJSPNBJH/default.aspx",
           "webcast": null,
+          "docs": [],
+          "new": false
+        },
+        {
+          "id": "morgan-stanley-24th-annual-global-healthcare-conference|september-14,-2026",
+          "title": "Morgan Stanley 24th Annual Global Healthcare Conference",
+          "date": "September 14, 2026",
+          "url": "https://ir.tevapharm.com/Events-and-Presentations/events-and-presentations/event-details/2026/Morgan-Stanley-24th-Annual-Global-Healthcare-Conference-2026-0AvazV4nbF/default.aspx",
+          "webcast": "https://event.webcasts.com/starthere.jsp?ei=1773849&tp_key=285b2c93da&tp_special=8",
           "docs": [],
           "new": false
         },
