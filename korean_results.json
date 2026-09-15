@@ -1,9 +1,49 @@
 {
-  "last_updated": "2026-09-14 14:25:30 IST",
+  "last_updated": "2026-09-15 05:09:51 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Celltrion files for US phase 4 trial of 240 mg Zymfentra dose",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33176",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.15 13:58",
+          "new": false
+        },
+        {
+          "title": "Korea’s antiviral reserves remain 3.5 million treatments below target",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33175",
+          "category": "Policy",
+          "author": "Lee Han-soo",
+          "date": "09.15 13:43",
+          "new": false
+        },
+        {
+          "title": "Filipino teen gets heart surgery in Korea after more than a decade without treatment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33174",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "09.15 11:18",
+          "new": false
+        },
+        {
+          "title": "Genome & Company to present novel-target ADC data at World ADC San Diego",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33173",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.15 11:06",
+          "new": false
+        },
+        {
+          "title": "[ESC 2026] After a heart stent, when is it safe to stop aspirin? Korean trial offers an answer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33172",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "09.15 10:33",
+          "new": false
+        },
         {
           "title": "[WCLC 2026] Korea's screening program is its biggest AI advantage: expert",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33171",
@@ -53,7 +93,7 @@
           "new": false
         },
         {
-          "title": "[WCLC 2026] Why better AI won't scale lung cancer screening",
+          "title": "[WCLC 2026] Bringing lung cancer screening together, from scan to follow-up: expert",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33164",
           "category": "Policy",
           "author": "Kim Ji-hye",
@@ -122,46 +162,6 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "09.14 11:14",
-          "new": false
-        },
-        {
-          "title": "Huinno passes technology assessment for Kosdaq special listing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33153",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.14 10:55",
-          "new": false
-        },
-        {
-          "title": "[Interview] Angel Robotics expands in Southeast Asia ahead of US, European push",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33152",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.14 09:44",
-          "new": false
-        },
-        {
-          "title": "Adult pneumococcal strategy moves from serotype count to serotype fit, specialist says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33151",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "09.11 18:05",
-          "new": false
-        },
-        {
-          "title": "[Reporter’s Notebook] K-biopharma licensing deals are getting better, not just bigger",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33150",
-          "category": "Reporter’s Notebook",
-          "author": "Lee Han-soo",
-          "date": "09.11 17:02",
-          "new": false
-        },
-        {
-          "title": "SyntekaBio signs ₩530 mil. AI antibody deal with Geovista for pet drugs",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33149",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.11 16:22",
           "new": false
         }
       ]
