@@ -1,9 +1,72 @@
 {
-  "last_updated": "2026-09-15 05:09:51 IST",
+  "last_updated": "2026-09-15 12:54:16 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[WCLC 2026] Osimertinib's 8-year survival sets the stage for Korea's next lung cancer drugs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33188",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.15 18:47",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Korea United Pharm wins $2.2 million Malaysian hospital tender for blood cancer drug Hydrin",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33185",
+          "category": "Pharma",
+          "author": "Park Gi-taek",
+          "date": "09.15 16:12",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Boryung to spin off drug sales, marketing operations into new subsidiary",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33183",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.15 16:03",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Keeps Biopharma’s Idetrexed wins Korean phase 2 IND approval",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33181",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "09.15 15:21",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Lotte Biologics targets new CDMO deals at 3 global biopharma events",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33180",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.15 15:15",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Keytruda-Padcev clears price talks for advanced bladder cancer after long negotiations",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33178",
+          "category": "Pharma",
+          "author": "Kim Yun-mi",
+          "date": "09.15 14:35",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Huons teams with 3 biotechs on mRNA, ADC, peptide drug projects",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33177",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.15 14:13",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "Celltrion files for US phase 4 trial of 240 mg Zymfentra dose",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33176",
@@ -23,49 +86,22 @@
           "tag": "Pipeline"
         },
         {
-          "title": "Nobel laureate Craig Mello discusses RNAi at ST Pharm symposium",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33165",
-          "category": "Pharma",
+          "title": "[ESC 2026] After a heart stent, when is it safe to stop aspirin? Korean trial offers an answer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33172",
+          "category": "Special",
           "author": "Lee Han-soo",
-          "date": "09.14 15:31",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "[WCLC 2026] Tagrisso survival benefit persists at 8 years, but treatment duration remains open question",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33161",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.14 14:11",
+          "date": "09.15 10:33",
           "new": false,
           "tag": "Clinical Trial"
         },
         {
-          "title": "Viatris names Kim Sun-A head of Japan-Korea cluster",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33156",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.14 13:17",
+          "title": "KMA proposes 240 mg propofol total cap, surgeons warn against blanket limit",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33168",
+          "category": "Hospital",
+          "author": "Song Soo-youn",
+          "date": "09.14 15:57",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "GeneMatrix gets government funding for phase 1 trial of hepatitis A vaccine",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33155",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "09.14 11:30",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Merck, reproductive medicine society partner on infertility patient education",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33154",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.14 11:14",
-          "new": false,
-          "tag": "Collaboration"
         }
       ]
     }

@@ -1,9 +1,97 @@
 {
-  "last_updated": "2026-09-15 05:09:51 IST",
+  "last_updated": "2026-09-15 12:54:16 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[WCLC 2026] Osimertinib's 8-year survival sets the stage for Korea's next lung cancer drugs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33188",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.15 18:47",
+          "new": false
+        },
+        {
+          "title": "Straight lines look bent? It could be a macular hole, not just aging",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33186",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "09.15 16:49",
+          "new": false
+        },
+        {
+          "title": "Korea United Pharm wins $2.2 million Malaysian hospital tender for blood cancer drug Hydrin",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33185",
+          "category": "Pharma",
+          "author": "Park Gi-taek",
+          "date": "09.15 16:12",
+          "new": false
+        },
+        {
+          "title": "Korean, Japanese experts to explore how CGM can turn glucose data into behavior change",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33184",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "09.15 16:07",
+          "new": false
+        },
+        {
+          "title": "Boryung to spin off drug sales, marketing operations into new subsidiary",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33183",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.15 16:03",
+          "new": false
+        },
+        {
+          "title": "Digital twin shaves 70 minutes off hospital IT outage drill, cuts staff burden 47%",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33182",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "09.15 15:54",
+          "new": false
+        },
+        {
+          "title": "Keeps Biopharma’s Idetrexed wins Korean phase 2 IND approval",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33181",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "09.15 15:21",
+          "new": false
+        },
+        {
+          "title": "Lotte Biologics targets new CDMO deals at 3 global biopharma events",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33180",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.15 15:15",
+          "new": false
+        },
+        {
+          "title": "Labor, civic groups demand Korea scrap health data bill over privacy risks",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33179",
+          "category": "Policy",
+          "author": "Kim Jung-hyun",
+          "date": "09.15 15:03",
+          "new": false
+        },
+        {
+          "title": "Keytruda-Padcev clears price talks for advanced bladder cancer after long negotiations",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33178",
+          "category": "Pharma",
+          "author": "Kim Yun-mi",
+          "date": "09.15 14:35",
+          "new": false
+        },
+        {
+          "title": "Huons teams with 3 biotechs on mRNA, ADC, peptide drug projects",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33177",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.15 14:13",
+          "new": false
+        },
         {
           "title": "Celltrion files for US phase 4 trial of 240 mg Zymfentra dose",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33176",
@@ -74,94 +162,6 @@
           "category": "Policy",
           "author": "Lim Su-min",
           "date": "09.14 15:44",
-          "new": false
-        },
-        {
-          "title": "Incheon St. Mary’s performs region’s 1st TMVR in woman in her 80s",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33166",
-          "category": "Hospital",
-          "author": "Lim Su-min",
-          "date": "09.14 15:38",
-          "new": false
-        },
-        {
-          "title": "Nobel laureate Craig Mello discusses RNAi at ST Pharm symposium",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33165",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.14 15:31",
-          "new": false
-        },
-        {
-          "title": "[WCLC 2026] Bringing lung cancer screening together, from scan to follow-up: expert",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33164",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "09.14 14:50",
-          "new": false
-        },
-        {
-          "title": "GP surge during Korea’s medical crisis concentrated in Seoul area, dermatology",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33158",
-          "category": "Hospital",
-          "author": "Song Soo-youn",
-          "date": "09.14 14:39",
-          "new": false
-        },
-        {
-          "title": "[WCLC 2026] Tagrisso survival benefit persists at 8 years, but treatment duration remains open question",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33161",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.14 14:11",
-          "new": false
-        },
-        {
-          "title": "Siblings of children with type 1 diabetes have over 10-fold higher prevalence: study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33163",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "09.14 14:04",
-          "new": false
-        },
-        {
-          "title": "Statin misinformation threatens cardiovascular health, Korean lipid experts warn",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33160",
-          "category": "Hospital",
-          "author": "You Ji-young",
-          "date": "09.14 13:56",
-          "new": false
-        },
-        {
-          "title": "[Interview] Pediatric Crohn’s disease needs broader treatment options, specialist says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33157",
-          "category": "Hospital",
-          "author": "Hong Sook",
-          "date": "09.14 13:23",
-          "new": false
-        },
-        {
-          "title": "Viatris names Kim Sun-A head of Japan-Korea cluster",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33156",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.14 13:17",
-          "new": false
-        },
-        {
-          "title": "GeneMatrix gets government funding for phase 1 trial of hepatitis A vaccine",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33155",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "09.14 11:30",
-          "new": false
-        },
-        {
-          "title": "Merck, reproductive medicine society partner on infertility patient education",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33154",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.14 11:14",
           "new": false
         }
       ]
