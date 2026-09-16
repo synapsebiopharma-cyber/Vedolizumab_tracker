@@ -1,33 +1,69 @@
 {
-  "last_updated": "2026-09-16 05:04:42 IST",
+  "last_updated": "2026-09-16 12:49:27 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[Interview] Nelmastobart could pair with osimertinib after clean EGFR safety: STCUBE PHARMACEUTICALS CEO",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33207",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.16 17:51",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Shinpoong seeks phase 3 IND amendment for stroke drug SP-8203",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33204",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "09.16 16:19",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Nearly 75% of Koreans back expedited coverage for rare-disease drugs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33201",
+          "category": "Pharma",
+          "author": "Koh Jung Min",
+          "date": "09.16 15:22",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Zymfentra, Xcopri projected to become Korea’s 1st $1 billion blockbuster drugs in 2027",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33200",
+          "category": "Policy",
+          "author": "Lim Su-min",
+          "date": "09.16 15:04",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Organon Korea, Boryung expand Atozet tie-up to co-promotion",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33193",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.16 14:50",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Korea targets Q1 2027 for abortion pill Mifegymiso, with doctor-only dispensing for first 2 years",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33197",
+          "category": "Policy",
+          "author": "Kim Yoon-mi",
+          "date": "09.16 14:40",
+          "new": false,
+          "tag": "FDA Approval"
+        },
         {
           "title": "Alteogen Biologics licenses Spanish HPV device for Korea",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33198",
           "category": "Bio",
           "author": "Kim Ji-hye",
           "date": "09.16 13:37",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "SK biopharmaceuticals CEO, CSO buy more company shares",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33196",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.16 11:35",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Olympus Korea, K-MEDI hub team up on endoscopy training center",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33191",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.16 11:08",
           "new": false,
           "tag": "Collaboration"
         },
@@ -39,15 +75,6 @@
           "date": "09.16 11:01",
           "new": false,
           "tag": "FDA Approval"
-        },
-        {
-          "title": "Sky Labs eyes UK healthcare market with ring-type CART BP monitor",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33190",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.16 10:54",
-          "new": false,
-          "tag": "Other"
         },
         {
           "title": "UCB's Fintepla reimbursement opens new option for hard-to-control Dravet syndrome",
@@ -66,78 +93,6 @@
           "date": "09.15 18:47",
           "new": false,
           "tag": "Pipeline"
-        },
-        {
-          "title": "Korea United Pharm wins $2.2 million Malaysian hospital tender for blood cancer drug Hydrin",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33185",
-          "category": "Pharma",
-          "author": "Park Gi-taek",
-          "date": "09.15 16:12",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Korean, Japanese experts to explore how CGM can turn glucose data into behavior change",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33184",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "09.15 16:07",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Boryung to spin off drug sales, marketing operations into new subsidiary",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33183",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.15 16:03",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Keeps Biopharma’s Idetrexed wins Korean phase 2 IND approval",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33181",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "09.15 15:21",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Lotte Biologics targets new CDMO deals at 3 global biopharma events",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33180",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "09.15 15:15",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Keytruda-Padcev clears price talks for advanced bladder cancer after long negotiations",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33178",
-          "category": "Pharma",
-          "author": "Kim Yun-mi",
-          "date": "09.15 14:35",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Huons teams with 3 biotechs on mRNA, ADC, peptide drug projects",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33177",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.15 14:13",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Celltrion files for US phase 4 trial of 240 mg Zymfentra dose",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33176",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.15 13:58",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }

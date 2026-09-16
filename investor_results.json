@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16 05:06:29 IST",
+  "last_updated": "2026-09-16 12:51:14 IST",
   "companies": [
     {
       "company": "Alvotech",
@@ -1878,6 +1878,15 @@
       "company": "Fresenius",
       "investor_news": [
         {
+          "id": "drg-inflator-2027-expected-at-4.85%|september-16,-2026",
+          "title": "DRG inflator 2027 expected at 4.85%",
+          "url": "https://www.fresenius.com/node/7415",
+          "date": "September 16, 2026",
+          "source": "Fresenius",
+          "meta": "Brief News",
+          "new": false
+        },
+        {
           "id": "fresenius-reorganizes-its-hospital-services-business|september-9,-2026",
           "title": "Fresenius reorganizes its hospital services business",
           "url": "https://www.fresenius.com/node/7413",
@@ -1946,15 +1955,6 @@
           "url": "https://www.fresenius.com/node/7378",
           "date": "July 31, 2026",
           "source": "Fresenius Kabi",
-          "meta": "",
-          "new": false
-        },
-        {
-          "id": "fresenius-establishes-venture-fund-of-more-than-€200-million-to-drive-healthcare-innovation|july-23,-2026",
-          "title": "Fresenius establishes venture fund of more than €200 million to drive healthcare innovation",
-          "url": "https://www.fresenius.com/node/7372",
-          "date": "July 23, 2026",
-          "source": "Fresenius",
           "meta": "",
           "new": false
         }
