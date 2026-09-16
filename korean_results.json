@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-09-15 12:54:16 IST",
+  "last_updated": "2026-09-16 05:04:42 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Alteogen Biologics licenses Spanish HPV device for Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33198",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.16 13:37",
+          "new": false
+        },
+        {
+          "title": "Stray Kids’ Felix donates ₩200 mil. to Seoul hospitals for children’s treatment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33199",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "09.16 13:35",
+          "new": false
+        },
+        {
+          "title": "SK biopharmaceuticals CEO, CSO buy more company shares",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33196",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.16 11:35",
+          "new": false
+        },
+        {
+          "title": "Olympus Korea, K-MEDI hub team up on endoscopy training center",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33191",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.16 11:08",
+          "new": false
+        },
+        {
+          "title": "HLB’s Elevar files for EU approval of bile duct cancer drug lirafugratinib",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33194",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.16 11:01",
+          "new": false
+        },
+        {
+          "title": "Sky Labs eyes UK healthcare market with ring-type CART BP monitor",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33190",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.16 10:54",
+          "new": false
+        },
+        {
+          "title": "UCB's Fintepla reimbursement opens new option for hard-to-control Dravet syndrome",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33189",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.16 09:13",
+          "new": false
+        },
         {
           "title": "[WCLC 2026] Osimertinib's 8-year survival sets the stage for Korea's next lung cancer drugs",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33188",
@@ -106,62 +162,6 @@
           "category": "Policy",
           "author": "Lee Han-soo",
           "date": "09.15 13:43",
-          "new": false
-        },
-        {
-          "title": "Filipino teen gets heart surgery in Korea after more than a decade without treatment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33174",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "09.15 11:18",
-          "new": false
-        },
-        {
-          "title": "Genome & Company to present novel-target ADC data at World ADC San Diego",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33173",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "09.15 11:06",
-          "new": false
-        },
-        {
-          "title": "[ESC 2026] After a heart stent, when is it safe to stop aspirin? Korean trial offers an answer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33172",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "09.15 10:33",
-          "new": false
-        },
-        {
-          "title": "[WCLC 2026] Korea's screening program is its biggest AI advantage: expert",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33171",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "09.14 17:32",
-          "new": false
-        },
-        {
-          "title": "Court puts 80% of liability on hospital, 20% on boyfriend in dating violence victim’s death",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33169",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "09.14 16:45",
-          "new": false
-        },
-        {
-          "title": "KMA proposes 240 mg propofol total cap, surgeons warn against blanket limit",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33168",
-          "category": "Hospital",
-          "author": "Song Soo-youn",
-          "date": "09.14 15:57",
-          "new": false
-        },
-        {
-          "title": "Imports account for over 80% of knee implants used in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33167",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "09.14 15:44",
           "new": false
         }
       ]

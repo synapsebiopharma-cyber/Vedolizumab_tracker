@@ -1,9 +1,63 @@
 {
-  "last_updated": "2026-09-15 12:54:16 IST",
+  "last_updated": "2026-09-16 05:04:42 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Alteogen Biologics licenses Spanish HPV device for Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33198",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.16 13:37",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "SK biopharmaceuticals CEO, CSO buy more company shares",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33196",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.16 11:35",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Olympus Korea, K-MEDI hub team up on endoscopy training center",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33191",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.16 11:08",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "HLB’s Elevar files for EU approval of bile duct cancer drug lirafugratinib",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33194",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.16 11:01",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Sky Labs eyes UK healthcare market with ring-type CART BP monitor",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33190",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.16 10:54",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "UCB's Fintepla reimbursement opens new option for hard-to-control Dravet syndrome",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33189",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.16 09:13",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "[WCLC 2026] Osimertinib's 8-year survival sets the stage for Korea's next lung cancer drugs",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33188",
@@ -11,7 +65,7 @@
           "author": "Kim Ji-hye",
           "date": "09.15 18:47",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Pipeline"
         },
         {
           "title": "Korea United Pharm wins $2.2 million Malaysian hospital tender for blood cancer drug Hydrin",
@@ -19,6 +73,15 @@
           "category": "Pharma",
           "author": "Park Gi-taek",
           "date": "09.15 16:12",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Korean, Japanese experts to explore how CGM can turn glucose data into behavior change",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33184",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "09.15 16:07",
           "new": false,
           "tag": "Other"
         },
@@ -47,7 +110,7 @@
           "author": "Lee Han-soo",
           "date": "09.15 15:15",
           "new": false,
-          "tag": "Other"
+          "tag": "Collaboration"
         },
         {
           "title": "Keytruda-Padcev clears price talks for advanced bladder cancer after long negotiations",
@@ -75,33 +138,6 @@
           "date": "09.15 13:58",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "Genome & Company to present novel-target ADC data at World ADC San Diego",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33173",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "09.15 11:06",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "[ESC 2026] After a heart stent, when is it safe to stop aspirin? Korean trial offers an answer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33172",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "09.15 10:33",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "KMA proposes 240 mg propofol total cap, surgeons warn against blanket limit",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33168",
-          "category": "Hospital",
-          "author": "Song Soo-youn",
-          "date": "09.14 15:57",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }
