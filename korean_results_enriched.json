@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-09-16 12:49:27 IST",
+  "last_updated": "2026-09-17 05:07:43 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "GC Cell taps Israeli AI firm QuantHealth to optimize phase 2 CAR-NK therapy trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33211",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "09.17 11:03",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Daewoong's fexuprazan regimen clears H. pylori in 90% of patients in small Korean study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33210",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "09.17 10:38",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "SK biopharmaceuticals wins Japan approval for cenobamate, unlocking milestone payment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33208",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.17 09:30",
+          "new": false,
+          "tag": "FDA Approval"
+        },
         {
           "title": "[Interview] Nelmastobart could pair with osimertinib after clean EGFR safety: STCUBE PHARMACEUTICALS CEO",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33207",
@@ -38,7 +65,7 @@
           "author": "Lim Su-min",
           "date": "09.16 15:04",
           "new": false,
-          "tag": "Financial"
+          "tag": "Other"
         },
         {
           "title": "Organon Korea, Boryung expand Atozet tie-up to co-promotion",
@@ -48,51 +75,6 @@
           "date": "09.16 14:50",
           "new": false,
           "tag": "Collaboration"
-        },
-        {
-          "title": "Korea targets Q1 2027 for abortion pill Mifegymiso, with doctor-only dispensing for first 2 years",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33197",
-          "category": "Policy",
-          "author": "Kim Yoon-mi",
-          "date": "09.16 14:40",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Alteogen Biologics licenses Spanish HPV device for Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33198",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.16 13:37",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "HLB’s Elevar files for EU approval of bile duct cancer drug lirafugratinib",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33194",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.16 11:01",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "UCB's Fintepla reimbursement opens new option for hard-to-control Dravet syndrome",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33189",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.16 09:13",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "[WCLC 2026] Osimertinib's 8-year survival sets the stage for Korea's next lung cancer drugs",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33188",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.15 18:47",
-          "new": false,
-          "tag": "Pipeline"
         }
       ]
     }

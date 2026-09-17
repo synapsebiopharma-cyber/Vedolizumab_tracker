@@ -1,8 +1,8 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-09-16T12:51:05Z",
-  "total_runs": 283,
-  "new_on_last_run": 1,
+  "last_fetched": "2026-09-17T05:09:25Z",
+  "total_runs": 284,
+  "new_on_last_run": 0,
   "articles": [
     {
       "id": "drg-inflator-2027-expected-at-4.85%|september-16,-2026",
@@ -11,7 +11,7 @@
       "date": "September 16, 2026",
       "source": "Fresenius",
       "meta": "Brief News",
-      "new": true
+      "new": false
     },
     {
       "id": "fresenius-reorganizes-its-hospital-services-business|september-9,-2026",
