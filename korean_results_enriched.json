@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-09-17 05:07:43 IST",
+  "last_updated": "2026-09-17 12:55:09 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "AbbVie connects with 120 Korean biotechs in search for R&D, licensing deals",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33222",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.17 16:54",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "VAXDIGM grabs 3 Japanese patents for protein stabilization platform",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33223",
+          "category": "Bio",
+          "author": "Park Gi-taek",
+          "date": "09.17 15:59",
+          "new": false,
+          "tag": "Pipeline"
+        },
         {
           "title": "GC Cell taps Israeli AI firm QuantHealth to optimize phase 2 CAR-NK therapy trial",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33211",
@@ -39,42 +57,6 @@
           "date": "09.16 17:51",
           "new": false,
           "tag": "Pipeline"
-        },
-        {
-          "title": "Shinpoong seeks phase 3 IND amendment for stroke drug SP-8203",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33204",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "09.16 16:19",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Nearly 75% of Koreans back expedited coverage for rare-disease drugs",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33201",
-          "category": "Pharma",
-          "author": "Koh Jung Min",
-          "date": "09.16 15:22",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Zymfentra, Xcopri projected to become Korea’s 1st $1 billion blockbuster drugs in 2027",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33200",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "09.16 15:04",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Organon Korea, Boryung expand Atozet tie-up to co-promotion",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33193",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.16 14:50",
-          "new": false,
-          "tag": "Collaboration"
         }
       ]
     }

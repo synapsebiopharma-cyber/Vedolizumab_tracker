@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-09-17 05:07:43 IST",
+  "last_updated": "2026-09-17 12:55:09 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "AbbVie connects with 120 Korean biotechs in search for R&D, licensing deals",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33222",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.17 16:54",
+          "new": false
+        },
+        {
+          "title": "[On the Scene] 1 surgeon, 2 humanoid robots: Samsung tests the future of the operating room",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33224",
+          "category": "Hospital",
+          "author": "Kim Ji-hye",
+          "date": "09.17 16:52",
+          "new": false
+        },
+        {
+          "title": "Internists demand halt to telemedicine pilot after 600-day prescription case",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33225",
+          "category": "Hospital",
+          "author": "Song Soo-youn",
+          "date": "09.17 16:42",
+          "new": false
+        },
+        {
+          "title": "VAXDIGM grabs 3 Japanese patents for protein stabilization platform",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33223",
+          "category": "Bio",
+          "author": "Park Gi-taek",
+          "date": "09.17 15:59",
+          "new": false
+        },
+        {
+          "title": "Korea makes Covid-19 vaccination part of routine national immunization program",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33221",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "09.17 15:35",
+          "new": false
+        },
+        {
+          "title": "Gachon’s Chung Wook-jin elected next Korean Society of Heart Failure president",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33220",
+          "category": "Hospital",
+          "author": "Song Soo-youn",
+          "date": "09.17 15:33",
+          "new": false
+        },
+        {
+          "title": "CHA Bio F&C’s EVERCELL launches probiotic exosome PDRN hydrogel mask",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33219",
+          "category": "K-Beauty",
+          "author": "Lee Han-soo",
+          "date": "09.17 14:38",
+          "new": false
+        },
         {
           "title": "CG MedTech debuts integrated spine portfolio with Solendos in Singapore",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33218",
@@ -106,62 +162,6 @@
           "category": "Hospital",
           "author": "Kim Kyoung-Won",
           "date": "09.16 16:24",
-          "new": false
-        },
-        {
-          "title": "Early flu outbreak pushes Korea to accelerate vaccinations",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33205",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "09.16 16:22",
-          "new": false
-        },
-        {
-          "title": "Shinpoong seeks phase 3 IND amendment for stroke drug SP-8203",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33204",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "09.16 16:19",
-          "new": false
-        },
-        {
-          "title": "Ilsan Paik Hospital doctors train Lao physicians in laparoscopic surgery",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33203",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "09.16 16:15",
-          "new": false
-        },
-        {
-          "title": "Anti-drug delivery petition tops 50,000 as telemedicine debate intensifies",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33202",
-          "category": "Policy",
-          "author": "Kim Jung-hyun",
-          "date": "09.16 15:59",
-          "new": false
-        },
-        {
-          "title": "Nearly 75% of Koreans back expedited coverage for rare-disease drugs",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33201",
-          "category": "Pharma",
-          "author": "Koh Jung Min",
-          "date": "09.16 15:22",
-          "new": false
-        },
-        {
-          "title": "Zymfentra, Xcopri projected to become Korea’s 1st $1 billion blockbuster drugs in 2027",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33200",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "09.16 15:04",
-          "new": false
-        },
-        {
-          "title": "Organon Korea, Boryung expand Atozet tie-up to co-promotion",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33193",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.16 14:50",
           "new": false
         }
       ]
