@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-09-18 05:00:22 IST",
+  "last_updated": "2026-09-18 12:22:19 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Siemens Healthineers, Boehringer team up on blood-based liver screening",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33245",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.18 16:07",
+          "new": false
+        },
+        {
+          "title": "ST Pharm lands record ₩91.3 bil. oligonucleotide API supply deal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33244",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.18 15:58",
+          "new": false
+        },
+        {
+          "title": "Rectal cancer outcomes improve as treatment shifts to preoperative therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33243",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "09.18 15:34",
+          "new": false
+        },
+        {
+          "title": "‘Gastric cancer treatment advances toward curing stage 4 disease, but Korea’s treatment environment remains uncurable’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33242",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "09.18 15:34",
+          "new": false
+        },
+        {
+          "title": "Life Asset calls for special audit of Hanmi Pharm over Beijing Hanmi-Medi’care dealings",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33241",
+          "category": "Pharma",
+          "author": "Park Gi-taek",
+          "date": "09.18 15:14",
+          "new": false
+        },
+        {
+          "title": "AI model identifies shoulder ultrasound views in real time with near-specialist accuracy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33240",
+          "category": "Hospital",
+          "author": "Song Soo-youn",
+          "date": "09.18 14:08",
+          "new": false
+        },
+        {
+          "title": "Abortion pill rollout raises monitoring, access concerns among Korean ob-gyns",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33239",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "09.18 14:01",
+          "new": false
+        },
         {
           "title": "‘Cutting service period to 24 months will draw more doctors to military, public health posts’",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33238",
@@ -61,7 +117,7 @@
           "new": false
         },
         {
-          "title": "A decade leading retinal care, Eylea now lasts even longer, expert says",
+          "title": "A decade leading retinal care, Eylea 8mg now lasts even longer and better, expert says",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33231",
           "category": "Pharma",
           "author": "Kim Ji-hye",
@@ -106,62 +162,6 @@
           "category": "Opinion",
           "author": "Lee Jin-a",
           "date": "09.18 08:30",
-          "new": false
-        },
-        {
-          "title": "AbbVie connects with 120 Korean biotechs in search for R&D, licensing deals",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33222",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.17 16:54",
-          "new": false
-        },
-        {
-          "title": "[On the Scene] 1 surgeon, 2 humanoid robots: Samsung tests the future of the operating room",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33224",
-          "category": "Hospital",
-          "author": "Kim Ji-hye",
-          "date": "09.17 16:52",
-          "new": false
-        },
-        {
-          "title": "Internists demand halt to telemedicine pilot after 600-day prescription case",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33225",
-          "category": "Hospital",
-          "author": "Song Soo-youn",
-          "date": "09.17 16:42",
-          "new": false
-        },
-        {
-          "title": "VAXDIGM grabs 3 Japanese patents for protein stabilization platform",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33223",
-          "category": "Bio",
-          "author": "Park Gi-taek",
-          "date": "09.17 15:59",
-          "new": false
-        },
-        {
-          "title": "Korea makes Covid-19 vaccination part of routine national immunization program",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33221",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "09.17 15:35",
-          "new": false
-        },
-        {
-          "title": "Gachon’s Chung Wook-jin elected next Korean Society of Heart Failure president",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33220",
-          "category": "Hospital",
-          "author": "Song Soo-youn",
-          "date": "09.17 15:33",
-          "new": false
-        },
-        {
-          "title": "CHA Bio F&C’s EVERCELL launches probiotic exosome PDRN hydrogel mask",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33219",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "09.17 14:38",
           "new": false
         }
       ]

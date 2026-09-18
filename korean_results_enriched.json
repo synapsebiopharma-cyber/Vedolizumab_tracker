@@ -1,17 +1,26 @@
 {
-  "last_updated": "2026-09-18 05:00:22 IST",
+  "last_updated": "2026-09-18 12:22:19 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Orum shifts focus to next-generation DAC after BMS halts ORM-6151",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33237",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "09.18 13:38",
+          "title": "Rectal cancer outcomes improve as treatment shifts to preoperative therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33243",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "09.18 15:34",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Other"
+        },
+        {
+          "title": "‘Gastric cancer treatment advances toward curing stage 4 disease, but Korea’s treatment environment remains uncurable’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33242",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "09.18 15:34",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "GC Cell's CAR-NK therapy GCC2005 cleared for compassionate use at SNUH",
@@ -20,34 +29,16 @@
           "author": "Lee Han-soo",
           "date": "09.18 13:16",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Other"
         },
         {
-          "title": "Korean geriatrics groups seek COPD biologics coverage, expanded vaccines for seniors",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33232",
+          "title": "Breast cancer treatment advances toward personalized surgery and radiation, not just chemotherapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33230",
           "category": "Hospital",
           "author": "Kim Kyoung-Won",
-          "date": "09.18 12:51",
+          "date": "09.18 11:43",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "A decade leading retinal care, Eylea now lasts even longer, expert says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33231",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "09.18 12:47",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Japan approves under-the-skin Keytruda made with Alteogen enzyme",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33229",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.18 11:39",
-          "new": false,
-          "tag": "FDA Approval"
         },
         {
           "title": "SK biopharmaceuticals bets on Parkinson’s drug with ₩430.8 bil. FirstBio deal",
@@ -56,34 +47,16 @@
           "author": "Lee Han-soo",
           "date": "09.18 09:03",
           "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "AbbVie connects with 120 Korean biotechs in search for R&D, licensing deals",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33222",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.17 16:54",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "VAXDIGM grabs 3 Japanese patents for protein stabilization platform",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33223",
-          "category": "Bio",
-          "author": "Park Gi-taek",
-          "date": "09.17 15:59",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Korea makes Covid-19 vaccination part of routine national immunization program",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33221",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "09.17 15:35",
-          "new": false,
           "tag": "Other"
+        },
+        {
+          "title": "[Global Pharma Leadership Voices] Women’s lifelong health journey: advancing through innovation and partnership",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33187",
+          "category": "Opinion",
+          "author": "Lee Jin-a",
+          "date": "09.18 08:30",
+          "new": false,
+          "tag": "Collaboration"
         }
       ]
     }
