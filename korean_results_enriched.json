@@ -1,9 +1,63 @@
 {
-  "last_updated": "2026-09-17 12:55:09 IST",
+  "last_updated": "2026-09-18 05:00:22 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Orum shifts focus to next-generation DAC after BMS halts ORM-6151",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33237",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "09.18 13:38",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "GC Cell's CAR-NK therapy GCC2005 cleared for compassionate use at SNUH",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33234",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.18 13:16",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Korean geriatrics groups seek COPD biologics coverage, expanded vaccines for seniors",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33232",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "09.18 12:51",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "A decade leading retinal care, Eylea now lasts even longer, expert says",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33231",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "09.18 12:47",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Japan approves under-the-skin Keytruda made with Alteogen enzyme",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33229",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.18 11:39",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "SK biopharmaceuticals bets on Parkinson’s drug with ₩430.8 bil. FirstBio deal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33226",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.18 09:03",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "AbbVie connects with 120 Korean biotechs in search for R&D, licensing deals",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33222",
@@ -23,40 +77,13 @@
           "tag": "Pipeline"
         },
         {
-          "title": "GC Cell taps Israeli AI firm QuantHealth to optimize phase 2 CAR-NK therapy trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33211",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "09.17 11:03",
+          "title": "Korea makes Covid-19 vaccination part of routine national immunization program",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33221",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "09.17 15:35",
           "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Daewoong's fexuprazan regimen clears H. pylori in 90% of patients in small Korean study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33210",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "09.17 10:38",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "SK biopharmaceuticals wins Japan approval for cenobamate, unlocking milestone payment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33208",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.17 09:30",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "[Interview] Nelmastobart could pair with osimertinib after clean EGFR safety: STCUBE PHARMACEUTICALS CEO",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33207",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.16 17:51",
-          "new": false,
-          "tag": "Pipeline"
+          "tag": "Other"
         }
       ]
     }
