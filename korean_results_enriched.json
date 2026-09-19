@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-09-19 04:51:44 IST",
+  "last_updated": "2026-09-19 12:04:33 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Siemens Healthineers, Boehringer team up on blood-based liver screening",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33245",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.18 16:07",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "ST Pharm lands record ₩91.3 bil. oligonucleotide API supply deal",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33244",
@@ -11,7 +20,7 @@
           "author": "Lee Han-soo",
           "date": "09.18 15:58",
           "new": false,
-          "tag": "Collaboration"
+          "tag": "Financial"
         },
         {
           "title": "Life Asset calls for special audit of Hanmi Pharm over Beijing Hanmi-Medi’care dealings",
@@ -19,15 +28,6 @@
           "category": "Pharma",
           "author": "Park Gi-taek",
           "date": "09.18 15:14",
-          "new": false,
-          "tag": "Inspection"
-        },
-        {
-          "title": "Abortion pill rollout raises monitoring, access concerns among Korean ob-gyns",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33239",
-          "category": "Hospital",
-          "author": "Lim Su-min",
-          "date": "09.18 14:01",
           "new": false,
           "tag": "Other"
         },
@@ -39,6 +39,15 @@
           "date": "09.18 13:38",
           "new": false,
           "tag": "Pipeline"
+        },
+        {
+          "title": "LASEROPTEK presents VASCURA 589 vascular laser technology at dermatology conference",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33236",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.18 13:35",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "Dx&Vx names Lee Yong-koo CEO to lead Korea, China healthcare businesses",
@@ -56,14 +65,14 @@
           "author": "Lee Han-soo",
           "date": "09.18 13:16",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Pipeline"
         },
         {
-          "title": "Korean geriatrics groups seek COPD biologics coverage, expanded vaccines for seniors",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33232",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "09.18 12:51",
+          "title": "Lunit named among TIME’s World’s Top HealthTech Companies 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33233",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.18 13:13",
           "new": false,
           "tag": "Other"
         },
@@ -92,7 +101,7 @@
           "author": "Lee Han-soo",
           "date": "09.18 09:03",
           "new": false,
-          "tag": "Collaboration"
+          "tag": "Financial"
         }
       ]
     }
