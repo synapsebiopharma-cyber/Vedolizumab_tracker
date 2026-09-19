@@ -1,24 +1,51 @@
 {
-  "last_updated": "2026-09-18 12:22:19 IST",
+  "last_updated": "2026-09-19 04:51:44 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Rectal cancer outcomes improve as treatment shifts to preoperative therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33243",
+          "title": "ST Pharm lands record ₩91.3 bil. oligonucleotide API supply deal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33244",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.18 15:58",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Life Asset calls for special audit of Hanmi Pharm over Beijing Hanmi-Medi’care dealings",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33241",
+          "category": "Pharma",
+          "author": "Park Gi-taek",
+          "date": "09.18 15:14",
+          "new": false,
+          "tag": "Inspection"
+        },
+        {
+          "title": "Abortion pill rollout raises monitoring, access concerns among Korean ob-gyns",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33239",
           "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "09.18 15:34",
+          "author": "Lim Su-min",
+          "date": "09.18 14:01",
           "new": false,
           "tag": "Other"
         },
         {
-          "title": "‘Gastric cancer treatment advances toward curing stage 4 disease, but Korea’s treatment environment remains uncurable’",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33242",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "09.18 15:34",
+          "title": "Orum shifts focus to next-generation DAC after BMS halts ORM-6151",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33237",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "09.18 13:38",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Dx&Vx names Lee Yong-koo CEO to lead Korea, China healthcare businesses",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33235",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.18 13:19",
           "new": false,
           "tag": "Other"
         },
@@ -29,16 +56,34 @@
           "author": "Lee Han-soo",
           "date": "09.18 13:16",
           "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Korean geriatrics groups seek COPD biologics coverage, expanded vaccines for seniors",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33232",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "09.18 12:51",
+          "new": false,
           "tag": "Other"
         },
         {
-          "title": "Breast cancer treatment advances toward personalized surgery and radiation, not just chemotherapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33230",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "09.18 11:43",
+          "title": "A decade leading retinal care, Eylea 8mg now lasts even longer and better, expert says",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33231",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "09.18 12:47",
           "new": false,
           "tag": "Other"
+        },
+        {
+          "title": "Japan approves under-the-skin Keytruda made with Alteogen enzyme",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33229",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.18 11:39",
+          "new": false,
+          "tag": "FDA Approval"
         },
         {
           "title": "SK biopharmaceuticals bets on Parkinson’s drug with ₩430.8 bil. FirstBio deal",
@@ -46,15 +91,6 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "09.18 09:03",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "[Global Pharma Leadership Voices] Women’s lifelong health journey: advancing through innovation and partnership",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33187",
-          "category": "Opinion",
-          "author": "Lee Jin-a",
-          "date": "09.18 08:30",
           "new": false,
           "tag": "Collaboration"
         }
