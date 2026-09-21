@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-09-20 12:38:19 IST",
+  "last_updated": "2026-09-21 05:15:40 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "GC Cell reports 62.5% response rate in early GCC2005 CAR-NK trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33251",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.21 12:57",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Matica Bio to expand into protein process development with US Bondwell",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33253",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.21 11:45",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "Siemens Healthineers, Boehringer team up on blood-based liver screening",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33245",
@@ -20,7 +38,7 @@
           "author": "Lee Han-soo",
           "date": "09.18 15:58",
           "new": false,
-          "tag": "Collaboration"
+          "tag": "Other"
         },
         {
           "title": "Life Asset calls for special audit of Hanmi Pharm over Beijing Hanmi-Medi’care dealings",
@@ -28,6 +46,15 @@
           "category": "Pharma",
           "author": "Park Gi-taek",
           "date": "09.18 15:14",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Abortion pill rollout raises monitoring, access concerns among Korean ob-gyns",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33239",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "09.18 14:01",
           "new": false,
           "tag": "Other"
         },
@@ -39,51 +66,6 @@
           "date": "09.18 13:38",
           "new": false,
           "tag": "Pipeline"
-        },
-        {
-          "title": "Dx&Vx names Lee Yong-koo CEO to lead Korea, China healthcare businesses",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33235",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.18 13:19",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "GC Cell's CAR-NK therapy GCC2005 cleared for compassionate use at SNUH",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33234",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.18 13:16",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "A decade leading retinal care, Eylea 8mg now lasts even longer and better, expert says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33231",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "09.18 12:47",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Japan approves under-the-skin Keytruda made with Alteogen enzyme",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33229",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.18 11:39",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "SK biopharmaceuticals bets on Parkinson’s drug with ₩430.8 bil. FirstBio deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33226",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.18 09:03",
-          "new": false,
-          "tag": "Acquisition"
         }
       ]
     }

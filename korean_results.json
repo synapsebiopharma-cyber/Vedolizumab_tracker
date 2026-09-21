@@ -1,9 +1,97 @@
 {
-  "last_updated": "2026-09-20 12:38:19 IST",
+  "last_updated": "2026-09-21 05:15:40 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Samjin Pharm marks World Alzheimer's Day with dementia photo program",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33259",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "09.21 14:09",
+          "new": false
+        },
+        {
+          "title": "Timing is key to balancing risks and benefits of menopausal hormone therapy, specialist says",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33256",
+          "category": "Hospital",
+          "author": "Kim Yun-mi",
+          "date": "09.21 13:23",
+          "new": false
+        },
+        {
+          "title": "Emergency physicians say new ER bill could ‘force hospitals to take patients’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33255",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "09.21 13:10",
+          "new": false
+        },
+        {
+          "title": "Hugel hosts Taiwanese aesthetic medicine professionals for training in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33252",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.21 13:03",
+          "new": false
+        },
+        {
+          "title": "GC Cell reports 62.5% response rate in early GCC2005 CAR-NK trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33251",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.21 12:57",
+          "new": false
+        },
+        {
+          "title": "TeCure, Taewoong Medical team up to develop, commercialize medical devices",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33250",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.21 12:54",
+          "new": false
+        },
+        {
+          "title": "Matica Bio to expand into protein process development with US Bondwell",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33253",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.21 11:45",
+          "new": false
+        },
+        {
+          "title": "J&J MedTech launches VARIPULSE Pro in Korea, expanding PFA portfolio",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33249",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.21 11:32",
+          "new": false
+        },
+        {
+          "title": "Merck raises awareness of children’s growth on International Children’s Growth Awareness Day",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33248",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.21 11:10",
+          "new": false
+        },
+        {
+          "title": "Male nurses increase nearly 5-fold in 10 years, gaining ground in nursing workforce",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33247",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "09.21 10:47",
+          "new": false
+        },
+        {
+          "title": "[From the Scene] How Korea’s InBody is scaling body composition analyzers for global demand",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33246",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.21 08:27",
+          "new": false
+        },
         {
           "title": "Siemens Healthineers, Boehringer team up on blood-based liver screening",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33245",
@@ -74,94 +162,6 @@
           "category": "Bio",
           "author": "Hong Sook",
           "date": "09.18 13:38",
-          "new": false
-        },
-        {
-          "title": "LASEROPTEK presents VASCURA 589 vascular laser technology at dermatology conference",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33236",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.18 13:35",
-          "new": false
-        },
-        {
-          "title": "Dx&Vx names Lee Yong-koo CEO to lead Korea, China healthcare businesses",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33235",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.18 13:19",
-          "new": false
-        },
-        {
-          "title": "GC Cell's CAR-NK therapy GCC2005 cleared for compassionate use at SNUH",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33234",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.18 13:16",
-          "new": false
-        },
-        {
-          "title": "Lunit named among TIME’s World’s Top HealthTech Companies 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33233",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.18 13:13",
-          "new": false
-        },
-        {
-          "title": "Korean geriatrics groups seek COPD biologics coverage, expanded vaccines for seniors",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33232",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "09.18 12:51",
-          "new": false
-        },
-        {
-          "title": "A decade leading retinal care, Eylea 8mg now lasts even longer and better, expert says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33231",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "09.18 12:47",
-          "new": false
-        },
-        {
-          "title": "Breast cancer treatment advances toward personalized surgery and radiation, not just chemotherapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33230",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "09.18 11:43",
-          "new": false
-        },
-        {
-          "title": "Japan approves under-the-skin Keytruda made with Alteogen enzyme",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33229",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.18 11:39",
-          "new": false
-        },
-        {
-          "title": "Newsweek 2027: Asan leads with 6 top-10 specialties, Samsung 5th in cancer, Severance 6th in orthopedics",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33227",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "09.18 10:50",
-          "new": false
-        },
-        {
-          "title": "SK biopharmaceuticals bets on Parkinson’s drug with ₩430.8 bil. FirstBio deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33226",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.18 09:03",
-          "new": false
-        },
-        {
-          "title": "[Global Pharma Leadership Voices] Women’s lifelong health journey: advancing through innovation and partnership",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33187",
-          "category": "Opinion",
-          "author": "Lee Jin-a",
-          "date": "09.18 08:30",
           "new": false
         }
       ]
