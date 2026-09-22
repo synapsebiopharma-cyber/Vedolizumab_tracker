@@ -1,15 +1,51 @@
 {
-  "last_updated": "2026-09-22 05:16:07 IST",
+  "last_updated": "2026-09-22 12:50:34 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Gilead eyes bigger Korea role as country joins 60% of global oncology trials",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33278",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.22 16:33",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Korea University Medicine links Korean biotechs with Johns Hopkins, Texas Medical Center",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33277",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "09.22 16:19",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Boryung signs $277 mil. Taxotere supply deal with China’s Yifan",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33275",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "09.22 14:56",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "‘I don’t want to lose my wife’: Family pleads for Winrevair coverage",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33273",
           "category": "People",
           "author": "Kim Jung-hyun",
           "date": "09.22 14:13",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "'Abortion pill approval, legal overhaul should proceed in parallel'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33271",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "09.22 13:37",
           "new": false,
           "tag": "Other"
         },
@@ -73,42 +109,6 @@
           "category": "Hospital",
           "author": "Kim Ji-hye",
           "date": "09.21 16:45",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Daewoong unveils full phase 2 patient profile for bersiporocin at ERS 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33264",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "09.21 16:39",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "[WCLC 2026] Ivonescimab beats Keytruda this time, showing OS benefit",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33258",
-          "category": "Hospital",
-          "author": "Kim Yun-mi",
-          "date": "09.21 16:33",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Hugel hosts Taiwanese aesthetic medicine professionals for training in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33252",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.21 13:03",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "GC Cell reports 62.5% response rate in early GCC2005 CAR-NK trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33251",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "09.21 12:57",
           "new": false,
           "tag": "Clinical Trial"
         }

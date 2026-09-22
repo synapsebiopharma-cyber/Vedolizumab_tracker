@@ -1,24 +1,24 @@
 {
   "source": "https://ir.tevapharm.com/Events-and-Presentations/events-and-presentations/default.aspx",
-  "last_fetched": "2026-09-22T05:17:59Z",
-  "total_runs": 294,
+  "last_fetched": "2026-09-22T12:52:23Z",
+  "total_runs": 295,
   "new_on_last_run": 0,
   "events": [
-    {
-      "id": "jpm-u.s.-all-stars-conference|september-22,-2026",
-      "title": "JPM U.S. All Stars Conference",
-      "date": "September 22, 2026",
-      "url": "https://ir.tevapharm.com/Events-and-Presentations/events-and-presentations/event-details/2026/JPM-US-All-Stars-Conference-2026-FbAk9oU9T1/default.aspx",
-      "webcast": "https://kvgo.com/jpm/teva-pharmaceuticals-september-2026",
-      "docs": [],
-      "new": false
-    },
     {
       "id": "bofa-global-healthcare-conference-2026|september-23,-2026",
       "title": "BofA Global Healthcare Conference 2026",
       "date": "September 23, 2026",
       "url": "https://ir.tevapharm.com/Events-and-Presentations/events-and-presentations/event-details/2026/BofA-Global-Healthcare-Conference-2026--2026-E4MJSPNBJH/default.aspx",
       "webcast": "https://kvgo.com/bofa/teva-pharmaceuticals-sep-2026",
+      "docs": [],
+      "new": false
+    },
+    {
+      "id": "jpm-u.s.-all-stars-conference|september-22,-2026",
+      "title": "JPM U.S. All Stars Conference",
+      "date": "September 22, 2026",
+      "url": "https://ir.tevapharm.com/Events-and-Presentations/events-and-presentations/event-details/2026/JPM-US-All-Stars-Conference-2026-FbAk9oU9T1/default.aspx",
+      "webcast": "https://kvgo.com/jpm/teva-pharmaceuticals-september-2026",
       "docs": [],
       "new": false
     },

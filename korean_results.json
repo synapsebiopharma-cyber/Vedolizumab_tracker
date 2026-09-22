@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-09-22 05:16:07 IST",
+  "last_updated": "2026-09-22 12:50:34 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Cancer survivors face up to 1.7-fold higher risk of second cancer, expert says",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33282",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "09.22 17:05",
+          "new": false
+        },
+        {
+          "title": "Alzheimer’s delusions, anxiety linked to different brain protein pathologies",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33281",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "09.22 17:04",
+          "new": false
+        },
+        {
+          "title": "Growth hormone adverse event reports rise 61% in 4 years in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33280",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "09.22 16:37",
+          "new": false
+        },
+        {
+          "title": "Gilead eyes bigger Korea role as country joins 60% of global oncology trials",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33278",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.22 16:33",
+          "new": false
+        },
+        {
+          "title": "Korea eases cadaver dissection rules to expand pool of qualified doctors",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33279",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "09.22 16:28",
+          "new": false
+        },
+        {
+          "title": "Korea University Medicine links Korean biotechs with Johns Hopkins, Texas Medical Center",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33277",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "09.22 16:19",
+          "new": false
+        },
+        {
+          "title": "Medicube maker APR claims beauty-industry first with 2 AI certifications",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33276",
+          "category": "K-Beauty",
+          "author": "Kim Ji-hye",
+          "date": "09.22 15:07",
+          "new": false
+        },
+        {
+          "title": "Boryung signs $277 mil. Taxotere supply deal with China’s Yifan",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33275",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "09.22 14:56",
+          "new": false
+        },
+        {
+          "title": "Seosan Jungang Hospital adds Siemens 3T MRI to bolster cardiac, brain imaging",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33274",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.22 14:46",
+          "new": false
+        },
         {
           "title": "‘I don’t want to lose my wife’: Family pleads for Winrevair coverage",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33273",
@@ -90,78 +162,6 @@
           "category": "Hospital",
           "author": "Kim Ji-hye",
           "date": "09.21 16:45",
-          "new": false
-        },
-        {
-          "title": "Daewoong unveils full phase 2 patient profile for bersiporocin at ERS 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33264",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "09.21 16:39",
-          "new": false
-        },
-        {
-          "title": "[WCLC 2026] Ivonescimab beats Keytruda this time, showing OS benefit",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33258",
-          "category": "Hospital",
-          "author": "Kim Yun-mi",
-          "date": "09.21 16:33",
-          "new": false
-        },
-        {
-          "title": "[Interview] MASH moves beyond ‘clinical graveyard’ as focus shifts to targets, biomarkers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33257",
-          "category": "Hospital",
-          "author": "Hong Sook",
-          "date": "09.21 15:49",
-          "new": false
-        },
-        {
-          "title": "Sky Labs named to TIME’s world’s top healthtech list with wearable BP technology",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33260",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.21 14:50",
-          "new": false
-        },
-        {
-          "title": "Samjin Pharm marks World Alzheimer's Day with dementia photo program",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33259",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "09.21 14:09",
-          "new": false
-        },
-        {
-          "title": "Timing is key to balancing risks and benefits of menopausal hormone therapy, specialist says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33256",
-          "category": "Hospital",
-          "author": "Kim Yun-mi",
-          "date": "09.21 13:23",
-          "new": false
-        },
-        {
-          "title": "Emergency physicians say new ER bill could ‘force hospitals to take patients’",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33255",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "09.21 13:10",
-          "new": false
-        },
-        {
-          "title": "Hugel hosts Taiwanese aesthetic medicine professionals for training in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33252",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.21 13:03",
-          "new": false
-        },
-        {
-          "title": "GC Cell reports 62.5% response rate in early GCC2005 CAR-NK trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33251",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "09.21 12:57",
           "new": false
         }
       ]
