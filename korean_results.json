@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-09-21 14:40:05 IST",
+  "last_updated": "2026-09-22 05:16:07 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "‘I don’t want to lose my wife’: Family pleads for Winrevair coverage",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33273",
+          "category": "People",
+          "author": "Kim Jung-hyun",
+          "date": "09.22 14:13",
+          "new": false
+        },
+        {
+          "title": "Korea lags in automated insulin delivery as access, cost barriers persist",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33272",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "09.22 13:55",
+          "new": false
+        },
+        {
+          "title": "'Abortion pill approval, legal overhaul should proceed in parallel'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33271",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "09.22 13:37",
+          "new": false
+        },
+        {
+          "title": "Vivozon secures patents for non-opioid pain drug VVZ-2471 in Korea, Israel",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33270",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "09.22 13:33",
+          "new": false
+        },
+        {
+          "title": "Emocog taps Daewoong’s nationwide network to scale up cognitive care products",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33269",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.22 11:29",
+          "new": false
+        },
+        {
+          "title": "GC Wellbeing taps Boryung to take Laennec beyond primary care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33268",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "09.22 11:13",
+          "new": false
+        },
+        {
+          "title": "Celltrion renews EU-GMP certification for 250,000-liter Songdo facilities",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33267",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "09.22 10:55",
+          "new": false
+        },
+        {
+          "title": "Vaxcellbio, Taiwan's Reber discuss veterinary drug development, manufacturing in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33266",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "09.22 09:57",
+          "new": false
+        },
+        {
+          "title": "Pfizer details phase 3 sleep apnea trial for ex-Metsera obesity drug",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33265",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "09.22 09:38",
+          "new": false
+        },
         {
           "title": "[Caring the Korean Way] Korean parents turn to dream lenses to slow childhood myopia",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33263",
@@ -90,78 +162,6 @@
           "category": "Bio",
           "author": "Lee Han-soo",
           "date": "09.21 12:57",
-          "new": false
-        },
-        {
-          "title": "TeCure, Taewoong Medical team up to develop, commercialize medical devices",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33250",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.21 12:54",
-          "new": false
-        },
-        {
-          "title": "Matica Bio to expand into protein process development with US Bondwell",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33253",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "09.21 11:45",
-          "new": false
-        },
-        {
-          "title": "J&J MedTech launches VARIPULSE Pro in Korea, expanding PFA portfolio",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33249",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.21 11:32",
-          "new": false
-        },
-        {
-          "title": "Merck raises awareness of children’s growth on International Children’s Growth Awareness Day",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33248",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.21 11:10",
-          "new": false
-        },
-        {
-          "title": "Male nurses increase nearly 5-fold in 10 years, gaining ground in nursing workforce",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33247",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "09.21 10:47",
-          "new": false
-        },
-        {
-          "title": "[From the Scene] How Korea’s InBody is scaling body composition analyzers for global demand",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33246",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.21 08:27",
-          "new": false
-        },
-        {
-          "title": "Siemens Healthineers, Boehringer team up on blood-based liver screening",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33245",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.18 16:07",
-          "new": false
-        },
-        {
-          "title": "ST Pharm lands record ₩91.3 bil. oligonucleotide API supply deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33244",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.18 15:58",
-          "new": false
-        },
-        {
-          "title": "Rectal cancer outcomes improve as treatment shifts to preoperative therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33243",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "09.18 15:34",
           "new": false
         }
       ]

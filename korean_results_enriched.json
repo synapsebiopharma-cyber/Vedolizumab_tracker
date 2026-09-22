@@ -1,9 +1,72 @@
 {
-  "last_updated": "2026-09-21 14:40:05 IST",
+  "last_updated": "2026-09-22 05:16:07 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "‘I don’t want to lose my wife’: Family pleads for Winrevair coverage",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33273",
+          "category": "People",
+          "author": "Kim Jung-hyun",
+          "date": "09.22 14:13",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Vivozon secures patents for non-opioid pain drug VVZ-2471 in Korea, Israel",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33270",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "09.22 13:33",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Emocog taps Daewoong’s nationwide network to scale up cognitive care products",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33269",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.22 11:29",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "GC Wellbeing taps Boryung to take Laennec beyond primary care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33268",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "09.22 11:13",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Celltrion renews EU-GMP certification for 250,000-liter Songdo facilities",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33267",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "09.22 10:55",
+          "new": false,
+          "tag": "Inspection"
+        },
+        {
+          "title": "Vaxcellbio, Taiwan's Reber discuss veterinary drug development, manufacturing in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33266",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "09.22 09:57",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Pfizer details phase 3 sleep apnea trial for ex-Metsera obesity drug",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33265",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "09.22 09:38",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "[Interview] Leqembi shows lower ARIA rates in Korean real-world study than pivotal trial",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33261",
@@ -32,15 +95,6 @@
           "tag": "Clinical Trial"
         },
         {
-          "title": "[Interview] MASH moves beyond ‘clinical graveyard’ as focus shifts to targets, biomarkers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33257",
-          "category": "Hospital",
-          "author": "Hong Sook",
-          "date": "09.21 15:49",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
           "title": "Hugel hosts Taiwanese aesthetic medicine professionals for training in Korea",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33252",
           "category": "Pharma",
@@ -57,33 +111,6 @@
           "date": "09.21 12:57",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "Matica Bio to expand into protein process development with US Bondwell",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33253",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "09.21 11:45",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Siemens Healthineers, Boehringer team up on blood-based liver screening",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33245",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.18 16:07",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "ST Pharm lands record ₩91.3 bil. oligonucleotide API supply deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33244",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.18 15:58",
-          "new": false,
-          "tag": "Collaboration"
         }
       ]
     }
