@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-09-22 12:50:34 IST",
+  "last_updated": "2026-09-23 05:07:51 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Daewoong launches GERD drug Fexuclue in Indonesia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33291",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.23 14:06",
+          "new": false
+        },
+        {
+          "title": "Hospital, family reach settlement 113 days after nurse’s ‘taeum’ death",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33290",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "09.23 13:53",
+          "new": false
+        },
+        {
+          "title": "Man loses disability status after gaining 3 cm, exposing Korea’s 26-year-old dwarfism rule",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33289",
+          "category": "Policy",
+          "author": "You Ji-young",
+          "date": "09.23 13:40",
+          "new": false
+        },
+        {
+          "title": "Korea risks losing clinical trial edge as China rises, Japan reforms: experts",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33288",
+          "category": "Life science",
+          "author": "Koh Jung Min",
+          "date": "09.23 13:25",
+          "new": false
+        },
+        {
+          "title": "Korea’s healthcare spending on individual care tops ₩200 tri. for 1st time",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33287",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "09.23 13:03",
+          "new": false
+        },
+        {
+          "title": "Compass pushes ahead with tovecimig BLA despite FDA call for survival trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33285",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.23 11:23",
+          "new": false
+        },
+        {
+          "title": "Lunit AI shows potential to predict response in HER2-positive biliary tract cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33286",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.23 11:16",
+          "new": false
+        },
+        {
+          "title": "Onconic’s zastaprazan enters phase 3 injectable trial in China",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33284",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.23 10:53",
+          "new": false
+        },
+        {
+          "title": "[Interview] Low reimbursement threatens Korea’s oncology workforce: KSMO chief",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33283",
+          "category": "Hospital",
+          "author": "You Ji-young",
+          "date": "09.23 08:00",
+          "new": false
+        },
         {
           "title": "Cancer survivors face up to 1.7-fold higher risk of second cancer, expert says",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33282",
@@ -90,78 +162,6 @@
           "category": "Hospital",
           "author": "Lim Su-min",
           "date": "09.22 13:55",
-          "new": false
-        },
-        {
-          "title": "'Abortion pill approval, legal overhaul should proceed in parallel'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33271",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "09.22 13:37",
-          "new": false
-        },
-        {
-          "title": "Vivozon secures patents for non-opioid pain drug VVZ-2471 in Korea, Israel",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33270",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "09.22 13:33",
-          "new": false
-        },
-        {
-          "title": "Emocog taps Daewoong’s nationwide network to scale up cognitive care products",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33269",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.22 11:29",
-          "new": false
-        },
-        {
-          "title": "GC Wellbeing taps Boryung to take Laennec beyond primary care",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33268",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "09.22 11:13",
-          "new": false
-        },
-        {
-          "title": "Celltrion renews EU-GMP certification for 250,000-liter Songdo facilities",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33267",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "09.22 10:55",
-          "new": false
-        },
-        {
-          "title": "Vaxcellbio, Taiwan's Reber discuss veterinary drug development, manufacturing in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33266",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "09.22 09:57",
-          "new": false
-        },
-        {
-          "title": "Pfizer details phase 3 sleep apnea trial for ex-Metsera obesity drug",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33265",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "09.22 09:38",
-          "new": false
-        },
-        {
-          "title": "[Caring the Korean Way] Korean parents turn to dream lenses to slow childhood myopia",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33263",
-          "category": "Life science",
-          "author": "Lee Han-soo",
-          "date": "09.21 16:59",
-          "new": false
-        },
-        {
-          "title": "[Interview] Leqembi shows lower ARIA rates in Korean real-world study than pivotal trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33261",
-          "category": "Hospital",
-          "author": "Kim Ji-hye",
-          "date": "09.21 16:45",
           "new": false
         }
       ]

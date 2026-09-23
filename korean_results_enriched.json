@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-09-22 12:50:34 IST",
+  "last_updated": "2026-09-23 05:07:51 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Daewoong launches GERD drug Fexuclue in Indonesia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33291",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.23 14:06",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Compass pushes ahead with tovecimig BLA despite FDA call for survival trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33285",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.23 11:23",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Onconic’s zastaprazan enters phase 3 injectable trial in China",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33284",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.23 10:53",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "Gilead eyes bigger Korea role as country joins 60% of global oncology trials",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33278",
@@ -30,87 +57,6 @@
           "date": "09.22 14:56",
           "new": false,
           "tag": "Collaboration"
-        },
-        {
-          "title": "‘I don’t want to lose my wife’: Family pleads for Winrevair coverage",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33273",
-          "category": "People",
-          "author": "Kim Jung-hyun",
-          "date": "09.22 14:13",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "'Abortion pill approval, legal overhaul should proceed in parallel'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33271",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "09.22 13:37",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Vivozon secures patents for non-opioid pain drug VVZ-2471 in Korea, Israel",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33270",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "09.22 13:33",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Emocog taps Daewoong’s nationwide network to scale up cognitive care products",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33269",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.22 11:29",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "GC Wellbeing taps Boryung to take Laennec beyond primary care",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33268",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "09.22 11:13",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Celltrion renews EU-GMP certification for 250,000-liter Songdo facilities",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33267",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "09.22 10:55",
-          "new": false,
-          "tag": "Inspection"
-        },
-        {
-          "title": "Vaxcellbio, Taiwan's Reber discuss veterinary drug development, manufacturing in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33266",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "09.22 09:57",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Pfizer details phase 3 sleep apnea trial for ex-Metsera obesity drug",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33265",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "09.22 09:38",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "[Interview] Leqembi shows lower ARIA rates in Korean real-world study than pivotal trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33261",
-          "category": "Hospital",
-          "author": "Kim Ji-hye",
-          "date": "09.21 16:45",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }
