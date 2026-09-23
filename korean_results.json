@@ -1,9 +1,33 @@
 {
-  "last_updated": "2026-09-23 05:07:51 IST",
+  "last_updated": "2026-09-23 13:00:10 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[News Analysis] Inventera built an iron MRI dye for joints. Now it has to convince radiologists to switch.",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33294",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.23 18:11",
+          "new": false
+        },
+        {
+          "title": "[Interview] ‘Sepsis is a race against time -- early recognition saves lives’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33293",
+          "category": "Hospital",
+          "author": "Park Gi-taek",
+          "date": "09.23 14:45",
+          "new": false
+        },
+        {
+          "title": "19 public health scholars quit mandatory service, but Korea can’t track repayments",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33292",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "09.23 14:21",
+          "new": false
+        },
         {
           "title": "Daewoong launches GERD drug Fexuclue in Indonesia",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33291",
@@ -138,30 +162,6 @@
           "category": "Pharma",
           "author": "Kim Yoon-mi",
           "date": "09.22 14:56",
-          "new": false
-        },
-        {
-          "title": "Seosan Jungang Hospital adds Siemens 3T MRI to bolster cardiac, brain imaging",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33274",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.22 14:46",
-          "new": false
-        },
-        {
-          "title": "‘I don’t want to lose my wife’: Family pleads for Winrevair coverage",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33273",
-          "category": "People",
-          "author": "Kim Jung-hyun",
-          "date": "09.22 14:13",
-          "new": false
-        },
-        {
-          "title": "Korea lags in automated insulin delivery as access, cost barriers persist",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33272",
-          "category": "Hospital",
-          "author": "Lim Su-min",
-          "date": "09.22 13:55",
           "new": false
         }
       ]
