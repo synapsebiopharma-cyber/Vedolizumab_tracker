@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-09-23 13:00:10 IST",
+  "last_updated": "2026-09-24 05:10:47 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "HLB's Lyrfigtu wins FDA approval for FGFR2-altered bile duct cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33296",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.24 08:59",
+          "new": false,
+          "tag": "FDA Approval"
+        },
         {
           "title": "[News Analysis] Inventera built an iron MRI dye for joints. Now it has to convince radiologists to switch.",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33294",
@@ -11,7 +20,7 @@
           "author": "Kim Ji-hye",
           "date": "09.23 18:11",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Other"
         },
         {
           "title": "Daewoong launches GERD drug Fexuclue in Indonesia",
@@ -29,7 +38,7 @@
           "author": "Kim Ji-hye",
           "date": "09.23 11:23",
           "new": false,
-          "tag": "FDA Approval"
+          "tag": "Pipeline"
         },
         {
           "title": "Lunit AI shows potential to predict response in HER2-positive biliary tract cancer",
@@ -57,24 +66,6 @@
           "date": "09.22 16:33",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Korea University Medicine links Korean biotechs with Johns Hopkins, Texas Medical Center",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33277",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "09.22 16:19",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Boryung signs $277 mil. Taxotere supply deal with China’s Yifan",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33275",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "09.22 14:56",
-          "new": false,
-          "tag": "Collaboration"
         }
       ]
     }

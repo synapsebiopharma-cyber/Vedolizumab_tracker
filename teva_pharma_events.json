@@ -1,9 +1,23 @@
 {
   "source": "https://ir.tevapharm.com/Events-and-Presentations/events-and-presentations/default.aspx",
-  "last_fetched": "2026-09-23T13:02:04Z",
-  "total_runs": 297,
-  "new_on_last_run": 0,
+  "last_fetched": "2026-09-24T05:12:33Z",
+  "total_runs": 298,
+  "new_on_last_run": 1,
   "events": [
+    {
+      "id": "q3-2026-teva-pharmaceutical-industries-ltd.-earnings-conference-call|november-03,-2026",
+      "title": "Q3 2026 Teva Pharmaceutical Industries Ltd. Earnings Conference Call",
+      "date": "November 03, 2026",
+      "url": "https://ir.tevapharm.com/Events-and-Presentations/events-and-presentations/event-details/2026/Q3-2026-Teva-Pharmaceutical-Industries-Ltd-Earnings-Conference-Call/default.aspx",
+      "webcast": "https://events.q4inc.com/attendee/158390923",
+      "docs": [
+        {
+          "title": "Registration(opens in new window)",
+          "url": "https://www.netroadshow.com/events/login/1PeTHmohOPMZ2OGeGhHFHMDHPqDKvQehMidzs"
+        }
+      ],
+      "new": true
+    },
     {
       "id": "bofa-global-healthcare-conference-2026|september-23,-2026",
       "title": "BofA Global Healthcare Conference 2026",
