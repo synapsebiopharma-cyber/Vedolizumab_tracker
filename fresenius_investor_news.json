@@ -1,9 +1,18 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-09-25T05:15:43Z",
-  "total_runs": 300,
-  "new_on_last_run": 0,
+  "last_fetched": "2026-09-25T12:59:14Z",
+  "total_runs": 301,
+  "new_on_last_run": 1,
   "articles": [
+    {
+      "id": "fresenius-expands-european-production-capacity-to-enhance-healthcare-supply-chain-resilience|september-25,-2026",
+      "title": "Fresenius expands European production capacity to enhance healthcare supply chain resilience",
+      "url": "https://www.fresenius.com/node/7420",
+      "date": "September 25, 2026",
+      "source": "Fresenius Kabi",
+      "meta": "",
+      "new": true
+    },
     {
       "id": "drg-inflator-2027-expected-at-4.85%|september-16,-2026",
       "title": "DRG inflator 2027 expected at 4.85%",
@@ -72,15 +81,6 @@
       "title": "Fresenius Announces FDA Approval of Rituximab Biosimilar for the U.S. Market",
       "url": "https://www.fresenius.com/node/7379",
       "date": "August 3, 2026",
-      "source": "Fresenius Kabi",
-      "meta": "",
-      "new": false
-    },
-    {
-      "id": "fresenius-announces-fda-and-ema-acceptance-for-review-of-vedolizumab-biosimilar-candidate|july-31,-2026",
-      "title": "Fresenius Announces FDA and EMA Acceptance for Review of Vedolizumab Biosimilar Candidate",
-      "url": "https://www.fresenius.com/node/7378",
-      "date": "July 31, 2026",
       "source": "Fresenius Kabi",
       "meta": "",
       "new": false

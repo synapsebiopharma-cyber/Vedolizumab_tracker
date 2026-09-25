@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25 05:14:01 IST",
+  "last_updated": "2026-09-25 12:57:34 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
@@ -65,7 +65,7 @@
           "author": "Lee Han-soo",
           "date": "09.23 11:16",
           "new": false,
-          "tag": "Other"
+          "tag": "Pipeline"
         },
         {
           "title": "Onconic’s zastaprazan enters phase 3 injectable trial in China",
@@ -77,13 +77,22 @@
           "tag": "Clinical Trial"
         },
         {
+          "title": "Growth hormone adverse event reports rise 61% in 4 years in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33280",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "09.22 16:37",
+          "new": false,
+          "tag": "Other"
+        },
+        {
           "title": "Gilead eyes bigger Korea role as country joins 60% of global oncology trials",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33278",
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "09.22 16:33",
           "new": false,
-          "tag": "Other"
+          "tag": "Collaboration"
         }
       ]
     }
