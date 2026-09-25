@@ -1,9 +1,17 @@
 {
-  "last_updated": "2026-09-24 13:02:47 IST",
+  "last_updated": "2026-09-25 05:14:01 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[Interview] Rybrevant expands first-line options in EGFR-mutated lung cancer, but cost limits access in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33297",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.25 08:51",
+          "new": false
+        },
         {
           "title": "HLB's Lyrfigtu wins FDA approval for FGFR2-altered bile duct cancer",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33296",
@@ -154,14 +162,6 @@
           "category": "Policy",
           "author": "Kwak Sung-sun",
           "date": "09.22 16:28",
-          "new": false
-        },
-        {
-          "title": "Korea University Medicine links Korean biotechs with Johns Hopkins, Texas Medical Center",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33277",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "09.22 16:19",
           "new": false
         }
       ]

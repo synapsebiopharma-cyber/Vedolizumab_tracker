@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-09-24 13:02:47 IST",
+  "last_updated": "2026-09-25 05:14:01 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[Interview] Rybrevant expands first-line options in EGFR-mutated lung cancer, but cost limits access in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33297",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.25 08:51",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "HLB's Lyrfigtu wins FDA approval for FGFR2-altered bile duct cancer",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33296",
@@ -12,6 +21,15 @@
           "date": "09.24 08:59",
           "new": false,
           "tag": "FDA Approval"
+        },
+        {
+          "title": "[News Analysis] Inventera built an iron MRI dye for joints. Now it has to convince radiologists to switch.",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33294",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.23 18:11",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "Daewoong launches GERD drug Fexuclue in Indonesia",
@@ -29,7 +47,43 @@
           "author": "Koh Jung Min",
           "date": "09.23 13:25",
           "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Compass pushes ahead with tovecimig BLA despite FDA call for survival trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33285",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.23 11:23",
+          "new": false,
           "tag": "Clinical Trial"
+        },
+        {
+          "title": "Lunit AI shows potential to predict response in HER2-positive biliary tract cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33286",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.23 11:16",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Onconic’s zastaprazan enters phase 3 injectable trial in China",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33284",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.23 10:53",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Gilead eyes bigger Korea role as country joins 60% of global oncology trials",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33278",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.22 16:33",
+          "new": false,
+          "tag": "Other"
         }
       ]
     }
