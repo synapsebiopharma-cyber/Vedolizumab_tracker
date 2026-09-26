@@ -1,8 +1,8 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-09-25T12:59:14Z",
-  "total_runs": 301,
-  "new_on_last_run": 1,
+  "last_fetched": "2026-09-26T05:21:41Z",
+  "total_runs": 302,
+  "new_on_last_run": 0,
   "articles": [
     {
       "id": "fresenius-expands-european-production-capacity-to-enhance-healthcare-supply-chain-resilience|september-25,-2026",
@@ -11,7 +11,7 @@
       "date": "September 25, 2026",
       "source": "Fresenius Kabi",
       "meta": "",
-      "new": true
+      "new": false
     },
     {
       "id": "drg-inflator-2027-expected-at-4.85%|september-16,-2026",
