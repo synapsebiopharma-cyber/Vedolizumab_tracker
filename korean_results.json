@@ -1,9 +1,97 @@
 {
-  "last_updated": "2026-09-28 05:45:22 IST",
+  "last_updated": "2026-09-28 15:51:08 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "VUNO takes cardiac arrest AI to China pilot zone",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33319",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "09.28 17:39",
+          "new": false
+        },
+        {
+          "title": "Prices rise for 3 in 4 medical services not covered by Korea’s national insurance",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33318",
+          "category": "Policy",
+          "author": "Lim Su-min",
+          "date": "09.28 17:00",
+          "new": false
+        },
+        {
+          "title": "Korea University Anam Hospital opens pediatric ER, adds 3 dedicated specialists",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33317",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "09.28 16:57",
+          "new": false
+        },
+        {
+          "title": "Ajou researchers win MICCAI challenge with TB-detecting AI",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33316",
+          "category": "Hospital",
+          "author": "Kwak Sung-sun",
+          "date": "09.28 16:40",
+          "new": false
+        },
+        {
+          "title": "Korean endoscopist showcases advanced techniques at Cleveland Clinic",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33315",
+          "category": "Hospital",
+          "author": "Kwak Sung-sun",
+          "date": "09.28 16:38",
+          "new": false
+        },
+        {
+          "title": "[Interview] ‘Wider options reshape ankylosing spondylitis treatment after a decade of change’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33314",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "09.28 16:35",
+          "new": false
+        },
+        {
+          "title": "Onconic enters obesity race with new drug candidate",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33313",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.28 16:15",
+          "new": false
+        },
+        {
+          "title": "Samsung Biologics cuts complex antibody development timeline to 9.5 months",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33312",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "09.28 15:58",
+          "new": false
+        },
+        {
+          "title": "Prestige BioPharma wins Brazil approval for Herceptin biosimilar Tuznue",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33311",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "09.28 15:14",
+          "new": false
+        },
+        {
+          "title": "Lunit AI to read mammograms in Stockholm-wide breast cancer screening",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33310",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "09.28 15:01",
+          "new": false
+        },
+        {
+          "title": "Preschool ADHD drug use puts Korea’s safeguards under scrutiny",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33309",
+          "category": "Policy",
+          "author": "Lee Han-soo",
+          "date": "09.28 14:55",
+          "new": false
+        },
         {
           "title": "Asan opens Korea’s first dedicated Fetal Cardiac Center",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33308",
@@ -74,94 +162,6 @@
           "category": "Bio",
           "author": "Lee Han-soo",
           "date": "09.28 10:45",
-          "new": false
-        },
-        {
-          "title": "[Interview] Rybrevant expands first-line options in EGFR-mutated lung cancer, but cost limits access in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33297",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.25 08:51",
-          "new": false
-        },
-        {
-          "title": "HLB's Lyrfigtu wins FDA approval for FGFR2-altered bile duct cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33296",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.24 08:59",
-          "new": false
-        },
-        {
-          "title": "Can nicotine alone harm the eyes? Korean vaping study finds an early signal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33295",
-          "category": "Hospital",
-          "author": "Kim Ji-hye",
-          "date": "09.24 06:44",
-          "new": false
-        },
-        {
-          "title": "[News Analysis] Inventera built an iron MRI dye for joints. Now it has to convince radiologists to switch.",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33294",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.23 18:11",
-          "new": false
-        },
-        {
-          "title": "[Interview] ‘Sepsis is a race against time -- early recognition saves lives’",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33293",
-          "category": "Hospital",
-          "author": "Park Gi-taek",
-          "date": "09.23 14:45",
-          "new": false
-        },
-        {
-          "title": "19 public health scholars quit mandatory service, but Korea can’t track repayments",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33292",
-          "category": "Hospital",
-          "author": "Lim Su-min",
-          "date": "09.23 14:21",
-          "new": false
-        },
-        {
-          "title": "Daewoong launches GERD drug Fexuclue in Indonesia",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33291",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.23 14:06",
-          "new": false
-        },
-        {
-          "title": "Hospital, family reach settlement 113 days after nurse’s ‘taeum’ death",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33290",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "09.23 13:53",
-          "new": false
-        },
-        {
-          "title": "Man loses disability status after gaining 3 cm, exposing Korea’s 26-year-old dwarfism rule",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33289",
-          "category": "Policy",
-          "author": "You Ji-young",
-          "date": "09.23 13:40",
-          "new": false
-        },
-        {
-          "title": "Korea risks losing clinical trial edge as China rises, Japan reforms: experts",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33288",
-          "category": "Life science",
-          "author": "Koh Jung Min",
-          "date": "09.23 13:25",
-          "new": false
-        },
-        {
-          "title": "Korea’s healthcare spending on individual care tops ₩200 tri. for 1st time",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33287",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "09.23 13:03",
           "new": false
         }
       ]
