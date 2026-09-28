@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-09-27 13:17:45 IST",
+  "last_updated": "2026-09-28 05:45:22 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Asan opens Korea’s first dedicated Fetal Cardiac Center",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33308",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "09.28 14:23",
+          "new": false
+        },
+        {
+          "title": "[Column] Triple-negative breast cancer enters the ‘ADC-first’ era",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33307",
+          "category": "Opinion",
+          "author": "Park Ji-eun",
+          "date": "09.28 13:44",
+          "new": false
+        },
+        {
+          "title": "[Interview] Long-term Tagrisso survival benefit raises stakes for early EGFR testing",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33305",
+          "category": "Pharma",
+          "author": "Kim Yun-mi",
+          "date": "09.28 13:38",
+          "new": false
+        },
+        {
+          "title": "Korea to expand regional emergency centers to 60, tighten annual performance reviews",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33304",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "09.28 13:33",
+          "new": false
+        },
+        {
+          "title": "Merck opens custom bioprocess media center in Daejeon ahead of full site launch",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33303",
+          "category": "Life science",
+          "author": "Kim Yoon-mi",
+          "date": "09.28 11:36",
+          "new": false
+        },
+        {
+          "title": "Daewoong to lead government project using AI to design drug formulations",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33300",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "09.28 11:15",
+          "new": false
+        },
+        {
+          "title": "Korea discarded ₩56.6 bil. in expired antivirals as stockpile fell below target: lawmaker",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33299",
+          "category": "Policy",
+          "author": "Lee Han-soo",
+          "date": "09.28 11:11",
+          "new": false
+        },
+        {
+          "title": "[Interview] InBody pushes beyond fitness to widen its global healthcare footprint",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33301",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.28 11:01",
+          "new": false
+        },
+        {
+          "title": "LigaChem’s ADC platform gains further FDA validation with SOT106 designations",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33298",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.28 10:45",
+          "new": false
+        },
         {
           "title": "[Interview] Rybrevant expands first-line options in EGFR-mutated lung cancer, but cost limits access in Korea",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33297",
@@ -90,78 +162,6 @@
           "category": "Policy",
           "author": "Kwak Sung-sun",
           "date": "09.23 13:03",
-          "new": false
-        },
-        {
-          "title": "Compass pushes ahead with tovecimig BLA despite FDA call for survival trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33285",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.23 11:23",
-          "new": false
-        },
-        {
-          "title": "Lunit AI shows potential to predict response in HER2-positive biliary tract cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33286",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.23 11:16",
-          "new": false
-        },
-        {
-          "title": "Onconic’s zastaprazan enters phase 3 injectable trial in China",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33284",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.23 10:53",
-          "new": false
-        },
-        {
-          "title": "[Interview] Low reimbursement threatens Korea’s oncology workforce: KSMO chief",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33283",
-          "category": "Hospital",
-          "author": "You Ji-young",
-          "date": "09.23 08:00",
-          "new": false
-        },
-        {
-          "title": "Cancer survivors face up to 1.7-fold higher risk of second cancer, expert says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33282",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "09.22 17:05",
-          "new": false
-        },
-        {
-          "title": "Alzheimer’s delusions, anxiety linked to different brain protein pathologies",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33281",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "09.22 17:04",
-          "new": false
-        },
-        {
-          "title": "Growth hormone adverse event reports rise 61% in 4 years in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33280",
-          "category": "Hospital",
-          "author": "Lim Su-min",
-          "date": "09.22 16:37",
-          "new": false
-        },
-        {
-          "title": "Gilead eyes bigger Korea role as country joins 60% of global oncology trials",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33278",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.22 16:33",
-          "new": false
-        },
-        {
-          "title": "Korea eases cadaver dissection rules to expand pool of qualified doctors",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33279",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "09.22 16:28",
           "new": false
         }
       ]
