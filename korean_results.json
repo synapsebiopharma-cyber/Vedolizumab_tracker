@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-09-28 15:51:08 IST",
+  "last_updated": "2026-09-29 05:59:01 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Neurophet’s personalized brain stimulation reaches 10 Korean hospitals, nearly 2,700 treatments",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33325",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.29 14:28",
+          "new": false
+        },
+        {
+          "title": "Celltrion targets CDMO deals, supply-chain partners at CPHI 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33324",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.29 14:18",
+          "new": false
+        },
+        {
+          "title": "6-year dataset follows Korean adolescents from elementary school into high school",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33323",
+          "category": "Policy",
+          "author": "Kim Yoon-mi",
+          "date": "09.29 14:14",
+          "new": false
+        },
+        {
+          "title": "Huinno signs exclusive Vietnam distribution deal for wearable ECG monitoring system",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33322",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.29 11:24",
+          "new": false
+        },
+        {
+          "title": "[Interview] Vetter outlines LC-MS role in oligonucleotide development and quality control",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33326",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "09.29 11:20",
+          "new": false
+        },
+        {
+          "title": "SNUBH study traces biliary tract cancer evolution from precancer to recurrence",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33321",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "09.29 11:10",
+          "new": false
+        },
+        {
+          "title": "Angel Robotics launches ‘phai-x1’ wearable robot platform for physical AI research",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33320",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.29 10:49",
+          "new": false
+        },
         {
           "title": "VUNO takes cardiac arrest AI to China pilot zone",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33319",
@@ -106,62 +162,6 @@
           "category": "Opinion",
           "author": "Park Ji-eun",
           "date": "09.28 13:44",
-          "new": false
-        },
-        {
-          "title": "[Interview] Long-term Tagrisso survival benefit raises stakes for early EGFR testing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33305",
-          "category": "Pharma",
-          "author": "Kim Yun-mi",
-          "date": "09.28 13:38",
-          "new": false
-        },
-        {
-          "title": "Korea to expand regional emergency centers to 60, tighten annual performance reviews",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33304",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "09.28 13:33",
-          "new": false
-        },
-        {
-          "title": "Merck opens custom bioprocess media center in Daejeon ahead of full site launch",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33303",
-          "category": "Life science",
-          "author": "Kim Yoon-mi",
-          "date": "09.28 11:36",
-          "new": false
-        },
-        {
-          "title": "Daewoong to lead government project using AI to design drug formulations",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33300",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "09.28 11:15",
-          "new": false
-        },
-        {
-          "title": "Korea discarded ₩56.6 bil. in expired antivirals as stockpile fell below target: lawmaker",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33299",
-          "category": "Policy",
-          "author": "Lee Han-soo",
-          "date": "09.28 11:11",
-          "new": false
-        },
-        {
-          "title": "[Interview] InBody pushes beyond fitness to widen its global healthcare footprint",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33301",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.28 11:01",
-          "new": false
-        },
-        {
-          "title": "LigaChem’s ADC platform gains further FDA validation with SOT106 designations",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33298",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "09.28 10:45",
           "new": false
         }
       ]
