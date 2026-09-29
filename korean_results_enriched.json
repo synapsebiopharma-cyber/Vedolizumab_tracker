@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-09-29 05:59:01 IST",
+  "last_updated": "2026-09-29 14:20:44 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Daewoong opens Songdo manufacturing site for cell, immune therapies",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33336",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.29 17:18",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Hanmi’s tuspetinib raises hopes for elderly AML patients with survival below 5%",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33333",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "09.29 16:24",
+          "new": false,
+          "tag": "Pipeline"
+        },
         {
           "title": "Celltrion targets CDMO deals, supply-chain partners at CPHI 2026",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33324",
@@ -12,33 +30,6 @@
           "date": "09.29 14:18",
           "new": false,
           "tag": "Collaboration"
-        },
-        {
-          "title": "Onconic enters obesity race with new drug candidate",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33313",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.28 16:15",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Samsung Biologics cuts complex antibody development timeline to 9.5 months",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33312",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.28 15:58",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Prestige BioPharma wins Brazil approval for Herceptin biosimilar Tuznue",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33311",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "09.28 15:14",
-          "new": false,
-          "tag": "FDA Approval"
         }
       ]
     }

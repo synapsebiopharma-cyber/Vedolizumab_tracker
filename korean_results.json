@@ -1,9 +1,89 @@
 {
-  "last_updated": "2026-09-29 05:59:01 IST",
+  "last_updated": "2026-09-29 14:20:44 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Daewoong opens Songdo manufacturing site for cell, immune therapies",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33336",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.29 17:18",
+          "new": false
+        },
+        {
+          "title": "Yonsei Wonju, Japan’s Kurume University to begin medical student exchange in 2027",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33335",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "09.29 17:09",
+          "new": false
+        },
+        {
+          "title": "Lymph node spread, not robotic access route, predicts recurrence after thyroid surgery: study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33334",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "09.29 16:29",
+          "new": false
+        },
+        {
+          "title": "Hanmi’s tuspetinib raises hopes for elderly AML patients with survival below 5%",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33333",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "09.29 16:24",
+          "new": false
+        },
+        {
+          "title": "SNUH, Nobel laureate Craig Mello deepen rare disease RNA therapy collaboration",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33332",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "09.29 16:22",
+          "new": false
+        },
+        {
+          "title": "[Interview] ‘Hypertrophic cardiomyopathy is more common than we think -- we need to find hidden patients’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33331",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "09.29 16:16",
+          "new": false
+        },
+        {
+          "title": "Korea has just 113 pediatrics residents, nearly 80% of them in Seoul",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33330",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "09.29 16:03",
+          "new": false
+        },
+        {
+          "title": "Obesity experts call for reimbursed follow-up care tied to Korea’s school screenings",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33327",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "09.29 15:29",
+          "new": false
+        },
+        {
+          "title": "Top court upholds ₩1 bil. fine over nurse-issued herbal medicine prescriptions",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33329",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "09.29 15:22",
+          "new": false
+        },
+        {
+          "title": "NCC, Beijing Cancer Hospital expand Korea-China cancer research ties",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33328",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "09.29 15:13",
+          "new": false
+        },
         {
           "title": "Neurophet’s personalized brain stimulation reaches 10 Korean hospitals, nearly 2,700 treatments",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33325",
@@ -82,86 +162,6 @@
           "category": "Hospital",
           "author": "Lim Su-min",
           "date": "09.28 16:57",
-          "new": false
-        },
-        {
-          "title": "Ajou researchers win MICCAI challenge with TB-detecting AI",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33316",
-          "category": "Hospital",
-          "author": "Kwak Sung-sun",
-          "date": "09.28 16:40",
-          "new": false
-        },
-        {
-          "title": "Korean endoscopist showcases advanced techniques at Cleveland Clinic",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33315",
-          "category": "Hospital",
-          "author": "Kwak Sung-sun",
-          "date": "09.28 16:38",
-          "new": false
-        },
-        {
-          "title": "[Interview] ‘Wider options reshape ankylosing spondylitis treatment after a decade of change’",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33314",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "09.28 16:35",
-          "new": false
-        },
-        {
-          "title": "Onconic enters obesity race with new drug candidate",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33313",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.28 16:15",
-          "new": false
-        },
-        {
-          "title": "Samsung Biologics cuts complex antibody development timeline to 9.5 months",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33312",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "09.28 15:58",
-          "new": false
-        },
-        {
-          "title": "Prestige BioPharma wins Brazil approval for Herceptin biosimilar Tuznue",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33311",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "09.28 15:14",
-          "new": false
-        },
-        {
-          "title": "Lunit AI to read mammograms in Stockholm-wide breast cancer screening",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33310",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "09.28 15:01",
-          "new": false
-        },
-        {
-          "title": "Preschool ADHD drug use puts Korea’s safeguards under scrutiny",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33309",
-          "category": "Policy",
-          "author": "Lee Han-soo",
-          "date": "09.28 14:55",
-          "new": false
-        },
-        {
-          "title": "Asan opens Korea’s first dedicated Fetal Cardiac Center",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33308",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "09.28 14:23",
-          "new": false
-        },
-        {
-          "title": "[Column] Triple-negative breast cancer enters the ‘ADC-first’ era",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33307",
-          "category": "Opinion",
-          "author": "Park Ji-eun",
-          "date": "09.28 13:44",
           "new": false
         }
       ]
