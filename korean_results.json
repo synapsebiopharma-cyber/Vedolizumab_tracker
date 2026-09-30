@@ -1,9 +1,57 @@
 {
-  "last_updated": "2026-09-30 05:50:15 IST",
+  "last_updated": "2026-09-30 14:09:31 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Chronic kidney disease cases double in Korea as dialysis costs soar",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33352",
+          "category": "Hospital",
+          "author": "You Ji-young",
+          "date": "09.30 16:57",
+          "new": false
+        },
+        {
+          "title": "NEX-I valuation hinges on follow-up licensing deals after Ono agreement",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33351",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "09.30 16:35",
+          "new": false
+        },
+        {
+          "title": "[Interview] Rising RSV hospitalizations put spotlight on vaccination for older Koreans",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33350",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "09.30 16:02",
+          "new": false
+        },
+        {
+          "title": "MSD Korea launches subcutaneous Keytruda, cutting injection time to 1–2 minutes",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33348",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.30 15:18",
+          "new": false
+        },
+        {
+          "title": "Researchers develop inhalable lung cancer nanoparticles that remain in mouse lungs for 48 hours",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33349",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "09.30 15:13",
+          "new": false
+        },
+        {
+          "title": "'Urology could lead physical AI adoption on path toward autonomous surgery'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33347",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "09.30 14:54",
+          "new": false
+        },
         {
           "title": "Korea may need 12–20 proton therapy centers to meet demand, expert says",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33343",
@@ -114,54 +162,6 @@
           "category": "Hospital",
           "author": "Kim Kyoung-Won",
           "date": "09.29 16:22",
-          "new": false
-        },
-        {
-          "title": "[Interview] ‘Hypertrophic cardiomyopathy is more common than we think -- we need to find hidden patients’",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33331",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "09.29 16:16",
-          "new": false
-        },
-        {
-          "title": "Korea has just 113 pediatrics residents, nearly 80% of them in Seoul",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33330",
-          "category": "Hospital",
-          "author": "Lim Su-min",
-          "date": "09.29 16:03",
-          "new": false
-        },
-        {
-          "title": "Obesity experts call for reimbursed follow-up care tied to Korea’s school screenings",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33327",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "09.29 15:29",
-          "new": false
-        },
-        {
-          "title": "Top court upholds ₩1 bil. fine over nurse-issued herbal medicine prescriptions",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33329",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "09.29 15:22",
-          "new": false
-        },
-        {
-          "title": "NCC, Beijing Cancer Hospital expand Korea-China cancer research ties",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33328",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "09.29 15:13",
-          "new": false
-        },
-        {
-          "title": "Neurophet’s personalized brain stimulation reaches 10 Korean hospitals, nearly 2,700 treatments",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33325",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.29 14:28",
           "new": false
         }
       ]

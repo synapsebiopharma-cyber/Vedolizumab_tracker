@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-09-30 05:50:15 IST",
+  "last_updated": "2026-09-30 14:09:31 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "NEX-I valuation hinges on follow-up licensing deals after Ono agreement",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33351",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "09.30 16:35",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "MSD Korea launches subcutaneous Keytruda, cutting injection time to 1–2 minutes",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33348",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "09.30 15:18",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Higher-dose semaglutide tied to lower cardiovascular risk than switch to tirzepatide in real-world study",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33345",
@@ -20,7 +38,16 @@
           "author": "Lee Han-soo",
           "date": "09.30 10:38",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Financial"
+        },
+        {
+          "title": "AriBio Holdings shares plunge after scrapping merger with AriBio",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33341",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "09.30 10:28",
+          "new": false,
+          "tag": "Financial"
         },
         {
           "title": "Hanmi to regain global rights to cancer drug belvarafenib from Genentech",
