@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-09-29 14:20:44 IST",
+  "last_updated": "2026-09-30 05:50:15 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea may need 12–20 proton therapy centers to meet demand, expert says",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33343",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "09.30 14:23",
+          "new": false
+        },
+        {
+          "title": "Sky Labs, Korean hypertension society launch cuffless BP standardization study using 300,000 real-world records",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33344",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "09.30 14:15",
+          "new": false
+        },
+        {
+          "title": "ETS1 identified as key driver of head and neck cancer spread, immune evasion",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33346",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "09.30 14:13",
+          "new": false
+        },
+        {
+          "title": "Higher-dose semaglutide tied to lower cardiovascular risk than switch to tirzepatide in real-world study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33345",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "09.30 14:00",
+          "new": false
+        },
+        {
+          "title": "NeoImmuneTech partner adds IL-33 antibody, plans financing announcement for NT-I7 trials",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33342",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.30 10:38",
+          "new": false
+        },
+        {
+          "title": "AriBio Holdings shares plunge after scrapping merger with AriBio",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33341",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "09.30 10:28",
+          "new": false
+        },
+        {
+          "title": "Lundbeck Korea donates ₩15 mil. to help low-income patients cover medical costs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33339",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "09.30 10:06",
+          "new": false
+        },
+        {
+          "title": "SK chemicals gets top AAA rating in MSCI ESG assessment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33338",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "09.30 09:37",
+          "new": false
+        },
+        {
+          "title": "Hanmi to regain global rights to cancer drug belvarafenib from Genentech",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33337",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "09.30 09:15",
+          "new": false
+        },
         {
           "title": "Daewoong opens Songdo manufacturing site for cell, immune therapies",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33336",
@@ -90,78 +162,6 @@
           "category": "Device/ICT",
           "author": "Lee Han-soo",
           "date": "09.29 14:28",
-          "new": false
-        },
-        {
-          "title": "Celltrion targets CDMO deals, supply-chain partners at CPHI 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33324",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.29 14:18",
-          "new": false
-        },
-        {
-          "title": "6-year dataset follows Korean adolescents from elementary school into high school",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33323",
-          "category": "Policy",
-          "author": "Kim Yoon-mi",
-          "date": "09.29 14:14",
-          "new": false
-        },
-        {
-          "title": "Huinno signs exclusive Vietnam distribution deal for wearable ECG monitoring system",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33322",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.29 11:24",
-          "new": false
-        },
-        {
-          "title": "[Interview] Vetter outlines LC-MS role in oligonucleotide development and quality control",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33326",
-          "category": "Special",
-          "author": "Lee Han-soo",
-          "date": "09.29 11:20",
-          "new": false
-        },
-        {
-          "title": "SNUBH study traces biliary tract cancer evolution from precancer to recurrence",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33321",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "09.29 11:10",
-          "new": false
-        },
-        {
-          "title": "Angel Robotics launches ‘phai-x1’ wearable robot platform for physical AI research",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33320",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.29 10:49",
-          "new": false
-        },
-        {
-          "title": "VUNO takes cardiac arrest AI to China pilot zone",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33319",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "09.28 17:39",
-          "new": false
-        },
-        {
-          "title": "Prices rise for 3 in 4 medical services not covered by Korea’s national insurance",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33318",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "09.28 17:00",
-          "new": false
-        },
-        {
-          "title": "Korea University Anam Hospital opens pediatric ER, adds 3 dedicated specialists",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33317",
-          "category": "Hospital",
-          "author": "Lim Su-min",
-          "date": "09.28 16:57",
           "new": false
         }
       ]

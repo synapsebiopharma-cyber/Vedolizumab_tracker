@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-09-29 14:20:44 IST",
+  "last_updated": "2026-09-30 05:50:15 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Higher-dose semaglutide tied to lower cardiovascular risk than switch to tirzepatide in real-world study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33345",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "09.30 14:00",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "NeoImmuneTech partner adds IL-33 antibody, plans financing announcement for NT-I7 trials",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33342",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "09.30 10:38",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Hanmi to regain global rights to cancer drug belvarafenib from Genentech",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33337",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "09.30 09:15",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "Daewoong opens Songdo manufacturing site for cell, immune therapies",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33336",
@@ -20,16 +47,7 @@
           "author": "Kwon Min-seon",
           "date": "09.29 16:24",
           "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Celltrion targets CDMO deals, supply-chain partners at CPHI 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33324",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.29 14:18",
-          "new": false,
-          "tag": "Collaboration"
+          "tag": "Clinical Trial"
         }
       ]
     }
