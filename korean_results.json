@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-10-01 06:17:42 IST",
+  "last_updated": "2026-10-01 14:53:27 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Imdelltra extends survival in relapsed small cell lung cancer, Korean investigator says",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33373",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.01 18:12",
+          "new": false
+        },
+        {
+          "title": "Huons signs Korea distribution deal for Japanese encephalitis vaccine Imojev",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33372",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.01 16:51",
+          "new": false
+        },
+        {
+          "title": "Korea picks Namwon for national medical school, targeting 2029 opening",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33370",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "10.01 16:38",
+          "new": false
+        },
+        {
+          "title": "Police raid of pediatric ER during treatment sparks controversy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33369",
+          "category": "Hospital",
+          "author": "Song Soo-youn",
+          "date": "10.01 16:27",
+          "new": false
+        },
+        {
+          "title": "Sky Labs signs ₩4.9 bil. deal to supply Cart O2 oximeters to Daewoong",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33367",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "10.01 16:18",
+          "new": false
+        },
+        {
+          "title": "[Interview] Ewha Mokdong builds its next decade around women's cancer, urology, blood cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33366",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "10.01 16:17",
+          "new": false
+        },
+        {
+          "title": "MEDICAL IP targets low-resource countries with AI-powered TB screening tool",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33365",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "10.01 15:23",
+          "new": false
+        },
         {
           "title": "Korea urged to rethink generic drug preferences to expand access to innovative medicines",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33364",
@@ -106,62 +162,6 @@
           "category": "Hospital",
           "author": "You Ji-young",
           "date": "09.30 16:57",
-          "new": false
-        },
-        {
-          "title": "NEX-I valuation hinges on follow-up licensing deals after Ono agreement",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33351",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "09.30 16:35",
-          "new": false
-        },
-        {
-          "title": "[Interview] Rising RSV hospitalizations put spotlight on vaccination for older Koreans",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33350",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "09.30 16:02",
-          "new": false
-        },
-        {
-          "title": "MSD Korea launches subcutaneous Keytruda, cutting injection time to 1–2 minutes",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33348",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "09.30 15:18",
-          "new": false
-        },
-        {
-          "title": "Researchers develop inhalable lung cancer nanoparticles that remain in mouse lungs for 48 hours",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33349",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "09.30 15:13",
-          "new": false
-        },
-        {
-          "title": "'Urology could lead physical AI adoption on path toward autonomous surgery'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33347",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "09.30 14:54",
-          "new": false
-        },
-        {
-          "title": "Korea may need 12–20 proton therapy centers to meet demand, expert says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33343",
-          "category": "Hospital",
-          "author": "Lim Su-min",
-          "date": "09.30 14:23",
-          "new": false
-        },
-        {
-          "title": "Sky Labs, Korean hypertension society launch cuffless BP standardization study using 300,000 real-world records",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33344",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "09.30 14:15",
           "new": false
         }
       ]

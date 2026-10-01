@@ -1,8 +1,8 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-10-01T06:19:27Z",
-  "total_runs": 312,
-  "new_on_last_run": 1,
+  "last_fetched": "2026-10-01T15:04:52Z",
+  "total_runs": 313,
+  "new_on_last_run": 0,
   "articles": [
     {
       "id": "fresenius-acquires-remaining-45%-of-mabxience-for-up-to-€750-million,-taking-full-ownership-of-its-biosimilars-platform|october-1,-2026",
@@ -11,7 +11,7 @@
       "date": "October 1, 2026",
       "source": "Fresenius Kabi",
       "meta": "",
-      "new": true
+      "new": false
     },
     {
       "id": "fresenius-expands-european-production-capacity-to-enhance-healthcare-supply-chain-resilience|september-25,-2026",
