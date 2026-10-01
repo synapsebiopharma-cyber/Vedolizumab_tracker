@@ -52,7 +52,7 @@
     "last_update_posted": "2026-04-18",
     "_api_version": "eu_ctis_v1",
     "change_status": "unchanged",
-    "last_checked": "2026-09-30T14:10:26.225259+00:00"
+    "last_checked": "2026-10-01T06:18:11.417407+00:00"
   },
   {
     "nct_id": "2025-522534-31-00",
@@ -61,14 +61,14 @@
     "brief_title": "A single dose, randomized, double-blind 2-arm parallel-group study to compare the pharmacokinetics, immunogenicity, and safety for PB016 versus US-licensed Entyvio® after subcutaneous administration in healthy participants",
     "official_title": null,
     "short_title": "PB016-01-02",
-    "status": "AUTHORIZED",
+    "status": "COMPLETED",
     "study_type": "INTERVENTIONAL",
     "phase": [
       "PHASE3"
     ],
     "start_date": "2026-01-27",
-    "primary_completion_date": null,
-    "completion_date": null,
+    "primary_completion_date": "2026-09-15",
+    "completion_date": "2026-09-15",
     "enrollment": 0,
     "conditions": [
       "Not applicable, healthy volunteers"
@@ -82,9 +82,9 @@
     "sponsor": "Polpharma Biologics S.A.",
     "collaborators": [],
     "who_utn": null,
-    "last_update_posted": "2026-09-30",
+    "last_update_posted": "2026-10-01",
     "_api_version": "eu_ctis_v1",
-    "change_status": "unchanged",
-    "last_checked": "2026-09-30T14:10:26.672899+00:00"
+    "change_status": "updated",
+    "last_checked": "2026-10-01T06:18:11.823068+00:00"
   }
 ]

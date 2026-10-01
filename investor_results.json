@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30 14:11:51 IST",
+  "last_updated": "2026-10-01 06:19:35 IST",
   "companies": [
     {
       "company": "Alvotech",
@@ -1878,6 +1878,15 @@
       "company": "Fresenius",
       "investor_news": [
         {
+          "id": "fresenius-acquires-remaining-45%-of-mabxience-for-up-to-€750-million,-taking-full-ownership-of-its-biosimilars-platform|october-1,-2026",
+          "title": "Fresenius acquires remaining 45% of mAbxience for up to €750 million, taking full ownership of its biosimilars platform",
+          "url": "https://www.fresenius.com/node/7424",
+          "date": "October 1, 2026",
+          "source": "Fresenius Kabi",
+          "meta": "",
+          "new": false
+        },
+        {
           "id": "fresenius-expands-european-production-capacity-to-enhance-healthcare-supply-chain-resilience|september-25,-2026",
           "title": "Fresenius expands European production capacity to enhance healthcare supply chain resilience",
           "url": "https://www.fresenius.com/node/7420",
@@ -1946,15 +1955,6 @@
           "url": "https://www.fresenius.com/FutureFresenius-excellent-Q2-performance-demonstrates-structural-step-up-guidance-raised",
           "date": "August 4, 2026",
           "source": "Fresenius",
-          "meta": "",
-          "new": false
-        },
-        {
-          "id": "fresenius-announces-fda-approval-of-rituximab-biosimilar-for-the-u.s.-market|august-3,-2026",
-          "title": "Fresenius Announces FDA Approval of Rituximab Biosimilar for the U.S. Market",
-          "url": "https://www.fresenius.com/node/7379",
-          "date": "August 3, 2026",
-          "source": "Fresenius Kabi",
           "meta": "",
           "new": false
         }
