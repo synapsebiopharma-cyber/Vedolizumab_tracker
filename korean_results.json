@@ -1,9 +1,33 @@
 {
-  "last_updated": "2026-10-02 05:59:38 IST",
+  "last_updated": "2026-10-02 14:06:17 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "'Keytruda-enfortumab combo cuts death risk by 50% in bladder cancer patients unfit for cisplatin'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33390",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.02 17:45",
+          "new": false
+        },
+        {
+          "title": "[Interview] Yuyu Pharma CEO Robert Yu finds his second act on YouTube",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33389",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "10.02 16:47",
+          "new": false
+        },
+        {
+          "title": "[Interview] ‘Treatment remains an option even for nonagenarian lung cancer patients’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33388",
+          "category": "Hospital",
+          "author": "Hong Sook",
+          "date": "10.02 15:24",
+          "new": false
+        },
         {
           "title": "IQVIA Korea revenue nearly triples in decade as clinical research, data biz expands",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33387",
@@ -138,30 +162,6 @@
           "category": "Pharma",
           "author": "Kim Yoon-mi",
           "date": "10.01 16:51",
-          "new": false
-        },
-        {
-          "title": "Korea picks Namwon for national medical school, targeting 2029 opening",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33370",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "10.01 16:38",
-          "new": false
-        },
-        {
-          "title": "Police raid of pediatric ER during treatment sparks controversy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33369",
-          "category": "Hospital",
-          "author": "Song Soo-youn",
-          "date": "10.01 16:27",
-          "new": false
-        },
-        {
-          "title": "Sky Labs signs ₩4.9 bil. deal to supply Cart O2 oximeters to Daewoong",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33367",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "10.01 16:18",
           "new": false
         }
       ]
