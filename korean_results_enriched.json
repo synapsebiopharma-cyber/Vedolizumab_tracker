@@ -1,62 +1,71 @@
 {
-  "last_updated": "2026-10-01 14:53:27 IST",
+  "last_updated": "2026-10-02 05:59:38 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Police raid of pediatric ER during treatment sparks controversy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33369",
-          "category": "Hospital",
-          "author": "Song Soo-youn",
-          "date": "10.01 16:27",
+          "title": "AZ's Breztri offers alternative for COPD patients who struggle with dry-powder inhalers",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33385",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.02 14:26",
           "new": false,
           "tag": "Other"
         },
         {
-          "title": "Korea urged to rethink generic drug preferences to expand access to innovative medicines",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33364",
+          "title": "Mounjaro safety checks surge in Korea, with over 3,000 involving minors",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33382",
           "category": "Policy",
           "author": "Lim Su-min",
-          "date": "10.01 15:15",
+          "date": "10.02 13:59",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Samsung Bioepis, Teva expand biosimilar partnership with Fasenra, Ilaris candidates",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33379",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "10.02 13:13",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Huons to unveil preclinical data on GI, oral obesity drug candidates at global meetings",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33375",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.02 11:40",
           "new": false,
           "tag": "Pipeline"
         },
         {
-          "title": "After scrapping merger, AriBio Group bets on AR1001 and non-pharma cash to fund dementia push",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33360",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "10.01 13:58",
-          "new": false,
-          "tag": "Acquisition"
-        },
-        {
-          "title": "[Global Pharma Leadership Voices] Why are patients still waiting for innovation? The next challenge in oncology",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33358",
-          "category": "Opinion",
-          "author": "Claire Kim",
-          "date": "10.01 10:56",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Prior adalimumab use may alter infliximab drug levels in pediatric Crohn’s disease",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33356",
+          "title": "[Interview] Pluvicto moves earlier in prostate cancer treatment, but Korean patients face access barriers",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33368",
           "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "10.01 10:29",
+          "author": "Hong Sook",
+          "date": "10.02 09:00",
           "new": false,
           "tag": "Other"
         },
         {
-          "title": "Celltrion expands European reach with tender wins for 3 new products",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33355",
+          "title": "Imdelltra extends survival in relapsed small cell lung cancer, Korean investigator says",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33373",
           "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "10.01 10:10",
+          "author": "Kim Ji-hye",
+          "date": "10.01 18:12",
           "new": false,
-          "tag": "Other"
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Huons signs Korea distribution deal for Japanese encephalitis vaccine Imojev",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33372",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.01 16:51",
+          "new": false,
+          "tag": "Collaboration"
         }
       ]
     }
