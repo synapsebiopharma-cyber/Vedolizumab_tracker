@@ -1,9 +1,17 @@
 {
-  "last_updated": "2026-10-04 13:27:29 IST",
+  "last_updated": "2026-10-05 06:06:05 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "SNUBH study flags hidden risk in heart failure recovery",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33378",
+          "category": "Hospital",
+          "author": "Lee Han-soo",
+          "date": "10.05 08:30",
+          "new": false
+        },
         {
           "title": "'Keytruda-enfortumab combo cuts death risk by 50% in bladder cancer patients unfit for cisplatin'",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33390",
@@ -154,14 +162,6 @@
           "category": "Pharma",
           "author": "Kim Ji-hye",
           "date": "10.01 18:12",
-          "new": false
-        },
-        {
-          "title": "Huons signs Korea distribution deal for Japanese encephalitis vaccine Imojev",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33372",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.01 16:51",
           "new": false
         }
       ]

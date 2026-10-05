@@ -1,17 +1,26 @@
 {
-  "last_updated": "2026-10-04 13:27:29 IST",
+  "last_updated": "2026-10-05 06:06:05 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "'Keytruda-enfortumab combo cuts death risk by 50% in bladder cancer patients unfit for cisplatin'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33390",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.02 17:45",
+          "title": "[Interview] Yuyu Pharma CEO Robert Yu finds his second act on YouTube",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33389",
+          "category": "Special",
+          "author": "Lee Han-soo",
+          "date": "10.02 16:47",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Other"
+        },
+        {
+          "title": "[Interview] ‘Treatment remains an option even for nonagenarian lung cancer patients’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33388",
+          "category": "Hospital",
+          "author": "Hong Sook",
+          "date": "10.02 15:24",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "IQVIA Korea revenue nearly triples in decade as clinical research, data biz expands",
@@ -21,33 +30,6 @@
           "date": "10.02 14:52",
           "new": false,
           "tag": "Financial"
-        },
-        {
-          "title": "Humedix to invest ₩3.3 bil. in medical product R&D under government program",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33386",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "10.02 14:38",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "AZ's Breztri offers alternative for COPD patients who struggle with dry-powder inhalers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33385",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.02 14:26",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Mounjaro safety checks surge in Korea, with over 3,000 involving minors",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33382",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "10.02 13:59",
-          "new": false,
-          "tag": "Other"
         },
         {
           "title": "Samsung Bioepis, Teva expand biosimilar partnership with Fasenra, Ilaris candidates",
@@ -65,7 +47,7 @@
           "author": "Kim Yoon-mi",
           "date": "10.02 11:40",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Other"
         },
         {
           "title": "[Interview] Pluvicto moves earlier in prostate cancer treatment, but Korean patients face access barriers",
@@ -75,24 +57,6 @@
           "date": "10.02 09:00",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Imdelltra extends survival in relapsed small cell lung cancer, Korean investigator says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33373",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.01 18:12",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Huons signs Korea distribution deal for Japanese encephalitis vaccine Imojev",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33372",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.01 16:51",
-          "new": false,
-          "tag": "Collaboration"
         }
       ]
     }
