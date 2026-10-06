@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-10-06 06:39:34 IST",
+  "last_updated": "2026-10-06 14:29:12 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "FDA grants ODD to SK life science's NTSR1 radioligand for pancreatic cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33413",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "10.06 18:17",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Lilly Korea’s Retevmo gains reimbursement for RET-driven lung, thyroid cancers",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33412",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "10.06 17:23",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Lilly-backed OliX’s MARC1 drug faces MASH test beyond liver fat loss",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33405",
+          "category": "Pharma",
+          "author": "Hong Sook",
+          "date": "10.06 15:55",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Sky Labs begins UK validation study for CART BP Pro cuffless blood pressure monitor",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33408",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "10.06 15:36",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "JW's anagliptin+empagliflozin combo triples HbA1c reduction in phase 3 diabetes trial",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33407",
@@ -20,7 +56,7 @@
           "author": "Kim Ji-hye",
           "date": "10.06 15:16",
           "new": false,
-          "tag": "Other"
+          "tag": "Pipeline"
         },
         {
           "title": "GC Biopharma launches locally developed azelaic acid acne cream",
@@ -65,7 +101,7 @@
           "author": "Kim Yoon-mi",
           "date": "10.06 11:25",
           "new": false,
-          "tag": "Other"
+          "tag": "Collaboration"
         },
         {
           "title": "Yuhan to showcase CDMO capabilities at CPHI Milan 2026",
@@ -74,7 +110,16 @@
           "author": "Lee Han-soo",
           "date": "10.06 11:00",
           "new": false,
-          "tag": "Collaboration"
+          "tag": "Other"
+        },
+        {
+          "title": "Coreline Soft wins JRS certification for lung nodule AI",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33394",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "10.06 10:34",
+          "new": false,
+          "tag": "FDA Approval"
         },
         {
           "title": "Celltrion prices Omlyclo 15% below Xolair in US launch",
@@ -84,15 +129,6 @@
           "date": "10.06 10:30",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "'Keytruda-enfortumab combo cuts death risk by 50% in bladder cancer patients unfit for cisplatin'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33390",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.02 17:45",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }
