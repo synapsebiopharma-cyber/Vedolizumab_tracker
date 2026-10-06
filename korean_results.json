@@ -1,9 +1,137 @@
 {
-  "last_updated": "2026-10-05 16:23:47 IST",
+  "last_updated": "2026-10-06 06:39:34 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Sky Labs begins UK validation study for CART BP Pro cuffless blood pressure monitor",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33408",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "10.06 15:36",
+          "new": false
+        },
+        {
+          "title": "JW's anagliptin+empagliflozin combo triples HbA1c reduction in phase 3 diabetes trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33407",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.06 15:27",
+          "new": false
+        },
+        {
+          "title": "Biosolution maps mainland China pathway for CartiLife after Hainan launch",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33404",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "10.06 15:16",
+          "new": false
+        },
+        {
+          "title": "Trainee doctors warn pediatric ER raid could deter emergency care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33403",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "10.06 14:30",
+          "new": false
+        },
+        {
+          "title": "GC Biopharma launches locally developed azelaic acid acne cream",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33402",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "10.06 14:23",
+          "new": false
+        },
+        {
+          "title": "Local governments face soaring infertility support costs as Korea expands birthrate policies",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33401",
+          "category": "Policy",
+          "author": "You Ji-young",
+          "date": "10.06 13:54",
+          "new": false
+        },
+        {
+          "title": "Genome & Company to present GENC-116 kidney fibrosis data at ASN Kidney Week",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33400",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "10.06 13:45",
+          "new": false
+        },
+        {
+          "title": "Tumor suppressor RB1 loss marks aggressive liver cancer subtype: AMC study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33399",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "10.06 13:30",
+          "new": false
+        },
+        {
+          "title": "Samjin Pharm selected for government's World Class Plus program",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33398",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.06 12:57",
+          "new": false
+        },
+        {
+          "title": "HK inno.N's ecnoglutide cuts teen body weight by up to 12% in phase 1b trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33393",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.06 11:42",
+          "new": false
+        },
+        {
+          "title": "Jeil Pharmaceutical gets government 'K-VIP' support for overseas partnering",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33397",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.06 11:25",
+          "new": false
+        },
+        {
+          "title": "Yuhan to showcase CDMO capabilities at CPHI Milan 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33396",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "10.06 11:00",
+          "new": false
+        },
+        {
+          "title": "CGBio to train doctors from 15 countries in regenerative aesthetics in Bali",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33395",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "10.06 10:49",
+          "new": false
+        },
+        {
+          "title": "Coloplast Korea steps up patient support as catheter coverage expands",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33391",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "10.06 10:42",
+          "new": false
+        },
+        {
+          "title": "Coreline Soft wins JRS certification for lung nodule AI",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33394",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "10.06 10:34",
+          "new": false
+        },
+        {
+          "title": "Celltrion prices Omlyclo 15% below Xolair in US launch",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33392",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.06 10:30",
+          "new": false
+        },
         {
           "title": "SNUBH study flags hidden risk in heart failure recovery",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33378",
@@ -34,134 +162,6 @@
           "category": "Hospital",
           "author": "Hong Sook",
           "date": "10.02 15:24",
-          "new": false
-        },
-        {
-          "title": "IQVIA Korea revenue nearly triples in decade as clinical research, data biz expands",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33387",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "10.02 14:52",
-          "new": false
-        },
-        {
-          "title": "Humedix to invest ₩3.3 bil. in medical product R&D under government program",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33386",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "10.02 14:38",
-          "new": false
-        },
-        {
-          "title": "AZ's Breztri offers alternative for COPD patients who struggle with dry-powder inhalers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33385",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.02 14:26",
-          "new": false
-        },
-        {
-          "title": "Korea spends ₩394.1 billion on diabetes complications, but hasn't assessed newer drugs' fiscal impact",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33384",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "10.02 14:07",
-          "new": false
-        },
-        {
-          "title": "Health insurance arrears over ₩10 mil. more than double in 4 years",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33383",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "10.02 14:04",
-          "new": false
-        },
-        {
-          "title": "Mounjaro safety checks surge in Korea, with over 3,000 involving minors",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33382",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "10.02 13:59",
-          "new": false
-        },
-        {
-          "title": "Staff shortages behind 77% of ER care restrictions in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33381",
-          "category": "Hospital",
-          "author": "Lim Su-min",
-          "date": "10.02 13:40",
-          "new": false
-        },
-        {
-          "title": "Severance becomes 1st Korean hospital to perform 10,000 atrial fibrillation procedures",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33380",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "10.02 13:28",
-          "new": false
-        },
-        {
-          "title": "KAIST finds ‘hidden amplification switch’ controlling lymphatic vessel signaling",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33376",
-          "category": "Policy",
-          "author": "Lee Han-soo",
-          "date": "10.02 13:16",
-          "new": false
-        },
-        {
-          "title": "Samsung Bioepis, Teva expand biosimilar partnership with Fasenra, Ilaris candidates",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33379",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "10.02 13:13",
-          "new": false
-        },
-        {
-          "title": "Kyung Hee Medicine plans new complex to triple research space under 5-year strategy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33377",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "10.02 12:57",
-          "new": false
-        },
-        {
-          "title": "Huons to unveil preclinical data on GI, oral obesity drug candidates at global meetings",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33375",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.02 11:40",
-          "new": false
-        },
-        {
-          "title": "KHIDI opens Paris K-beauty hub to help Korean SMEs break into Europe",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33374",
-          "category": "K-Beauty",
-          "author": "Lee Han-soo",
-          "date": "10.02 11:17",
-          "new": false
-        },
-        {
-          "title": "SNUBH’s Oh Joo-han elected to International Board of Shoulder and Elbow Surgery",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33371",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "10.02 09:00",
-          "new": false
-        },
-        {
-          "title": "[Interview] Pluvicto moves earlier in prostate cancer treatment, but Korean patients face access barriers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33368",
-          "category": "Hospital",
-          "author": "Hong Sook",
-          "date": "10.02 09:00",
-          "new": false
-        },
-        {
-          "title": "Imdelltra extends survival in relapsed small cell lung cancer, Korean investigator says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33373",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.01 18:12",
           "new": false
         }
       ]

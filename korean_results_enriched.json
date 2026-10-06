@@ -1,78 +1,96 @@
 {
-  "last_updated": "2026-10-05 16:23:47 IST",
+  "last_updated": "2026-10-06 06:39:34 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "JW's anagliptin+empagliflozin combo triples HbA1c reduction in phase 3 diabetes trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33407",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.06 15:27",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Biosolution maps mainland China pathway for CartiLife after Hainan launch",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33404",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "10.06 15:16",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "GC Biopharma launches locally developed azelaic acid acne cream",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33402",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "10.06 14:23",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Genome & Company to present GENC-116 kidney fibrosis data at ASN Kidney Week",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33400",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "10.06 13:45",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Samjin Pharm selected for government's World Class Plus program",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33398",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.06 12:57",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "HK inno.N's ecnoglutide cuts teen body weight by up to 12% in phase 1b trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33393",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.06 11:42",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Jeil Pharmaceutical gets government 'K-VIP' support for overseas partnering",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33397",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.06 11:25",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Yuhan to showcase CDMO capabilities at CPHI Milan 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33396",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "10.06 11:00",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Celltrion prices Omlyclo 15% below Xolair in US launch",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33392",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.06 10:30",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "'Keytruda-enfortumab combo cuts death risk by 50% in bladder cancer patients unfit for cisplatin'",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33390",
           "category": "Pharma",
           "author": "Kim Ji-hye",
           "date": "10.02 17:45",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Humedix to invest ₩3.3 bil. in medical product R&D under government program",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33386",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "10.02 14:38",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "AZ's Breztri offers alternative for COPD patients who struggle with dry-powder inhalers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33385",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.02 14:26",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Mounjaro safety checks surge in Korea, with over 3,000 involving minors",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33382",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "10.02 13:59",
-          "new": false,
-          "tag": "Inspection"
-        },
-        {
-          "title": "Samsung Bioepis, Teva expand biosimilar partnership with Fasenra, Ilaris candidates",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33379",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "10.02 13:13",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Huons to unveil preclinical data on GI, oral obesity drug candidates at global meetings",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33375",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.02 11:40",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "[Interview] Pluvicto moves earlier in prostate cancer treatment, but Korean patients face access barriers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33368",
-          "category": "Hospital",
-          "author": "Hong Sook",
-          "date": "10.02 09:00",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Imdelltra extends survival in relapsed small cell lung cancer, Korean investigator says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33373",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.01 18:12",
           "new": false,
           "tag": "Clinical Trial"
         }
