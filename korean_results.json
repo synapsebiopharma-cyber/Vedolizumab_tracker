@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-10-06 14:29:12 IST",
+  "last_updated": "2026-10-07 06:21:19 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Novelty Nobility pivots to immune diseases after setbacks, oncology licensing deal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33419",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "10.07 14:41",
+          "new": false
+        },
+        {
+          "title": "Optipharm advances pig-to-human transplants, homegrown foot-and-mouth vaccine",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33418",
+          "category": "Bio",
+          "author": "Kwon Min-seon",
+          "date": "10.07 14:16",
+          "new": false
+        },
+        {
+          "title": "ST Pharm's HIV drug STP0404 shows no serious adverse events in US phase 2a trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33417",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "10.07 13:55",
+          "new": false
+        },
+        {
+          "title": "Myongji Hospital, Lavoro AI to test robots for nonclinical hospital tasks",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33416",
+          "category": "Hospital",
+          "author": "Park Gi-taek",
+          "date": "10.07 11:36",
+          "new": false
+        },
+        {
+          "title": "ROKIT takes regeneration push from skin to kidneys at US medical meetings",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33415",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "10.07 11:08",
+          "new": false
+        },
+        {
+          "title": "Lotte Biologics to manufacture Alvotech antibody biosimilars at Syracuse plant",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33414",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "10.07 10:32",
+          "new": false
+        },
+        {
+          "title": "Korea's 2027 budget omits TB drug funding, raising supply concerns",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33410",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "10.07 08:40",
+          "new": false
+        },
+        {
+          "title": "[Interview] Park Jong-hoon makes 2nd Korea University presidential bid with 100-year vision",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33409",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "10.07 08:40",
+          "new": false
+        },
+        {
+          "title": "Korean surgeon reports 0.49% reoperation rate in 3,484 mesh-free hernia cases",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33411",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "10.07 08:30",
+          "new": false
+        },
         {
           "title": "FDA grants ODD to SK life science's NTSR1 radioligand for pancreatic cancer",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33413",
@@ -90,78 +162,6 @@
           "category": "Hospital",
           "author": "Kim Yoon-mi",
           "date": "10.06 13:30",
-          "new": false
-        },
-        {
-          "title": "Samjin Pharm selected for government's World Class Plus program",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33398",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.06 12:57",
-          "new": false
-        },
-        {
-          "title": "HK inno.N's ecnoglutide cuts teen body weight by up to 12% in phase 1b trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33393",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.06 11:42",
-          "new": false
-        },
-        {
-          "title": "Jeil Pharmaceutical gets government 'K-VIP' support for overseas partnering",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33397",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.06 11:25",
-          "new": false
-        },
-        {
-          "title": "Yuhan to showcase CDMO capabilities at CPHI Milan 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33396",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "10.06 11:00",
-          "new": false
-        },
-        {
-          "title": "CGBio to train doctors from 15 countries in regenerative aesthetics in Bali",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33395",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "10.06 10:49",
-          "new": false
-        },
-        {
-          "title": "Coloplast Korea steps up patient support as catheter coverage expands",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33391",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "10.06 10:42",
-          "new": false
-        },
-        {
-          "title": "Coreline Soft wins JRS certification for lung nodule AI",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33394",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "10.06 10:34",
-          "new": false
-        },
-        {
-          "title": "Celltrion prices Omlyclo 15% below Xolair in US launch",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33392",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.06 10:30",
-          "new": false
-        },
-        {
-          "title": "SNUBH study flags hidden risk in heart failure recovery",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33378",
-          "category": "Hospital",
-          "author": "Lee Han-soo",
-          "date": "10.05 08:30",
           "new": false
         }
       ]
