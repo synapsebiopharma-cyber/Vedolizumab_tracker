@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-10-07 06:21:19 IST",
+  "last_updated": "2026-10-07 14:43:47 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "GI Innovation partner Maruho to start Japan phase 2 of allergy drug GI-301 in October",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33428",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "10.07 17:10",
+          "new": false
+        },
+        {
+          "title": "[Interview] ‘Psoriasis patients suffer deeper wounds from stigma than skin lesions’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33427",
+          "category": "Hospital",
+          "author": "You Ji-young",
+          "date": "10.07 16:58",
+          "new": false
+        },
+        {
+          "title": "Celltrion expands Avtozma's US label to Covid-19 patients aged 2 and older",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33426",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.07 16:37",
+          "new": false
+        },
+        {
+          "title": "Samsung Biologics pitches end-to-end CDMO services as Japan demand surges",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33423",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "10.07 16:32",
+          "new": false
+        },
+        {
+          "title": "Hospital CCTV footage leaked to overseas porn sites",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33425",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "10.07 16:31",
+          "new": false
+        },
+        {
+          "title": "Government to draft probe guidelines after police raid of pediatric ER raised controversy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33424",
+          "category": "Policy",
+          "author": "Lim Su-min & Kwak Sung-soon",
+          "date": "10.07 16:24",
+          "new": false
+        },
+        {
+          "title": "HLB takes FGFR2 bile duct cancer drug to Europe after US approval",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33422",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "10.07 16:18",
+          "new": false
+        },
+        {
+          "title": "GC WellBeing partners with 365mc to advance RZL-012 fat-reduction drug in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33420",
+          "category": "Bio",
+          "author": "Lee Han-soo",
+          "date": "10.07 15:44",
+          "new": false
+        },
+        {
+          "title": "Seoul names physician-economist Kim Hyun-cheol chief health policy adviser",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33421",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "10.07 15:21",
+          "new": false
+        },
         {
           "title": "Novelty Nobility pivots to immune diseases after setbacks, oncology licensing deal",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33419",
@@ -90,78 +162,6 @@
           "category": "Pharma",
           "author": "Lee Han-soo",
           "date": "10.06 17:23",
-          "new": false
-        },
-        {
-          "title": "Lilly-backed OliX’s MARC1 drug faces MASH test beyond liver fat loss",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33405",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "10.06 15:55",
-          "new": false
-        },
-        {
-          "title": "Sky Labs begins UK validation study for CART BP Pro cuffless blood pressure monitor",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33408",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "10.06 15:36",
-          "new": false
-        },
-        {
-          "title": "JW's anagliptin+empagliflozin combo triples HbA1c reduction in phase 3 diabetes trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33407",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.06 15:27",
-          "new": false
-        },
-        {
-          "title": "Biosolution maps mainland China pathway for CartiLife after Hainan launch",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33404",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "10.06 15:16",
-          "new": false
-        },
-        {
-          "title": "Trainee doctors warn pediatric ER raid could deter emergency care",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33403",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "10.06 14:30",
-          "new": false
-        },
-        {
-          "title": "GC Biopharma launches locally developed azelaic acid acne cream",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33402",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "10.06 14:23",
-          "new": false
-        },
-        {
-          "title": "Local governments face soaring infertility support costs as Korea expands birthrate policies",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33401",
-          "category": "Policy",
-          "author": "You Ji-young",
-          "date": "10.06 13:54",
-          "new": false
-        },
-        {
-          "title": "Genome & Company to present GENC-116 kidney fibrosis data at ASN Kidney Week",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33400",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "10.06 13:45",
-          "new": false
-        },
-        {
-          "title": "Tumor suppressor RB1 loss marks aggressive liver cancer subtype: AMC study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33399",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "10.06 13:30",
           "new": false
         }
       ]
