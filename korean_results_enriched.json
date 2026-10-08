@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-10-08 06:25:26 IST",
+  "last_updated": "2026-10-08 14:52:34 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "PRG S&Tech begins US phase 2 trial of drug for rare premature aging disorder",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33442",
+          "category": "Bio",
+          "author": "Kim Kyoung-Won",
+          "date": "10.08 16:56",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "[Interview] WELT plans AI agent for every prescribed drug, starting with SleepQ",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33440",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "10.08 16:19",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Korean biotechs to unveil cancer drug data at ESMO, with ABL Bio, HLB in spotlight",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33441",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "10.08 15:45",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "[News Analysis] Hanmi's Eppe enters Korean obesity drug race with local trial data, pricing questions",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33438",
@@ -14,38 +41,11 @@
           "tag": "Clinical Trial"
         },
         {
-          "title": "CG MedTech clears regulatory hurdle for spinal implant sales in Colombia",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33435",
-          "category": "Device/ICT",
-          "author": "Kwon Min-seon",
-          "date": "10.08 12:22",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
           "title": "HanAll adds topical minoxidil to growing hair loss drug portfolio",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33433",
           "category": "Pharma",
           "author": "Kim Yoon-mi",
           "date": "10.08 11:32",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Humedix puts safety of human-derived skin products in focus at Re2O symposium",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33432",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "10.08 11:28",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Abbott brings remote glucose alerts to families of FreeStyle Libre 2 users in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33431",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "10.08 11:05",
           "new": false,
           "tag": "Other"
         },
@@ -93,33 +93,6 @@
           "date": "10.07 16:32",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "HLB takes FGFR2 bile duct cancer drug to Europe after US approval",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33422",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "10.07 16:18",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "GC WellBeing partners with 365mc to advance RZL-012 fat-reduction drug in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33420",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "10.07 15:44",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Novelty Nobility pivots to immune diseases after setbacks, oncology licensing deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33419",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "10.07 14:41",
-          "new": false,
-          "tag": "Pipeline"
         }
       ]
     }

@@ -1,9 +1,41 @@
 {
-  "last_updated": "2026-10-08 06:25:26 IST",
+  "last_updated": "2026-10-08 14:52:34 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "PRG S&Tech begins US phase 2 trial of drug for rare premature aging disorder",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33442",
+          "category": "Bio",
+          "author": "Kim Kyoung-Won",
+          "date": "10.08 16:56",
+          "new": false
+        },
+        {
+          "title": "Korea warns against AI mental health diagnoses as survey reveals growing reliance",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33439",
+          "category": "Hospital",
+          "author": "Kwak Sung-sun",
+          "date": "10.08 16:40",
+          "new": false
+        },
+        {
+          "title": "[Interview] WELT plans AI agent for every prescribed drug, starting with SleepQ",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33440",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "10.08 16:19",
+          "new": false
+        },
+        {
+          "title": "Korean biotechs to unveil cancer drug data at ESMO, with ABL Bio, HLB in spotlight",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33441",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "10.08 15:45",
+          "new": false
+        },
         {
           "title": "[News Analysis] Hanmi's Eppe enters Korean obesity drug race with local trial data, pricing questions",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33438",
@@ -130,38 +162,6 @@
           "category": "Policy",
           "author": "Lim Su-min & Kwak Sung-soon",
           "date": "10.07 16:24",
-          "new": false
-        },
-        {
-          "title": "HLB takes FGFR2 bile duct cancer drug to Europe after US approval",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33422",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "10.07 16:18",
-          "new": false
-        },
-        {
-          "title": "GC WellBeing partners with 365mc to advance RZL-012 fat-reduction drug in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33420",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "10.07 15:44",
-          "new": false
-        },
-        {
-          "title": "Seoul names physician-economist Kim Hyun-cheol chief health policy adviser",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33421",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "10.07 15:21",
-          "new": false
-        },
-        {
-          "title": "Novelty Nobility pivots to immune diseases after setbacks, oncology licensing deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33419",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "10.07 14:41",
           "new": false
         }
       ]
