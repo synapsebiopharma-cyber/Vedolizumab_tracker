@@ -1,9 +1,72 @@
 {
-  "last_updated": "2026-10-07 14:43:47 IST",
+  "last_updated": "2026-10-08 06:25:26 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[News Analysis] Hanmi's Eppe enters Korean obesity drug race with local trial data, pricing questions",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33438",
+          "category": "Pharma",
+          "author": "Park Gi-taek",
+          "date": "10.08 15:09",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "CG MedTech clears regulatory hurdle for spinal implant sales in Colombia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33435",
+          "category": "Device/ICT",
+          "author": "Kwon Min-seon",
+          "date": "10.08 12:22",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "HanAll adds topical minoxidil to growing hair loss drug portfolio",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33433",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.08 11:32",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Humedix puts safety of human-derived skin products in focus at Re2O symposium",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33432",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "10.08 11:28",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Abbott brings remote glucose alerts to families of FreeStyle Libre 2 users in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33431",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "10.08 11:05",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Yonsei's L1CAM-targeted CAR-T eliminates ovarian tumors in preclinical study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33429",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "10.08 10:48",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "ST Pharm pitches expanded oligonucleotide capacity to global drugmakers at CPHI",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33430",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "10.08 10:46",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "GI Innovation partner Maruho to start Japan phase 2 of allergy drug GI-301 in October",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33428",
@@ -57,60 +120,6 @@
           "date": "10.07 14:41",
           "new": false,
           "tag": "Pipeline"
-        },
-        {
-          "title": "Optipharm advances pig-to-human transplants, homegrown foot-and-mouth vaccine",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33418",
-          "category": "Bio",
-          "author": "Kwon Min-seon",
-          "date": "10.07 14:16",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "ST Pharm's HIV drug STP0404 shows no serious adverse events in US phase 2a trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33417",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "10.07 13:55",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "ROKIT takes regeneration push from skin to kidneys at US medical meetings",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33415",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "10.07 11:08",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Lotte Biologics to manufacture Alvotech antibody biosimilars at Syracuse plant",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33414",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "10.07 10:32",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "FDA grants ODD to SK life science's NTSR1 radioligand for pancreatic cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33413",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "10.06 18:17",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Lilly Korea’s Retevmo gains reimbursement for RET-driven lung, thyroid cancers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33412",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "10.06 17:23",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }

@@ -1,9 +1,89 @@
 {
-  "last_updated": "2026-10-07 14:43:47 IST",
+  "last_updated": "2026-10-08 06:25:26 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[News Analysis] Hanmi's Eppe enters Korean obesity drug race with local trial data, pricing questions",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33438",
+          "category": "Pharma",
+          "author": "Park Gi-taek",
+          "date": "10.08 15:09",
+          "new": false
+        },
+        {
+          "title": "Global hospital leaders to adopt AI healthcare declaration at Seoul congress",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33436",
+          "category": "Hospital",
+          "author": "Kwak Sung-sun",
+          "date": "10.08 14:45",
+          "new": false
+        },
+        {
+          "title": "Court orders doctor to pay ₩10 mil. for cosmetic procedure without patient consent",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33437",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "10.08 14:35",
+          "new": false
+        },
+        {
+          "title": "CG MedTech clears regulatory hurdle for spinal implant sales in Colombia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33435",
+          "category": "Device/ICT",
+          "author": "Kwon Min-seon",
+          "date": "10.08 12:22",
+          "new": false
+        },
+        {
+          "title": "Dermatology, plastic surgery account for 74% of foreign patient visits in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33434",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "10.08 12:10",
+          "new": false
+        },
+        {
+          "title": "HanAll adds topical minoxidil to growing hair loss drug portfolio",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33433",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.08 11:32",
+          "new": false
+        },
+        {
+          "title": "Humedix puts safety of human-derived skin products in focus at Re2O symposium",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33432",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "10.08 11:28",
+          "new": false
+        },
+        {
+          "title": "Abbott brings remote glucose alerts to families of FreeStyle Libre 2 users in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33431",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "10.08 11:05",
+          "new": false
+        },
+        {
+          "title": "Yonsei's L1CAM-targeted CAR-T eliminates ovarian tumors in preclinical study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33429",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "10.08 10:48",
+          "new": false
+        },
+        {
+          "title": "ST Pharm pitches expanded oligonucleotide capacity to global drugmakers at CPHI",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33430",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "10.08 10:46",
+          "new": false
+        },
         {
           "title": "GI Innovation partner Maruho to start Japan phase 2 of allergy drug GI-301 in October",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33428",
@@ -82,86 +162,6 @@
           "category": "Bio",
           "author": "Hong Sook",
           "date": "10.07 14:41",
-          "new": false
-        },
-        {
-          "title": "Optipharm advances pig-to-human transplants, homegrown foot-and-mouth vaccine",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33418",
-          "category": "Bio",
-          "author": "Kwon Min-seon",
-          "date": "10.07 14:16",
-          "new": false
-        },
-        {
-          "title": "ST Pharm's HIV drug STP0404 shows no serious adverse events in US phase 2a trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33417",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "10.07 13:55",
-          "new": false
-        },
-        {
-          "title": "Myongji Hospital, Lavoro AI to test robots for nonclinical hospital tasks",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33416",
-          "category": "Hospital",
-          "author": "Park Gi-taek",
-          "date": "10.07 11:36",
-          "new": false
-        },
-        {
-          "title": "ROKIT takes regeneration push from skin to kidneys at US medical meetings",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33415",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "10.07 11:08",
-          "new": false
-        },
-        {
-          "title": "Lotte Biologics to manufacture Alvotech antibody biosimilars at Syracuse plant",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33414",
-          "category": "Bio",
-          "author": "Lee Han-soo",
-          "date": "10.07 10:32",
-          "new": false
-        },
-        {
-          "title": "Korea's 2027 budget omits TB drug funding, raising supply concerns",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33410",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "10.07 08:40",
-          "new": false
-        },
-        {
-          "title": "[Interview] Park Jong-hoon makes 2nd Korea University presidential bid with 100-year vision",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33409",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "10.07 08:40",
-          "new": false
-        },
-        {
-          "title": "Korean surgeon reports 0.49% reoperation rate in 3,484 mesh-free hernia cases",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33411",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "10.07 08:30",
-          "new": false
-        },
-        {
-          "title": "FDA grants ODD to SK life science's NTSR1 radioligand for pancreatic cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33413",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "10.06 18:17",
-          "new": false
-        },
-        {
-          "title": "Lilly Korea’s Retevmo gains reimbursement for RET-driven lung, thyroid cancers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33412",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "10.06 17:23",
           "new": false
         }
       ]
