@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08 14:52:34 IST",
+  "last_updated": "2026-10-09 06:29:12 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
@@ -14,22 +14,13 @@
           "tag": "Clinical Trial"
         },
         {
-          "title": "[Interview] WELT plans AI agent for every prescribed drug, starting with SleepQ",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33440",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "10.08 16:19",
-          "new": false,
-          "tag": "Other"
-        },
-        {
           "title": "Korean biotechs to unveil cancer drug data at ESMO, with ABL Bio, HLB in spotlight",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33441",
           "category": "Bio",
           "author": "Hong Sook",
           "date": "10.08 15:45",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Pipeline"
         },
         {
           "title": "[News Analysis] Hanmi's Eppe enters Korean obesity drug race with local trial data, pricing questions",
@@ -38,7 +29,7 @@
           "author": "Park Gi-taek",
           "date": "10.08 15:09",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Pipeline"
         },
         {
           "title": "HanAll adds topical minoxidil to growing hair loss drug portfolio",
@@ -46,6 +37,15 @@
           "category": "Pharma",
           "author": "Kim Yoon-mi",
           "date": "10.08 11:32",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Humedix puts safety of human-derived skin products in focus at Re2O symposium",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33432",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "10.08 11:28",
           "new": false,
           "tag": "Other"
         },

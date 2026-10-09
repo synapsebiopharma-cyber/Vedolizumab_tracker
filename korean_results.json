@@ -1,9 +1,17 @@
 {
-  "last_updated": "2026-10-08 14:52:34 IST",
+  "last_updated": "2026-10-09 06:29:12 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Can AI fix Korea’s overloaded hospitals? Researchers propose ‘1.5-tier’ care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33444",
+          "category": "Hospital",
+          "author": "Kim Ji-hye",
+          "date": "10.09 09:03",
+          "new": false
+        },
         {
           "title": "PRG S&Tech begins US phase 2 trial of drug for rare premature aging disorder",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33442",
@@ -154,14 +162,6 @@
           "category": "Policy",
           "author": "Kwak Sung-sun",
           "date": "10.07 16:31",
-          "new": false
-        },
-        {
-          "title": "Government to draft probe guidelines after police raid of pediatric ER raised controversy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33424",
-          "category": "Policy",
-          "author": "Lim Su-min & Kwak Sung-soon",
-          "date": "10.07 16:24",
           "new": false
         }
       ]
