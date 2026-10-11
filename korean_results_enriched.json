@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10 14:08:15 IST",
+  "last_updated": "2026-10-11 06:07:12 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
@@ -12,6 +12,15 @@
           "date": "10.08 16:56",
           "new": false,
           "tag": "Clinical Trial"
+        },
+        {
+          "title": "[Interview] WELT plans AI agent for every prescribed drug, starting with SleepQ",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33440",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "10.08 16:19",
+          "new": false,
+          "tag": "Pipeline"
         },
         {
           "title": "Korean biotechs to unveil cancer drug data at ESMO, with ABL Bio, HLB in spotlight",
@@ -32,6 +41,15 @@
           "tag": "Clinical Trial"
         },
         {
+          "title": "CG MedTech clears regulatory hurdle for spinal implant sales in Colombia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33435",
+          "category": "Device/ICT",
+          "author": "Kwon Min-seon",
+          "date": "10.08 12:22",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
           "title": "HanAll adds topical minoxidil to growing hair loss drug portfolio",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33433",
           "category": "Pharma",
@@ -41,13 +59,40 @@
           "tag": "Pipeline"
         },
         {
+          "title": "Humedix puts safety of human-derived skin products in focus at Re2O symposium",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33432",
+          "category": "Device/ICT",
+          "author": "Lee Han-soo",
+          "date": "10.08 11:28",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Abbott brings remote glucose alerts to families of FreeStyle Libre 2 users in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33431",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "10.08 11:05",
+          "new": false,
+          "tag": "Other"
+        },
+        {
           "title": "Yonsei's L1CAM-targeted CAR-T eliminates ovarian tumors in preclinical study",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33429",
           "category": "Hospital",
           "author": "Kim Yoon-mi",
           "date": "10.08 10:48",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Pipeline"
+        },
+        {
+          "title": "ST Pharm pitches expanded oligonucleotide capacity to global drugmakers at CPHI",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33430",
+          "category": "Pharma",
+          "author": "Lee Han-soo",
+          "date": "10.08 10:46",
+          "new": false,
+          "tag": "Collaboration"
         },
         {
           "title": "GI Innovation partner Maruho to start Japan phase 2 of allergy drug GI-301 in October",
@@ -66,6 +111,15 @@
           "date": "10.07 16:37",
           "new": false,
           "tag": "FDA Approval"
+        },
+        {
+          "title": "Samsung Biologics pitches end-to-end CDMO services as Japan demand surges",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33423",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "10.07 16:32",
+          "new": false,
+          "tag": "Collaboration"
         }
       ]
     }
