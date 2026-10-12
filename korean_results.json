@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-10-11 14:21:49 IST",
+  "last_updated": "2026-10-12 06:15:40 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[Column] Future strategies for Korea's medical device exports",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33453",
+          "category": "Opinion",
+          "author": "Lee Jin-hyu",
+          "date": "10.12 14:35",
+          "new": false
+        },
+        {
+          "title": "[Column] Why covering drug costs alone is not enough to prevent the 1st COPD exacerbation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33452",
+          "category": "Opinion",
+          "author": "Choi Soo-young",
+          "date": "10.12 14:30",
+          "new": false
+        },
+        {
+          "title": "Onconic targets muscle loss from GLP-1 drugs, but efficacy data remain undisclosed",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33451",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.12 14:20",
+          "new": false
+        },
+        {
+          "title": "Classys brings in former Bain partner to overhaul global sales strategy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33450",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "10.12 14:11",
+          "new": false
+        },
+        {
+          "title": "Shorter radiation regimen matches prostate cancer control, but raises side-effect concerns",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33449",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "10.12 13:28",
+          "new": false
+        },
+        {
+          "title": "[Interview] Covid-19 poses greater threat than flu, yet fewer Koreans get vaccinated: expert",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33448",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "10.12 11:28",
+          "new": false
+        },
+        {
+          "title": "Dong-A ST takes anemia biosimilar beyond Japan with UAE launch",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33447",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.12 11:01",
+          "new": false
+        },
+        {
+          "title": "Lunit looks to bring pathology AI into drug development through US lab deal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33446",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "10.12 09:51",
+          "new": false
+        },
+        {
+          "title": "Celltrion's profit outpaces sales growth as newer biosimilars gain ground",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33445",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.12 09:35",
+          "new": false
+        },
         {
           "title": "Can AI fix Korea’s overloaded hospitals? Researchers propose ‘1.5-tier’ care",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33444",
@@ -90,78 +162,6 @@
           "category": "Pharma",
           "author": "Kim Yoon-mi",
           "date": "10.08 11:32",
-          "new": false
-        },
-        {
-          "title": "Humedix puts safety of human-derived skin products in focus at Re2O symposium",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33432",
-          "category": "Device/ICT",
-          "author": "Lee Han-soo",
-          "date": "10.08 11:28",
-          "new": false
-        },
-        {
-          "title": "Abbott brings remote glucose alerts to families of FreeStyle Libre 2 users in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33431",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "10.08 11:05",
-          "new": false
-        },
-        {
-          "title": "Yonsei's L1CAM-targeted CAR-T eliminates ovarian tumors in preclinical study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33429",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "10.08 10:48",
-          "new": false
-        },
-        {
-          "title": "ST Pharm pitches expanded oligonucleotide capacity to global drugmakers at CPHI",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33430",
-          "category": "Pharma",
-          "author": "Lee Han-soo",
-          "date": "10.08 10:46",
-          "new": false
-        },
-        {
-          "title": "GI Innovation partner Maruho to start Japan phase 2 of allergy drug GI-301 in October",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33428",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "10.07 17:10",
-          "new": false
-        },
-        {
-          "title": "[Interview] ‘Psoriasis patients suffer deeper wounds from stigma than skin lesions’",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33427",
-          "category": "Hospital",
-          "author": "You Ji-young",
-          "date": "10.07 16:58",
-          "new": false
-        },
-        {
-          "title": "Celltrion expands Avtozma's US label to Covid-19 patients aged 2 and older",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33426",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.07 16:37",
-          "new": false
-        },
-        {
-          "title": "Samsung Biologics pitches end-to-end CDMO services as Japan demand surges",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33423",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "10.07 16:32",
-          "new": false
-        },
-        {
-          "title": "Hospital CCTV footage leaked to overseas porn sites",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33425",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "10.07 16:31",
           "new": false
         }
       ]
