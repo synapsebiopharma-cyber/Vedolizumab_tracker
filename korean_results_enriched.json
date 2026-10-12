@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-10-12 06:15:40 IST",
+  "last_updated": "2026-10-12 16:59:26 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Clopidogrel monotherapy noninferior to extended DAPT, with higher ischemic event rate: Samjin Pharm",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33459",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.12 18:20",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "CLL patients urge swift expansion of Brukinsa reimbursement",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33454",
+          "category": "Pharma",
+          "author": "Kim Yun-mi",
+          "date": "10.12 15:43",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Onconic targets muscle loss from GLP-1 drugs, but efficacy data remain undisclosed",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33451",
@@ -65,16 +83,7 @@
           "author": "Park Gi-taek",
           "date": "10.08 15:09",
           "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "HanAll adds topical minoxidil to growing hair loss drug portfolio",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33433",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.08 11:32",
-          "new": false,
-          "tag": "Other"
+          "tag": "Clinical Trial"
         }
       ]
     }
