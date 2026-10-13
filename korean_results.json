@@ -1,9 +1,17 @@
 {
-  "last_updated": "2026-10-13 06:59:44 IST",
+  "last_updated": "2026-10-13 15:16:59 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Asan Medical Center adopts Korea's 1st Mona Lisa robotic prostate biopsy system",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33473",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "10.13 16:05",
+          "new": false
+        },
         {
           "title": "Samil Pharm eyes ophthalmic CMO deals by year-end after talks at CPHI Milan",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33472",
@@ -154,14 +162,6 @@
           "category": "Opinion",
           "author": "Lee Jin-hyu",
           "date": "10.12 14:35",
-          "new": false
-        },
-        {
-          "title": "[Column] Why covering drug costs alone is not enough to prevent the 1st COPD exacerbation",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33452",
-          "category": "Opinion",
-          "author": "Choi Soo-young",
-          "date": "10.12 14:30",
           "new": false
         }
       ]
