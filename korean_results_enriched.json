@@ -1,9 +1,72 @@
 {
-  "last_updated": "2026-10-12 16:59:26 IST",
+  "last_updated": "2026-10-13 06:59:44 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Samil Pharm eyes ophthalmic CMO deals by year-end after talks at CPHI Milan",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33472",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.13 15:49",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Wegovy, Mounjaro prescriptions hit 1.86 million in H1, exposing safety monitoring gaps",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33471",
+          "category": "Policy",
+          "author": "Kim Yoon-mi",
+          "date": "10.13 15:38",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Samsung Biologics clears takeover threshold as 87.88% of PolyPeptide shares tendered",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33469",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "10.13 15:14",
+          "new": false,
+          "tag": "Acquisition"
+        },
+        {
+          "title": "Biosolution starts European validation of animal-free oral irritation test",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33468",
+          "category": "Bio",
+          "author": "Park Gi-taek",
+          "date": "10.13 14:49",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Samjin's Hidrasec wins expanded approval for diarrhea treatment in adolescents",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33462",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.13 13:19",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Dongkook Pharmaceutical plans name change to DK Centellian in health, beauty push",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33463",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.13 11:30",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "HK inno.N's tegoprazan increases heartburn-free days in US phase 3 reflux trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33460",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "10.13 11:15",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "Clopidogrel monotherapy noninferior to extended DAPT, with higher ischemic event rate: Samjin Pharm",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33459",
@@ -21,69 +84,6 @@
           "date": "10.12 15:43",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Onconic targets muscle loss from GLP-1 drugs, but efficacy data remain undisclosed",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33451",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.12 14:20",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Dong-A ST takes anemia biosimilar beyond Japan with UAE launch",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33447",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.12 11:01",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Lunit looks to bring pathology AI into drug development through US lab deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33446",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "10.12 09:51",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Celltrion's profit outpaces sales growth as newer biosimilars gain ground",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33445",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.12 09:35",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "PRG S&Tech begins US phase 2 trial of drug for rare premature aging disorder",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33442",
-          "category": "Bio",
-          "author": "Kim Kyoung-Won",
-          "date": "10.08 16:56",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Korean biotechs to unveil cancer drug data at ESMO, with ABL Bio, HLB in spotlight",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33441",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "10.08 15:45",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "[News Analysis] Hanmi's Eppe enters Korean obesity drug race with local trial data, pricing questions",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33438",
-          "category": "Pharma",
-          "author": "Park Gi-taek",
-          "date": "10.08 15:09",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }
