@@ -1,8 +1,8 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-10-13T15:18:42Z",
-  "total_runs": 337,
-  "new_on_last_run": 1,
+  "last_fetched": "2026-10-14T05:12:02Z",
+  "total_runs": 338,
+  "new_on_last_run": 0,
   "articles": [
     {
       "id": "q3-2026-aide-memoire-available|october-13,-2026",
@@ -11,7 +11,7 @@
       "date": "October 13, 2026",
       "source": "Fresenius",
       "meta": "Brief News",
-      "new": true
+      "new": false
     },
     {
       "id": "fresenius-acquires-remaining-45%-of-mabxience-for-up-to-€750-million,-taking-full-ownership-of-its-biosimilars-platform|october-1,-2026",
