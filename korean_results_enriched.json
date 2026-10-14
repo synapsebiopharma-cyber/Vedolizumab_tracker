@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-10-14 05:10:34 IST",
+  "last_updated": "2026-10-14 13:02:38 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Over 10,000 treated for vision, gallbladder, pancreatic and kidney problems after Wegovy, Mounjaro prescriptions",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33489",
+          "category": "Policy",
+          "author": "You Ji-young",
+          "date": "10.14 17:04",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "ADEL seeks Kosdaq listing after Sanofi deal, with future licensing deals key to valuation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33487",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "10.14 16:33",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "[News Analysis] Wegovy's insurance bid puts Korea's obesity drug prices, prescribing practices under scrutiny",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33486",
+          "category": "Pharma",
+          "author": "Koh Jung Min",
+          "date": "10.14 16:22",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "STCUBE to present nelmastobart trial updates, combination data at ESMO 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33484",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.14 15:11",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "Orum begins 1st human trial of AML drug candidate ORM-1153",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33479",
@@ -14,13 +50,31 @@
           "tag": "Clinical Trial"
         },
         {
+          "title": "VAIM launches JuveLook in China after NMPA approval",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33477",
+          "category": "K-Beauty",
+          "author": "Kim Yoon-mi",
+          "date": "10.14 10:53",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
           "title": "Daewoong targets H1 2027 GMP approval for semaglutide microneedle patch production",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33474",
           "category": "Pharma",
           "author": "Kim Yoon-mi",
           "date": "10.14 10:16",
           "new": false,
-          "tag": "Inspection"
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Merck Healthcare Korea names ex-Antengene exec Lee Dong-yeol medical affairs head",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33475",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.14 10:08",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "Samil Pharm eyes ophthalmic CMO deals by year-end after talks at CPHI Milan",
@@ -48,24 +102,6 @@
           "date": "10.13 15:14",
           "new": false,
           "tag": "Acquisition"
-        },
-        {
-          "title": "Samjin's Hidrasec wins expanded approval for diarrhea treatment in adolescents",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33462",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.13 13:19",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "HK inno.N's tegoprazan increases heartburn-free days in US phase 3 reflux trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33460",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "10.13 11:15",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }

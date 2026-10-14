@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-10-14 05:10:34 IST",
+  "last_updated": "2026-10-14 13:02:38 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Over 10,000 treated for vision, gallbladder, pancreatic and kidney problems after Wegovy, Mounjaro prescriptions",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33489",
+          "category": "Policy",
+          "author": "You Ji-young",
+          "date": "10.14 17:04",
+          "new": false
+        },
+        {
+          "title": "ADHD drug prescribed to 964 children under six despite age restriction",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33488",
+          "category": "Policy",
+          "author": "Kim Kyoung-Won",
+          "date": "10.14 16:53",
+          "new": false
+        },
+        {
+          "title": "ADEL seeks Kosdaq listing after Sanofi deal, with future licensing deals key to valuation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33487",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "10.14 16:33",
+          "new": false
+        },
+        {
+          "title": "[News Analysis] Wegovy's insurance bid puts Korea's obesity drug prices, prescribing practices under scrutiny",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33486",
+          "category": "Pharma",
+          "author": "Koh Jung Min",
+          "date": "10.14 16:22",
+          "new": false
+        },
+        {
+          "title": "Korean neurosurgeon takes helm as WMA president, 1st in 41 years",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33485",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "10.14 15:28",
+          "new": false
+        },
+        {
+          "title": "STCUBE to present nelmastobart trial updates, combination data at ESMO 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33484",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.14 15:11",
+          "new": false
+        },
+        {
+          "title": "[Interview] Gastric cancer care shifts toward rethinking the entire treatment sequence",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33483",
+          "category": "Hospital",
+          "author": "Kim Yun-mi",
+          "date": "10.14 14:50",
+          "new": false
+        },
+        {
+          "title": "Digital PCR shows potential to track leukemia relapse after stem cell transplantation: NCC study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33482",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "10.14 14:37",
+          "new": false
+        },
+        {
+          "title": "SNUH professor Cho Tae-joon elected next president of Korean Orthopaedic Association",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33481",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "10.14 14:23",
+          "new": false
+        },
         {
           "title": "Lunit to present AI studies on ovarian, bladder cancers at SITC 2026",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33480",
@@ -90,78 +162,6 @@
           "category": "Bio",
           "author": "Kim Ji-hye",
           "date": "10.13 15:14",
-          "new": false
-        },
-        {
-          "title": "Biosolution starts European validation of animal-free oral irritation test",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33468",
-          "category": "Bio",
-          "author": "Park Gi-taek",
-          "date": "10.13 14:49",
-          "new": false
-        },
-        {
-          "title": "Police face calls for new search guidelines after raid on Ajou Hospital pediatric ER",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33467",
-          "category": "Policy",
-          "author": "Lim Su-min & Kim Yoon-mi",
-          "date": "10.13 14:09",
-          "new": false
-        },
-        {
-          "title": "Korea to make psychiatric emergencies essential care, quintuple intensive treatment beds by 2030",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33466",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "10.13 13:55",
-          "new": false
-        },
-        {
-          "title": "Ewha Mokdong orthopedic surgeon makes global top 2% scientists list for 2nd year",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33465",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "10.13 13:31",
-          "new": false
-        },
-        {
-          "title": "Coreline Soft signs AVIEW CAC supply deal with Japan’s Doctor Net",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33464",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "10.13 13:21",
-          "new": false
-        },
-        {
-          "title": "Samjin's Hidrasec wins expanded approval for diarrhea treatment in adolescents",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33462",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.13 13:19",
-          "new": false
-        },
-        {
-          "title": "Dongkook Pharmaceutical plans name change to DK Centellian in health, beauty push",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33463",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.13 11:30",
-          "new": false
-        },
-        {
-          "title": "365mc revamps Gangnam stem cell center to attract foreign patients",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33461",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "10.13 11:22",
-          "new": false
-        },
-        {
-          "title": "HK inno.N's tegoprazan increases heartburn-free days in US phase 3 reflux trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33460",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "10.13 11:15",
           "new": false
         }
       ]
