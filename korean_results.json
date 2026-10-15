@@ -1,9 +1,73 @@
 {
-  "last_updated": "2026-10-15 04:58:49 IST",
+  "last_updated": "2026-10-15 12:50:09 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "KDA, Naver team up to bring real-time diabetes guidance to clinics",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33506",
+          "category": "Policy",
+          "author": "Kim Ji-hye",
+          "date": "10.15 17:50",
+          "new": false
+        },
+        {
+          "title": "Bispecific antibodies, CAR-T therapy improve outcomes in follicular lymphoma: expert",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33505",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "10.15 16:43",
+          "new": false
+        },
+        {
+          "title": "Persistent drooping eyelids may signal myasthenia gravis, specialist warns",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33503",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "10.15 16:03",
+          "new": false
+        },
+        {
+          "title": "Korea approves Nexletol as first-in-class ACL inhibitor for dyslipidemia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33502",
+          "category": "Policy",
+          "author": "Kim Kyoung-Won",
+          "date": "10.15 15:57",
+          "new": false
+        },
+        {
+          "title": "National Medical Center relocation wins SMG approval for 776-bed hospital",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33501",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "10.15 15:32",
+          "new": false
+        },
+        {
+          "title": "Experts warn against linking Wegovy, Mounjaro to illnesses without proof of causation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33500",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "10.15 15:28",
+          "new": false
+        },
+        {
+          "title": "Humedix's derma cosmetic brand elravie showcases technological excellence at K-Beauty Expo",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33499",
+          "category": "K-Beauty",
+          "author": "Kim Yoon-mi",
+          "date": "10.15 15:18",
+          "new": false
+        },
+        {
+          "title": "Bayer picks Elisigen for biotech mentoring program in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33498",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.15 14:47",
+          "new": false
+        },
         {
           "title": "GC Biopharma, LG CNS team up to automate vaccine, drug manufacturing",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33496",
@@ -98,70 +162,6 @@
           "category": "Pharma",
           "author": "Kim Yoon-mi",
           "date": "10.14 15:11",
-          "new": false
-        },
-        {
-          "title": "[Interview] Gastric cancer care shifts toward rethinking the entire treatment sequence",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33483",
-          "category": "Hospital",
-          "author": "Kim Yun-mi",
-          "date": "10.14 14:50",
-          "new": false
-        },
-        {
-          "title": "Digital PCR shows potential to track leukemia relapse after stem cell transplantation: NCC study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33482",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "10.14 14:37",
-          "new": false
-        },
-        {
-          "title": "SNUH professor Cho Tae-joon elected next president of Korean Orthopaedic Association",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33481",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "10.14 14:23",
-          "new": false
-        },
-        {
-          "title": "Lunit to present AI studies on ovarian, bladder cancers at SITC 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33480",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "10.14 14:07",
-          "new": false
-        },
-        {
-          "title": "Orum begins 1st human trial of AML drug candidate ORM-1153",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33479",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "10.14 13:53",
-          "new": false
-        },
-        {
-          "title": "AITRICS rated ‘outstanding’ in TIME’s World’s Top HealthTech Companies of 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33478",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "10.14 13:46",
-          "new": false
-        },
-        {
-          "title": "VAIM launches JuveLook in China after NMPA approval",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33477",
-          "category": "K-Beauty",
-          "author": "Kim Yoon-mi",
-          "date": "10.14 10:53",
-          "new": false
-        },
-        {
-          "title": "Daewoong targets H1 2027 GMP approval for semaglutide microneedle patch production",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33474",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.14 10:16",
           "new": false
         }
       ]

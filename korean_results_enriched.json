@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-10-15 04:58:49 IST",
+  "last_updated": "2026-10-15 12:50:09 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Bispecific antibodies, CAR-T therapy improve outcomes in follicular lymphoma: expert",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33505",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "10.15 16:43",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Korea approves Nexletol as first-in-class ACL inhibitor for dyslipidemia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33502",
+          "category": "Policy",
+          "author": "Kim Kyoung-Won",
+          "date": "10.15 15:57",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Experts warn against linking Wegovy, Mounjaro to illnesses without proof of causation",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33500",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "10.15 15:28",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Bayer picks Elisigen for biotech mentoring program in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33498",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.15 14:47",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "GC Biopharma, LG CNS team up to automate vaccine, drug manufacturing",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33496",
@@ -66,33 +102,6 @@
           "date": "10.14 15:11",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "Orum begins 1st human trial of AML drug candidate ORM-1153",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33479",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "10.14 13:53",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "VAIM launches JuveLook in China after NMPA approval",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33477",
-          "category": "K-Beauty",
-          "author": "Kim Yoon-mi",
-          "date": "10.14 10:53",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Daewoong targets H1 2027 GMP approval for semaglutide microneedle patch production",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33474",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.14 10:16",
-          "new": false,
-          "tag": "Pipeline"
         }
       ]
     }
