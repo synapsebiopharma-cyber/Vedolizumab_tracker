@@ -1,15 +1,42 @@
 {
-  "last_updated": "2026-10-14 13:02:38 IST",
+  "last_updated": "2026-10-15 04:58:49 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "GC Biopharma, LG CNS team up to automate vaccine, drug manufacturing",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33496",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.15 13:42",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Celltrion to present real-world Remsima SC data at UEG Week 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33491",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.15 10:34",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "Over 10,000 treated for vision, gallbladder, pancreatic and kidney problems after Wegovy, Mounjaro prescriptions",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33489",
           "category": "Policy",
           "author": "You Ji-young",
           "date": "10.14 17:04",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "ADHD drug prescribed to 964 children under six despite age restriction",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33488",
+          "category": "Policy",
+          "author": "Kim Kyoung-Won",
+          "date": "10.14 16:53",
           "new": false,
           "tag": "Other"
         },
@@ -66,42 +93,6 @@
           "date": "10.14 10:16",
           "new": false,
           "tag": "Pipeline"
-        },
-        {
-          "title": "Merck Healthcare Korea names ex-Antengene exec Lee Dong-yeol medical affairs head",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33475",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.14 10:08",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Samil Pharm eyes ophthalmic CMO deals by year-end after talks at CPHI Milan",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33472",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.13 15:49",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Wegovy, Mounjaro prescriptions hit 1.86 million in H1, exposing safety monitoring gaps",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33471",
-          "category": "Policy",
-          "author": "Kim Yoon-mi",
-          "date": "10.13 15:38",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Samsung Biologics clears takeover threshold as 87.88% of PolyPeptide shares tendered",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33469",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "10.13 15:14",
-          "new": false,
-          "tag": "Acquisition"
         }
       ]
     }
