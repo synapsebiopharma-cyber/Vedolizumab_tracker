@@ -1,9 +1,73 @@
 {
-  "last_updated": "2026-10-16 04:49:52 IST",
+  "last_updated": "2026-10-16 12:42:53 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "AriBio to release phase 3 Alzheimer’s data next month",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33523",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "10.16 18:36",
+          "new": false
+        },
+        {
+          "title": "Korea expands embryo, fetal genetic testing to 264 hereditary disorders",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33520",
+          "category": "Policy",
+          "author": "Kim Kyoung-Won",
+          "date": "10.16 16:56",
+          "new": false
+        },
+        {
+          "title": "Only 1 in 5 patients referred from Korea's top hospitals have confirmed follow-up care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33519",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "10.16 16:46",
+          "new": false
+        },
+        {
+          "title": "HLB expects 15-20% price premium for Lyrfigtu ahead of US launch: CEO",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33516",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "10.16 16:31",
+          "new": false
+        },
+        {
+          "title": "SEERS targets UAE national health screening program with AI arrhythmia test",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33518",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "10.16 16:29",
+          "new": false
+        },
+        {
+          "title": "Stroke recurrence after artery dissection concentrated in 1st week, study finds",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33515",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "10.16 16:00",
+          "new": false
+        },
+        {
+          "title": "Vaxcellbio's NK cell therapy shows 69% response rate in small liver cancer trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33514",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "10.16 15:47",
+          "new": false
+        },
+        {
+          "title": "Nearly 30,000 Koreans have type 1 diabetes; adults account for 72% of new cases",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33513",
+          "category": "Hospital",
+          "author": "You Ji-young",
+          "date": "10.16 15:31",
+          "new": false
+        },
         {
           "title": "[Interview] Medicine is the best profession for serving others, says doctor volunteering for over 50 years",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33512",
@@ -98,70 +162,6 @@
           "category": "Hospital",
           "author": "Lim Su-min",
           "date": "10.15 15:28",
-          "new": false
-        },
-        {
-          "title": "Humedix's derma cosmetic brand elravie showcases technological excellence at K-Beauty Expo",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33499",
-          "category": "K-Beauty",
-          "author": "Kim Yoon-mi",
-          "date": "10.15 15:18",
-          "new": false
-        },
-        {
-          "title": "Bayer picks Elisigen for biotech mentoring program in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33498",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.15 14:47",
-          "new": false
-        },
-        {
-          "title": "GC Biopharma, LG CNS team up to automate vaccine, drug manufacturing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33496",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.15 13:42",
-          "new": false
-        },
-        {
-          "title": "1.44 million Koreans take 10 or more drugs, but few receive medication management",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33495",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "10.15 13:34",
-          "new": false
-        },
-        {
-          "title": "Macrogen adopts Roche's AXELIOS 1 to cut genome sequencing time",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33494",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "10.15 13:13",
-          "new": false
-        },
-        {
-          "title": "Asan reports 82% drop in early pediatric ICU readmissions after launching new team",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33493",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "10.15 11:19",
-          "new": false
-        },
-        {
-          "title": "Celltrion to present real-world Remsima SC data at UEG Week 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33491",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.15 10:34",
-          "new": false
-        },
-        {
-          "title": "[Global Pharma Leadership Voices] Connecting Korean biotech innovation to the world through global partnerships",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33490",
-          "category": "Opinion",
-          "author": "Kang So-young",
-          "date": "10.15 09:15",
           "new": false
         }
       ]

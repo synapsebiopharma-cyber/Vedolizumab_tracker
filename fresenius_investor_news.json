@@ -1,8 +1,8 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-10-16T04:51:18Z",
-  "total_runs": 342,
-  "new_on_last_run": 1,
+  "last_fetched": "2026-10-16T12:44:28Z",
+  "total_runs": 343,
+  "new_on_last_run": 0,
   "articles": [
     {
       "id": "supervisory-board-appoints-dr.-marc-alexander-mahl-to-the-fresenius-management-board-and-extends-sara-hennicken’s-contract|october-15,-2026",
@@ -11,7 +11,7 @@
       "date": "October 15, 2026",
       "source": "Fresenius",
       "meta": "",
-      "new": true
+      "new": false
     },
     {
       "id": "q3-2026-aide-memoire-available|october-13,-2026",

@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-10-16 04:49:52 IST",
+  "last_updated": "2026-10-16 12:42:53 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "AriBio to release phase 3 Alzheimer’s data next month",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33523",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "10.16 18:36",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "HLB expects 15-20% price premium for Lyrfigtu ahead of US launch: CEO",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33516",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "10.16 16:31",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Vaxcellbio's NK cell therapy shows 69% response rate in small liver cancer trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33514",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "10.16 15:47",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "Korea approves Boehringer's Jascayd for idiopathic pulmonary fibrosis",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33508",
@@ -23,6 +50,15 @@
           "tag": "Clinical Trial"
         },
         {
+          "title": "Bispecific antibodies, CAR-T therapy improve outcomes in follicular lymphoma: expert",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33505",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "10.15 16:43",
+          "new": false,
+          "tag": "Other"
+        },
+        {
           "title": "Korea approves Nexletol as first-in-class ACL inhibitor for dyslipidemia",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33502",
           "category": "Policy",
@@ -39,33 +75,6 @@
           "date": "10.15 15:28",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Bayer picks Elisigen for biotech mentoring program in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33498",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.15 14:47",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "GC Biopharma, LG CNS team up to automate vaccine, drug manufacturing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33496",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.15 13:42",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Celltrion to present real-world Remsima SC data at UEG Week 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33491",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.15 10:34",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }
