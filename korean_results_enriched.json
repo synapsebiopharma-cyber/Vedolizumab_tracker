@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-10-18 12:14:27 IST",
+  "last_updated": "2026-10-19 05:03:23 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea approves Ono Pharma's Qinlock for advanced GIST",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33531",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "10.19 13:45",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Yuyu Pharma develops combination drug platform, targets 2027 launch",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33530",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.19 13:42",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Samsung Biologics outlines ADC expansion plans at San Diego conference",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33528",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "10.19 11:48",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "AriBio to release phase 3 Alzheimer’s data next month",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33523",
@@ -30,51 +57,6 @@
           "date": "10.16 15:47",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "Korea approves Boehringer's Jascayd for idiopathic pulmonary fibrosis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33508",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "10.16 10:15",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "LigaChem doses first patient in global phase 1/2 trial of ADC targeting gastric, pancreatic cancers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33507",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "10.16 10:05",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Bispecific antibodies, CAR-T therapy improve outcomes in follicular lymphoma: expert",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33505",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "10.15 16:43",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Korea approves Nexletol as first-in-class ACL inhibitor for dyslipidemia",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33502",
-          "category": "Policy",
-          "author": "Kim Kyoung-Won",
-          "date": "10.15 15:57",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Experts warn against linking Wegovy, Mounjaro to illnesses without proof of causation",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33500",
-          "category": "Hospital",
-          "author": "Lim Su-min",
-          "date": "10.15 15:28",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }

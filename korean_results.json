@@ -1,9 +1,89 @@
 {
-  "last_updated": "2026-10-18 12:14:27 IST",
+  "last_updated": "2026-10-19 05:03:23 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[Reporter’s Notebook] China nurtures new drugs while Korea waits for licensing deals",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33532",
+          "category": "Opinion",
+          "author": "Hong Sook",
+          "date": "10.19 13:52",
+          "new": false
+        },
+        {
+          "title": "Korea approves Ono Pharma's Qinlock for advanced GIST",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33531",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "10.19 13:45",
+          "new": false
+        },
+        {
+          "title": "Yuyu Pharma develops combination drug platform, targets 2027 launch",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33530",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.19 13:42",
+          "new": false
+        },
+        {
+          "title": "Korea proposes telemedicine limits, bans remote prescriptions for obesity drugs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33529",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "10.19 13:09",
+          "new": false
+        },
+        {
+          "title": "Kolmar Korea to expand Sejong plant to meet demand for Korean-made cosmetics",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33527",
+          "category": "K-Beauty",
+          "author": "Kim Ji-hye",
+          "date": "10.19 12:53",
+          "new": false
+        },
+        {
+          "title": "Samsung Biologics outlines ADC expansion plans at San Diego conference",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33528",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "10.19 11:48",
+          "new": false
+        },
+        {
+          "title": "Hugel brings global doctors to Korea for hands-on aesthetics training",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33525",
+          "category": "K-Beauty",
+          "author": "Kim Yoon-mi",
+          "date": "10.19 11:19",
+          "new": false
+        },
+        {
+          "title": "Jung Kwan Jang rolls out smaller red ginseng packs for foreign tourists",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33524",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.19 11:15",
+          "new": false
+        },
+        {
+          "title": "KBR forum to explore China's clinical data surge and Korea's response",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33492",
+          "category": "Special",
+          "author": "Kim Yoon-mi",
+          "date": "10.19 08:30",
+          "new": false
+        },
+        {
+          "title": "LivsMed plans Japan and US filings for STARK surgical robot in 2027",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33522",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "10.19 08:00",
+          "new": false
+        },
         {
           "title": "AriBio to release phase 3 Alzheimer’s data next month",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33523",
@@ -82,86 +162,6 @@
           "category": "Life science",
           "author": "Hong Sook",
           "date": "10.16 13:21",
-          "new": false
-        },
-        {
-          "title": "Sky Labs’ CART ring helps 7 in 10 patients control hypertension",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33510",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "10.16 11:19",
-          "new": false
-        },
-        {
-          "title": "Urologists warn of regional prostate cancer diagnosis gap, seek better reimbursement",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33509",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "10.16 10:47",
-          "new": false
-        },
-        {
-          "title": "Korea approves Boehringer's Jascayd for idiopathic pulmonary fibrosis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33508",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "10.16 10:15",
-          "new": false
-        },
-        {
-          "title": "LigaChem doses first patient in global phase 1/2 trial of ADC targeting gastric, pancreatic cancers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33507",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "10.16 10:05",
-          "new": false
-        },
-        {
-          "title": "KDA, Naver team up to bring real-time diabetes guidance to clinics",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33506",
-          "category": "Policy",
-          "author": "Kim Ji-hye",
-          "date": "10.15 17:50",
-          "new": false
-        },
-        {
-          "title": "Bispecific antibodies, CAR-T therapy improve outcomes in follicular lymphoma: expert",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33505",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "10.15 16:43",
-          "new": false
-        },
-        {
-          "title": "Persistent drooping eyelids may signal myasthenia gravis, specialist warns",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33503",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "10.15 16:03",
-          "new": false
-        },
-        {
-          "title": "Korea approves Nexletol as first-in-class ACL inhibitor for dyslipidemia",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33502",
-          "category": "Policy",
-          "author": "Kim Kyoung-Won",
-          "date": "10.15 15:57",
-          "new": false
-        },
-        {
-          "title": "National Medical Center relocation wins SMG approval for 776-bed hospital",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33501",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "10.15 15:32",
-          "new": false
-        },
-        {
-          "title": "Experts warn against linking Wegovy, Mounjaro to illnesses without proof of causation",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33500",
-          "category": "Hospital",
-          "author": "Lim Su-min",
-          "date": "10.15 15:28",
           "new": false
         }
       ]
