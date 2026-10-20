@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-10-19 14:57:15 IST",
+  "last_updated": "2026-10-20 05:07:26 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Boryung's lymphoma drug bosmolisib advances toward 2028 trial completion",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33546",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "10.20 13:43",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Korea may drop plan to designate GLP-1 obesity drugs as medications prone to misuse",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33545",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "10.20 13:27",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Daewoong's Nabota sales rise 20% annually in South America as company expands physician training",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33542",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.20 11:01",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Samsung Bioepis enters into landmark 10-year agreement to supply eculizumab to Brazil",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33541",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "10.20 09:34",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "Korean OB-GYNs back GLP-1 drugs for women with obesity planning pregnancy",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33538",
@@ -29,7 +65,7 @@
           "author": "Kim Yoon-mi",
           "date": "10.19 15:10",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Pipeline"
         },
         {
           "title": "Korea approves Ono Pharma's Qinlock for advanced GIST",
@@ -50,29 +86,20 @@
           "tag": "Pipeline"
         },
         {
+          "title": "Korea proposes telemedicine limits, bans remote prescriptions for obesity drugs",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33529",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "10.19 13:09",
+          "new": false,
+          "tag": "Other"
+        },
+        {
           "title": "Samsung Biologics outlines ADC expansion plans at San Diego conference",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33528",
           "category": "Bio",
           "author": "Kim Yoon-mi",
           "date": "10.19 11:48",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "AriBio to release phase 3 Alzheimer’s data next month",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33523",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "10.16 18:36",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "HLB expects 15-20% price premium for Lyrfigtu ahead of US launch: CEO",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33516",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "10.16 16:31",
           "new": false,
           "tag": "Other"
         }
