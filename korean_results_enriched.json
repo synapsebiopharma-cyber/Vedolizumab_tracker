@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-10-21 05:10:32 IST",
+  "last_updated": "2026-10-21 13:08:45 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea approves AbbVie’s Rinvoq for severe alopecia areata and vitiligo",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33566",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.21 16:44",
+          "new": false,
+          "tag": "FDA Approval"
+        },
         {
           "title": "Korea approves Gilead's Livdelzi for primary biliary cholangitis",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33562",
@@ -29,7 +38,7 @@
           "author": "Kim Yoon-mi",
           "date": "10.21 09:15",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "FDA Approval"
         },
         {
           "title": "Yuhan publishes centennial history chronicling a century of drug development",
@@ -48,33 +57,6 @@
           "date": "10.20 16:29",
           "new": false,
           "tag": "Pipeline"
-        },
-        {
-          "title": "Korea designates 8 more essential medicines for newborns, cancer patients",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33547",
-          "category": "Policy",
-          "author": "Kim Yoon-mi",
-          "date": "10.20 14:08",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Boryung's lymphoma drug bosmolisib advances toward 2028 trial completion",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33546",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "10.20 13:43",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Korea may drop plan to designate GLP-1 obesity drugs as medications prone to misuse",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33545",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "10.20 13:27",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }

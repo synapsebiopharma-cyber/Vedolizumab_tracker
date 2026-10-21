@@ -1,9 +1,49 @@
 {
-  "last_updated": "2026-10-21 05:10:32 IST",
+  "last_updated": "2026-10-21 13:08:45 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "KAIST develops gravity-free wearable eyedrop patch for space medicine",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33568",
+          "category": "Device/ICT",
+          "author": "Song Soo-youn",
+          "date": "10.21 17:40",
+          "new": false
+        },
+        {
+          "title": "[Column] When a 112 police call brings a pediatric emergency room to a halt",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33567",
+          "category": "Opinion",
+          "author": "Park Soo-hyun",
+          "date": "10.21 17:38",
+          "new": false
+        },
+        {
+          "title": "Korea approves AbbVie’s Rinvoq for severe alopecia areata and vitiligo",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33566",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.21 16:44",
+          "new": false
+        },
+        {
+          "title": "AI is changing hospitals. Three global leaders say leadership must change, too",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33565",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "10.21 16:39",
+          "new": false
+        },
+        {
+          "title": "Korea, WHO issue 1st joint declaration on healthcare AI, call for equitable access",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33564",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "10.21 14:46",
+          "new": false
+        },
         {
           "title": "Over 70,000 GLP-1 obesity drug prescriptions issued despite duplicate-use warnings",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33563",
@@ -122,46 +162,6 @@
           "category": "K-Beauty",
           "author": "Hong Sook",
           "date": "10.20 14:38",
-          "new": false
-        },
-        {
-          "title": "Viatris Korea earns spot among Asia’s best workplaces on strength of employee trust",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33548",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.20 14:21",
-          "new": false
-        },
-        {
-          "title": "Korea designates 8 more essential medicines for newborns, cancer patients",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33547",
-          "category": "Policy",
-          "author": "Kim Yoon-mi",
-          "date": "10.20 14:08",
-          "new": false
-        },
-        {
-          "title": "Boryung's lymphoma drug bosmolisib advances toward 2028 trial completion",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33546",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "10.20 13:43",
-          "new": false
-        },
-        {
-          "title": "Korea may drop plan to designate GLP-1 obesity drugs as medications prone to misuse",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33545",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "10.20 13:27",
-          "new": false
-        },
-        {
-          "title": "Coreline Soft gets FDA 510(k) for AVIEW Aorta Metrics",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33544",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "10.20 13:21",
           "new": false
         }
       ]
