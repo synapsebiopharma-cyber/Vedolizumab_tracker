@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-10-20 12:55:59 IST",
+  "last_updated": "2026-10-21 05:10:32 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea approves Gilead's Livdelzi for primary biliary cholangitis",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33562",
+          "category": "Policy",
+          "author": "Kim Yoon-mi",
+          "date": "10.21 13:57",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Hanmi's Naxozol shows noninferiority to naproxen in phase 3 low back pain trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33561",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "10.21 13:54",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Samsung Bioepis' first ADC candidate wins FDA fast track status for urothelial cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33555",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "10.21 09:15",
+          "new": false,
+          "tag": "Pipeline"
+        },
         {
           "title": "Yuhan publishes centennial history chronicling a century of drug development",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33552",
@@ -48,42 +75,6 @@
           "date": "10.20 13:27",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Daewoong's Nabota sales rise 20% annually in South America as company expands physician training",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33542",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.20 11:01",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Samsung Bioepis enters into landmark 10-year agreement to supply eculizumab to Brazil",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33541",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "10.20 09:34",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Korean OB-GYNs back GLP-1 drugs for women with obesity planning pregnancy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33538",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.19 16:57",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Samsung Bioepis reports comparable results for Keytruda biosimilar ahead of ESMO",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33537",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "10.19 16:22",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }
