@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-10-21 13:08:45 IST",
+  "last_updated": "2026-10-22 05:09:47 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Celltrion deepens bet on US biotech Kaigene with 3rd autoimmune drug candidate",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33575",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.22 13:38",
+          "new": false
+        },
+        {
+          "title": "Hospital AI delivers gains, but costs and setbacks expose challenges",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33574",
+          "category": "Hospital",
+          "author": "Kwak Sung-sun",
+          "date": "10.22 13:35",
+          "new": false
+        },
+        {
+          "title": "GLP-1 drugs could transform public health like antibiotics, obesity expert says",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33572",
+          "category": "Pharma",
+          "author": "Koh Jung Min",
+          "date": "10.22 13:31",
+          "new": false
+        },
+        {
+          "title": "Data sharing, cooperation key to AI drug development and pandemic response, experts say",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33573",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "10.22 11:41",
+          "new": false
+        },
+        {
+          "title": "Zuellig Pharma expands cold storage capacity to 7,500 pallets at Korea logistics hub",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33571",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.22 11:06",
+          "new": false
+        },
+        {
+          "title": "AriBio receives first $8.6 million from China's Fosun ahead of Alzheimer's phase 3 readout",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33570",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "10.22 10:31",
+          "new": false
+        },
+        {
+          "title": "Samsung Biologics' Q3 sales grow 19%,  operating profit inches up",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33569",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "10.22 09:17",
+          "new": false
+        },
         {
           "title": "KAIST develops gravity-free wearable eyedrop patch for space medicine",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33568",
@@ -106,62 +162,6 @@
           "category": "Hospital",
           "author": "Kim Yoon-mi",
           "date": "10.21 09:45",
-          "new": false
-        },
-        {
-          "title": "Samsung Bioepis' first ADC candidate wins FDA fast track status for urothelial cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33555",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "10.21 09:15",
-          "new": false
-        },
-        {
-          "title": "Japan's Alfresa taps Korean subsidiary Jenecell to enter stem cell cosmetics market",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33554",
-          "category": "K-Beauty",
-          "author": "Kim Yoon-mi",
-          "date": "10.20 17:26",
-          "new": false
-        },
-        {
-          "title": "Samsung outlines vision for integrating wearable health data into clinical care",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33553",
-          "category": "Device/ICT",
-          "author": "Kwak Sung-sun",
-          "date": "10.20 17:08",
-          "new": false
-        },
-        {
-          "title": "Yuhan publishes centennial history chronicling a century of drug development",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33552",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.20 17:05",
-          "new": false
-        },
-        {
-          "title": "Global hospital leaders stress patient-centered care in AI era at Seoul congress",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33551",
-          "category": "Hospital",
-          "author": "Kwak Sung-sun",
-          "date": "10.20 16:38",
-          "new": false
-        },
-        {
-          "title": "[Interview] INGENIA Therapeutics’ TIE2 antibody platforms open new paths in CKD, solid tumors and glaucoma: CEO",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33550",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "10.20 16:29",
-          "new": false
-        },
-        {
-          "title": "[Interview] ‘It’s not about turning back time’: Merz champions skin longevity",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33549",
-          "category": "K-Beauty",
-          "author": "Hong Sook",
-          "date": "10.20 14:38",
           "new": false
         }
       ]

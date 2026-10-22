@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-10-21 13:08:45 IST",
+  "last_updated": "2026-10-22 05:09:47 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Celltrion deepens bet on US biotech Kaigene with 3rd autoimmune drug candidate",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33575",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.22 13:38",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "AriBio receives first $8.6 million from China's Fosun ahead of Alzheimer's phase 3 readout",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33570",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "10.22 10:31",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "Korea approves AbbVie’s Rinvoq for severe alopecia areata and vitiligo",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33566",
@@ -30,33 +48,6 @@
           "date": "10.21 13:54",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "Samsung Bioepis' first ADC candidate wins FDA fast track status for urothelial cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33555",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "10.21 09:15",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Yuhan publishes centennial history chronicling a century of drug development",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33552",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.20 17:05",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "[Interview] INGENIA Therapeutics’ TIE2 antibody platforms open new paths in CKD, solid tumors and glaucoma: CEO",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33550",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "10.20 16:29",
-          "new": false,
-          "tag": "Pipeline"
         }
       ]
     }
