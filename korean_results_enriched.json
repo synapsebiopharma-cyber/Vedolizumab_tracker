@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-10-22 13:11:10 IST",
+  "last_updated": "2026-10-23 05:09:25 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "HanAll's batoclimab wins 1st approval in China for generalized myasthenia gravis",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33589",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "10.23 14:04",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "[Interview] Bayer sees Korea as key co-innovation partner, eyes deeper drug development ties",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33585",
+          "category": "Pharma",
+          "author": "Hong Sook",
+          "date": "10.23 13:23",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Onconic's Jaqbo dissolving tablet matches conventional version in drug exposure",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33586",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.23 11:23",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Hanmi's 1st Korean-developed GLP-1 obesity drug set for Oct. 29 launch: Yonhap",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33584",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.23 09:27",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Korea to inspect medical facilities over illegal sales of obesity injections",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33582",
@@ -14,22 +50,13 @@
           "tag": "Inspection"
         },
         {
-          "title": "Greycoat Research launches feline AIM genetic test in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33579",
-          "category": "Life science",
-          "author": "Kim Yoon-mi",
-          "date": "10.22 15:55",
-          "new": false,
-          "tag": "Other"
-        },
-        {
           "title": "WHO chief tours EuBiologics plant as Korean vaccine maker eyes global typhoid market",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33580",
           "category": "Bio",
           "author": "Kim Yoon-mi",
           "date": "10.22 15:32",
           "new": false,
-          "tag": "Other"
+          "tag": "Pipeline"
         },
         {
           "title": "Boryung's Q3 revenue rises 12% on oncology growth",
@@ -59,24 +86,6 @@
           "tag": "Collaboration"
         },
         {
-          "title": "GLP-1 drugs could transform public health like antibiotics, obesity expert says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33572",
-          "category": "Pharma",
-          "author": "Koh Jung Min",
-          "date": "10.22 13:31",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Data sharing, cooperation key to AI drug development and pandemic response, experts say",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33573",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "10.22 11:41",
-          "new": false,
-          "tag": "Other"
-        },
-        {
           "title": "Zuellig Pharma expands cold storage capacity to 7,500 pallets at Korea logistics hub",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33571",
           "category": "Pharma",
@@ -95,22 +104,13 @@
           "tag": "Financial"
         },
         {
-          "title": "Samsung Biologics' Q3 sales grow 19%,  operating profit inches up",
+          "title": "Samsung Biologics' Q3 sales grow 19%, operating profit inches up",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33569",
           "category": "Bio",
           "author": "Kim Yoon-mi",
           "date": "10.22 09:17",
           "new": false,
           "tag": "Financial"
-        },
-        {
-          "title": "Korea approves AbbVie’s Rinvoq for severe alopecia areata and vitiligo",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33566",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.21 16:44",
-          "new": false,
-          "tag": "FDA Approval"
         }
       ]
     }
