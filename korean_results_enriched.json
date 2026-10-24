@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24 04:53:37 IST",
+  "last_updated": "2026-10-24 12:13:47 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
@@ -37,15 +37,6 @@
           "category": "Hospital",
           "author": "Koh Jung Min",
           "date": "10.23 16:03",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "InBody puts muscle loss during GLP-1 treatment in focus at Busan medical show",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33587",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "10.23 14:11",
           "new": false,
           "tag": "Other"
         },
@@ -95,22 +86,13 @@
           "tag": "Inspection"
         },
         {
-          "title": "Greycoat Research launches feline AIM genetic test in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33579",
-          "category": "Life science",
-          "author": "Kim Yoon-mi",
-          "date": "10.22 15:55",
-          "new": false,
-          "tag": "Other"
-        },
-        {
           "title": "WHO chief tours EuBiologics plant as Korean vaccine maker eyes global typhoid market",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33580",
           "category": "Bio",
           "author": "Kim Yoon-mi",
           "date": "10.22 15:32",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Other"
         }
       ]
     }
