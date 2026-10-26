@@ -1,26 +1,44 @@
 {
-  "last_updated": "2026-10-25 12:46:02 IST",
+  "last_updated": "2026-10-26 05:06:58 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Korean precision oncology study enrolls 1,000 patients, secures 3 off-label treatment approvals",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33598",
-          "category": "Life science",
-          "author": "Kim Yoon-mi",
-          "date": "10.23 16:32",
+          "title": "[ESMO 2026] ABL Bio's ragistomig shows lower toxicity with 6-week dosing",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33605",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "10.26 14:05",
           "new": false,
           "tag": "Clinical Trial"
         },
         {
-          "title": "Korea clears study of personalized immune cell therapy for advanced colorectal cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33597",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "10.23 16:10",
+          "title": "Korea expands Mounjaro approval to cardiovascular risk reduction, pediatric diabetes",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33603",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.26 11:13",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Lunit to explore AI-based biomarkers for Summit Therapeutics' cancer drug ivonescimab",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33600",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "10.26 09:48",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Celltrion's Omlyclo, Avtozma displace originators in US formulary deals",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33599",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.26 09:40",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "Bukwang partners with Samsung Medical Center to develop schizophrenia digital therapeutic",
@@ -41,15 +59,6 @@
           "tag": "Other"
         },
         {
-          "title": "InBody puts muscle loss during GLP-1 treatment in focus at Busan medical show",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33587",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "10.23 14:11",
-          "new": false,
-          "tag": "Other"
-        },
-        {
           "title": "HanAll's batoclimab wins 1st approval in China for generalized myasthenia gravis",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33589",
           "category": "Bio",
@@ -65,7 +74,7 @@
           "author": "Hong Sook",
           "date": "10.23 13:23",
           "new": false,
-          "tag": "Other"
+          "tag": "Collaboration"
         },
         {
           "title": "Onconic's Jaqbo dissolving tablet matches conventional version in drug exposure",
@@ -75,33 +84,6 @@
           "date": "10.23 11:23",
           "new": false,
           "tag": "Pipeline"
-        },
-        {
-          "title": "Hanmi's 1st Korean-developed GLP-1 obesity drug set for Oct. 29 launch: Yonhap",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33584",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.23 09:27",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Korea to inspect medical facilities over illegal sales of obesity injections",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33582",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "10.22 16:30",
-          "new": false,
-          "tag": "Inspection"
-        },
-        {
-          "title": "WHO chief tours EuBiologics plant as Korean vaccine maker eyes global typhoid market",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33580",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "10.22 15:32",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }
