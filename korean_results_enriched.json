@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-10-26 05:06:58 IST",
+  "last_updated": "2026-10-26 14:34:46 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Daewon Pharm says oral semaglutide candidate tops Rybelsus exposure in early studies",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33607",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.26 17:43",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "LigaChem's CLDN18.2 ADC suppresses tumor growth with single dose in animal models",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33617",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "10.26 17:40",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Samyang Biopharm, CrossPoint team up to develop tumor-targeted gene therapies",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33615",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "10.26 17:22",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "[ESMO 2026] BeOne's liver cancer drug could be a game changer, investigator says",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33609",
+          "category": "Pharma",
+          "author": "Kim Yun-mi",
+          "date": "10.26 15:14",
+          "new": false,
+          "tag": "Pipeline"
+        },
         {
           "title": "[ESMO 2026] ABL Bio's ragistomig shows lower toxicity with 6-week dosing",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33605",
@@ -41,6 +77,15 @@
           "tag": "Other"
         },
         {
+          "title": "Korea clears study of personalized immune cell therapy for advanced colorectal cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33597",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "10.23 16:10",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
           "title": "Bukwang partners with Samsung Medical Center to develop schizophrenia digital therapeutic",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33596",
           "category": "Pharma",
@@ -48,42 +93,6 @@
           "date": "10.23 16:08",
           "new": false,
           "tag": "Collaboration"
-        },
-        {
-          "title": "[Interview] ‘Tezspire eases burden of targeting severe asthma, but access gaps remain’",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33594",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "10.23 16:03",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "HanAll's batoclimab wins 1st approval in China for generalized myasthenia gravis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33589",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "10.23 14:04",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "[Interview] Bayer sees Korea as key co-innovation partner, eyes deeper drug development ties",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33585",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "10.23 13:23",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Onconic's Jaqbo dissolving tablet matches conventional version in drug exposure",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33586",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.23 11:23",
-          "new": false,
-          "tag": "Pipeline"
         }
       ]
     }
