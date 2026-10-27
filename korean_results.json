@@ -1,9 +1,97 @@
 {
-  "last_updated": "2026-10-27 05:22:51 IST",
+  "last_updated": "2026-10-27 13:33:37 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Hanmi’s Q3 sales rise on prescription drug growth",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33634",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.27 19:00",
+          "new": false
+        },
+        {
+          "title": "Korean doctors expect Retevmo reimbursement to expand access to RET-targeted therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33633",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.27 17:14",
+          "new": false
+        },
+        {
+          "title": "Turkish health minister visits GC Cell to discuss Immuncell-LC commercialization",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33632",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.27 16:51",
+          "new": false
+        },
+        {
+          "title": "[Interview] Twins with SMA expose gap in Korea's newborn screening system",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33631",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "10.27 16:28",
+          "new": false
+        },
+        {
+          "title": "Siemens Healthineers Korea targets labs with ELF liver fibrosis test",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33629",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.27 16:09",
+          "new": false
+        },
+        {
+          "title": "Yuhan backs global Gaucher disease campaign as its oral drug advances in phase 1",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33630",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.27 16:07",
+          "new": false
+        },
+        {
+          "title": "CG MedTech partners with LYV Sciences to produce human tissue products",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33628",
+          "category": "Device/ICT",
+          "author": "Kwon Min-seon",
+          "date": "10.27 16:04",
+          "new": false
+        },
+        {
+          "title": "Sleep apnea tied to higher stroke risk, underscoring need for early treatment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33627",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "10.27 15:45",
+          "new": false
+        },
+        {
+          "title": "Implanted chip tracks brain changes after Alzheimer’s drug administration: KAIST",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33626",
+          "category": "Life science",
+          "author": "Song Soo-youn",
+          "date": "10.27 15:39",
+          "new": false
+        },
+        {
+          "title": "Nearly 90% of Korean adults believe weight-loss drugs are widely misused: survey",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33625",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "10.27 15:28",
+          "new": false
+        },
+        {
+          "title": "Dong-A Group's Q3 profits rise across key affiliates, but margins face pressure",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33624",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.27 15:07",
+          "new": false
+        },
         {
           "title": "Boryung signs deal with German space agency to develop research infrastructure",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33623",
@@ -74,94 +162,6 @@
           "category": "K-Beauty",
           "author": "Kim Yoon-mi",
           "date": "10.26 17:38",
-          "new": false
-        },
-        {
-          "title": "Samyang Biopharm, CrossPoint team up to develop tumor-targeted gene therapies",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33615",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "10.26 17:22",
-          "new": false
-        },
-        {
-          "title": "[Column] Could cancer vaccines open a new era in cancer treatment?",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33614",
-          "category": "Opinion",
-          "author": "Jeong Seon-young",
-          "date": "10.26 17:18",
-          "new": false
-        },
-        {
-          "title": "[Interview] ‘Echocardiography is the first and final test -- CT and MRI cannot replace it’",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33612",
-          "category": "Hospital",
-          "author": "You Ji-young",
-          "date": "10.26 17:10",
-          "new": false
-        },
-        {
-          "title": "Petition against abortion pills advances to parliamentary committee amid safety concerns",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33611",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "10.26 16:28",
-          "new": false
-        },
-        {
-          "title": "Antibiotic-resistant infections surge in Korea, with elderly accounting for 7 in 10 cases",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33610",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "10.26 16:24",
-          "new": false
-        },
-        {
-          "title": "[ESMO 2026] BeOne's liver cancer drug could be a game changer, investigator says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33609",
-          "category": "Pharma",
-          "author": "Kim Yun-mi",
-          "date": "10.26 15:14",
-          "new": false
-        },
-        {
-          "title": "[ESMO 2026] KDDF chief calls for targeted investment in globally competitive drug technologies",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33606",
-          "category": "Policy",
-          "author": "Hong Sook",
-          "date": "10.26 14:30",
-          "new": false
-        },
-        {
-          "title": "[ESMO 2026] ABL Bio's ragistomig shows lower toxicity with 6-week dosing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33605",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "10.26 14:05",
-          "new": false
-        },
-        {
-          "title": "Vetter’s V-OVS next earns prestigious Red Dot Design Concept Award",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33604",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.26 13:54",
-          "new": false
-        },
-        {
-          "title": "Korea expands Mounjaro approval to cardiovascular risk reduction, pediatric diabetes",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33603",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.26 11:13",
-          "new": false
-        },
-        {
-          "title": "Researchers develop heat-triggered microneedle to reduce fertility hormone injections",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33602",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "10.26 10:58",
           "new": false
         }
       ]

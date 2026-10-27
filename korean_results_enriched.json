@@ -1,9 +1,54 @@
 {
-  "last_updated": "2026-10-27 05:22:51 IST",
+  "last_updated": "2026-10-27 13:33:37 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Hanmi’s Q3 sales rise on prescription drug growth",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33634",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.27 19:00",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Korean doctors expect Retevmo reimbursement to expand access to RET-targeted therapy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33633",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.27 17:14",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Turkish health minister visits GC Cell to discuss Immuncell-LC commercialization",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33632",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.27 16:51",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Yuhan backs global Gaucher disease campaign as its oral drug advances in phase 1",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33630",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.27 16:07",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "CG MedTech partners with LYV Sciences to produce human tissue products",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33628",
+          "category": "Device/ICT",
+          "author": "Kwon Min-seon",
+          "date": "10.27 16:04",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "[ESMO 2026] Samsung Bioepis' Keytruda biosimilar shows equivalent drug exposure",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33622",
@@ -20,7 +65,7 @@
           "author": "Kim Yoon-mi",
           "date": "10.27 10:19",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Pipeline"
         },
         {
           "title": "Celltrion Q3 operating profit jumps 74% on strong sales of high-margin biosimilars",
@@ -47,43 +92,7 @@
           "author": "Kim Ji-hye",
           "date": "10.26 17:40",
           "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Samyang Biopharm, CrossPoint team up to develop tumor-targeted gene therapies",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33615",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "10.26 17:22",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "[ESMO 2026] BeOne's liver cancer drug could be a game changer, investigator says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33609",
-          "category": "Pharma",
-          "author": "Kim Yun-mi",
-          "date": "10.26 15:14",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "[ESMO 2026] ABL Bio's ragistomig shows lower toxicity with 6-week dosing",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33605",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "10.26 14:05",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Korea expands Mounjaro approval to cardiovascular risk reduction, pediatric diabetes",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33603",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.26 11:13",
-          "new": false,
-          "tag": "FDA Approval"
+          "tag": "Pipeline"
         }
       ]
     }
