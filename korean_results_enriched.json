@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-10-27 13:33:37 IST",
+  "last_updated": "2026-10-28 06:09:46 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Hanmi Science Q3 revenue grows 6% on Online Pharm distribution sales",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33640",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.28 13:32",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Sky Labs’ CART BP monitor validated in microgravity",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33639",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "10.28 13:31",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Noul signs deal to supply AI cervical cancer screening system in Bosnia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33635",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "10.28 10:01",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "Hanmi’s Q3 sales rise on prescription drug growth",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33634",
@@ -29,7 +56,16 @@
           "author": "Kim Yoon-mi",
           "date": "10.27 16:51",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Siemens Healthineers Korea targets labs with ELF liver fibrosis test",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33629",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.27 16:09",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "Yuhan backs global Gaucher disease campaign as its oral drug advances in phase 1",
@@ -50,6 +86,24 @@
           "tag": "Collaboration"
         },
         {
+          "title": "Dong-A Group's Q3 profits rise across key affiliates, but margins face pressure",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33624",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.27 15:07",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Boryung signs deal with German space agency to develop research infrastructure",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33623",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.27 13:36",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
           "title": "[ESMO 2026] Samsung Bioepis' Keytruda biosimilar shows equivalent drug exposure",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33622",
           "category": "Pharma",
@@ -57,42 +111,6 @@
           "date": "10.27 13:24",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "Dong-A ST presents preclinical data on topical psoriasis treatment at AAPS 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33620",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.27 10:19",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Celltrion Q3 operating profit jumps 74% on strong sales of high-margin biosimilars",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33619",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "10.27 10:06",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Daewon Pharm says oral semaglutide candidate tops Rybelsus exposure in early studies",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33607",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.26 17:43",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "LigaChem's CLDN18.2 ADC suppresses tumor growth with single dose in animal models",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33617",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "10.26 17:40",
-          "new": false,
-          "tag": "Pipeline"
         }
       ]
     }
