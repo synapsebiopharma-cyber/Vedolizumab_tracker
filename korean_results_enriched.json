@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-10-28 06:09:46 IST",
+  "last_updated": "2026-10-28 14:23:32 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "AbbVie's Rinvoq could deliver faster hair regrowth, Korean dermatologists say",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33647",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.28 16:52",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "GI Innovation to present subcutaneous GI-102 phase 1 data at ESMO IO",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33644",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "10.28 15:27",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "Hanmi Science Q3 revenue grows 6% on Online Pharm distribution sales",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33640",
@@ -12,24 +30,6 @@
           "date": "10.28 13:32",
           "new": false,
           "tag": "Financial"
-        },
-        {
-          "title": "Sky Labs’ CART BP monitor validated in microgravity",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33639",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "10.28 13:31",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Noul signs deal to supply AI cervical cancer screening system in Bosnia",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33635",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "10.28 10:01",
-          "new": false,
-          "tag": "Collaboration"
         },
         {
           "title": "Hanmi’s Q3 sales rise on prescription drug growth",
@@ -56,15 +56,6 @@
           "author": "Kim Yoon-mi",
           "date": "10.27 16:51",
           "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Siemens Healthineers Korea targets labs with ELF liver fibrosis test",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33629",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.27 16:09",
-          "new": false,
           "tag": "Other"
         },
         {
@@ -73,42 +64,6 @@
           "category": "Pharma",
           "author": "Kim Yoon-mi",
           "date": "10.27 16:07",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "CG MedTech partners with LYV Sciences to produce human tissue products",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33628",
-          "category": "Device/ICT",
-          "author": "Kwon Min-seon",
-          "date": "10.27 16:04",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Dong-A Group's Q3 profits rise across key affiliates, but margins face pressure",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33624",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.27 15:07",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Boryung signs deal with German space agency to develop research infrastructure",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33623",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.27 13:36",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "[ESMO 2026] Samsung Bioepis' Keytruda biosimilar shows equivalent drug exposure",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33622",
-          "category": "Pharma",
-          "author": "Hong Sook",
-          "date": "10.27 13:24",
           "new": false,
           "tag": "Clinical Trial"
         }
