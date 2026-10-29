@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-10-29 06:09:10 IST",
+  "last_updated": "2026-10-29 14:39:53 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea to back 200 pharma, biotech and medtech firms through 2030",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33662",
+          "category": "Policy",
+          "author": "Kim Yoon-mi",
+          "date": "10.29 16:22",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Merck opens €300 million bioprocessing production center in Korea",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33658",
@@ -23,24 +32,6 @@
           "tag": "Pipeline"
         },
         {
-          "title": "Global pharma's clinical research spending in Korea rises 5.3% as China gains ground",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33652",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.29 13:49",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Samsung Bioepis Q3 revenue inches up on Epysqli, Pyzchiva sales",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33650",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "10.29 10:35",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
           "title": "SK bioscience, German subsidiary join US-backed Ebola vaccine development effort",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33649",
           "category": "Bio",
@@ -57,24 +48,6 @@
           "date": "10.28 16:52",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "GI Innovation to present subcutaneous GI-102 phase 1 data at ESMO IO",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33644",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "10.28 15:27",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Hanmi Science Q3 revenue grows 6% on Online Pharm distribution sales",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33640",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.28 13:32",
-          "new": false,
-          "tag": "Financial"
         }
       ]
     }
