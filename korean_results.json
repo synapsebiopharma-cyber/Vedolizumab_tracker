@@ -1,9 +1,89 @@
 {
-  "last_updated": "2026-10-28 14:23:32 IST",
+  "last_updated": "2026-10-29 06:09:10 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Merck opens €300 million bioprocessing production center in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33658",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.29 15:01",
+          "new": false
+        },
+        {
+          "title": "Less common HPV types linked to survival differences in Korean throat cancer study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33657",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "10.29 14:49",
+          "new": false
+        },
+        {
+          "title": "Korean medical device startup wins grand prize at Asia-Pacific competition: KHIDI",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33656",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "10.29 14:23",
+          "new": false
+        },
+        {
+          "title": "Philips displays hospital, home respiratory devices at Seoul conference",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33655",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "10.29 14:19",
+          "new": false
+        },
+        {
+          "title": "Humedix hosts 2nd annual academic exchange program for Brazilian medical professionals",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33654",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "10.29 14:03",
+          "new": false
+        },
+        {
+          "title": "KAIST antibody candidate curbs cancer-related weight and muscle loss in mice",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33653",
+          "category": "Life science",
+          "author": "Song Soo-youn",
+          "date": "10.29 13:58",
+          "new": false
+        },
+        {
+          "title": "Global pharma's clinical research spending in Korea rises 5.3% as China gains ground",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33652",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.29 13:49",
+          "new": false
+        },
+        {
+          "title": "[Editor’s Column] World-class healthcare, but for whom?",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33651",
+          "category": "Opinion",
+          "author": "Kim Yoon-mi",
+          "date": "10.29 13:26",
+          "new": false
+        },
+        {
+          "title": "Samsung Bioepis Q3 revenue inches up on Epysqli, Pyzchiva sales",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33650",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "10.29 10:35",
+          "new": false
+        },
+        {
+          "title": "SK bioscience, German subsidiary join US-backed Ebola vaccine development effort",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33649",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "10.29 10:05",
+          "new": false
+        },
         {
           "title": "AbbVie's Rinvoq could deliver faster hair regrowth, Korean dermatologists say",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33647",
@@ -82,86 +162,6 @@
           "category": "Device/ICT",
           "author": "Kim Ji-hye",
           "date": "10.28 13:31",
-          "new": false
-        },
-        {
-          "title": "CRE poses biggest infection-control challenge for Korean hospitals, study finds",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33638",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "10.28 11:26",
-          "new": false
-        },
-        {
-          "title": "Vaccine experts from 30 countries gather in Korea for manufacturing training",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33637",
-          "category": "Policy",
-          "author": "Kim Yoon-mi",
-          "date": "10.28 11:12",
-          "new": false
-        },
-        {
-          "title": "Noul signs deal to supply AI cervical cancer screening system in Bosnia",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33635",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "10.28 10:01",
-          "new": false
-        },
-        {
-          "title": "Hanmi’s Q3 sales rise on prescription drug growth",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33634",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.27 19:00",
-          "new": false
-        },
-        {
-          "title": "Korean doctors expect Retevmo reimbursement to expand access to RET-targeted therapy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33633",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.27 17:14",
-          "new": false
-        },
-        {
-          "title": "Turkish health minister visits GC Cell to discuss Immuncell-LC commercialization",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33632",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.27 16:51",
-          "new": false
-        },
-        {
-          "title": "[Interview] Twins with SMA expose gap in Korea's newborn screening system",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33631",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "10.27 16:28",
-          "new": false
-        },
-        {
-          "title": "Siemens Healthineers Korea targets labs with ELF liver fibrosis test",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33629",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.27 16:09",
-          "new": false
-        },
-        {
-          "title": "Yuhan backs global Gaucher disease campaign as its oral drug advances in phase 1",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33630",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.27 16:07",
-          "new": false
-        },
-        {
-          "title": "CG MedTech partners with LYV Sciences to produce human tissue products",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33628",
-          "category": "Device/ICT",
-          "author": "Kwon Min-seon",
-          "date": "10.27 16:04",
           "new": false
         }
       ]
