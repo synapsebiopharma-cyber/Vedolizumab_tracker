@@ -1,51 +1,105 @@
 {
-  "last_updated": "2026-10-29 14:39:53 IST",
+  "last_updated": "2026-10-30 06:13:02 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea backs Samjin Pharma's lorazepam injection to prevent supply shortages",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33681",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "10.30 15:00",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "JW Pharma's Empagard doubles HbA1c target attainment in phase 3 trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33678",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "10.30 13:48",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Daewon’s padoprazan meets phase 3 endpoint, with approval filing planned this year",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33676",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "10.30 13:25",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Korea expands insurance coverage for 5 drugs for rare, hard-to-treat diseases",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33675",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "10.30 13:22",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "GC Biopharma gets MFDS approval for Hunterase ICV",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33674",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.30 13:17",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "EuBiologics' Q3 profit expected to grow 7% on cholera vaccine sales: analyst",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33671",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "10.30 13:12",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Yuhan Q3 revenue up 6% on Leclaza and probiotics sales",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33673",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "10.30 11:34",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "NEX-I targets global licensing deals with cancer drug pipeline after IPO",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33672",
+          "category": "Bio",
+          "author": "Kwon Min-seon",
+          "date": "10.30 11:30",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "GC, Hanmi license Fabry disease drug to BioMarin in deal worth up to $475 million",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33668",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.30 10:26",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Hanlim Pharm teams up with Japan's DCI Partners to explore biotech investments",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33667",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "10.30 09:49",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "Korea to back 200 pharma, biotech and medtech firms through 2030",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33662",
           "category": "Policy",
           "author": "Kim Yoon-mi",
           "date": "10.29 16:22",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Merck opens €300 million bioprocessing production center in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33658",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.29 15:01",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "KAIST antibody candidate curbs cancer-related weight and muscle loss in mice",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33653",
-          "category": "Life science",
-          "author": "Song Soo-youn",
-          "date": "10.29 13:58",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "SK bioscience, German subsidiary join US-backed Ebola vaccine development effort",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33649",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "10.29 10:05",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "AbbVie's Rinvoq could deliver faster hair regrowth, Korean dermatologists say",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33647",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.28 16:52",
           "new": false,
           "tag": "Other"
         }
