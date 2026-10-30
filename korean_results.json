@@ -1,9 +1,25 @@
 {
-  "last_updated": "2026-10-30 06:13:02 IST",
+  "last_updated": "2026-10-30 14:31:41 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Curocell seeks to expand Korean CAR-T therapy from third- to second-line treatment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33683",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "10.30 16:42",
+          "new": false
+        },
+        {
+          "title": "Korea to cover Servier's Tibsovo for IDH1-mutated cholangiocarcinoma from November",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33682",
+          "category": "Policy",
+          "author": "You Ji-young",
+          "date": "10.30 15:30",
+          "new": false
+        },
         {
           "title": "Korea backs Samjin Pharma's lorazepam injection to prevent supply shortages",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33681",
@@ -146,22 +162,6 @@
           "category": "Hospital",
           "author": "Kim Eun-young",
           "date": "10.29 16:29",
-          "new": false
-        },
-        {
-          "title": "Korea to back 200 pharma, biotech and medtech firms through 2030",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33662",
-          "category": "Policy",
-          "author": "Kim Yoon-mi",
-          "date": "10.29 16:22",
-          "new": false
-        },
-        {
-          "title": "Angel Robotics secures Thai registration for wearable walking aid",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33661",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "10.29 15:16",
           "new": false
         }
       ]
