@@ -1,9 +1,41 @@
 {
-  "last_updated": "2026-11-02 06:36:47 IST",
+  "last_updated": "2026-11-02 17:23:52 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "LigaChem's IKS014 shows 50% ORR in post-Enhertu HER2-positive breast cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33701",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.02 17:16",
+          "new": false
+        },
+        {
+          "title": "OliX seeks FDA clearance for phase 2a trial of geographic atrophy treatment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33699",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.02 16:45",
+          "new": false
+        },
+        {
+          "title": "Celltrion Pharm adds lower-priced safety syringe to Yuflyma lineup",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33698",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.02 16:25",
+          "new": false
+        },
+        {
+          "title": "[Interview] ‘First-line treatment is crucial in multiple myeloma: There may be no second chance’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33697",
+          "category": "Hospital",
+          "author": "You Ji-young",
+          "date": "11.02 16:18",
+          "new": false
+        },
         {
           "title": "Medtronic to introduce Korean schoolchildren to surgical technology in Asia-Pacific first",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33695",
@@ -130,38 +162,6 @@
           "category": "Policy",
           "author": "Kim Yoon-mi",
           "date": "10.30 14:49",
-          "new": false
-        },
-        {
-          "title": "[Interview] Why a Korean spine surgeon wants earlier treatment for osteoporosis",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33679",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "10.30 14:42",
-          "new": false
-        },
-        {
-          "title": "JW Pharma's Empagard doubles HbA1c target attainment in phase 3 trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33678",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "10.30 13:48",
-          "new": false
-        },
-        {
-          "title": "Korea's top court overturns doctor's suspension over expired vaccine",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33677",
-          "category": "Policy",
-          "author": "Kim Eun-young",
-          "date": "10.30 13:37",
-          "new": false
-        },
-        {
-          "title": "Daewon’s padoprazan meets phase 3 endpoint, with approval filing planned this year",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33676",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "10.30 13:25",
           "new": false
         }
       ]

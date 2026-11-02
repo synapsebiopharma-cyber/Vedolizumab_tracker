@@ -1,8 +1,8 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-11-02T06:38:50Z",
-  "total_runs": 376,
-  "new_on_last_run": 1,
+  "last_fetched": "2026-11-02T17:25:54Z",
+  "total_runs": 377,
+  "new_on_last_run": 0,
   "articles": [
     {
       "id": "fresenius-and-wuxi-biologics-enter-exclusive-development-agreement-to-expand-biosimilars-pipeline|november-2,-2026",
@@ -11,7 +11,7 @@
       "date": "November 2, 2026",
       "source": "Fresenius Kabi",
       "meta": "",
-      "new": true
+      "new": false
     },
     {
       "id": "supervisory-board-appoints-dr.-marc-alexander-mahl-to-the-fresenius-management-board-and-extends-sara-hennicken’s-contract|october-15,-2026",

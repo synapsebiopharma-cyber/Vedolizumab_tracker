@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-11-02 06:36:47 IST",
+  "last_updated": "2026-11-02 17:23:52 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "LigaChem's IKS014 shows 50% ORR in post-Enhertu HER2-positive breast cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33701",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.02 17:16",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "OliX seeks FDA clearance for phase 2a trial of geographic atrophy treatment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33699",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.02 16:45",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Celltrion Pharm adds lower-priced safety syringe to Yuflyma lineup",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33698",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.02 16:25",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Dong-A ST launches SK biopharmaceuticals' epilepsy drug Xcopri in Korea with insurance coverage",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33691",
@@ -11,7 +38,7 @@
           "author": "Kim Yoon-mi",
           "date": "11.02 13:08",
           "new": false,
-          "tag": "Collaboration"
+          "tag": "FDA Approval"
         },
         {
           "title": "Hanmi’s eppe costs 26-44% less than imported obesity drugs on Doctornow",
@@ -20,7 +47,7 @@
           "author": "Kim Ji-hye",
           "date": "11.02 12:00",
           "new": false,
-          "tag": "Other"
+          "tag": "Financial"
         },
         {
           "title": "GC Biopharma signs $44 million flu vaccine deal with Colombia's VaxThera",
@@ -32,13 +59,13 @@
           "tag": "Collaboration"
         },
         {
-          "title": "HK inno.N partners with Roche to sell point-of-care diagnostic platform in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33685",
+          "title": "GC Biopharma's Q3 operating profit up 69% as Alyglo sales gain momentum",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33684",
           "category": "Pharma",
           "author": "Kim Yoon-mi",
-          "date": "11.02 10:33",
+          "date": "11.02 11:06",
           "new": false,
-          "tag": "Collaboration"
+          "tag": "Financial"
         },
         {
           "title": "Curocell seeks to expand Korean CAR-T therapy from third- to second-line treatment",
@@ -56,7 +83,7 @@
           "author": "You Ji-young",
           "date": "10.30 15:30",
           "new": false,
-          "tag": "Other"
+          "tag": "FDA Approval"
         },
         {
           "title": "Korea backs Samjin Pharma's lorazepam injection to prevent supply shortages",
@@ -66,24 +93,6 @@
           "date": "10.30 15:00",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "JW Pharma's Empagard doubles HbA1c target attainment in phase 3 trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33678",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "10.30 13:48",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Daewon’s padoprazan meets phase 3 endpoint, with approval filing planned this year",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33676",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "10.30 13:25",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }
