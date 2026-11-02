@@ -1,9 +1,105 @@
 {
-  "last_updated": "2026-11-01 14:29:53 IST",
+  "last_updated": "2026-11-02 06:36:47 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Medtronic to introduce Korean schoolchildren to surgical technology in Asia-Pacific first",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33695",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "11.02 15:24",
+          "new": false
+        },
+        {
+          "title": "Korea's medical radiation workforce grows nearly eightfold, but average exposure drops 85%",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33696",
+          "category": "Policy",
+          "author": "You Ji-young",
+          "date": "11.02 15:23",
+          "new": false
+        },
+        {
+          "title": "[Photo News] Ewha Mother and Baby Hospital surpasses 8,000 deliveries",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33694",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "11.02 14:35",
+          "new": false
+        },
+        {
+          "title": "[Column] Medical AI needs more than accuracy -- hospitals need accountability",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33693",
+          "category": "Opinion",
+          "author": "Cho Hyung-chul",
+          "date": "11.02 13:28",
+          "new": false
+        },
+        {
+          "title": "‘Recurrence-free survival matters in early breast cancer, and it differs from metastatic disease’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33692",
+          "category": "Hospital",
+          "author": "Kim Yun-mi",
+          "date": "11.02 13:25",
+          "new": false
+        },
+        {
+          "title": "Dong-A ST launches SK biopharmaceuticals' epilepsy drug Xcopri in Korea with insurance coverage",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33691",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.02 13:08",
+          "new": false
+        },
+        {
+          "title": "Hanmi’s eppe costs 26-44% less than imported obesity drugs on Doctornow",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33689",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "11.02 12:00",
+          "new": false
+        },
+        {
+          "title": "Ob-gyn society calls for mandatory registration of abortion pill prescribers in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33690",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "11.02 11:30",
+          "new": false
+        },
+        {
+          "title": "GC Biopharma signs $44 million flu vaccine deal with Colombia's VaxThera",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33687",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.02 11:21",
+          "new": false
+        },
+        {
+          "title": "Pediatric rehabilitation patients rise 31% in Korea as providers fall 18%",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33688",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "11.02 11:17",
+          "new": false
+        },
+        {
+          "title": "GC Biopharma's Q3 operating profit up 69% as Alyglo sales gain momentum",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33684",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.02 11:06",
+          "new": false
+        },
+        {
+          "title": "HK inno.N partners with Roche to sell point-of-care diagnostic platform in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33685",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.02 10:33",
+          "new": false
+        },
         {
           "title": "Curocell seeks to expand Korean CAR-T therapy from third- to second-line treatment",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33683",
@@ -66,102 +162,6 @@
           "category": "Pharma",
           "author": "Kwon Min-seon",
           "date": "10.30 13:25",
-          "new": false
-        },
-        {
-          "title": "Korea expands insurance coverage for 5 drugs for rare, hard-to-treat diseases",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33675",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "10.30 13:22",
-          "new": false
-        },
-        {
-          "title": "GC Biopharma gets MFDS approval for Hunterase ICV",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33674",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.30 13:17",
-          "new": false
-        },
-        {
-          "title": "EuBiologics' Q3 profit expected to grow 7% on cholera vaccine sales: analyst",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33671",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "10.30 13:12",
-          "new": false
-        },
-        {
-          "title": "Yuhan Q3 revenue up 6% on Leclaza and probiotics sales",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33673",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.30 11:34",
-          "new": false
-        },
-        {
-          "title": "NEX-I targets global licensing deals with cancer drug pipeline after IPO",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33672",
-          "category": "Bio",
-          "author": "Kwon Min-seon",
-          "date": "10.30 11:30",
-          "new": false
-        },
-        {
-          "title": "Ewha showcases digital medical education at global hospital congress",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33670",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "10.30 11:05",
-          "new": false
-        },
-        {
-          "title": "GC, Hanmi license Fabry disease drug to BioMarin in deal worth up to $475 million",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33668",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.30 10:26",
-          "new": false
-        },
-        {
-          "title": "Hanlim Pharm teams up with Japan's DCI Partners to explore biotech investments",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33667",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.30 09:49",
-          "new": false
-        },
-        {
-          "title": "Amorepacific's Q3 operating profit up 25% as derma brand Aestura expands globally",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33666",
-          "category": "K-Beauty",
-          "author": "Kim Yoon-mi",
-          "date": "10.29 17:20",
-          "new": false
-        },
-        {
-          "title": "Choi Byung-min named president of Korean Pediatric Society",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33665",
-          "category": "Hospital",
-          "author": "Lim Su-min",
-          "date": "10.29 16:37",
-          "new": false
-        },
-        {
-          "title": "Ewha researchers win presentation award for study on gut microbes and breast cancer treatment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33664",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "10.29 16:31",
-          "new": false
-        },
-        {
-          "title": "Korean surgeons help draft 1st global surgical guidelines for living liver donors",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33663",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "10.29 16:29",
           "new": false
         }
       ]

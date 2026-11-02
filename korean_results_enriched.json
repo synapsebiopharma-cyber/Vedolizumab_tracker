@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-11-01 14:29:53 IST",
+  "last_updated": "2026-11-02 06:36:47 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Dong-A ST launches SK biopharmaceuticals' epilepsy drug Xcopri in Korea with insurance coverage",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33691",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.02 13:08",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Hanmi’s eppe costs 26-44% less than imported obesity drugs on Doctornow",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33689",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "11.02 12:00",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "GC Biopharma signs $44 million flu vaccine deal with Colombia's VaxThera",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33687",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.02 11:21",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "HK inno.N partners with Roche to sell point-of-care diagnostic platform in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33685",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.02 10:33",
+          "new": false,
+          "tag": "Collaboration"
+        },
         {
           "title": "Curocell seeks to expand Korean CAR-T therapy from third- to second-line treatment",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33683",
@@ -48,51 +84,6 @@
           "date": "10.30 13:25",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "Korea expands insurance coverage for 5 drugs for rare, hard-to-treat diseases",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33675",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "10.30 13:22",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "GC Biopharma gets MFDS approval for Hunterase ICV",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33674",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "10.30 13:17",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "NEX-I targets global licensing deals with cancer drug pipeline after IPO",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33672",
-          "category": "Bio",
-          "author": "Kwon Min-seon",
-          "date": "10.30 11:30",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "GC, Hanmi license Fabry disease drug to BioMarin in deal worth up to $475 million",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33668",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.30 10:26",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Hanlim Pharm teams up with Japan's DCI Partners to explore biotech investments",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33667",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "10.30 09:49",
-          "new": false,
-          "tag": "Collaboration"
         }
       ]
     }

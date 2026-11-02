@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01 14:32:03 IST",
+  "last_updated": "2026-11-02 06:38:57 IST",
   "companies": [
     {
       "company": "Alvotech",
@@ -1893,6 +1893,15 @@
       "company": "Fresenius",
       "investor_news": [
         {
+          "id": "fresenius-and-wuxi-biologics-enter-exclusive-development-agreement-to-expand-biosimilars-pipeline|november-2,-2026",
+          "title": "Fresenius and WuXi Biologics enter exclusive development agreement to expand biosimilars pipeline",
+          "url": "https://www.fresenius.com/node/7451",
+          "date": "November 2, 2026",
+          "source": "Fresenius Kabi",
+          "meta": "",
+          "new": false
+        },
+        {
           "id": "supervisory-board-appoints-dr.-marc-alexander-mahl-to-the-fresenius-management-board-and-extends-sara-hennicken’s-contract|october-15,-2026",
           "title": "Supervisory Board appoints Dr. Marc-Alexander Mahl to the Fresenius Management Board and extends Sara Hennicken’s contract",
           "url": "https://www.fresenius.com/node/7440",
@@ -1960,15 +1969,6 @@
           "title": "Fresenius raises approximately €300 million through sale of 7.8 million Fresenius Medical Care shares",
           "url": "https://www.fresenius.com/node/7395",
           "date": "August 20, 2026",
-          "source": "Fresenius",
-          "meta": "",
-          "new": false
-        },
-        {
-          "id": "fitch-ratings-upgrades-outlook-for-fresenius-se-from-stable-to-positive|august-10,-2026",
-          "title": "Fitch Ratings upgrades outlook for Fresenius SE from stable to positive",
-          "url": "https://www.fresenius.com/node/7387",
-          "date": "August 10, 2026",
           "source": "Fresenius",
           "meta": "",
           "new": false
