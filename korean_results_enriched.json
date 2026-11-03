@@ -1,17 +1,26 @@
 {
-  "last_updated": "2026-11-03 07:05:54 IST",
+  "last_updated": "2026-11-03 15:30:27 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Boryung, Sky Labs plan to test wearable blood pressure monitor in space",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33714",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.03 15:05",
+          "title": "Samsung Bioepis taps Teva to sell Remicade, Enbrel biosimilars in US under up to $420M deal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33720",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.03 17:30",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Collaboration"
+        },
+        {
+          "title": "GC Biopharma latest among 5 biotech firms backed by Korea's National Growth Fund",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33715",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.03 16:04",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "LG Chem's obesity drug deal with Rhythm grows to $855 million",
@@ -23,15 +32,6 @@
           "tag": "Collaboration"
         },
         {
-          "title": "Korea approves CGBio's portable wound therapy device for home use",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33709",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "11.03 13:40",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
           "title": "PanGen seeks European partners for EPO biosimilar, CDMO business",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33707",
           "category": "Bio",
@@ -39,6 +39,15 @@
           "date": "11.03 11:40",
           "new": false,
           "tag": "Collaboration"
+        },
+        {
+          "title": "[Interview] Latin American experts highlight Nabota’s clinical consistency and research at NMC LATAM 2026",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33706",
+          "category": "K-Beauty",
+          "author": "Kim Ji-hye",
+          "date": "11.03 11:13",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "AriBio strengthens Alzheimer's drug patent shield ahead of pivotal trial readout",
@@ -66,15 +75,6 @@
           "date": "11.02 16:45",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "Celltrion Pharm adds lower-priced safety syringe to Yuflyma lineup",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33698",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.02 16:25",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }

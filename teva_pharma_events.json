@@ -1,9 +1,18 @@
 {
   "source": "https://ir.tevapharm.com/Events-and-Presentations/events-and-presentations/default.aspx",
-  "last_fetched": "2026-11-03T07:08:03Z",
-  "total_runs": 378,
+  "last_fetched": "2026-11-03T15:32:45Z",
+  "total_runs": 379,
   "new_on_last_run": 0,
   "events": [
+    {
+      "id": "teva-r&d-day|november-11,-2026",
+      "title": "Teva R&D Day",
+      "date": "November 11, 2026",
+      "url": "https://ir.tevapharm.com/Events-and-Presentations/events-and-presentations/event-details/2026/Teva-RD-Day-2026-0yPsibso7K/default.aspx",
+      "webcast": "https://vimeo.com/event/6249852",
+      "docs": [],
+      "new": false
+    },
     {
       "id": "q3-2026-teva-pharmaceutical-industries-ltd.-earnings-conference-call|november-03,-2026",
       "title": "Q3 2026 Teva Pharmaceutical Industries Ltd. Earnings Conference Call",
@@ -14,17 +23,12 @@
         {
           "title": "Registration(opens in new window)",
           "url": "https://www.netroadshow.com/events/login/1PeTHmohOPMZ2OGeGhHFHMDHPqDKvQehMidzs"
+        },
+        {
+          "title": "Presentation(opens in new window)",
+          "url": "https://s24.q4cdn.com/720828402/files/content_files/Q3-2026-Earnings-Presentation-Website.pdf"
         }
       ],
-      "new": false
-    },
-    {
-      "id": "teva-r&d-day|november-11,-2026",
-      "title": "Teva R&D Day",
-      "date": "November 11, 2026",
-      "url": "https://ir.tevapharm.com/Events-and-Presentations/events-and-presentations/event-details/2026/Teva-RD-Day-2026-0yPsibso7K/default.aspx",
-      "webcast": "https://vimeo.com/event/6249852",
-      "docs": [],
       "new": false
     },
     {

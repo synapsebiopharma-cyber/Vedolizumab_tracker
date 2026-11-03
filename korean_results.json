@@ -1,9 +1,41 @@
 {
-  "last_updated": "2026-11-03 07:05:54 IST",
+  "last_updated": "2026-11-03 15:30:27 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Samsung Bioepis taps Teva to sell Remicade, Enbrel biosimilars in US under up to $420M deal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33720",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.03 17:30",
+          "new": false
+        },
+        {
+          "title": "LG H&H narrows beauty losses as Q3 operating profit jumps 52%",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33719",
+          "category": "K-Beauty",
+          "author": "Kim Yoon-mi",
+          "date": "11.03 17:21",
+          "new": false
+        },
+        {
+          "title": "AI-powered urine test distinguishes bladder disorders with up to 92% accuracy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33718",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "11.03 16:57",
+          "new": false
+        },
+        {
+          "title": "Patient, civic groups raise competing concerns over emergency room search guidelines",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33717",
+          "category": "People",
+          "author": "Kim Jung-hyun",
+          "date": "11.03 16:10",
+          "new": false
+        },
         {
           "title": "GC Biopharma latest among 5 biotech firms backed by Korea's National Growth Fund",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33715",
@@ -130,38 +162,6 @@
           "category": "Bio",
           "author": "Kim Yoon-mi",
           "date": "11.02 16:45",
-          "new": false
-        },
-        {
-          "title": "Celltrion Pharm adds lower-priced safety syringe to Yuflyma lineup",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33698",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.02 16:25",
-          "new": false
-        },
-        {
-          "title": "[Interview] ‘First-line treatment is crucial in multiple myeloma: There may be no second chance’",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33697",
-          "category": "Hospital",
-          "author": "You Ji-young",
-          "date": "11.02 16:18",
-          "new": false
-        },
-        {
-          "title": "Medtronic to introduce Korean schoolchildren to surgical technology in Asia-Pacific first",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33695",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "11.02 15:24",
-          "new": false
-        },
-        {
-          "title": "Korea's medical radiation workforce grows nearly eightfold, but average exposure drops 85%",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33696",
-          "category": "Policy",
-          "author": "You Ji-young",
-          "date": "11.02 15:23",
           "new": false
         }
       ]
