@@ -1,9 +1,54 @@
 {
-  "last_updated": "2026-11-02 17:23:52 IST",
+  "last_updated": "2026-11-03 07:05:54 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Boryung, Sky Labs plan to test wearable blood pressure monitor in space",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33714",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.03 15:05",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "LG Chem's obesity drug deal with Rhythm grows to $855 million",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33711",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.03 14:57",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Korea approves CGBio's portable wound therapy device for home use",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33709",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "11.03 13:40",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "PanGen seeks European partners for EPO biosimilar, CDMO business",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33707",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.03 11:40",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "AriBio strengthens Alzheimer's drug patent shield ahead of pivotal trial readout",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33705",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.03 11:11",
+          "new": false,
+          "tag": "Pipeline"
+        },
         {
           "title": "LigaChem's IKS014 shows 50% ORR in post-Enhertu HER2-positive breast cancer",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33701",
@@ -28,69 +73,6 @@
           "category": "Pharma",
           "author": "Kim Yoon-mi",
           "date": "11.02 16:25",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Dong-A ST launches SK biopharmaceuticals' epilepsy drug Xcopri in Korea with insurance coverage",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33691",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.02 13:08",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Hanmi’s eppe costs 26-44% less than imported obesity drugs on Doctornow",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33689",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "11.02 12:00",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "GC Biopharma signs $44 million flu vaccine deal with Colombia's VaxThera",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33687",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.02 11:21",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "GC Biopharma's Q3 operating profit up 69% as Alyglo sales gain momentum",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33684",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.02 11:06",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Curocell seeks to expand Korean CAR-T therapy from third- to second-line treatment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33683",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "10.30 16:42",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Korea to cover Servier's Tibsovo for IDH1-mutated cholangiocarcinoma from November",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33682",
-          "category": "Policy",
-          "author": "You Ji-young",
-          "date": "10.30 15:30",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Korea backs Samjin Pharma's lorazepam injection to prevent supply shortages",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33681",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "10.30 15:00",
           "new": false,
           "tag": "Other"
         }
