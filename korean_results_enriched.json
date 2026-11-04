@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-11-04 06:49:18 IST",
+  "last_updated": "2026-11-04 15:44:18 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "D&D Pharmatech aims to out-license MASH candidate by year-end",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33735",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.04 17:31",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Daewoong's Q3 operating profit grows 25% as Nabota exports hit record",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33729",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "11.04 16:55",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Korea approves Novartis' Vanrafia, first selective ETA blocker for IgA nephropathy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33734",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "11.04 16:49",
+          "new": false,
+          "tag": "FDA Approval"
+        },
         {
           "title": "Hugel's 9-month sales up 15% amid gains in China, Brazil and Europe",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33731",
@@ -29,7 +56,16 @@
           "author": "Hong Sook",
           "date": "11.04 14:12",
           "new": false,
-          "tag": "Collaboration"
+          "tag": "Financial"
+        },
+        {
+          "title": "Botulinum toxin users report effects fading 2.3 months sooner than desired: Galderma survey",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33727",
+          "category": "K-Beauty",
+          "author": "Kim Yoon-mi",
+          "date": "11.04 14:04",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "GC Cell bets on specialty testing, bio-logistics as Korea revamps lab payments",
@@ -75,33 +111,6 @@
           "date": "11.03 16:04",
           "new": false,
           "tag": "Financial"
-        },
-        {
-          "title": "Samsung Biologics shares up 1.7% after $325 mil. CMO deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33713",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.03 15:09",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Boryung, Sky Labs plan to test wearable blood pressure monitor in space",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33714",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.03 15:05",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "LG Chem's obesity drug deal with Rhythm grows to $855 million",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33711",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.03 14:57",
-          "new": false,
-          "tag": "Collaboration"
         }
       ]
     }

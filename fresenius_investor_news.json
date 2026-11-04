@@ -1,8 +1,8 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-11-04T06:51:18Z",
-  "total_runs": 380,
-  "new_on_last_run": 1,
+  "last_fetched": "2026-11-04T15:46:15Z",
+  "total_runs": 381,
+  "new_on_last_run": 0,
   "articles": [
     {
       "id": "fresenius-delivers-an-excellent-quarter-and-is-scaling-its-growth-vectors---core-eps-guidance-improved|november-4,-2026",
@@ -11,7 +11,7 @@
       "date": "November 4, 2026",
       "source": "Fresenius",
       "meta": "",
-      "new": true
+      "new": false
     },
     {
       "id": "fresenius-and-wuxi-biologics-enter-exclusive-development-agreement-to-expand-biosimilars-pipeline|november-2,-2026",
