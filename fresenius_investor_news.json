@@ -1,9 +1,18 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-11-03T15:32:34Z",
-  "total_runs": 379,
-  "new_on_last_run": 0,
+  "last_fetched": "2026-11-04T06:51:18Z",
+  "total_runs": 380,
+  "new_on_last_run": 1,
   "articles": [
+    {
+      "id": "fresenius-delivers-an-excellent-quarter-and-is-scaling-its-growth-vectors---core-eps-guidance-improved|november-4,-2026",
+      "title": "Fresenius delivers an excellent quarter and is scaling its Growth Vectors - Core EPS guidance improved",
+      "url": "https://www.fresenius.com/Fresenius-delivers-an-excellent-quarter-and-is-scaling-its-Growth-Vectors-Core-EPS-guidance-improved",
+      "date": "November 4, 2026",
+      "source": "Fresenius",
+      "meta": "",
+      "new": true
+    },
     {
       "id": "fresenius-and-wuxi-biologics-enter-exclusive-development-agreement-to-expand-biosimilars-pipeline|november-2,-2026",
       "title": "Fresenius and WuXi Biologics enter exclusive development agreement to expand biosimilars pipeline",
@@ -73,15 +82,6 @@
       "url": "https://www.fresenius.com/node/7411",
       "date": "September 7, 2026",
       "source": "Fresenius Kabi",
-      "meta": "",
-      "new": false
-    },
-    {
-      "id": "fresenius-raises-approximately-€300-million-through-sale-of-7.8-million-fresenius-medical-care-shares|august-20,-2026",
-      "title": "Fresenius raises approximately €300 million through sale of 7.8 million Fresenius Medical Care shares",
-      "url": "https://www.fresenius.com/node/7395",
-      "date": "August 20, 2026",
-      "source": "Fresenius",
       "meta": "",
       "new": false
     }

@@ -1,9 +1,63 @@
 {
-  "last_updated": "2026-11-03 15:30:27 IST",
+  "last_updated": "2026-11-04 06:49:18 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Hugel's 9-month sales up 15% amid gains in China, Brazil and Europe",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33731",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.04 15:04",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "[Interview] Vabysmo sustains polyp control in PCV through two years: specialist",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33730",
+          "category": "Hospital",
+          "author": "Hong Sook",
+          "date": "11.04 14:39",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "SK biopharmaceuticals backs 1st Biotherapeutics in $7.5 million funding round",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33728",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "11.04 14:12",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "GC Cell bets on specialty testing, bio-logistics as Korea revamps lab payments",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33725",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.04 13:35",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Celltrion's 4-hormone obesity drug beats Lilly's retatrutide on weight loss in rat study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33721",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.04 10:05",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "HLB's liver cancer drug back under FDA review, with decision due in April",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33722",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.04 10:02",
+          "new": false,
+          "tag": "FDA Approval"
+        },
         {
           "title": "Samsung Bioepis taps Teva to sell Remicade, Enbrel biosimilars in US under up to $420M deal",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33720",
@@ -20,6 +74,24 @@
           "author": "Kim Yoon-mi",
           "date": "11.03 16:04",
           "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Samsung Biologics shares up 1.7% after $325 mil. CMO deal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33713",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.03 15:09",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Boryung, Sky Labs plan to test wearable blood pressure monitor in space",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33714",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.03 15:05",
+          "new": false,
           "tag": "Other"
         },
         {
@@ -30,51 +102,6 @@
           "date": "11.03 14:57",
           "new": false,
           "tag": "Collaboration"
-        },
-        {
-          "title": "PanGen seeks European partners for EPO biosimilar, CDMO business",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33707",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.03 11:40",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "[Interview] Latin American experts highlight Nabota’s clinical consistency and research at NMC LATAM 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33706",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "11.03 11:13",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "AriBio strengthens Alzheimer's drug patent shield ahead of pivotal trial readout",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33705",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.03 11:11",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "LigaChem's IKS014 shows 50% ORR in post-Enhertu HER2-positive breast cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33701",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.02 17:16",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "OliX seeks FDA clearance for phase 2a trial of geographic atrophy treatment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33699",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.02 16:45",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }

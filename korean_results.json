@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-11-03 15:30:27 IST",
+  "last_updated": "2026-11-04 06:49:18 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea picks 2 national universities for new medical schools, adding 100 annual seats from 2030",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33732",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "11.04 15:33",
+          "new": false
+        },
+        {
+          "title": "Hugel's 9-month sales up 15% amid gains in China, Brazil and Europe",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33731",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.04 15:04",
+          "new": false
+        },
+        {
+          "title": "[Interview] Vabysmo sustains polyp control in PCV through two years: specialist",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33730",
+          "category": "Hospital",
+          "author": "Hong Sook",
+          "date": "11.04 14:39",
+          "new": false
+        },
+        {
+          "title": "SK biopharmaceuticals backs 1st Biotherapeutics in $7.5 million funding round",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33728",
+          "category": "Bio",
+          "author": "Hong Sook",
+          "date": "11.04 14:12",
+          "new": false
+        },
+        {
+          "title": "Botulinum toxin users report effects fading 2.3 months sooner than desired: Galderma survey",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33727",
+          "category": "K-Beauty",
+          "author": "Kim Yoon-mi",
+          "date": "11.04 14:04",
+          "new": false
+        },
+        {
+          "title": "GC Cell bets on specialty testing, bio-logistics as Korea revamps lab payments",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33725",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.04 13:35",
+          "new": false
+        },
+        {
+          "title": "Korea to cut medical cost-sharing for rare, intractable diseases to 7% in December",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33724",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "11.04 13:30",
+          "new": false
+        },
+        {
+          "title": "Celltrion's 4-hormone obesity drug beats Lilly's retatrutide on weight loss in rat study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33721",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.04 10:05",
+          "new": false
+        },
+        {
+          "title": "HLB's liver cancer drug back under FDA review, with decision due in April",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33722",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.04 10:02",
+          "new": false
+        },
         {
           "title": "Samsung Bioepis taps Teva to sell Remicade, Enbrel biosimilars in US under up to $420M deal",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33720",
@@ -90,78 +162,6 @@
           "category": "Hospital",
           "author": "Kim Yoon-mi",
           "date": "11.03 14:08",
-          "new": false
-        },
-        {
-          "title": "Korea approves CGBio's portable wound therapy device for home use",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33709",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "11.03 13:40",
-          "new": false
-        },
-        {
-          "title": "Korea's healthcare workforce spending rises, but impact remains unclear: Assembly budget office",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33708",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "11.03 13:29",
-          "new": false
-        },
-        {
-          "title": "PanGen seeks European partners for EPO biosimilar, CDMO business",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33707",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.03 11:40",
-          "new": false
-        },
-        {
-          "title": "[Interview] Latin American experts highlight Nabota’s clinical consistency and research at NMC LATAM 2026",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33706",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "11.03 11:13",
-          "new": false
-        },
-        {
-          "title": "AriBio strengthens Alzheimer's drug patent shield ahead of pivotal trial readout",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33705",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.03 11:11",
-          "new": false
-        },
-        {
-          "title": "[Global Pharma Leadership Voices] Innovation moves faster when we connect",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33704",
-          "category": "Opinion",
-          "author": "Claire Kim",
-          "date": "11.03 10:49",
-          "new": false
-        },
-        {
-          "title": "‘A Virus Has No Gender’: Korean HPV campaign takes 3rd place at global PR awards",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33702",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.03 09:12",
-          "new": false
-        },
-        {
-          "title": "LigaChem's IKS014 shows 50% ORR in post-Enhertu HER2-positive breast cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33701",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.02 17:16",
-          "new": false
-        },
-        {
-          "title": "OliX seeks FDA clearance for phase 2a trial of geographic atrophy treatment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33699",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.02 16:45",
           "new": false
         }
       ]
