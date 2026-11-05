@@ -1,9 +1,113 @@
 {
-  "last_updated": "2026-11-04 15:44:18 IST",
+  "last_updated": "2026-11-05 07:08:19 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Petition against Korea's telemedicine restrictions tops 50,000 signatures",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33752",
+          "category": "Policy",
+          "author": "Kim Jung-hyun",
+          "date": "11.05 15:59",
+          "new": false
+        },
+        {
+          "title": "Hospice patients rise for 3rd year as more Koreans document end-of-life wishes",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33751",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "11.05 15:34",
+          "new": false
+        },
+        {
+          "title": "Obesity measures differ in their links to disease risk, study finds",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33750",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "11.05 14:58",
+          "new": false
+        },
+        {
+          "title": "Yuyu Healthcare boosts annual production capacity to ₩70 bil. with new plant",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33747",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.05 14:08",
+          "new": false
+        },
+        {
+          "title": "Simple survey may predict older adults’ long-term mortality risk, study finds",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33749",
+          "category": "Hospital",
+          "author": "Lee Chang-ho",
+          "date": "11.05 13:52",
+          "new": false
+        },
+        {
+          "title": "Trainee doctors demand stronger hospital security after knife attack at Severance",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33748",
+          "category": "Hospital",
+          "author": "Song Soo-youn",
+          "date": "11.05 13:49",
+          "new": false
+        },
+        {
+          "title": "[Contribution] Why heartburn is common after stomach cancer surgery -- even without a stomach",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33746",
+          "category": "Opinion",
+          "author": "Song Kyo-young",
+          "date": "11.05 13:34",
+          "new": false
+        },
+        {
+          "title": "Lunit AI identifies ovarian cancer tissue features, bladder cancer immune patterns at SITC",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33745",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "11.05 13:27",
+          "new": false
+        },
+        {
+          "title": "Kolmar Korea’s TOT anti-aging material wins state certification",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33744",
+          "category": "K-Beauty",
+          "author": "Kim Ji-hye",
+          "date": "11.05 13:23",
+          "new": false
+        },
+        {
+          "title": "[Desk Column] Korea's new mini medical schools revive lessons from the 1990s",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33742",
+          "category": "Opinion",
+          "author": "Song Soo-youn",
+          "date": "11.05 11:29",
+          "new": false
+        },
+        {
+          "title": "Celltrion brings 3 new biosimilars to Brazil, taking portfolio to 10",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33741",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.05 11:16",
+          "new": false
+        },
+        {
+          "title": "Curocell's Rimqarto shows 53.5% 3-year survival in lymphoma patients, ASH 2026 data show",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33740",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.05 10:37",
+          "new": false
+        },
+        {
+          "title": "GI Innovation doses 1st patient in prostate cancer trial with J&J's pasritamig",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33739",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.05 10:04",
+          "new": false
+        },
         {
           "title": "BTGEN wins gold medal in 1st EcoVadis sustainability assessment",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33737",
@@ -58,110 +162,6 @@
           "category": "Policy",
           "author": "Kwak Sung-sun",
           "date": "11.04 15:33",
-          "new": false
-        },
-        {
-          "title": "Hugel's 9-month sales up 15% amid gains in China, Brazil and Europe",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33731",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.04 15:04",
-          "new": false
-        },
-        {
-          "title": "[Interview] Vabysmo sustains polyp control in PCV through two years: specialist",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33730",
-          "category": "Hospital",
-          "author": "Hong Sook",
-          "date": "11.04 14:39",
-          "new": false
-        },
-        {
-          "title": "SK biopharmaceuticals backs 1st Biotherapeutics in $7.5 million funding round",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33728",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "11.04 14:12",
-          "new": false
-        },
-        {
-          "title": "Botulinum toxin users report effects fading 2.3 months sooner than desired: Galderma survey",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33727",
-          "category": "K-Beauty",
-          "author": "Kim Yoon-mi",
-          "date": "11.04 14:04",
-          "new": false
-        },
-        {
-          "title": "GC Cell bets on specialty testing, bio-logistics as Korea revamps lab payments",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33725",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.04 13:35",
-          "new": false
-        },
-        {
-          "title": "Korea to cut medical cost-sharing for rare, intractable diseases to 7% in December",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33724",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "11.04 13:30",
-          "new": false
-        },
-        {
-          "title": "Celltrion's 4-hormone obesity drug beats Lilly's retatrutide on weight loss in rat study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33721",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.04 10:05",
-          "new": false
-        },
-        {
-          "title": "HLB's liver cancer drug back under FDA review, with decision due in April",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33722",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.04 10:02",
-          "new": false
-        },
-        {
-          "title": "Samsung Bioepis taps Teva to sell Remicade, Enbrel biosimilars in US under up to $420M deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33720",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.03 17:30",
-          "new": false
-        },
-        {
-          "title": "LG H&H narrows beauty losses as Q3 operating profit jumps 52%",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33719",
-          "category": "K-Beauty",
-          "author": "Kim Yoon-mi",
-          "date": "11.03 17:21",
-          "new": false
-        },
-        {
-          "title": "AI-powered urine test distinguishes bladder disorders with up to 92% accuracy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33718",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "11.03 16:57",
-          "new": false
-        },
-        {
-          "title": "Patient, civic groups raise competing concerns over emergency room search guidelines",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33717",
-          "category": "People",
-          "author": "Kim Jung-hyun",
-          "date": "11.03 16:10",
-          "new": false
-        },
-        {
-          "title": "GC Biopharma latest among 5 biotech firms backed by Korea's National Growth Fund",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33715",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.03 16:04",
           "new": false
         }
       ]

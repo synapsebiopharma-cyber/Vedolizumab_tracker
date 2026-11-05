@@ -1,9 +1,54 @@
 {
-  "last_updated": "2026-11-04 15:44:18 IST",
+  "last_updated": "2026-11-05 07:08:19 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Yuyu Healthcare boosts annual production capacity to ₩70 bil. with new plant",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33747",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.05 14:08",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Lunit AI identifies ovarian cancer tissue features, bladder cancer immune patterns at SITC",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33745",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "11.05 13:27",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Celltrion brings 3 new biosimilars to Brazil, taking portfolio to 10",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33741",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.05 11:16",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Curocell's Rimqarto shows 53.5% 3-year survival in lymphoma patients, ASH 2026 data show",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33740",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.05 10:37",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "GI Innovation doses 1st patient in prostate cancer trial with J&J's pasritamig",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33739",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.05 10:04",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "D&D Pharmatech aims to out-license MASH candidate by year-end",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33735",
@@ -14,15 +59,6 @@
           "tag": "Pipeline"
         },
         {
-          "title": "Daewoong's Q3 operating profit grows 25% as Nabota exports hit record",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33729",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "11.04 16:55",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
           "title": "Korea approves Novartis' Vanrafia, first selective ETA blocker for IgA nephropathy",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33734",
           "category": "Pharma",
@@ -30,87 +66,6 @@
           "date": "11.04 16:49",
           "new": false,
           "tag": "FDA Approval"
-        },
-        {
-          "title": "Hugel's 9-month sales up 15% amid gains in China, Brazil and Europe",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33731",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.04 15:04",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "[Interview] Vabysmo sustains polyp control in PCV through two years: specialist",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33730",
-          "category": "Hospital",
-          "author": "Hong Sook",
-          "date": "11.04 14:39",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "SK biopharmaceuticals backs 1st Biotherapeutics in $7.5 million funding round",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33728",
-          "category": "Bio",
-          "author": "Hong Sook",
-          "date": "11.04 14:12",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Botulinum toxin users report effects fading 2.3 months sooner than desired: Galderma survey",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33727",
-          "category": "K-Beauty",
-          "author": "Kim Yoon-mi",
-          "date": "11.04 14:04",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "GC Cell bets on specialty testing, bio-logistics as Korea revamps lab payments",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33725",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.04 13:35",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Celltrion's 4-hormone obesity drug beats Lilly's retatrutide on weight loss in rat study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33721",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.04 10:05",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "HLB's liver cancer drug back under FDA review, with decision due in April",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33722",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.04 10:02",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Samsung Bioepis taps Teva to sell Remicade, Enbrel biosimilars in US under up to $420M deal",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33720",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.03 17:30",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "GC Biopharma latest among 5 biotech firms backed by Korea's National Growth Fund",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33715",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.03 16:04",
-          "new": false,
-          "tag": "Financial"
         }
       ]
     }
