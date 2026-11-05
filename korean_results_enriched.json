@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-11-05 07:08:19 IST",
+  "last_updated": "2026-11-05 15:45:55 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Kisqali OS gain came sooner than expected in early breast cancer: oncologist",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33754",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "11.05 17:46",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "SK bioscience's Q3 revenue up 21% as operating loss narrows to 11-quarter low",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33753",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.05 16:23",
+          "new": false,
+          "tag": "Financial"
+        },
         {
           "title": "Yuyu Healthcare boosts annual production capacity to ₩70 bil. with new plant",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33747",
@@ -50,6 +68,15 @@
           "tag": "Clinical Trial"
         },
         {
+          "title": "Lunit to issue ₩47.7 bil. in convertible bonds to refinance Volpara acquisition debt",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33736",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "11.04 17:32",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
           "title": "D&D Pharmatech aims to out-license MASH candidate by year-end",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33735",
           "category": "Bio",
@@ -57,6 +84,15 @@
           "date": "11.04 17:31",
           "new": false,
           "tag": "Pipeline"
+        },
+        {
+          "title": "Daewoong's Q3 operating profit grows 25% as Nabota exports hit record",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33729",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "11.04 16:55",
+          "new": false,
+          "tag": "Financial"
         },
         {
           "title": "Korea approves Novartis' Vanrafia, first selective ETA blocker for IgA nephropathy",

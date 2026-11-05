@@ -1,9 +1,25 @@
 {
-  "last_updated": "2026-11-05 07:08:19 IST",
+  "last_updated": "2026-11-05 15:45:55 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Kisqali OS gain came sooner than expected in early breast cancer: oncologist",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33754",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "11.05 17:46",
+          "new": false
+        },
+        {
+          "title": "SK bioscience's Q3 revenue up 21% as operating loss narrows to 11-quarter low",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33753",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.05 16:23",
+          "new": false
+        },
         {
           "title": "Petition against Korea's telemedicine restrictions tops 50,000 signatures",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33752",
@@ -146,22 +162,6 @@
           "category": "Pharma",
           "author": "Kim Ji-hye",
           "date": "11.04 16:49",
-          "new": false
-        },
-        {
-          "title": "20 Korean hospitals make Newsweek's medical tourism list; Samsung leads in top ratings",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33733",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "11.04 15:59",
-          "new": false
-        },
-        {
-          "title": "Korea picks 2 national universities for new medical schools, adding 100 annual seats from 2030",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33732",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "11.04 15:33",
           "new": false
         }
       ]
