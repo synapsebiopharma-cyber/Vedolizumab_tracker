@@ -1,9 +1,41 @@
 {
-  "last_updated": "2026-11-06 07:08:19 IST",
+  "last_updated": "2026-11-06 15:21:08 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[Interview] Merck Life Science CEO calls Daejeon its most advanced smart manufacturing site",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33771",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.06 19:13",
+          "new": false
+        },
+        {
+          "title": "[Interview] Korea must fund maternity clinics beyond delivery fees, obstetrics chief says",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33769",
+          "category": "Hospital",
+          "author": "Lim Su-min",
+          "date": "11.06 16:49",
+          "new": false
+        },
+        {
+          "title": "Yuhan's Atovamibe sales jump 31% as cholesterol drug business grows",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33768",
+          "category": "Pharma",
+          "author": "Park Gi-taek",
+          "date": "11.06 16:33",
+          "new": false
+        },
+        {
+          "title": "MetaVia's obesity drug DA-1726 shows liver fat, weight reductions in early trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33767",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.06 16:24",
+          "new": false
+        },
         {
           "title": "GE HealthCare eyes February launch of Rapiscan in Korea to simplify cardiac testing",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33765",
@@ -130,38 +162,6 @@
           "category": "Pharma",
           "author": "Kim Yoon-mi",
           "date": "11.05 14:08",
-          "new": false
-        },
-        {
-          "title": "Simple survey may predict older adults’ long-term mortality risk, study finds",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33749",
-          "category": "Hospital",
-          "author": "Lee Chang-ho",
-          "date": "11.05 13:52",
-          "new": false
-        },
-        {
-          "title": "Trainee doctors demand stronger hospital security after knife attack at Severance",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33748",
-          "category": "Hospital",
-          "author": "Song Soo-youn",
-          "date": "11.05 13:49",
-          "new": false
-        },
-        {
-          "title": "[Contribution] Why heartburn is common after stomach cancer surgery -- even without a stomach",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33746",
-          "category": "Opinion",
-          "author": "Song Kyo-young",
-          "date": "11.05 13:34",
-          "new": false
-        },
-        {
-          "title": "Lunit AI identifies ovarian cancer tissue features, bladder cancer immune patterns at SITC",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33745",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "11.05 13:27",
           "new": false
         }
       ]

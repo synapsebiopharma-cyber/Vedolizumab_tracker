@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-11-06 07:08:19 IST",
+  "last_updated": "2026-11-06 15:21:08 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Yuhan's Atovamibe sales jump 31% as cholesterol drug business grows",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33768",
+          "category": "Pharma",
+          "author": "Park Gi-taek",
+          "date": "11.06 16:33",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "MetaVia's obesity drug DA-1726 shows liver fat, weight reductions in early trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33767",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.06 16:24",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "GE HealthCare eyes February launch of Rapiscan in Korea to simplify cardiac testing",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33765",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "11.06 16:02",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "SK biopharmaceuticals builds 7.14 million-record dataset to train drug R&D AI",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33762",
@@ -20,7 +47,16 @@
           "author": "Kim Yoon-mi",
           "date": "11.06 13:51",
           "new": false,
-          "tag": "FDA Approval"
+          "tag": "Other"
+        },
+        {
+          "title": "Korea clears emergency imports of 2 dialysis devices for newborns, children",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33756",
+          "category": "Policy",
+          "author": "Kim Yoon-mi",
+          "date": "11.06 11:07",
+          "new": false,
+          "tag": "Other"
         },
         {
           "title": "Kisqali OS gain came sooner than expected in early breast cancer: oncologist",
