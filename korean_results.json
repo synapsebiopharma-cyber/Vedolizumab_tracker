@@ -1,9 +1,89 @@
 {
-  "last_updated": "2026-11-05 15:45:55 IST",
+  "last_updated": "2026-11-06 07:08:19 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "GE HealthCare eyes February launch of Rapiscan in Korea to simplify cardiac testing",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33765",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "11.06 16:02",
+          "new": false
+        },
+        {
+          "title": "[Column] Preventing caregiving-related killings begins with reforming end-of-life care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33766",
+          "category": "Opinion",
+          "author": "Yang Chae-yeol",
+          "date": "11.06 15:46",
+          "new": false
+        },
+        {
+          "title": "Too much screen time? Doctor warns of chronic neck, shoulder and wrist pain",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33763",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "11.06 15:10",
+          "new": false
+        },
+        {
+          "title": "Konkuk professor named among world’s top 2% scientists for 7th consecutive year",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33764",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "11.06 14:49",
+          "new": false
+        },
+        {
+          "title": "Samsung Medical Center to explore AI in cancer care with US, European experts",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33759",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "11.06 14:19",
+          "new": false
+        },
+        {
+          "title": "SK biopharmaceuticals builds 7.14 million-record dataset to train drug R&D AI",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33762",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.06 14:05",
+          "new": false
+        },
+        {
+          "title": "Hypertension affects 13.6 million Koreans; high-risk groups need tighter control",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33761",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "11.06 13:55",
+          "new": false
+        },
+        {
+          "title": "Pfizer's Litfulo clears reimbursement review for severe alopecia areata in adults, adolescents in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33760",
+          "category": "Policy",
+          "author": "Kim Yoon-mi",
+          "date": "11.06 13:51",
+          "new": false
+        },
+        {
+          "title": "Korea clears emergency imports of 2 dialysis devices for newborns, children",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33756",
+          "category": "Policy",
+          "author": "Kim Yoon-mi",
+          "date": "11.06 11:07",
+          "new": false
+        },
+        {
+          "title": "AITRICS named Hong Kong strategic enterprise partner, eyes expansion in Asia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33755",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "11.06 10:40",
+          "new": false
+        },
         {
           "title": "Kisqali OS gain came sooner than expected in early breast cancer: oncologist",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33754",
@@ -82,86 +162,6 @@
           "category": "Device/ICT",
           "author": "Kim Yoon-mi",
           "date": "11.05 13:27",
-          "new": false
-        },
-        {
-          "title": "Kolmar Korea’s TOT anti-aging material wins state certification",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33744",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "11.05 13:23",
-          "new": false
-        },
-        {
-          "title": "[Desk Column] Korea's new mini medical schools revive lessons from the 1990s",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33742",
-          "category": "Opinion",
-          "author": "Song Soo-youn",
-          "date": "11.05 11:29",
-          "new": false
-        },
-        {
-          "title": "Celltrion brings 3 new biosimilars to Brazil, taking portfolio to 10",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33741",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.05 11:16",
-          "new": false
-        },
-        {
-          "title": "Curocell's Rimqarto shows 53.5% 3-year survival in lymphoma patients, ASH 2026 data show",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33740",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.05 10:37",
-          "new": false
-        },
-        {
-          "title": "GI Innovation doses 1st patient in prostate cancer trial with J&J's pasritamig",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33739",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.05 10:04",
-          "new": false
-        },
-        {
-          "title": "BTGEN wins gold medal in 1st EcoVadis sustainability assessment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33737",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.04 17:39",
-          "new": false
-        },
-        {
-          "title": "Lunit to issue ₩47.7 bil. in convertible bonds to refinance Volpara acquisition debt",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33736",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "11.04 17:32",
-          "new": false
-        },
-        {
-          "title": "D&D Pharmatech aims to out-license MASH candidate by year-end",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33735",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.04 17:31",
-          "new": false
-        },
-        {
-          "title": "Daewoong's Q3 operating profit grows 25% as Nabota exports hit record",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33729",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "11.04 16:55",
-          "new": false
-        },
-        {
-          "title": "Korea approves Novartis' Vanrafia, first selective ETA blocker for IgA nephropathy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33734",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "11.04 16:49",
           "new": false
         }
       ]

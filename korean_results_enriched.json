@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-11-05 15:45:55 IST",
+  "last_updated": "2026-11-06 07:08:19 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "SK biopharmaceuticals builds 7.14 million-record dataset to train drug R&D AI",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33762",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.06 14:05",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Pfizer's Litfulo clears reimbursement review for severe alopecia areata in adults, adolescents in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33760",
+          "category": "Policy",
+          "author": "Kim Yoon-mi",
+          "date": "11.06 13:51",
+          "new": false,
+          "tag": "FDA Approval"
+        },
         {
           "title": "Kisqali OS gain came sooner than expected in early breast cancer: oncologist",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33754",
@@ -30,78 +48,6 @@
           "date": "11.05 14:08",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Lunit AI identifies ovarian cancer tissue features, bladder cancer immune patterns at SITC",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33745",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "11.05 13:27",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Celltrion brings 3 new biosimilars to Brazil, taking portfolio to 10",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33741",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.05 11:16",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Curocell's Rimqarto shows 53.5% 3-year survival in lymphoma patients, ASH 2026 data show",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33740",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.05 10:37",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "GI Innovation doses 1st patient in prostate cancer trial with J&J's pasritamig",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33739",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.05 10:04",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Lunit to issue ₩47.7 bil. in convertible bonds to refinance Volpara acquisition debt",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33736",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "11.04 17:32",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "D&D Pharmatech aims to out-license MASH candidate by year-end",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33735",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.04 17:31",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Daewoong's Q3 operating profit grows 25% as Nabota exports hit record",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33729",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "11.04 16:55",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "Korea approves Novartis' Vanrafia, first selective ETA blocker for IgA nephropathy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33734",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "11.04 16:49",
-          "new": false,
-          "tag": "FDA Approval"
         }
       ]
     }
