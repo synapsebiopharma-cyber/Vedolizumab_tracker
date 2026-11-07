@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-11-06 15:21:08 IST",
+  "last_updated": "2026-11-07 06:20:25 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[Interview] Merck Life Science CEO calls Daejeon its most advanced smart manufacturing site",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33771",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.06 19:13",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Yuhan's Atovamibe sales jump 31% as cholesterol drug business grows",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33768",
@@ -47,7 +56,7 @@
           "author": "Kim Yoon-mi",
           "date": "11.06 13:51",
           "new": false,
-          "tag": "Other"
+          "tag": "FDA Approval"
         },
         {
           "title": "Korea clears emergency imports of 2 dialysis devices for newborns, children",
@@ -56,7 +65,16 @@
           "author": "Kim Yoon-mi",
           "date": "11.06 11:07",
           "new": false,
-          "tag": "Other"
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "AITRICS named Hong Kong strategic enterprise partner, eyes expansion in Asia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33755",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "11.06 10:40",
+          "new": false,
+          "tag": "Collaboration"
         },
         {
           "title": "Kisqali OS gain came sooner than expected in early breast cancer: oncologist",
