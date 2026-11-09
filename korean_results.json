@@ -1,9 +1,105 @@
 {
-  "last_updated": "2026-11-08 14:30:23 IST",
+  "last_updated": "2026-11-09 07:02:35 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Celltrion's Steqeyma wins EU panel backing for broader pediatric use",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33784",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.09 15:39",
+          "new": false
+        },
+        {
+          "title": "[Interview] Korea's severe asthma patients face restrictive access to biologics despite risks",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33785",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "11.09 15:31",
+          "new": false
+        },
+        {
+          "title": "Samsung-funded precision medicine platform covers over 60% of Korea's pediatric solid tumor patients",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33774",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "11.09 15:00",
+          "new": false
+        },
+        {
+          "title": "Peptron wins Mexican approval for once-monthly prostate cancer drug LUPUNIA",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33781",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.09 14:33",
+          "new": false
+        },
+        {
+          "title": "Pediatric emergency specialist turns to AI as staffing fears deepen",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33783",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "11.09 14:07",
+          "new": false
+        },
+        {
+          "title": "Hearing loss gene therapy raises hopes, yet experts urge long-term safety checks",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33782",
+          "category": "Hospital",
+          "author": "You Ji-young",
+          "date": "11.09 14:04",
+          "new": false
+        },
+        {
+          "title": "Viatris Korea expands cardiovascular portfolio through Vascepa deal with Alvogen",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33780",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.09 13:58",
+          "new": false
+        },
+        {
+          "title": "Sky Labs signs deal with UAE's SEHA Clinics to test CART BP ring",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33779",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "11.09 13:07",
+          "new": false
+        },
+        {
+          "title": "Vaxcellbio reports complete responses in liver cancer animal model with CAR-T candidate",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33778",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.09 11:28",
+          "new": false
+        },
+        {
+          "title": "AI improves trainee doctors’ ear disease diagnostic accuracy by 32.2 percentage points: AMC",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33776",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "11.09 11:15",
+          "new": false
+        },
+        {
+          "title": "Samsung Bioepis’ SB27 shows phase 3 equivalence to pembrolizumab in metastatic NSCLC",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33773",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.09 10:31",
+          "new": false
+        },
+        {
+          "title": "Kolmar Korea spearheads K-beauty push in Australia with 6 partner brands",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33772",
+          "category": "K-Beauty",
+          "author": "Kim Yoon-mi",
+          "date": "11.09 09:44",
+          "new": false
+        },
         {
           "title": "[Interview] Merck Life Science CEO calls Daejeon its most advanced smart manufacturing site",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33771",
@@ -66,102 +162,6 @@
           "category": "Hospital",
           "author": "Kim Kyoung-Won",
           "date": "11.06 14:49",
-          "new": false
-        },
-        {
-          "title": "Samsung Medical Center to explore AI in cancer care with US, European experts",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33759",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "11.06 14:19",
-          "new": false
-        },
-        {
-          "title": "SK biopharmaceuticals builds 7.14 million-record dataset to train drug R&D AI",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33762",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.06 14:05",
-          "new": false
-        },
-        {
-          "title": "Hypertension affects 13.6 million Koreans; high-risk groups need tighter control",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33761",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "11.06 13:55",
-          "new": false
-        },
-        {
-          "title": "Pfizer's Litfulo clears reimbursement review for severe alopecia areata in adults, adolescents in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33760",
-          "category": "Policy",
-          "author": "Kim Yoon-mi",
-          "date": "11.06 13:51",
-          "new": false
-        },
-        {
-          "title": "Korea clears emergency imports of 2 dialysis devices for newborns, children",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33756",
-          "category": "Policy",
-          "author": "Kim Yoon-mi",
-          "date": "11.06 11:07",
-          "new": false
-        },
-        {
-          "title": "AITRICS named Hong Kong strategic enterprise partner, eyes expansion in Asia",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33755",
-          "category": "Device/ICT",
-          "author": "Kim Yoon-mi",
-          "date": "11.06 10:40",
-          "new": false
-        },
-        {
-          "title": "Kisqali OS gain came sooner than expected in early breast cancer: oncologist",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33754",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "11.05 17:46",
-          "new": false
-        },
-        {
-          "title": "SK bioscience's Q3 revenue up 21% as operating loss narrows to 11-quarter low",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33753",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.05 16:23",
-          "new": false
-        },
-        {
-          "title": "Petition against Korea's telemedicine restrictions tops 50,000 signatures",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33752",
-          "category": "Policy",
-          "author": "Kim Jung-hyun",
-          "date": "11.05 15:59",
-          "new": false
-        },
-        {
-          "title": "Hospice patients rise for 3rd year as more Koreans document end-of-life wishes",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33751",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "11.05 15:34",
-          "new": false
-        },
-        {
-          "title": "Obesity measures differ in their links to disease risk, study finds",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33750",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "11.05 14:58",
-          "new": false
-        },
-        {
-          "title": "Yuyu Healthcare boosts annual production capacity to ₩70 bil. with new plant",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33747",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.05 14:08",
           "new": false
         }
       ]
