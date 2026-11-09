@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-11-09 07:02:35 IST",
+  "last_updated": "2026-11-09 17:48:43 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Daewoong signs development deals for SC biologics, microneedle platforms",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33791",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "11.09 16:49",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "SK Biopharmaceuticals’ LinX begins supporting 31 Korean firms in US",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33790",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.09 16:25",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Can a domestic CAR-T trial bridge the gap for lymphoma patients awaiting Yescarta?",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33789",
+          "category": "Pharma",
+          "author": "Kim Yun-mi",
+          "date": "11.09 16:14",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "Celltrion's Steqeyma wins EU panel backing for broader pediatric use",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33784",
@@ -14,15 +41,6 @@
           "tag": "FDA Approval"
         },
         {
-          "title": "[Interview] Korea's severe asthma patients face restrictive access to biologics despite risks",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33785",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "11.09 15:31",
-          "new": false,
-          "tag": "Other"
-        },
-        {
           "title": "Peptron wins Mexican approval for once-monthly prostate cancer drug LUPUNIA",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33781",
           "category": "Bio",
@@ -30,15 +48,6 @@
           "date": "11.09 14:33",
           "new": false,
           "tag": "FDA Approval"
-        },
-        {
-          "title": "Hearing loss gene therapy raises hopes, yet experts urge long-term safety checks",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33782",
-          "category": "Hospital",
-          "author": "You Ji-young",
-          "date": "11.09 14:04",
-          "new": false,
-          "tag": "Pipeline"
         },
         {
           "title": "Viatris Korea expands cardiovascular portfolio through Vascepa deal with Alvogen",
@@ -75,24 +84,6 @@
           "date": "11.06 19:13",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "Yuhan's Atovamibe sales jump 31% as cholesterol drug business grows",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33768",
-          "category": "Pharma",
-          "author": "Park Gi-taek",
-          "date": "11.06 16:33",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "MetaVia's obesity drug DA-1726 shows liver fat, weight reductions in early trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33767",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.06 16:24",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }
