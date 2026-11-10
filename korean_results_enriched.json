@@ -1,9 +1,54 @@
 {
-  "last_updated": "2026-11-09 17:48:43 IST",
+  "last_updated": "2026-11-10 07:36:26 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "J2H Biotech's MASH drug reduces liver fat in phase 2a trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33800",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.10 14:23",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Jeil’s Jaqbo enters Korea’s top 10 prescription drugs with ₩10 bil. monthly tally",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33798",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.10 14:06",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "MedPacto's MP010 prevents tumor recurrence, protects against other cancers in mice",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33797",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.10 13:40",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "AriBio LAB targets neurodegenerative diseases with vaccine platform",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33799",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.10 11:44",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "HanAll partner Immunovant's arthritis drug meets primary goal, misses secondary endpoints",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33796",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.10 10:42",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "Daewoong signs development deals for SC biologics, microneedle platforms",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33791",
@@ -20,7 +65,7 @@
           "author": "Kim Ji-hye",
           "date": "11.09 16:25",
           "new": false,
-          "tag": "Collaboration"
+          "tag": "Other"
         },
         {
           "title": "Can a domestic CAR-T trial bridge the gap for lymphoma patients awaiting Yescarta?",
@@ -39,51 +84,6 @@
           "date": "11.09 15:39",
           "new": false,
           "tag": "FDA Approval"
-        },
-        {
-          "title": "Peptron wins Mexican approval for once-monthly prostate cancer drug LUPUNIA",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33781",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.09 14:33",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Viatris Korea expands cardiovascular portfolio through Vascepa deal with Alvogen",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33780",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.09 13:58",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Vaxcellbio reports complete responses in liver cancer animal model with CAR-T candidate",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33778",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.09 11:28",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Samsung Bioepis’ SB27 shows phase 3 equivalence to pembrolizumab in metastatic NSCLC",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33773",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.09 10:31",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "[Interview] Merck Life Science CEO calls Daejeon its most advanced smart manufacturing site",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33771",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.06 19:13",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }
