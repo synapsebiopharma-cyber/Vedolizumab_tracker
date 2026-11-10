@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-11-10 07:36:26 IST",
+  "last_updated": "2026-11-10 15:47:44 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "AprilBio CEO unveils 3 new drug candidates, eyes licensing deals in 2027",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33808",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.10 18:44",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Roche seeks reimbursement for Gazyva in lupus nephritis in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33807",
+          "category": "Pharma",
+          "author": "Kim Kyoung-Won",
+          "date": "11.10 17:15",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "J2H Biotech's MASH drug reduces liver fat in phase 2a trial",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33800",
@@ -20,7 +38,7 @@
           "author": "Kim Yoon-mi",
           "date": "11.10 14:06",
           "new": false,
-          "tag": "Financial"
+          "tag": "Other"
         },
         {
           "title": "MedPacto's MP010 prevents tumor recurrence, protects against other cancers in mice",
@@ -65,7 +83,7 @@
           "author": "Kim Ji-hye",
           "date": "11.09 16:25",
           "new": false,
-          "tag": "Other"
+          "tag": "Collaboration"
         },
         {
           "title": "Can a domestic CAR-T trial bridge the gap for lymphoma patients awaiting Yescarta?",
@@ -75,15 +93,6 @@
           "date": "11.09 16:14",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "Celltrion's Steqeyma wins EU panel backing for broader pediatric use",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33784",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.09 15:39",
-          "new": false,
-          "tag": "FDA Approval"
         }
       ]
     }
