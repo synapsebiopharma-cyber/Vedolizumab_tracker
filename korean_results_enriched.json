@@ -1,17 +1,26 @@
 {
-  "last_updated": "2026-11-11 06:55:35 IST",
+  "last_updated": "2026-11-11 15:35:24 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "MSCI upgrades Celltrion to highest ESG rating",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33812",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "11.11 11:15",
+          "title": "MFDS seeks sixfold hike in drug approval fees to fund regulatory reviews",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33823",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "11.11 16:35",
           "new": false,
-          "tag": "Financial"
+          "tag": "Other"
+        },
+        {
+          "title": "Boryung’s oral solid dosage facility earns EU-GMP certification",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33822",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "11.11 16:32",
+          "new": false,
+          "tag": "Inspection"
         },
         {
           "title": "Korea reviews vision loss warnings for 38 GLP-1 products after US FDA action",
@@ -20,7 +29,7 @@
           "author": "Kim Yoon-mi, Kwon Min-seon",
           "date": "11.11 10:24",
           "new": false,
-          "tag": "Inspection"
+          "tag": "Other"
         },
         {
           "title": "AprilBio CEO unveils 3 new drug candidates, eyes licensing deals in 2027",
@@ -38,52 +47,7 @@
           "author": "Kim Kyoung-Won",
           "date": "11.10 17:15",
           "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "J2H Biotech's MASH drug reduces liver fat in phase 2a trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33800",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.10 14:23",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Jeil’s Jaqbo enters Korea’s top 10 prescription drugs with ₩10 bil. monthly tally",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33798",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.10 14:06",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "MedPacto's MP010 prevents tumor recurrence, protects against other cancers in mice",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33797",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.10 13:40",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "AriBio LAB targets neurodegenerative diseases with vaccine platform",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33799",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.10 11:44",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "HanAll partner Immunovant's arthritis drug meets primary goal, misses secondary endpoints",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33796",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.10 10:42",
-          "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Other"
         }
       ]
     }

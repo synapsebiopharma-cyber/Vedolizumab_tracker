@@ -1,7 +1,7 @@
 {
   "source": "https://ir.tevapharm.com/Events-and-Presentations/events-and-presentations/default.aspx",
-  "last_fetched": "2026-11-11T06:57:39Z",
-  "total_runs": 394,
+  "last_fetched": "2026-11-11T15:37:31Z",
+  "total_runs": 395,
   "new_on_last_run": 0,
   "events": [
     {
@@ -10,7 +10,12 @@
       "date": "November 11, 2026",
       "url": "https://ir.tevapharm.com/Events-and-Presentations/events-and-presentations/event-details/2026/Teva-RD-Day-2026-0yPsibso7K/default.aspx",
       "webcast": "https://vimeo.com/event/6249852",
-      "docs": [],
+      "docs": [
+        {
+          "title": "Presentation(opens in new window)",
+          "url": "https://s24.q4cdn.com/720828402/files/doc_events/2026/Nov/11/R-D_Day_11-Nov-2026-Website.pdf"
+        }
+      ],
       "new": false
     },
     {
