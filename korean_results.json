@@ -1,9 +1,73 @@
 {
-  "last_updated": "2026-11-11 15:35:24 IST",
+  "last_updated": "2026-11-12 07:33:05 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Liporaxel, Yescarta advance in Korean coverage review; Tevimbra falls short in SCLC",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33832",
+          "category": "Policy",
+          "author": "You Ji-young",
+          "date": "11.12 16:05",
+          "new": false
+        },
+        {
+          "title": "Korean healthcare firms expand overseas through hospital operations, digital health",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33831",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "11.12 15:38",
+          "new": false
+        },
+        {
+          "title": "Lunit’s Q3 EBITDA loss narrows 77% to lowest in 14 quarters",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33830",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "11.12 15:23",
+          "new": false
+        },
+        {
+          "title": "Single-port robotic colon cancer surgery shows faster recovery, similar survival: Korean study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33829",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "11.12 14:38",
+          "new": false
+        },
+        {
+          "title": "HLB Pharmaceutical breaks ground on $41 mil. plant to triple production capacity",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33828",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.12 14:28",
+          "new": false
+        },
+        {
+          "title": "Humedix looks beyond China to expand derma cosmetics exports in Asia, Middle East",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33827",
+          "category": "K-Beauty",
+          "author": "Kim Yoon-mi",
+          "date": "11.12 10:53",
+          "new": false
+        },
+        {
+          "title": "Korean biotech executive calls for AI labs that let one researcher do work of 10,000",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33826",
+          "category": "Bio",
+          "author": "Kwon Min-seon",
+          "date": "11.12 10:40",
+          "new": false
+        },
+        {
+          "title": "Samsung, OpenAI push connected healthcare in US as Korea faces data barriers",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33825",
+          "category": "Device/ICT",
+          "author": "Kim Jung-hyun",
+          "date": "11.12 10:16",
+          "new": false
+        },
         {
           "title": "Huons Global, Huons receive A grades in 2026 ESG ratings",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33824",
@@ -98,70 +162,6 @@
           "category": "Policy",
           "author": "Kim Yoon-mi",
           "date": "11.11 11:27",
-          "new": false
-        },
-        {
-          "title": "MSCI upgrades Celltrion to highest ESG rating",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33812",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "11.11 11:15",
-          "new": false
-        },
-        {
-          "title": "Korea reviews vision loss warnings for 38 GLP-1 products after US FDA action",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33810",
-          "category": "Policy",
-          "author": "Kim Yoon-mi, Kwon Min-seon",
-          "date": "11.11 10:24",
-          "new": false
-        },
-        {
-          "title": "[Global Pharma Leadership Voices] Building a fertility-friendly Korea: A shared responsibility",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33809",
-          "category": "Opinion",
-          "author": "Christoph Hamann",
-          "date": "11.11 09:34",
-          "new": false
-        },
-        {
-          "title": "AprilBio CEO unveils 3 new drug candidates, eyes licensing deals in 2027",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33808",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.10 18:44",
-          "new": false
-        },
-        {
-          "title": "Roche seeks reimbursement for Gazyva in lupus nephritis in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33807",
-          "category": "Pharma",
-          "author": "Kim Kyoung-Won",
-          "date": "11.10 17:15",
-          "new": false
-        },
-        {
-          "title": "[Column] Korea's world-class healthcare still has an after-hours problem",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33806",
-          "category": "Opinion",
-          "author": "Ahn Duck-sun",
-          "date": "11.10 16:47",
-          "new": false
-        },
-        {
-          "title": "[Interview] Obesity takes more than willpower, says surgeon who battled it himself",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33802",
-          "category": "Hospital",
-          "author": "Kim Yun-mi",
-          "date": "11.10 16:38",
-          "new": false
-        },
-        {
-          "title": "Male North Korean defectors face 68% higher death risk than South Korean men: study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33805",
-          "category": "Hospital",
-          "author": "Kim Ji-hye",
-          "date": "11.10 16:28",
           "new": false
         }
       ]

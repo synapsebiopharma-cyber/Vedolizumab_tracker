@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11 15:37:31 IST",
+  "last_updated": "2026-11-12 07:34:36 IST",
   "companies": [
     {
       "company": "Alvotech",
@@ -1893,6 +1893,24 @@
       "company": "Fresenius",
       "investor_news": [
         {
+          "id": "fresenius-completes-sale-of-13.4-million-fresenius-medical-care-shares-at-€39.00-per-share,-raising-approximately-€524-million|november-12,-2026",
+          "title": "Fresenius completes sale of 13.4 million Fresenius Medical Care shares at €39.00 per share, raising approximately €524 million",
+          "url": "https://www.fresenius.com/node/7470",
+          "date": "November 12, 2026",
+          "source": "Fresenius",
+          "meta": "",
+          "new": false
+        },
+        {
+          "id": "fresenius-announces-intention-to-sell-approximately-13.4-million-shares-in-fresenius-medical-care-ag,|november-11,-2026",
+          "title": "Fresenius announces intention to sell approximately 13.4 million shares in Fresenius Medical Care AG,",
+          "url": "https://www.fresenius.com/node/7469",
+          "date": "November 11, 2026",
+          "source": "Fresenius",
+          "meta": "",
+          "new": false
+        },
+        {
           "id": "fresenius-delivers-an-excellent-quarter-and-is-scaling-its-growth-vectors---core-eps-guidance-improved|november-4,-2026",
           "title": "Fresenius delivers an excellent quarter and is scaling its Growth Vectors - Core EPS guidance improved",
           "url": "https://www.fresenius.com/Fresenius-delivers-an-excellent-quarter-and-is-scaling-its-Growth-Vectors-Core-EPS-guidance-improved",
@@ -1953,24 +1971,6 @@
           "date": "September 16, 2026",
           "source": "Fresenius",
           "meta": "Brief News",
-          "new": false
-        },
-        {
-          "id": "fresenius-reorganizes-its-hospital-services-business|september-9,-2026",
-          "title": "Fresenius reorganizes its hospital services business",
-          "url": "https://www.fresenius.com/node/7413",
-          "date": "September 9, 2026",
-          "source": "Fresenius",
-          "meta": "Brief News",
-          "new": false
-        },
-        {
-          "id": "fresenius-expands-medical-nutrition-portfolio-with-new-real-food-based-enteral-nutrition-concept|september-7,-2026",
-          "title": "Fresenius expands Medical Nutrition Portfolio with new real-food-based enteral nutrition concept",
-          "url": "https://www.fresenius.com/node/7411",
-          "date": "September 7, 2026",
-          "source": "Fresenius Kabi",
-          "meta": "",
           "new": false
         }
       ]
