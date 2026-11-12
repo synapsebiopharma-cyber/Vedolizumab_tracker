@@ -1,8 +1,8 @@
 {
   "source": "https://www.fresenius.com/investor-news-and-ad-hoc-news",
-  "last_fetched": "2026-11-12T07:34:29Z",
-  "total_runs": 396,
-  "new_on_last_run": 2,
+  "last_fetched": "2026-11-12T16:13:58Z",
+  "total_runs": 397,
+  "new_on_last_run": 0,
   "articles": [
     {
       "id": "fresenius-completes-sale-of-13.4-million-fresenius-medical-care-shares-at-€39.00-per-share,-raising-approximately-€524-million|november-12,-2026",
@@ -11,7 +11,7 @@
       "date": "November 12, 2026",
       "source": "Fresenius",
       "meta": "",
-      "new": true
+      "new": false
     },
     {
       "id": "fresenius-announces-intention-to-sell-approximately-13.4-million-shares-in-fresenius-medical-care-ag,|november-11,-2026",
@@ -20,7 +20,7 @@
       "date": "November 11, 2026",
       "source": "Fresenius",
       "meta": "",
-      "new": true
+      "new": false
     },
     {
       "id": "fresenius-delivers-an-excellent-quarter-and-is-scaling-its-growth-vectors---core-eps-guidance-improved|november-4,-2026",
