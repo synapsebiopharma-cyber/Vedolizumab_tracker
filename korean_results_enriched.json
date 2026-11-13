@@ -1,9 +1,36 @@
 {
-  "last_updated": "2026-11-12 16:12:01 IST",
+  "last_updated": "2026-11-13 07:04:25 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "SK Biopharmaceuticals brings cenobamate to Japan, completing Northeast Asia rollout",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33843",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.13 13:13",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "MetaVia’s DA-1726 lowers uric acid after earlier cuts in liver fat and weight",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33842",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.13 11:21",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "GI Innovation files Korean patent for AI-designed food allergy candidate GI-308",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33840",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.13 10:16",
+          "new": false,
+          "tag": "Pipeline"
+        },
         {
           "title": "Hanmi Science pushes overseas sales of surgical hemostats after first exports",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33839",
@@ -32,15 +59,6 @@
           "tag": "Other"
         },
         {
-          "title": "Huons increases R&D investment despite Q3 revenue decline",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33835",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.12 16:41",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
           "title": "Liporaxel, Yescarta advance in Korean coverage review; Tevimbra falls short in SCLC",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33832",
           "category": "Policy",
@@ -48,24 +66,6 @@
           "date": "11.12 16:05",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "HLB Pharmaceutical breaks ground on $41 mil. plant to triple production capacity",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33828",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.12 14:28",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Boryung’s oral solid dosage facility earns EU-GMP certification",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33822",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "11.11 16:32",
-          "new": false,
-          "tag": "Inspection"
         }
       ]
     }

@@ -1,9 +1,81 @@
 {
-  "last_updated": "2026-11-12 16:12:01 IST",
+  "last_updated": "2026-11-13 07:04:25 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "GC, GC Biopharma receive A grades in 2026 ESG assessment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33850",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "11.13 15:54",
+          "new": false
+        },
+        {
+          "title": "EuBiologics’ Q3 operating profit rises 15.6% on cholera vaccine sales",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33848",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.13 15:22",
+          "new": false
+        },
+        {
+          "title": "AI improves rare kidney cancer diagnosis, but overreliance poses risks: AMC study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33846",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "11.13 13:57",
+          "new": false
+        },
+        {
+          "title": "[Interview] 'Korea's 50-50 trainee doctor quota policy overlooks training quality, internal medicine'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33845",
+          "category": "Hospital",
+          "author": "Song Soo-youn",
+          "date": "11.13 13:33",
+          "new": false
+        },
+        {
+          "title": "Korea adds consultation room safety checks to psychiatric facility inspections after Severance attack",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33844",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "11.13 13:25",
+          "new": false
+        },
+        {
+          "title": "SK Biopharmaceuticals brings cenobamate to Japan, completing Northeast Asia rollout",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33843",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.13 13:13",
+          "new": false
+        },
+        {
+          "title": "MetaVia’s DA-1726 lowers uric acid after earlier cuts in liver fat and weight",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33842",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.13 11:21",
+          "new": false
+        },
+        {
+          "title": "Samsung Medical Center signs MOU with Australian healthcare AI firm Heidi to test clinical documentation technology",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33841",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "11.13 10:38",
+          "new": false
+        },
+        {
+          "title": "GI Innovation files Korean patent for AI-designed food allergy candidate GI-308",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33840",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.13 10:16",
+          "new": false
+        },
         {
           "title": "Hanmi Science pushes overseas sales of surgical hemostats after first exports",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33839",
@@ -90,78 +162,6 @@
           "category": "Hospital",
           "author": "Kim Yoon-mi",
           "date": "11.12 14:38",
-          "new": false
-        },
-        {
-          "title": "HLB Pharmaceutical breaks ground on $41 mil. plant to triple production capacity",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33828",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.12 14:28",
-          "new": false
-        },
-        {
-          "title": "Humedix looks beyond China to expand derma cosmetics exports in Asia, Middle East",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33827",
-          "category": "K-Beauty",
-          "author": "Kim Yoon-mi",
-          "date": "11.12 10:53",
-          "new": false
-        },
-        {
-          "title": "Korean biotech executive calls for AI labs that let one researcher do work of 10,000",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33826",
-          "category": "Bio",
-          "author": "Kwon Min-seon",
-          "date": "11.12 10:40",
-          "new": false
-        },
-        {
-          "title": "Samsung, OpenAI push connected healthcare in US as Korea faces data barriers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33825",
-          "category": "Device/ICT",
-          "author": "Kim Jung-hyun",
-          "date": "11.12 10:16",
-          "new": false
-        },
-        {
-          "title": "Huons Global, Huons receive A grades in 2026 ESG ratings",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33824",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.11 17:42",
-          "new": false
-        },
-        {
-          "title": "MFDS seeks sixfold hike in drug approval fees to fund regulatory reviews",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33823",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "11.11 16:35",
-          "new": false
-        },
-        {
-          "title": "Boryung’s oral solid dosage facility earns EU-GMP certification",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33822",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "11.11 16:32",
-          "new": false
-        },
-        {
-          "title": "Korea pledges more biotech investment to strengthen technological sovereignty",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33821",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "11.11 16:28",
-          "new": false
-        },
-        {
-          "title": "Leukemia patient faces $3,000 monthly drug bill as insurance coverage remains pending",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33820",
-          "category": "Hospital",
-          "author": "Kim Yun-mi",
-          "date": "11.11 16:23",
           "new": false
         }
       ]
