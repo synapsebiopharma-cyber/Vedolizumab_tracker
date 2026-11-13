@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-11-13 07:04:25 IST",
+  "last_updated": "2026-11-13 15:40:32 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[Interview] S-Alpha CEO positions myopia DTx MyoHabit as noninvasive option for children",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33854",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.13 17:25",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "EuBiologics’ Q3 operating profit rises 15.6% on cholera vaccine sales",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33848",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.13 15:22",
+          "new": false,
+          "tag": "Financial"
+        },
         {
           "title": "SK Biopharmaceuticals brings cenobamate to Japan, completing Northeast Asia rollout",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33843",
@@ -59,13 +77,13 @@
           "tag": "Other"
         },
         {
-          "title": "Liporaxel, Yescarta advance in Korean coverage review; Tevimbra falls short in SCLC",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33832",
-          "category": "Policy",
-          "author": "You Ji-young",
-          "date": "11.12 16:05",
+          "title": "Huons increases R&D investment despite Q3 revenue decline",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33835",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.12 16:41",
           "new": false,
-          "tag": "Other"
+          "tag": "Financial"
         }
       ]
     }

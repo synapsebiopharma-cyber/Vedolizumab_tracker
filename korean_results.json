@@ -1,9 +1,41 @@
 {
-  "last_updated": "2026-11-13 07:04:25 IST",
+  "last_updated": "2026-11-13 15:40:32 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[Interview] S-Alpha CEO positions myopia DTx MyoHabit as noninvasive option for children",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33854",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.13 17:25",
+          "new": false
+        },
+        {
+          "title": "[Interview] ‘In Parkinson’s disease, movement symptoms are the tip of the iceberg’",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33853",
+          "category": "Hospital",
+          "author": "Kim Kyoung-Won",
+          "date": "11.13 17:00",
+          "new": false
+        },
+        {
+          "title": "[Interview] Experts call for broader use of GLP-1 drugs in cardiovascular-kidney-metabolic care",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33852",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "11.13 16:51",
+          "new": false
+        },
+        {
+          "title": "[Interview] Can rheumatoid arthritis patients stop methotrexate? Japanese study offers new evidence",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33849",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "11.13 16:43",
+          "new": false
+        },
         {
           "title": "GC, GC Biopharma receive A grades in 2026 ESG assessment",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33850",
@@ -130,38 +162,6 @@
           "category": "Pharma",
           "author": "Kwon Min-seon",
           "date": "11.12 16:35",
-          "new": false
-        },
-        {
-          "title": "Liporaxel, Yescarta advance in Korean coverage review; Tevimbra falls short in SCLC",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33832",
-          "category": "Policy",
-          "author": "You Ji-young",
-          "date": "11.12 16:05",
-          "new": false
-        },
-        {
-          "title": "Korean healthcare firms expand overseas through hospital operations, digital health",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33831",
-          "category": "Hospital",
-          "author": "Kim Jung-hyun",
-          "date": "11.12 15:38",
-          "new": false
-        },
-        {
-          "title": "Lunit’s Q3 EBITDA loss narrows 77% to lowest in 14 quarters",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33830",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "11.12 15:23",
-          "new": false
-        },
-        {
-          "title": "Single-port robotic colon cancer surgery shows faster recovery, similar survival: Korean study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33829",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "11.12 14:38",
           "new": false
         }
       ]
