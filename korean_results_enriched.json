@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15 06:57:15 IST",
+  "last_updated": "2026-11-15 15:08:08 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
@@ -19,6 +19,24 @@
           "category": "Hospital",
           "author": "Koh Jung Min",
           "date": "11.13 16:51",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "[Interview] Can rheumatoid arthritis patients stop methotrexate? Japanese study offers new evidence",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33849",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "11.13 16:43",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "GC, GC Biopharma receive A grades in 2026 ESG assessment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33850",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "11.13 15:54",
           "new": false,
           "tag": "Other"
         },
@@ -47,7 +65,7 @@
           "author": "Kim Yoon-mi",
           "date": "11.13 11:21",
           "new": false,
-          "tag": "Clinical Trial"
+          "tag": "Pipeline"
         },
         {
           "title": "GI Innovation files Korean patent for AI-designed food allergy candidate GI-308",
