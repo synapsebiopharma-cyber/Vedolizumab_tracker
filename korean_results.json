@@ -1,9 +1,17 @@
 {
-  "last_updated": "2026-11-14 14:29:16 IST",
+  "last_updated": "2026-11-15 06:57:15 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "KAIST's AI reads lips without sound, raising hopes for hearing assistance",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33847",
+          "category": "Life science",
+          "author": "Kim Yoon-mi",
+          "date": "11.15 12:00",
+          "new": false
+        },
         {
           "title": "[Interview] S-Alpha CEO positions myopia DTx MyoHabit as noninvasive option for children",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33854",
@@ -154,14 +162,6 @@
           "category": "Pharma",
           "author": "Kim Yoon-mi",
           "date": "11.12 16:41",
-          "new": false
-        },
-        {
-          "title": "HK inno.N earns A+ in all 3 KCGS ESG categories",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33833",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "11.12 16:35",
           "new": false
         }
       ]
