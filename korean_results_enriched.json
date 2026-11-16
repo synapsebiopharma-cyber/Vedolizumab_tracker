@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-11-15 15:08:08 IST",
+  "last_updated": "2026-11-16 06:56:50 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Common East Asian gene variant may explain stronger blood sugar response to GLP-1 drugs: study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33859",
+          "category": "Pharma",
+          "author": "Kim Kyoung-Won",
+          "date": "11.16 12:46",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Abortion pills could cost up to $450 without reimbursement, requiring coverage at every stage: expert",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33855",
+          "category": "Pharma",
+          "author": "Lim Su-min",
+          "date": "11.16 12:45",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "[Interview] S-Alpha CEO positions myopia DTx MyoHabit as noninvasive option for children",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33854",
@@ -29,15 +47,6 @@
           "author": "Koh Jung Min",
           "date": "11.13 16:43",
           "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "GC, GC Biopharma receive A grades in 2026 ESG assessment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33850",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "11.13 15:54",
-          "new": false,
           "tag": "Other"
         },
         {
@@ -57,69 +66,6 @@
           "date": "11.13 13:13",
           "new": false,
           "tag": "Other"
-        },
-        {
-          "title": "MetaVia’s DA-1726 lowers uric acid after earlier cuts in liver fat and weight",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33842",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.13 11:21",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "GI Innovation files Korean patent for AI-designed food allergy candidate GI-308",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33840",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.13 10:16",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Hanmi Science pushes overseas sales of surgical hemostats after first exports",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33839",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "11.12 17:54",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Boryung to double cancer injectable capacity in $37 million expansion",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33838",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.12 17:21",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Samjin Pharm launches edoxaban oral anticoagulant Lexaban Tab",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33837",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "11.12 17:11",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "'Gene therapy may remain an option after cochlear implants in children with OTOF hearing loss'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33836",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "11.12 17:01",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Huons increases R&D investment despite Q3 revenue decline",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33835",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.12 16:41",
-          "new": false,
-          "tag": "Financial"
         }
       ]
     }
