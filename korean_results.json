@@ -1,9 +1,41 @@
 {
-  "last_updated": "2026-11-16 06:56:50 IST",
+  "last_updated": "2026-11-16 17:22:44 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Cold medicine misuse can cause poisoning, Korean teens learn",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33867",
+          "category": "Pharma",
+          "author": "Lim Su-min",
+          "date": "11.16 17:17",
+          "new": false
+        },
+        {
+          "title": "Korea expands medical school enrollment but slashes education funding, drawing parents’ protest",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33866",
+          "category": "Policy",
+          "author": "Kim Jung-hyun",
+          "date": "11.16 17:13",
+          "new": false
+        },
+        {
+          "title": "Bill granting NHIS investigative powers stalls amid concerns over abuse, civil rights",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33865",
+          "category": "Policy",
+          "author": "Lim Su-min",
+          "date": "11.16 16:34",
+          "new": false
+        },
+        {
+          "title": "Court overturns Miryang’s refusal to allow funeral hall at long-term care hospital",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33864",
+          "category": "Policy",
+          "author": "Kim Eun-young",
+          "date": "11.16 16:15",
+          "new": false
+        },
         {
           "title": "CareHub v2.0 cuts house-call paperwork from 12.5 to 1.7 hours weekly, developer says",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33863",
@@ -130,38 +162,6 @@
           "category": "Bio",
           "author": "Kim Yoon-mi",
           "date": "11.13 15:22",
-          "new": false
-        },
-        {
-          "title": "AI improves rare kidney cancer diagnosis, but overreliance poses risks: AMC study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33846",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "11.13 13:57",
-          "new": false
-        },
-        {
-          "title": "[Interview] 'Korea's 50-50 trainee doctor quota policy overlooks training quality, internal medicine'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33845",
-          "category": "Hospital",
-          "author": "Song Soo-youn",
-          "date": "11.13 13:33",
-          "new": false
-        },
-        {
-          "title": "Korea adds consultation room safety checks to psychiatric facility inspections after Severance attack",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33844",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "11.13 13:25",
-          "new": false
-        },
-        {
-          "title": "SK Biopharmaceuticals brings cenobamate to Japan, completing Northeast Asia rollout",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33843",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.13 13:13",
           "new": false
         }
       ]

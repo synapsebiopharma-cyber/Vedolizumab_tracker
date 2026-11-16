@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-11-16 06:56:50 IST",
+  "last_updated": "2026-11-16 17:22:44 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korean Headache Society criticizes MRI claim denials and curbs on migraine drug coverage",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33860",
+          "category": "Policy",
+          "author": "You Ji-young",
+          "date": "11.16 12:59",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Common East Asian gene variant may explain stronger blood sugar response to GLP-1 drugs: study",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33859",
@@ -57,15 +66,6 @@
           "date": "11.13 15:22",
           "new": false,
           "tag": "Financial"
-        },
-        {
-          "title": "SK Biopharmaceuticals brings cenobamate to Japan, completing Northeast Asia rollout",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33843",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.13 13:13",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }

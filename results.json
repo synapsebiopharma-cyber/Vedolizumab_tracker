@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16 06:54:16 IST",
+  "last_updated": "2026-11-16 17:20:11 IST",
   "companies": [
     {
       "company": "Polpharma",
@@ -2623,7 +2623,7 @@
           "date": "16/11/2026",
           "title": "Sandoz launches Enzeevu in the US and announces key private label agreement, expanding treatment choice for patients with retinal diseases",
           "link": "https://www.sandoz.com/sandoz-launches-enzeevu-us-and-announces-key-private-label-agreement-expanding-treatment-choice",
-          "new": true
+          "new": false
         },
         {
           "date": "12/11/2026",
@@ -2761,7 +2761,7 @@
           "date": "Nov 16, 2026",
           "title": "Biocon Gets U.S. FDA Approval for Pebrilzo™ (pertuzumab-qcay) Injection, a Biosimilar to Perjeta®, Expanding Its Oncology Portfolio",
           "link": "https://www.biocon.com/biocon-gets-u-s-fda-approval-for-pebrilzo-pertuzumab-qcay-injection-a-biosimilar-to-perjeta-expanding-its-oncology-portfolio/",
-          "new": true
+          "new": false
         },
         {
           "date": "Nov 04, 2026",
@@ -3030,6 +3030,12 @@
       "company": "Teva",
       "website": [
         {
+          "date": "2026-11-16",
+          "title": "U.S. FDA Approves IGALMI® as First At-Home Acute Treatment for Agitation Associated with Schizophrenia, Schizoaffective Disorder, or Bipolar I or II Disorder in Adults",
+          "link": "https://www.tevapharm.com/news-and-media/latest-news/u.s.-fda-approves-igalmi-as-first-at-home-acute-treatment-for-agitation-associated-with-schizophrenia-s",
+          "new": true
+        },
+        {
           "date": "2026-11-11",
           "title": "Teva Shares Innovative Pipeline Updates and Unveils Path to Future Growth at R&D Day, Targeting $6–7 Billion in Innovative Medicines Revenue by 2030",
           "link": "https://www.tevapharm.com/news-and-media/latest-news/teva-shares-innovative-pipeline-updates-and-unveils-path-to-future-growth-at-rd-day-targeting-$67-bill/",
@@ -3081,12 +3087,6 @@
           "date": "2026-10-09",
           "title": "Teva Announces U.S. Food and Drug Administration (FDA) Approval of WELTRUZA™ (Olanzapine) For Extended-Release Injectable Suspension, as the First and Only Once-Monthly Subcutaneous Injectable Olanzapine for Adults with Schizophrenia",
           "link": "https://www.tevapharm.com/news-and-media/latest-news/teva-announces-u.s.-food-and-drug-administration-fda-approval-of-weltruza-olanzapine-for-extended-re",
-          "new": false
-        },
-        {
-          "date": "2026-10-02",
-          "title": "Journal of Child Neurology Publishes Review Highlighting Dopamine’s Role in Tourette Syndrome and Ecopipam’s Selective D1 Receptor Mechanism for Tourette Syndrome in Pediatric Patients",
-          "link": "https://www.tevapharm.com/news-and-media/latest-news/journal-of-child-neurology-publishes-review-highlighting-dopamines-role-in-tourette-syndrome-and-ecopipa/",
           "new": false
         }
       ],
