@@ -1,9 +1,25 @@
 {
-  "last_updated": "2026-11-17 08:16:00 IST",
+  "last_updated": "2026-11-17 17:08:39 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Yuyu Pharma's standalone operating profit jumps 53% through September",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33885",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.17 19:02",
+          "new": false
+        },
+        {
+          "title": "[KBR Forum] China's drug development surge puts pressure on Korea to speed up clinical trials, approvals",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33881",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.17 17:43",
+          "new": false
+        },
         {
           "title": "Korea flags 571 illegal online posts selling ADHD drugs, beta blockers",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33884",
@@ -146,22 +162,6 @@
           "category": "Policy",
           "author": "Kim Jung-hyun",
           "date": "11.16 17:13",
-          "new": false
-        },
-        {
-          "title": "Bill granting NHIS investigative powers stalls amid concerns over abuse, civil rights",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33865",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "11.16 16:34",
-          "new": false
-        },
-        {
-          "title": "Court overturns Miryang’s refusal to allow funeral hall at long-term care hospital",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33864",
-          "category": "Policy",
-          "author": "Kim Eun-young",
-          "date": "11.16 16:15",
           "new": false
         }
       ]

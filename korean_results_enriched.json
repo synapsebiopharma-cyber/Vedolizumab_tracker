@@ -1,26 +1,17 @@
 {
-  "last_updated": "2026-11-17 08:16:00 IST",
+  "last_updated": "2026-11-17 17:08:39 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Korea flags 571 illegal online posts selling ADHD drugs, beta blockers",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33884",
-          "category": "Policy",
-          "author": "Kwon Min-seon",
-          "date": "11.17 16:43",
+          "title": "Yuyu Pharma's standalone operating profit jumps 53% through September",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33885",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.17 19:02",
           "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Korean telemedicine platform Doctorow loses prescription drug advertising case at Supreme Court",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33883",
-          "category": "Device/ICT",
-          "author": "Kim Eun-young",
-          "date": "11.17 16:38",
-          "new": false,
-          "tag": "Other"
+          "tag": "Financial"
         },
         {
           "title": "GC Biopharma, Dongbang FTL explore local production of key mRNA ingredient",
@@ -39,6 +30,15 @@
           "date": "11.17 14:47",
           "new": false,
           "tag": "Collaboration"
+        },
+        {
+          "title": "Huons Global Q3 operating profit plunges 53.9% despite revenue growth",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33874",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.17 14:16",
+          "new": false,
+          "tag": "Financial"
         },
         {
           "title": "AriBio's Alzheimer's drug meets phase 3 endpoint in subgroup, misses in overall population",
@@ -65,16 +65,7 @@
           "author": "Kim Yoon-mi",
           "date": "11.17 09:30",
           "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Cold medicine misuse can cause poisoning, Korean teens learn",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33867",
-          "category": "Pharma",
-          "author": "Lim Su-min",
-          "date": "11.16 17:17",
-          "new": false,
-          "tag": "Other"
+          "tag": "Collaboration"
         }
       ]
     }
