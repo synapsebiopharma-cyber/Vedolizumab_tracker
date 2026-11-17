@@ -1,9 +1,137 @@
 {
-  "last_updated": "2026-11-16 17:22:44 IST",
+  "last_updated": "2026-11-17 08:16:00 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea flags 571 illegal online posts selling ADHD drugs, beta blockers",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33884",
+          "category": "Policy",
+          "author": "Kwon Min-seon",
+          "date": "11.17 16:43",
+          "new": false
+        },
+        {
+          "title": "Korean telemedicine platform Doctorow loses prescription drug advertising case at Supreme Court",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33883",
+          "category": "Device/ICT",
+          "author": "Kim Eun-young",
+          "date": "11.17 16:38",
+          "new": false
+        },
+        {
+          "title": "GC Biopharma, Dongbang FTL explore local production of key mRNA ingredient",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33882",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "11.17 16:32",
+          "new": false
+        },
+        {
+          "title": "Korea retains WHO measles elimination status for 13th year as import risk rises",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33880",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "11.17 16:22",
+          "new": false
+        },
+        {
+          "title": "Noul selected for $2.3 million AI diagnostics project in Panama",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33879",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "11.17 16:15",
+          "new": false
+        },
+        {
+          "title": "Korea University Ansan Hospital starts using Halcyon 5.0 for cancer treatment",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33878",
+          "category": "Hospital",
+          "author": "Kim Ji-hye",
+          "date": "11.17 15:37",
+          "new": false
+        },
+        {
+          "title": "WHO, global hospital federation to form joint committee on healthcare AI",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33877",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "11.17 15:12",
+          "new": false
+        },
+        {
+          "title": "Lotte Biologics secures first commercial manufacturing deal for Songdo plant",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33876",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.17 14:47",
+          "new": false
+        },
+        {
+          "title": "'AI medical scribe adopted by over 500 Korean medical institutions since May'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33872",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "11.17 14:35",
+          "new": false
+        },
+        {
+          "title": "[Interview] After a deadly RSV winter, Chile took nine months to protect its infants",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33875",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "11.17 14:23",
+          "new": false
+        },
+        {
+          "title": "Huons Global Q3 operating profit plunges 53.9% despite revenue growth",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33874",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.17 14:16",
+          "new": false
+        },
+        {
+          "title": "Samsung Medical Center's AI tracks surgical actions, phases in video analysis",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33873",
+          "category": "Hospital",
+          "author": "Kim Ji-hye",
+          "date": "11.17 14:11",
+          "new": false
+        },
+        {
+          "title": "Study of 3,006 cats finds kidney markers alone may not reflect overall health",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33871",
+          "category": "Life science",
+          "author": "Kim Yoon-mi",
+          "date": "11.17 13:51",
+          "new": false
+        },
+        {
+          "title": "AriBio's Alzheimer's drug meets phase 3 endpoint in subgroup, misses in overall population",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33870",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.17 10:21",
+          "new": false
+        },
+        {
+          "title": "HK inno.N's K-CAB set for Brazil launch under Eurofarma's TREV brand",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33869",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.17 09:56",
+          "new": false
+        },
+        {
+          "title": "Celltrion secures 1 million-vial Herceptin biosimilar deal in Brazil",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33868",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.17 09:30",
+          "new": false
+        },
         {
           "title": "Cold medicine misuse can cause poisoning, Korean teens learn",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33867",
@@ -34,134 +162,6 @@
           "category": "Policy",
           "author": "Kim Eun-young",
           "date": "11.16 16:15",
-          "new": false
-        },
-        {
-          "title": "CareHub v2.0 cuts house-call paperwork from 12.5 to 1.7 hours weekly, developer says",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33863",
-          "category": "Device/ICT",
-          "author": "Park Gi-taek",
-          "date": "11.16 15:41",
-          "new": false
-        },
-        {
-          "title": "Pituitary tumors are usually benign but can cause rare hormonal disorders",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33862",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "11.16 15:36",
-          "new": false
-        },
-        {
-          "title": "Pneumonia is no mere ‘severe cold.’ It is the 2nd-leading cause of death among older Koreans.",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33861",
-          "category": "Hospital",
-          "author": "Lee Chang-ho",
-          "date": "11.16 15:31",
-          "new": false
-        },
-        {
-          "title": "Korean Headache Society criticizes MRI claim denials and curbs on migraine drug coverage",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33860",
-          "category": "Policy",
-          "author": "You Ji-young",
-          "date": "11.16 12:59",
-          "new": false
-        },
-        {
-          "title": "Korea faces $675 million shortfall in medical insurance payments",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33857",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "11.16 12:47",
-          "new": false
-        },
-        {
-          "title": "9 in 10 family doctors say reimbursement for ongoing depression care is inadequate",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33858",
-          "category": "Policy",
-          "author": "Song Soo-youn",
-          "date": "11.16 12:47",
-          "new": false
-        },
-        {
-          "title": "Common East Asian gene variant may explain stronger blood sugar response to GLP-1 drugs: study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33859",
-          "category": "Pharma",
-          "author": "Kim Kyoung-Won",
-          "date": "11.16 12:46",
-          "new": false
-        },
-        {
-          "title": "Who really wrote these papers? JKMS editor questions authorship in the AI era.",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33856",
-          "category": "Policy",
-          "author": "Kim Jung-hyun",
-          "date": "11.16 12:46",
-          "new": false
-        },
-        {
-          "title": "Abortion pills could cost up to $450 without reimbursement, requiring coverage at every stage: expert",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33855",
-          "category": "Pharma",
-          "author": "Lim Su-min",
-          "date": "11.16 12:45",
-          "new": false
-        },
-        {
-          "title": "KAIST's AI reads lips without sound, raising hopes for hearing assistance",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33847",
-          "category": "Life science",
-          "author": "Kim Yoon-mi",
-          "date": "11.15 12:00",
-          "new": false
-        },
-        {
-          "title": "[Interview] S-Alpha CEO positions myopia DTx MyoHabit as noninvasive option for children",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33854",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.13 17:25",
-          "new": false
-        },
-        {
-          "title": "[Interview] ‘In Parkinson’s disease, movement symptoms are the tip of the iceberg’",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33853",
-          "category": "Hospital",
-          "author": "Kim Kyoung-Won",
-          "date": "11.13 17:00",
-          "new": false
-        },
-        {
-          "title": "[Interview] Experts call for broader use of GLP-1 drugs in cardiovascular-kidney-metabolic care",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33852",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "11.13 16:51",
-          "new": false
-        },
-        {
-          "title": "[Interview] Can rheumatoid arthritis patients stop methotrexate? Japanese study offers new evidence",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33849",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "11.13 16:43",
-          "new": false
-        },
-        {
-          "title": "GC, GC Biopharma receive A grades in 2026 ESG assessment",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33850",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "11.13 15:54",
-          "new": false
-        },
-        {
-          "title": "EuBiologics’ Q3 operating profit rises 15.6% on cholera vaccine sales",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33848",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.13 15:22",
           "new": false
         }
       ]

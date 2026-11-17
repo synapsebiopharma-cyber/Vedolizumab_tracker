@@ -1,71 +1,80 @@
 {
-  "last_updated": "2026-11-16 17:22:44 IST",
+  "last_updated": "2026-11-17 08:16:00 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Korean Headache Society criticizes MRI claim denials and curbs on migraine drug coverage",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33860",
+          "title": "Korea flags 571 illegal online posts selling ADHD drugs, beta blockers",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33884",
           "category": "Policy",
-          "author": "You Ji-young",
-          "date": "11.16 12:59",
+          "author": "Kwon Min-seon",
+          "date": "11.17 16:43",
           "new": false,
           "tag": "Other"
         },
         {
-          "title": "Common East Asian gene variant may explain stronger blood sugar response to GLP-1 drugs: study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33859",
+          "title": "Korean telemedicine platform Doctorow loses prescription drug advertising case at Supreme Court",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33883",
+          "category": "Device/ICT",
+          "author": "Kim Eun-young",
+          "date": "11.17 16:38",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "GC Biopharma, Dongbang FTL explore local production of key mRNA ingredient",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33882",
           "category": "Pharma",
-          "author": "Kim Kyoung-Won",
-          "date": "11.16 12:46",
+          "author": "Kwon Min-seon",
+          "date": "11.17 16:32",
           "new": false,
-          "tag": "Other"
+          "tag": "Collaboration"
         },
         {
-          "title": "Abortion pills could cost up to $450 without reimbursement, requiring coverage at every stage: expert",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33855",
-          "category": "Pharma",
-          "author": "Lim Su-min",
-          "date": "11.16 12:45",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "[Interview] S-Alpha CEO positions myopia DTx MyoHabit as noninvasive option for children",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33854",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.13 17:25",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "[Interview] Experts call for broader use of GLP-1 drugs in cardiovascular-kidney-metabolic care",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33852",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "11.13 16:51",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "[Interview] Can rheumatoid arthritis patients stop methotrexate? Japanese study offers new evidence",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33849",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "11.13 16:43",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "EuBiologics’ Q3 operating profit rises 15.6% on cholera vaccine sales",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33848",
+          "title": "Lotte Biologics secures first commercial manufacturing deal for Songdo plant",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33876",
           "category": "Bio",
           "author": "Kim Yoon-mi",
-          "date": "11.13 15:22",
+          "date": "11.17 14:47",
           "new": false,
-          "tag": "Financial"
+          "tag": "Collaboration"
+        },
+        {
+          "title": "AriBio's Alzheimer's drug meets phase 3 endpoint in subgroup, misses in overall population",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33870",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.17 10:21",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "HK inno.N's K-CAB set for Brazil launch under Eurofarma's TREV brand",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33869",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.17 09:56",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Celltrion secures 1 million-vial Herceptin biosimilar deal in Brazil",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33868",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.17 09:30",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Cold medicine misuse can cause poisoning, Korean teens learn",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33867",
+          "category": "Pharma",
+          "author": "Lim Su-min",
+          "date": "11.16 17:17",
+          "new": false,
+          "tag": "Other"
         }
       ]
     }
