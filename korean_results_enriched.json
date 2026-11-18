@@ -1,71 +1,53 @@
 {
-  "last_updated": "2026-11-17 17:08:39 IST",
+  "last_updated": "2026-11-18 07:55:04 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
         {
-          "title": "Yuyu Pharma's standalone operating profit jumps 53% through September",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33885",
+          "title": "Eisai's Dayvigo challenges older sleeping pills with year-long efficacy data ahead of Korea launch",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33904",
           "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.17 19:02",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "GC Biopharma, Dongbang FTL explore local production of key mRNA ingredient",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33882",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "11.17 16:32",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Lotte Biologics secures first commercial manufacturing deal for Songdo plant",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33876",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.17 14:47",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Huons Global Q3 operating profit plunges 53.9% despite revenue growth",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33874",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.17 14:16",
-          "new": false,
-          "tag": "Financial"
-        },
-        {
-          "title": "AriBio's Alzheimer's drug meets phase 3 endpoint in subgroup, misses in overall population",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33870",
-          "category": "Bio",
           "author": "Kim Ji-hye",
-          "date": "11.17 10:21",
+          "date": "11.18 16:46",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Samjin Pharm calls AriBio's Alzheimer's phase 3 trial a success despite mixed results",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33903",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "11.18 16:02",
           "new": false,
           "tag": "Clinical Trial"
         },
         {
-          "title": "HK inno.N's K-CAB set for Brazil launch under Eurofarma's TREV brand",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33869",
+          "title": "HLB Therapeutics' eye drug fails to meet primary endpoint in US phase 3 trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33889",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.18 11:15",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Moderna supplies 1,000 Covid-19 vaccine doses for high-risk children in Korea",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33887",
           "category": "Pharma",
           "author": "Kim Yoon-mi",
-          "date": "11.17 09:56",
+          "date": "11.18 10:08",
           "new": false,
           "tag": "Other"
         },
         {
-          "title": "Celltrion secures 1 million-vial Herceptin biosimilar deal in Brazil",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33868",
-          "category": "Pharma",
+          "title": "Verismo aims to cut CAR-T manufacturing time with Stanford's in vivo technology",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33886",
+          "category": "Bio",
           "author": "Kim Yoon-mi",
-          "date": "11.17 09:30",
+          "date": "11.18 09:48",
           "new": false,
-          "tag": "Collaboration"
+          "tag": "Pipeline"
         }
       ]
     }
