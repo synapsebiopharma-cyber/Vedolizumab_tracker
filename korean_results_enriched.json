@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18 07:55:04 IST",
+  "last_updated": "2026-11-18 16:44:35 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
@@ -11,7 +11,7 @@
           "author": "Kim Ji-hye",
           "date": "11.18 16:46",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Other"
         },
         {
           "title": "Samjin Pharm calls AriBio's Alzheimer's phase 3 trial a success despite mixed results",
@@ -21,6 +21,33 @@
           "date": "11.18 16:02",
           "new": false,
           "tag": "Clinical Trial"
+        },
+        {
+          "title": "Supreme Court overturns tax on Kwangdong's obesity drug distribution deal",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33898",
+          "category": "Pharma",
+          "author": "Kim Eun-young",
+          "date": "11.18 14:52",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "GC MS wins Korean export approval for 2 hantavirus test kits",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33896",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.18 14:06",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "NEXT BIOMEDICAL posts record Q3 revenue, remains in red",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33894",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.18 13:36",
+          "new": false,
+          "tag": "Financial"
         },
         {
           "title": "HLB Therapeutics' eye drug fails to meet primary endpoint in US phase 3 trial",
@@ -47,7 +74,16 @@
           "author": "Kim Yoon-mi",
           "date": "11.18 09:48",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Yuyu Pharma's standalone operating profit jumps 53% through September",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33885",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.17 19:02",
+          "new": false,
+          "tag": "Financial"
         }
       ]
     }
