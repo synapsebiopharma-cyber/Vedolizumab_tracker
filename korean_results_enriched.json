@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-11-19 07:45:20 IST",
+  "last_updated": "2026-11-19 16:47:30 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Lotte Biologics targets 2028 commercial production as Songdo plant reaches GMP readiness early",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33921",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.19 17:32",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Medical societies urge tighter oversight of obesity drug imports, lower domestic prices",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33916",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "11.19 15:31",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "ADEL bets on selective Alzheimer’s antibodies as it heads for Kosdaq listing",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33914",
@@ -12,15 +30,6 @@
           "date": "11.19 15:14",
           "new": false,
           "tag": "Pipeline"
-        },
-        {
-          "title": "NEXT BIOMEDICAL wraps up patient treatment in US trial of knee osteoarthritis device",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33912",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.19 13:29",
-          "new": false,
-          "tag": "Clinical Trial"
         },
         {
           "title": "Lynparza gains ovarian cancer coverage in Korea, but HRD testing remains a barrier",

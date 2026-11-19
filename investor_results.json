@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19 07:47:20 IST",
+  "last_updated": "2026-11-19 16:49:42 IST",
   "companies": [
     {
       "company": "Alvotech",
@@ -1893,6 +1893,15 @@
       "company": "Fresenius",
       "investor_news": [
         {
+          "id": "moody’s-ratings-raises-outlook-for-fresenius-to-positive-from-stable|november-19,-2026",
+          "title": "Moody’s Ratings raises outlook for Fresenius to positive from stable",
+          "url": "https://www.fresenius.com/node/7474",
+          "date": "November 19, 2026",
+          "source": "Fresenius",
+          "meta": "",
+          "new": false
+        },
+        {
           "id": "fresenius-completes-sale-of-13.4-million-fresenius-medical-care-shares-at-€39.00-per-share,-raising-approximately-€524-million|november-12,-2026",
           "title": "Fresenius completes sale of 13.4 million Fresenius Medical Care shares at €39.00 per share, raising approximately €524 million",
           "url": "https://www.fresenius.com/node/7470",
@@ -1962,15 +1971,6 @@
           "date": "September 25, 2026",
           "source": "Fresenius Kabi",
           "meta": "",
-          "new": false
-        },
-        {
-          "id": "drg-inflator-2027-expected-at-4.85%|september-16,-2026",
-          "title": "DRG inflator 2027 expected at 4.85%",
-          "url": "https://www.fresenius.com/node/7415",
-          "date": "September 16, 2026",
-          "source": "Fresenius",
-          "meta": "Brief News",
           "new": false
         }
       ]
