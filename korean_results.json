@@ -1,9 +1,113 @@
 {
-  "last_updated": "2026-11-18 16:44:35 IST",
+  "last_updated": "2026-11-19 07:45:20 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[Column] Korea's medical AI future should start in neighborhood clinics",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33920",
+          "category": "Opinion",
+          "author": "Lee Pil-soo",
+          "date": "11.19 16:12",
+          "new": false
+        },
+        {
+          "title": "Doctors fear dementia patients may face admission barriers after restraint-related conviction",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33919",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "11.19 15:40",
+          "new": false
+        },
+        {
+          "title": "Ewha Mokdong Hospital professor wins award for preterm birth research",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33918",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "11.19 15:34",
+          "new": false
+        },
+        {
+          "title": "Medical societies urge tighter oversight of obesity drug imports, lower domestic prices",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33916",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "11.19 15:31",
+          "new": false
+        },
+        {
+          "title": "ADEL bets on selective Alzheimer’s antibodies as it heads for Kosdaq listing",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33914",
+          "category": "Bio",
+          "author": "Kim Yun-mi",
+          "date": "11.19 15:14",
+          "new": false
+        },
+        {
+          "title": "'Real-time location tracking cuts hospital infection contact-tracing workload by 99.8%'",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33913",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "11.19 14:07",
+          "new": false
+        },
+        {
+          "title": "NEXT BIOMEDICAL wraps up patient treatment in US trial of knee osteoarthritis device",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33912",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.19 13:29",
+          "new": false
+        },
+        {
+          "title": "Samsung Medical Center enrolls 1,000th patient in amyloidosis registry",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33911",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "11.19 13:24",
+          "new": false
+        },
+        {
+          "title": "Humedix retains A rating in Sustinvest ESG assessment for 3rd consecutive time",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33910",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "11.19 13:21",
+          "new": false
+        },
+        {
+          "title": "Lynparza gains ovarian cancer coverage in Korea, but HRD testing remains a barrier",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33909",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "11.19 13:05",
+          "new": false
+        },
+        {
+          "title": "Onconic takes muscle metabolism drug OCN-501 beyond obesity into cachexia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33908",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "11.19 11:59",
+          "new": false
+        },
+        {
+          "title": "Daewoong, Tionlab get Korean nod to test once-monthly semaglutide",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33907",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.19 11:03",
+          "new": false
+        },
+        {
+          "title": "[Interview] Ybrain CEO seeks Android-like BCI ecosystem built on Korea's tech strengths",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33906",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "11.19 10:25",
+          "new": false
+        },
         {
           "title": "Eisai's Dayvigo challenges older sleeping pills with year-long efficacy data ahead of Korea launch",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33904",
@@ -58,110 +162,6 @@
           "category": "Device/ICT",
           "author": "Kim Yoon-mi",
           "date": "11.18 14:32",
-          "new": false
-        },
-        {
-          "title": "Korean, overseas doctors explore regenerative uses of discarded fat tissue",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33897",
-          "category": "Hospital",
-          "author": "Song Soo-youn",
-          "date": "11.18 14:10",
-          "new": false
-        },
-        {
-          "title": "GC MS wins Korean export approval for 2 hantavirus test kits",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33896",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.18 14:06",
-          "new": false
-        },
-        {
-          "title": "[Interview] 'In CLL treatment, intolerance and resistance call for different decisions'",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33895",
-          "category": "Hospital",
-          "author": "Kim Yun-mi",
-          "date": "11.18 13:59",
-          "new": false
-        },
-        {
-          "title": "NEXT BIOMEDICAL posts record Q3 revenue, remains in red",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33894",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.18 13:36",
-          "new": false
-        },
-        {
-          "title": "Yonsei wraps up Vietnam medical education project with support for licensing exam",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33890",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "11.18 13:24",
-          "new": false
-        },
-        {
-          "title": "VAIM to launch JuveLook Skincare Serum in US clinics, med spas",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33893",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "11.18 13:18",
-          "new": false
-        },
-        {
-          "title": "Rapid weight gain at 4-6 months linked to obesity at age 6 in preterm infants: study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33892",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "11.18 13:08",
-          "new": false
-        },
-        {
-          "title": "Kolmar Korea, chemistry research institute to develop AI model for cosmetics skin safety",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33891",
-          "category": "K-Beauty",
-          "author": "Kim Ji-hye",
-          "date": "11.18 11:30",
-          "new": false
-        },
-        {
-          "title": "HLB Therapeutics' eye drug fails to meet primary endpoint in US phase 3 trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33889",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.18 11:15",
-          "new": false
-        },
-        {
-          "title": "Lunit secures 11 oral presentation slots at RSNA 2026 with breast cancer AI research",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33888",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "11.18 11:05",
-          "new": false
-        },
-        {
-          "title": "Moderna supplies 1,000 Covid-19 vaccine doses for high-risk children in Korea",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33887",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.18 10:08",
-          "new": false
-        },
-        {
-          "title": "Verismo aims to cut CAR-T manufacturing time with Stanford's in vivo technology",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33886",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.18 09:48",
-          "new": false
-        },
-        {
-          "title": "Yuyu Pharma's standalone operating profit jumps 53% through September",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33885",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.17 19:02",
           "new": false
         }
       ]
