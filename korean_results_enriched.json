@@ -1,9 +1,72 @@
 {
-  "last_updated": "2026-11-19 16:47:30 IST",
+  "last_updated": "2026-11-20 07:36:12 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korean liver society issues Wegovy treatment recommendations for MASH ahead of approval",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33934",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "11.20 16:06",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Aquipta offers new acute migraine treatment option for Korean patients unable to use triptans: experts",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33933",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "11.20 15:44",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "AriBio charts new path for Korean biotech with global phase 3 Alzheimer's trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33932",
+          "category": "Bio",
+          "author": "Park Gi-taek",
+          "date": "11.20 15:17",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "AstraZeneca and Seoul Biohub pick Molcube and BuildGene for global R&D program",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33929",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.20 14:12",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Hanmi highlights Rosuzet, Amoprel in stroke recurrence prevention strategy",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33927",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "11.20 13:56",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Daewoong’s Fexuclue outperforms esomeprazole in gastric ulcer healing trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33924",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.20 11:23",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "HLB makes 2nd merger attempt with HLB Life Science ahead of potential cancer drug launch",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33923",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.20 11:11",
+          "new": false,
+          "tag": "Acquisition"
+        },
         {
           "title": "Lotte Biologics targets 2028 commercial production as Songdo plant reaches GMP readiness early",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33921",
@@ -30,51 +93,6 @@
           "date": "11.19 15:14",
           "new": false,
           "tag": "Pipeline"
-        },
-        {
-          "title": "Lynparza gains ovarian cancer coverage in Korea, but HRD testing remains a barrier",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33909",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "11.19 13:05",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Onconic takes muscle metabolism drug OCN-501 beyond obesity into cachexia",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33908",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "11.19 11:59",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Daewoong, Tionlab get Korean nod to test once-monthly semaglutide",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33907",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.19 11:03",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Eisai's Dayvigo challenges older sleeping pills with year-long efficacy data ahead of Korea launch",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33904",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "11.18 16:46",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Samjin Pharm calls AriBio's Alzheimer's phase 3 trial a success despite mixed results",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33903",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "11.18 16:02",
-          "new": false,
-          "tag": "Clinical Trial"
         }
       ]
     }
