@@ -1,9 +1,137 @@
 {
-  "last_updated": "2026-11-22 15:38:04 IST",
+  "last_updated": "2026-11-23 08:07:40 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Huons launches 3-in-1 pill for hypertension, dyslipidemia",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33954",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.23 16:55",
+          "new": false
+        },
+        {
+          "title": "‘Sometimes I get scared’: Korean ICU specialist warns of exodus of experienced nurses",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33953",
+          "category": "Hospital",
+          "author": "Song Soo-youn",
+          "date": "11.23 16:51",
+          "new": false
+        },
+        {
+          "title": "Siemens Healthineers highlights long-axial PET/CT applications at Seoul symposium",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33952",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "11.23 16:37",
+          "new": false
+        },
+        {
+          "title": "Curocell shares surge nearly 30% ahead of Dec. 1 insurance coverage for CAR-T therapy Rimqarto",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33948",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.23 16:07",
+          "new": false
+        },
+        {
+          "title": "EyeGene advances dual-target retinal gene therapy with government support",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33950",
+          "category": "Bio",
+          "author": "Kim Kyoung-Won",
+          "date": "11.23 15:50",
+          "new": false
+        },
+        {
+          "title": "Genencell data fraud case spurs Korean bill to reward clinical trial whistleblowers",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33949",
+          "category": "Policy",
+          "author": "Lim Su-min",
+          "date": "11.23 15:45",
+          "new": false
+        },
+        {
+          "title": "SK Biopharmaceuticals to unveil cenobamate data in children, generalized seizures at US meeting",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33947",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.23 15:25",
+          "new": false
+        },
+        {
+          "title": "WHO warns against scaling back pandemic preparedness as health budgets tighten",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33946",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "11.23 15:20",
+          "new": false
+        },
+        {
+          "title": "CHA Biotech wins state backing for lupus nephritis drug development",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33944",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.23 14:48",
+          "new": false
+        },
+        {
+          "title": "Nucala expands COPD treatment options, but reimbursement remains a hurdle",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33943",
+          "category": "Hospital",
+          "author": "Koh Jung Min",
+          "date": "11.23 14:42",
+          "new": false
+        },
+        {
+          "title": "Shortages of low-cost cancer drugs threaten treatment in Korea, hematologists warn",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33942",
+          "category": "Hospital",
+          "author": "Kim Yun-mi",
+          "date": "11.23 14:26",
+          "new": false
+        },
+        {
+          "title": "Repeated pressure may fuel acral melanoma spread, immunotherapy resistance: study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33941",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "11.23 14:18",
+          "new": false
+        },
+        {
+          "title": "Korea's stroke emergency reforms overlook critical care after hospital admission, specialists warn",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33940",
+          "category": "Hospital",
+          "author": "Song Soo-youn",
+          "date": "11.23 14:02",
+          "new": false
+        },
+        {
+          "title": "GC Cell secures 2nd round of government funding for CAR-NK therapy GCC2005",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33939",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.23 10:54",
+          "new": false
+        },
+        {
+          "title": "Lunit, M42 partner to use existing chest X-rays for lung cancer detection in UAE",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33938",
+          "category": "Device/ICT",
+          "author": "Kim Ji-hye",
+          "date": "11.23 10:48",
+          "new": false
+        },
+        {
+          "title": "[Special] Hugel at 25: The people behind its rise from Korean startup to global force in medical aesthetics",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33931",
+          "category": "K-Beauty",
+          "author": "Kim Yoon-mi",
+          "date": "11.23 08:00",
+          "new": false
+        },
         {
           "title": "Conduction system pacing may better protect heart function, SNUH-led review finds",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33937",
@@ -34,134 +162,6 @@
           "category": "Hospital",
           "author": "Koh Jung Min",
           "date": "11.20 16:06",
-          "new": false
-        },
-        {
-          "title": "Aquipta offers new acute migraine treatment option for Korean patients unable to use triptans: experts",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33933",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "11.20 15:44",
-          "new": false
-        },
-        {
-          "title": "AriBio charts new path for Korean biotech with global phase 3 Alzheimer's trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33932",
-          "category": "Bio",
-          "author": "Park Gi-taek",
-          "date": "11.20 15:17",
-          "new": false
-        },
-        {
-          "title": "AstraZeneca and Seoul Biohub pick Molcube and BuildGene for global R&D program",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33929",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.20 14:12",
-          "new": false
-        },
-        {
-          "title": "Emocog’s Cogthera DTx for mild cognitive impairment tops 3,000 prescriptions, reports 64% retention",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33930",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "11.20 14:06",
-          "new": false
-        },
-        {
-          "title": "Hanmi highlights Rosuzet, Amoprel in stroke recurrence prevention strategy",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33927",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "11.20 13:56",
-          "new": false
-        },
-        {
-          "title": "Korea's medical device, cosmetics makers outpace pharma in Q2 sales growth",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33928",
-          "category": "Policy",
-          "author": "Kim Yoon-mi",
-          "date": "11.20 13:49",
-          "new": false
-        },
-        {
-          "title": "Flu resurges in Korea after brief lull, raising concerns over early season",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33926",
-          "category": "Policy",
-          "author": "Kim Kyoung-Won",
-          "date": "11.20 13:45",
-          "new": false
-        },
-        {
-          "title": "Lee administration neglects legal risks facing essential care doctors: opposition lawmaker",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33925",
-          "category": "Policy",
-          "author": "Lim Su-min",
-          "date": "11.20 13:42",
-          "new": false
-        },
-        {
-          "title": "Daewoong’s Fexuclue outperforms esomeprazole in gastric ulcer healing trial",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33924",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.20 11:23",
-          "new": false
-        },
-        {
-          "title": "HLB makes 2nd merger attempt with HLB Life Science ahead of potential cancer drug launch",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33923",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.20 11:11",
-          "new": false
-        },
-        {
-          "title": "Coreline Soft secures 13th FDA 510(k) clearance with aorta AI software",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33922",
-          "category": "Device/ICT",
-          "author": "Kim Ji-hye",
-          "date": "11.19 18:24",
-          "new": false
-        },
-        {
-          "title": "Lotte Biologics targets 2028 commercial production as Songdo plant reaches GMP readiness early",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33921",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.19 17:32",
-          "new": false
-        },
-        {
-          "title": "[Column] Korea's medical AI future should start in neighborhood clinics",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33920",
-          "category": "Opinion",
-          "author": "Lee Pil-soo",
-          "date": "11.19 16:12",
-          "new": false
-        },
-        {
-          "title": "Doctors fear dementia patients may face admission barriers after restraint-related conviction",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33919",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "11.19 15:40",
-          "new": false
-        },
-        {
-          "title": "Ewha Mokdong Hospital professor wins award for preterm birth research",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33918",
-          "category": "Hospital",
-          "author": "Kim Eun-young",
-          "date": "11.19 15:34",
-          "new": false
-        },
-        {
-          "title": "Medical societies urge tighter oversight of obesity drug imports, lower domestic prices",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33916",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "11.19 15:31",
           "new": false
         }
       ]
