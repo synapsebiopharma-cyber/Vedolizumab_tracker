@@ -1,9 +1,17 @@
 {
-  "last_updated": "2026-11-23 08:07:40 IST",
+  "last_updated": "2026-11-23 19:29:45 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "AriBio unveils first 78-week data suggesting slower Alzheimer's decline after switch to AR1001",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33955",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.23 18:50",
+          "new": false
+        },
         {
           "title": "Huons launches 3-in-1 pill for hypertension, dyslipidemia",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33954",
@@ -154,14 +162,6 @@
           "category": "Hospital",
           "author": "Koh Jung Min",
           "date": "11.20 16:09",
-          "new": false
-        },
-        {
-          "title": "Korean liver society issues Wegovy treatment recommendations for MASH ahead of approval",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33934",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "11.20 16:06",
           "new": false
         }
       ]
