@@ -1,9 +1,72 @@
 {
-  "last_updated": "2026-11-23 19:29:45 IST",
+  "last_updated": "2026-11-24 10:12:53 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Xcopri can bring seizure freedom to more drug-resistant epilepsy patients: experts",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33973",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "11.24 17:50",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Amgen picks 2 Korean protein degradation biotechs for 2026 Golden Ticket program",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33969",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.24 14:53",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Yuyu targets gap left by Novartis’ Lamisil exit with new antifungal tablet",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33967",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.24 14:12",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Hanmi recruits Aptose cancer specialist Rafael Bejar for oncology R&D",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33966",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "11.24 13:40",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Samjin Pharm, Ontact Health launch AI-assisted echocardiography service",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33959",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "11.24 13:19",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Korean oncologists favor cabozantinib for second-line RCC treatment after reimbursement expansion",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33963",
+          "category": "Pharma",
+          "author": "Kim Ji-hye",
+          "date": "11.24 13:15",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "SK Plasma, AimedBio plan first human trial of ROR1-targeting ADC",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33956",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.24 10:56",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "AriBio unveils first 78-week data suggesting slower Alzheimer's decline after switch to AR1001",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33955",
@@ -23,6 +86,15 @@
           "tag": "Other"
         },
         {
+          "title": "Curocell shares surge nearly 30% ahead of Dec. 1 insurance coverage for CAR-T therapy Rimqarto",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33948",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.23 16:07",
+          "new": false,
+          "tag": "Other"
+        },
+        {
           "title": "EyeGene advances dual-target retinal gene therapy with government support",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33950",
           "category": "Bio",
@@ -30,51 +102,6 @@
           "date": "11.23 15:50",
           "new": false,
           "tag": "Pipeline"
-        },
-        {
-          "title": "SK Biopharmaceuticals to unveil cenobamate data in children, generalized seizures at US meeting",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33947",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.23 15:25",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "CHA Biotech wins state backing for lupus nephritis drug development",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33944",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.23 14:48",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Nucala expands COPD treatment options, but reimbursement remains a hurdle",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33943",
-          "category": "Hospital",
-          "author": "Koh Jung Min",
-          "date": "11.23 14:42",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "GC Cell secures 2nd round of government funding for CAR-NK therapy GCC2005",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33939",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.23 10:54",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "[Special] Hugel at 25: The people behind its rise from Korean startup to global force in medical aesthetics",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33931",
-          "category": "K-Beauty",
-          "author": "Kim Yoon-mi",
-          "date": "11.23 08:00",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }
