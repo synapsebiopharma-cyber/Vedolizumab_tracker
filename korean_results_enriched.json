@@ -1,9 +1,72 @@
 {
-  "last_updated": "2026-11-24 19:05:03 IST",
+  "last_updated": "2026-11-25 08:59:20 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "[Interview] Pinetree Therapeutics sets sights on Kosdaq listing with AbReptor platform",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33990",
+          "category": "Bio",
+          "author": "Kwon Min-seon",
+          "date": "11.25 15:55",
+          "new": false,
+          "tag": "Financial"
+        },
+        {
+          "title": "Bukwang Pharmaceutical bets on RNA platform to fund R&D",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33985",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "11.25 13:23",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Korea expands Ibrance approval to HR-positive, HER2-positive advanced breast cancer",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33979",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.25 13:20",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Xcell signs ₩6 bil. cell culture media purchase LOI with China’s Bloomage",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33980",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.25 13:16",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "JW Pharmaceutical advances oral STAT6 inhibitor as global competition heats up",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33976",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.25 10:21",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "AbTis defeats Ajinomoto’s ADC patent challenge in Korea after US victory",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33975",
+          "category": "Bio",
+          "author": "Kim Ji-hye",
+          "date": "11.25 10:17",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Daewoong wins phase 1 clearance for cancer drug designed to reduce kidney toxicity",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33974",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.25 09:55",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
         {
           "title": "Xcopri can bring seizure freedom to more drug-resistant epilepsy patients: experts",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33973",
@@ -21,96 +84,6 @@
           "date": "11.24 14:53",
           "new": false,
           "tag": "Collaboration"
-        },
-        {
-          "title": "Urine-derived stem cells help restore erectile function in rats with nerve injuries",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33968",
-          "category": "Hospital",
-          "author": "Kim Ji-hye",
-          "date": "11.24 14:46",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Yuyu targets gap left by Novartis’ Lamisil exit with new antifungal tablet",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33967",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.24 14:12",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Hanmi recruits Aptose cancer specialist Rafael Bejar for oncology R&D",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33966",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "11.24 13:40",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Samjin Pharm, Ontact Health launch AI-assisted echocardiography service",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33959",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "11.24 13:19",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Korean oncologists favor cabozantinib for second-line RCC treatment after reimbursement expansion",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33963",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "11.24 13:15",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "SK Plasma, AimedBio plan first human trial of ROR1-targeting ADC",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33956",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.24 10:56",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "AriBio unveils first 78-week data suggesting slower Alzheimer's decline after switch to AR1001",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33955",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.23 18:50",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Huons launches 3-in-1 pill for hypertension, dyslipidemia",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33954",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.23 16:55",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Curocell shares surge nearly 30% ahead of Dec. 1 insurance coverage for CAR-T therapy Rimqarto",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33948",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.23 16:07",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "EyeGene advances dual-target retinal gene therapy with government support",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33950",
-          "category": "Bio",
-          "author": "Kim Kyoung-Won",
-          "date": "11.23 15:50",
-          "new": false,
-          "tag": "Pipeline"
         }
       ]
     }
