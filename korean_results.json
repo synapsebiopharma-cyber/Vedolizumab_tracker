@@ -1,9 +1,113 @@
 {
-  "last_updated": "2026-11-25 18:11:37 IST",
+  "last_updated": "2026-11-26 08:44:07 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea advises stopping GLP-1 drugs before pregnancy, warns of potential vision loss",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=34007",
+          "category": "Policy",
+          "author": "Kim Kyoung-Won",
+          "date": "11.26 17:30",
+          "new": false
+        },
+        {
+          "title": "84% of citizen panelists back allowing withdrawal of life-sustaining treatment before death is imminent",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=34006",
+          "category": "Policy",
+          "author": "Kwak Sung-sun",
+          "date": "11.26 16:30",
+          "new": false
+        },
+        {
+          "title": "Medical students’ interest in essential specialties falls by two-thirds after pediatric ER raid",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=34005",
+          "category": "Hospital",
+          "author": "Kim Jung-hyun",
+          "date": "11.26 16:25",
+          "new": false
+        },
+        {
+          "title": "Targeted drug makes thyroid cancer cells more invasive, but combination reverses effect: Yonsei study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=34000",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "11.26 16:17",
+          "new": false
+        },
+        {
+          "title": "Numeco wins Colombian approval for botulinum toxin product Newlux",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33999",
+          "category": "K-Beauty",
+          "author": "Kim Yoon-mi",
+          "date": "11.26 16:08",
+          "new": false
+        },
+        {
+          "title": "Handok’s Tenelia improves glycemic control as add-on therapy in phase 3 trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=34004",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "11.26 16:04",
+          "new": false
+        },
+        {
+          "title": "Kyung Hee Korean Medicine Hospital wins designation case, but ₩1 bil. penalty stands",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=34003",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "11.26 15:59",
+          "new": false
+        },
+        {
+          "title": "Ewha Mokdong Hospital opens Korea’s 1st integrated PTSD treatment center",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33998",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "11.26 15:52",
+          "new": false
+        },
+        {
+          "title": "Surge in perfect scores prompts calls to include medical licensing exams in AI cheating probe",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=34002",
+          "category": "Policy",
+          "author": "Lim Su-min",
+          "date": "11.26 15:48",
+          "new": false
+        },
+        {
+          "title": "Samsung Medical Center cuts use of high-emission anesthetic, expands recycling",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=34001",
+          "category": "Hospital",
+          "author": "Kim Eun-young",
+          "date": "11.26 15:40",
+          "new": false
+        },
+        {
+          "title": "Korean oncologists call for conditional coverage as access to new cancer drugs takes nearly 4 years",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33996",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "11.26 14:13",
+          "new": false
+        },
+        {
+          "title": "InBody’s US home device sales jump 61% through September",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33997",
+          "category": "Device/ICT",
+          "author": "Kim Yoon-mi",
+          "date": "11.26 11:00",
+          "new": false
+        },
+        {
+          "title": "Alzheimer's pill developer AriBio pivots to Kospi listing after scrapping Kosdaq merger plan",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33995",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.26 09:31",
+          "new": false
+        },
         {
           "title": "Boehringer Ingelheim Korea to seek first-in-class drug candidates on KHIDI partnering day",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33994",
@@ -58,110 +162,6 @@
           "category": "Policy",
           "author": "Kwak Sung-sun",
           "date": "11.25 15:55",
-          "new": false
-        },
-        {
-          "title": "[Interview] Pinetree Therapeutics sets sights on Kosdaq listing with AbReptor platform",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33990",
-          "category": "Bio",
-          "author": "Kwon Min-seon",
-          "date": "11.25 15:55",
-          "new": false
-        },
-        {
-          "title": "Bukwang Pharmaceutical bets on RNA platform to fund R&D",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33985",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "11.25 13:23",
-          "new": false
-        },
-        {
-          "title": "Korea expands Ibrance approval to HR-positive, HER2-positive advanced breast cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33979",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.25 13:20",
-          "new": false
-        },
-        {
-          "title": "Jeju’s ‘haenyeo’ had 14% lower risk of knee replacement: SMC study",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33978",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "11.25 13:17",
-          "new": false
-        },
-        {
-          "title": "Xcell signs ₩6 bil. cell culture media purchase LOI with China’s Bloomage",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33980",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.25 13:16",
-          "new": false
-        },
-        {
-          "title": "Ewha surgeon shares Korea’s experience in single-port gynecologic robotic surgery at AAGL",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33977",
-          "category": "Hospital",
-          "author": "Kim Ji-hye",
-          "date": "11.25 12:43",
-          "new": false
-        },
-        {
-          "title": "JW Pharmaceutical advances oral STAT6 inhibitor as global competition heats up",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33976",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.25 10:21",
-          "new": false
-        },
-        {
-          "title": "AbTis defeats Ajinomoto’s ADC patent challenge in Korea after US victory",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33975",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.25 10:17",
-          "new": false
-        },
-        {
-          "title": "Daewoong wins phase 1 clearance for cancer drug designed to reduce kidney toxicity",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33974",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.25 09:55",
-          "new": false
-        },
-        {
-          "title": "Xcopri can bring seizure freedom to more drug-resistant epilepsy patients: experts",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33973",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "11.24 17:50",
-          "new": false
-        },
-        {
-          "title": "[Column] What Korea can learn from US physicians’ fight against automated downcoding",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33972",
-          "category": "Opinion",
-          "author": "Ahn Duck-sun",
-          "date": "11.24 16:24",
-          "new": false
-        },
-        {
-          "title": "Korea to lower copayments for rare, severe intractable diseases to 7%",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33971",
-          "category": "Policy",
-          "author": "Kwak Sung-sun",
-          "date": "11.24 15:56",
-          "new": false
-        },
-        {
-          "title": "Korea’s plastic surgeons push for tax refund revival as China gains ground",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33970",
-          "category": "K-Beauty",
-          "author": "Lim Su-min",
-          "date": "11.24 15:38",
           "new": false
         }
       ]

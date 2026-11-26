@@ -1,9 +1,63 @@
 {
-  "last_updated": "2026-11-25 18:11:37 IST",
+  "last_updated": "2026-11-26 08:44:07 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Korea advises stopping GLP-1 drugs before pregnancy, warns of potential vision loss",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=34007",
+          "category": "Policy",
+          "author": "Kim Kyoung-Won",
+          "date": "11.26 17:30",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Targeted drug makes thyroid cancer cells more invasive, but combination reverses effect: Yonsei study",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=34000",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "11.26 16:17",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Numeco wins Colombian approval for botulinum toxin product Newlux",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33999",
+          "category": "K-Beauty",
+          "author": "Kim Yoon-mi",
+          "date": "11.26 16:08",
+          "new": false,
+          "tag": "FDA Approval"
+        },
+        {
+          "title": "Handok’s Tenelia improves glycemic control as add-on therapy in phase 3 trial",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=34004",
+          "category": "Pharma",
+          "author": "Kwon Min-seon",
+          "date": "11.26 16:04",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Korean oncologists call for conditional coverage as access to new cancer drugs takes nearly 4 years",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33996",
+          "category": "Hospital",
+          "author": "Kim Yoon-mi",
+          "date": "11.26 14:13",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Alzheimer's pill developer AriBio pivots to Kospi listing after scrapping Kosdaq merger plan",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33995",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.26 09:31",
+          "new": false,
+          "tag": "Other"
+        },
         {
           "title": "Boehringer Ingelheim Korea to seek first-in-class drug candidates on KHIDI partnering day",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33994",
@@ -14,65 +68,11 @@
           "tag": "Pipeline"
         },
         {
-          "title": "Bukwang Pharmaceutical bets on RNA platform to fund R&D",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33985",
-          "category": "Pharma",
-          "author": "Kwon Min-seon",
-          "date": "11.25 13:23",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "Korea expands Ibrance approval to HR-positive, HER2-positive advanced breast cancer",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33979",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.25 13:20",
-          "new": false,
-          "tag": "FDA Approval"
-        },
-        {
-          "title": "Xcell signs ₩6 bil. cell culture media purchase LOI with China’s Bloomage",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33980",
-          "category": "Bio",
-          "author": "Kim Yoon-mi",
-          "date": "11.25 13:16",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "JW Pharmaceutical advances oral STAT6 inhibitor as global competition heats up",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33976",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.25 10:21",
-          "new": false,
-          "tag": "Pipeline"
-        },
-        {
-          "title": "AbTis defeats Ajinomoto’s ADC patent challenge in Korea after US victory",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33975",
-          "category": "Bio",
-          "author": "Kim Ji-hye",
-          "date": "11.25 10:17",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Daewoong wins phase 1 clearance for cancer drug designed to reduce kidney toxicity",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33974",
-          "category": "Pharma",
-          "author": "Kim Yoon-mi",
-          "date": "11.25 09:55",
-          "new": false,
-          "tag": "Clinical Trial"
-        },
-        {
-          "title": "Xcopri can bring seizure freedom to more drug-resistant epilepsy patients: experts",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33973",
+          "title": "Reimbursement rules block guideline-based diabetes treatment in Korea, experts say",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33992",
           "category": "Pharma",
           "author": "Kim Ji-hye",
-          "date": "11.24 17:50",
+          "date": "11.25 16:27",
           "new": false,
           "tag": "Other"
         }
