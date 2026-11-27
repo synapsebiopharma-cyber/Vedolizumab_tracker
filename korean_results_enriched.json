@@ -1,9 +1,72 @@
 {
-  "last_updated": "2026-11-26 17:55:21 IST",
+  "last_updated": "2026-11-27 08:55:15 IST",
   "sources": [
     {
       "source": "Korea Biomedical Review",
       "articles": [
+        {
+          "title": "Celltrion builds case for 2027 Japan launch of Remsima SC with 44-week data",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=34015",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.27 16:51",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "Cholesterol rises within 4 weeks of upadacitinib treatment, Korean study finds",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=34013",
+          "category": "Hospital",
+          "author": "Kim Ji-hye",
+          "date": "11.27 16:11",
+          "new": false,
+          "tag": "Clinical Trial"
+        },
+        {
+          "title": "GC Cell sells 100,000 packs of personalized cancer therapy since 2007 approval",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=34014",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.27 15:55",
+          "new": false,
+          "tag": "Other"
+        },
+        {
+          "title": "Hanmi targets muscle loss as it expands obesity drug research beyond GLP-1",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=34017",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.27 15:24",
+          "new": false,
+          "tag": "Pipeline"
+        },
+        {
+          "title": "Samsung Bioepis taps Chinese biotech for next-generation protein degradation technology",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=34012",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.27 15:16",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Ferring to test Peptron’s long-acting injectable technology on its drug candidates",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=34011",
+          "category": "Bio",
+          "author": "Kim Yoon-mi",
+          "date": "11.27 11:22",
+          "new": false,
+          "tag": "Collaboration"
+        },
+        {
+          "title": "Pfizer brings 1st maternal RSV vaccine to Korea, challenging antibody shots",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=34008",
+          "category": "Pharma",
+          "author": "Kim Yoon-mi",
+          "date": "11.27 10:07",
+          "new": false,
+          "tag": "FDA Approval"
+        },
         {
           "title": "Korea advises stopping GLP-1 drugs before pregnancy, warns of potential vision loss",
           "link": "https://www.koreabiomed.com/news/articleView.html?idxno=34007",
@@ -20,7 +83,7 @@
           "author": "Kim Yoon-mi",
           "date": "11.26 16:17",
           "new": false,
-          "tag": "Pipeline"
+          "tag": "Clinical Trial"
         },
         {
           "title": "Numeco wins Colombian approval for botulinum toxin product Newlux",
@@ -39,33 +102,6 @@
           "date": "11.26 16:04",
           "new": false,
           "tag": "Clinical Trial"
-        },
-        {
-          "title": "Korean oncologists call for conditional coverage as access to new cancer drugs takes nearly 4 years",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33996",
-          "category": "Hospital",
-          "author": "Kim Yoon-mi",
-          "date": "11.26 14:13",
-          "new": false,
-          "tag": "Other"
-        },
-        {
-          "title": "Boehringer Ingelheim Korea to seek first-in-class drug candidates on KHIDI partnering day",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33994",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "11.25 18:14",
-          "new": false,
-          "tag": "Collaboration"
-        },
-        {
-          "title": "Reimbursement rules block guideline-based diabetes treatment in Korea, experts say",
-          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33992",
-          "category": "Pharma",
-          "author": "Kim Ji-hye",
-          "date": "11.25 16:27",
-          "new": false,
-          "tag": "Other"
         }
       ]
     }
